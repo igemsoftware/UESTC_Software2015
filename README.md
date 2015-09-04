@@ -12,14 +12,19 @@ WindowsXP & Vista & Win7 & Win8 & Win10
 * Qt 5.5.0
 * MinGW_32
 
+## Installation
+
+Download MCCAP.zip and decompression it, just run the exe file.
+
 ## Features
 
 ### Get minimal gene set
 ### Compare results
 
-## Installation
-
-Download MCCAP.zip and decompression it, just run the exe file.
+## Team Members
+* Yaocong Duan
+* Yizhou Gao
+* Ye Zhu
 
 ## Contact Us
 
