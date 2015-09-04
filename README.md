@@ -19,6 +19,7 @@ Download MCCAP.zip and decompression it, just run the exe file.
 ## Features
 
 ### Get minimal gene set
+You can choose at least 4 spcies to get their minimal gene set. The minimal set is divided into four part, you can download it in csv format. MCCAP will alse produce the result of pathway and module at the same time.
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project/README_image/genepick.png)
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project/README_image/showresults.png)
 ### Compare results
