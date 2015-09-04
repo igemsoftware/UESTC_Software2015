@@ -1,4 +1,5 @@
-# UESTC_Software2015
+# MCCAP
+
 Minimal Cell Construct and Analyse Panel
 
-# Installation
+## Installation
