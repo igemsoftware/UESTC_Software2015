@@ -22,9 +22,9 @@ Download MCCAP.zip and decompression it, just run the exe file.
 ### Compare results
 
 ## Team Members
-* Yaocong Duan
-* Yizhou Gao
-* Ye Zhu
+* Yaocong Duan <dyc@mccap.org>
+* Yizhou Gao <gyz@mccap.org>
+* Ye Zhu <zy@mccap.org>
 
 ## Contact Us
 
