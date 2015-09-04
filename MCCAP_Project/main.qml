@@ -63,21 +63,10 @@ ApplicationWindow {
         }
     }
 
-    //整体可拖动
+    //buttons flow
     MouseArea {
         id: dragRegion
         anchors.fill: parent
-//        property point clickPos: "0,0"
-//        onPressed: {
-//            clickPos  = Qt.point(mouse.x,mouse.y)
-//            }
-//        onPositionChanged: {
-//        //鼠标偏移量
-//        var delta = Qt.point(mouse.x-clickPos.x, mouse.y-clickPos.y)
-//        //如果mainwindow继承自QWidget,用setPos
-//        mainwindow.setX(mainwindow.x+delta.x)
-//        mainwindow.setY(mainwindow.y+delta.y)
-//        }
         onEntered: {
             fudong.start()
         }
@@ -89,17 +78,17 @@ ApplicationWindow {
         visible: true
         anchors.fill:parent
 
-        //背景图
+        //background picture        //背景图
         Image {
             anchors.fill: parent
             opacity: 0.95
-            source: "qrc:/mainpage_background.png"
+            source: "qrc:/images/mainpage_background.png"
         }
 
-        //MCCAP字样
+        //MCCAP
         Image {
             id: mccap
-            source: "qrc:/mccap1.gif"
+            source: "qrc:/images/mccap1.gif"
             anchors.top: parent.top
             anchors.left: parent.left
             anchors.topMargin: parent.height*0.1
@@ -109,18 +98,18 @@ ApplicationWindow {
                 anchors.margins: 26
                 hoverEnabled: true
                 onEntered: {
-                    mccap.source = "qrc:/mccap2.gif"
+                    mccap.source = "qrc:/images/mccap2.gif"
                     touchmccap.start()
                 }
                 onExited: {
-                    mccap.source = "qrc:/mccap1.gif"
+                    mccap.source = "qrc:/images/mccap1.gif"
                     leavemccap.start()
                     jianxiepaopao2.start()
                 }
             }
         }
 
-        //碰触MCCAP效果
+        //Animation of entering MCCAP  //碰触MCCAP效果
         SequentialAnimation{
             id: touchmccap
             RotationAnimation {
@@ -131,7 +120,7 @@ ApplicationWindow {
             }
         }
 
-        //离开MCCAP效果
+        //Animation of leaving MCCAP   //离开MCCAP效果
         SequentialAnimation{
             id: leavemccap
             RotationAnimation {
@@ -142,7 +131,7 @@ ApplicationWindow {
             }
         }
 
-        //下方灰色条
+        //Bottom left link "UESTC software team"
         Rectangle {
             width: parent.width
             height: 25
@@ -157,7 +146,7 @@ ApplicationWindow {
                 anchors.top: parent.top
                 anchors.topMargin: 0
                 text: "UESTC Software Team"
-                font.pixelSize:16
+                font.pixelSize: 16
                 font.bold: true
                 font.family: "Segoe Script"
                 MouseArea {
@@ -176,11 +165,15 @@ ApplicationWindow {
                         uestc.anchors.leftMargin = 25
                         uestc.anchors.topMargin = 0
                     }
+                    onClicked: {
+                        //link to our wiki page
+                        Qt.openUrlExternally("http://2015.igem.org/Team:UESTC_Software")
+                    }
                 }
             }
         }
 
-        //按钮1
+        //Button1---start
         Button {
             property real y4: 0
             id: go2p1
@@ -194,7 +187,7 @@ ApplicationWindow {
 
             style: ButtonStyle {
                 background: BorderImage {
-                    source: control.hovered ? "qrc:/sjq2.png" : "qrc:/sjq1.png"
+                    source: control.hovered ? "qrc:/images/sjq2.png" : "qrc:/images/sjq1.png"
                     Text {
                         id: b1text
                         anchors.centerIn: parent
@@ -220,7 +213,7 @@ ApplicationWindow {
             }
         }
 
-        //按钮2
+        //Button2---help
         Button {
             property real y5: 0
             id: go2p2
@@ -233,7 +226,7 @@ ApplicationWindow {
             anchors.topMargin: parent.height*0.21 + y5
             style: ButtonStyle {
                 background: BorderImage {
-                    source: control.hovered ? "qrc:/sjq2.png" : "qrc:/sjq1.png"
+                    source: control.hovered ? "qrc:/images/sjq2.png" : "qrc:/images/sjq1.png"
                     Text {
                         id: b2text
                         anchors.centerIn: parent
@@ -251,7 +244,7 @@ ApplicationWindow {
             }
         }
 
-        //按钮3 (饰)
+        //button3---empty
         Button {
             property real y6: 0
             id: go2p3
@@ -264,14 +257,14 @@ ApplicationWindow {
             anchors.topMargin: parent.height*0.5 + y6
             style: ButtonStyle {
                 background: BorderImage {
-                    source: control.hovered ? "qrc:/sjq2.png" : "qrc:/sjq1.png"
+                    source: control.hovered ? "qrc:/images/sjq2.png" : "qrc:/images/sjq1.png"
                 }
             }
             onClicked: {
             }
         }
 
-        //按钮4 (饰)
+        //button4---empty
         Button {
             property real y7: 0
             id: go2p4
@@ -284,74 +277,74 @@ ApplicationWindow {
             anchors.topMargin: parent.height*0.64 + y7
             style: ButtonStyle {
                 background: BorderImage {
-                    source: control.hovered ? "qrc:/sjq2.png" : "qrc:/sjq1.png"
+                    source: control.hovered ? "qrc:/images/sjq2.png" : "qrc:/images/sjq1.png"
                 }
             }
             onClicked: {
             }
         }
 
-        //间歇性水泡1
+        //Buttom left bubble 1
         Image {
             id: paopao1
             width: 40
             height: 40
             x: mainpage.width*0.125
             y: mainpage.height*1.0625
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
         }
 
-        //间歇性水泡2
+        //Buttom left bubble 2
         Image {
             id: paopao2
             width: 35
             height: 35
             x: mainpage.width*0.125
             y: mainpage.height*1.0625
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
         }
 
-        //间歇性水泡3
+        //Buttom left bubble 3
         Image {
             id: paopao3
             width: 25
             height: 25
             x: mainpage.width*0.0625
             y: mainpage.height*1.0625
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
         }
 
-        //间歇性水泡4
+        //Buttom right bubble 4
         Image {
             id: paopao4
             width: 40
             height: 40
             x: mainpage.width*0.90625
             y: mainpage.height*1.0625
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
         }
 
-        //间歇性水泡5
+        //Buttom right bubble 5
         Image {
             id: paopao5
             width: 35
             height: 35
             x: mainpage.width*0.90625
             y: mainpage.height*1.0625
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
         }
 
-        //间歇性水泡6
+        //Buttom right bubble 6
         Image {
             id: paopao6
             width: 25
             height: 25
             x: mainpage.width*0.9625
             y: mainpage.height*1.0625
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
         }
 
-        //间歇性水泡动画效果（左）
+        //Animation of buttom left bubbles
         ParallelAnimation {
             id: jianxiepaopao1
             //pp1
@@ -425,7 +418,7 @@ ApplicationWindow {
             }
         }
 
-        //间歇性水泡动画效果（右）
+        //Animation of buttom right bubbles
         ParallelAnimation {
             id: jianxiepaopao2
             //pp4
@@ -499,7 +492,7 @@ ApplicationWindow {
             }
         }
 
-        //按钮浮动效果
+        //Animation of flowing buttons  //按钮浮动效果
         ParallelAnimation {
             id: fudong
             SequentialAnimation {
@@ -620,7 +613,7 @@ ApplicationWindow {
         visible: false
         anchors.fill: parent
 
-        //helpdocument
+        //title---helpdocument
         Image {
             id: helptitle
             x: parent.width*0.5 - helptitle.width*0.2
@@ -628,7 +621,7 @@ ApplicationWindow {
             source: "qrc:/helpimage/help_image/helpdocument.gif"
         }
 
-        //左翻页按钮
+        //The left page button  //左翻页按钮
         Button {
             id: lefthelp
             visible: false
@@ -704,7 +697,7 @@ ApplicationWindow {
             }
         }
 
-        //右翻页按钮
+        //The right page button  //右翻页按钮
         Button {
             id: righthelp
             visible: true
@@ -780,6 +773,7 @@ ApplicationWindow {
             }
         }
 
+        //helppage 0
         Image {
             id: p0
             visible: true
@@ -799,6 +793,8 @@ ApplicationWindow {
                 }
             }
         }
+
+        //helppage 1
         Image {
             id: p1
             visible: false
@@ -818,6 +814,8 @@ ApplicationWindow {
                 }
             }
         }
+
+        //helppage 2
         Image {
             id: p2
             visible: false
@@ -837,6 +835,8 @@ ApplicationWindow {
                 }
             }
         }
+
+        //helppage 3
         Image {
             id: p3
             visible: false
@@ -856,6 +856,8 @@ ApplicationWindow {
                 }
             }
         }
+
+        //helppage 4
         Image {
             id: p4
             visible: false
@@ -875,6 +877,8 @@ ApplicationWindow {
                 }
             }
         }
+
+        //helppage 5
         Image {
             id: p5
             visible: false
@@ -895,7 +899,7 @@ ApplicationWindow {
             }
         }
 
-        //返回mainpage按钮
+        //button return to mainpage
         Button {
             height: 40
             width: 40
@@ -905,15 +909,15 @@ ApplicationWindow {
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.92
             tooltip: "Back"
-            style:ButtonStyle{
-                background: Rectangle{
+            style: ButtonStyle {
+                background: Rectangle {
                     anchors.fill: parent
-                    color: control.hovered?"#AAAAAA":"transparent"
+                    color: control.hovered ? "#AAAAAA" : "transparent"
                     Image {
-                        width:30
+                        width: 30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/back1.png":"qrc:/back.png"
+                        source: control.hovered ? "qrc:/images/back1.png" : "qrc:/images/back.png"
                     }
                 }
             }
@@ -928,24 +932,24 @@ ApplicationWindow {
     Item {
         id: page_1
         anchors.centerIn: parent
-        width:parent.width
+        width: parent.width
         height: parent.height
         visible: false
         opacity: 1.0
 
         NumberAnimation on width{
-            id:page_1_ani
-            from:0
-            to:zy000.width
+            id: page_1_ani
+            from: 0
+            to: zy000.width
             duration: 250
         }
 
         Image {
             anchors.fill: parent
-            source: "qrc:/background2.png"
+            source: "qrc:/images/background2.png"
         }
 
-        //左侧标题
+        //Left heading  //左侧标题
         Rectangle {
             anchors.top: parent.top
             anchors.topMargin: parent.height*0.05
@@ -964,7 +968,7 @@ ApplicationWindow {
             }
         }
 
-        //右侧标题
+        //Right heading  //右侧标题
         Rectangle {
             anchors.top: parent.top
             anchors.topMargin: parent.height*0.05
@@ -984,7 +988,7 @@ ApplicationWindow {
             }
         }
 
-        //左侧未选择列表
+        //Left list---unselect      //左侧未选择列表
         Item {
             id:unselect
             anchors.top:parent.top
@@ -1038,116 +1042,112 @@ ApplicationWindow {
                 /** define organisms list **/
                 ListModel{
                     id:unselect_sp
-                    ListElement{
-                        name:"Acinetobacter baylyi ADP1"
+                    ListElement {
+                        name: "Acinetobacter baylyi ADP1"
                     }
-                    ListElement{
-                        name:"Bacillus subtilis 168"
+                    ListElement {
+                        name: "Bacillus subtilis 168"
                     }
-                    ListElement{
-                        name:"Escherichia coli MG1655"
+                    ListElement {
+                        name: "Escherichia coli MG1655"
                     }
-                    ListElement{
-                        name:"Francisella novicida U112"
+                    ListElement {
+                        name: "Francisella novicida U112"
                     }
-                    ListElement{
-                        name:"Haemophilus influenzae Rd KW20"
+                    ListElement {
+                        name: "Haemophilus influenzae Rd KW20"
                     }
-                    ListElement{
-                        name:"Helicobacter pylori 26695"
+                    ListElement {
+                        name: "Helicobacter pylori 26695"
                     }
-                    ListElement{
-                        name:"Mycoplasma genitalium G37"
+                    ListElement {
+                        name: "Mycoplasma genitalium G37"
                     }
-                    ListElement{
-                        name:"Mycoplasma pulmonis UAB CTIP"
+                    ListElement {
+                        name: "Mycoplasma pulmonis UAB CTIP"
                     }
-                    ListElement{
-                        name:"Mycobacterium tuberculosis H37Rv"
+                    ListElement {
+                        name: "Mycobacterium tuberculosis H37Rv"
                     }
-                    ListElement{
-                        name:"Pseudomonas aeruginosa UCBPP-PA14"
+                    ListElement {
+                        name: "Pseudomonas aeruginosa UCBPP-PA14"
                     }
-                    ListElement{
-                        name:"Staphylococcus aureus NCTC 8325"
+                    ListElement {
+                        name: "Staphylococcus aureus NCTC 8325"
                     }
-                    ListElement{
-                        name:"Streptococcus pneumoniae"
+                    ListElement {
+                        name: "Streptococcus pneumoniae"
                     }
-                    ListElement{
-                        name:"Staphylococcus aureus N315"
+                    ListElement {
+                        name: "Staphylococcus aureus N315"
                     }
-                    ListElement{
-                        name:"Salmonella typhimurium LT2"
+                    ListElement {
+                        name: "Salmonella typhimurium LT2"
                     }
-                    ListElement{
-                        name:"Salmonella enterica serovar Typhi"
+                    ListElement {
+                        name: "Salmonella enterica serovar Typhi"
                     }
-                    ListElement{
-                        name:"Vibrio cholerae N16961"
+                    ListElement {
+                        name: "Vibrio cholerae N16961"
                     }
-                    ListElement{
-                        name:"Caulobacter crescentus"
+                    ListElement {
+                        name: "Caulobacter crescentus"
                     }
-                    ListElement{
-                        name:"Streptococcus sanguinis"
+                    ListElement {
+                        name: "Streptococcus sanguinis"
                     }
-                    ListElement{
-                        name:"Porphyromonas gingivalis ATCC 33277"
+                    ListElement {
+                        name: "Porphyromonas gingivalis ATCC 33277"
                     }
-                    ListElement{
-                        name:"Bacteroides thetaiotaomicron VPI-5482"
+                    ListElement {
+                        name: "Bacteroides thetaiotaomicron VPI-5482"
                     }
-                    ListElement{
-                        name:"Burkholderia thailandensis E264"
+                    ListElement {
+                        name: "Burkholderia thailandensis E264"
                     }
-                    ListElement{
-                        name:"Sphingomonas wittichii RW1"
+                    ListElement {
+                        name: "Sphingomonas wittichii RW1"
                     }
-                    ListElement{
-                        name:"Shewanella oneidensis MR-1"
+                    ListElement {
+                        name: "Shewanella oneidensis MR-1"
                     }
-                    ListElement{
-                        name:"Salmonella enterica serovar Typhimurium SL1344"
+                    ListElement {
+                        name: "Salmonella enterica serovar Typhimurium SL1344"
                     }
-                    ListElement{
-                        name:"Bacteroides fragilis 638R"
+                    ListElement {
+                        name: "Bacteroides fragilis 638R"
                     }
-                    ListElement{
-                        name:"Burkholderia pseudomallei K96243"
+                    ListElement {
+                        name: "Burkholderia pseudomallei K96243"
                     }
-                    ListElement{
-                        name:"Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S"
+                    ListElement {
+                        name: "Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S"
                     }
-                    ListElement{
-                        name:"Pseudomonas aeruginosa PAO1"
+                    ListElement {
+                        name: "Pseudomonas aeruginosa PAO1"
                     }
-                    ListElement{
-                        name:"Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819"
+                    ListElement {
+                        name: "Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819"
                     }
                 }
 
                 //项目属性
-                delegate: Item{
-                    id:itemdelegate
+                delegate: Item {
+                    id: itemdelegate
                     width: parent.width
-                    height:30
-                    /*     index === unselectlist.currentIndex?60:(
-                         index === unselectlist.currentIndex-1||index === unselectlist.currentIndex+1?40:(
-                         index === unselectlist.currentIndex-2||index === unselectlist.currentIndex-2?30:20))
-                    */
-                    Image{
+                    height: 30
+                    Image {
                         anchors.fill: parent
-                        source:"qrc:/frame.png"
+                        source: "qrc:/images/frame.png"
                         visible: unselectlist.currentIndex==index
                     }
-                    Behavior on height{
-                        SmoothedAnimation{velocity:100}
+                    Behavior on height {
+                        SmoothedAnimation { velocity:100 }
                     }
                     //拖动属性
-                    Drag.active:mouseaction.drag.active
+                    Drag.active: mouseaction.drag.active
                     Drag.dragType: Drag.Automatic
-                    Drag.mimeData: {"index":index,"type":"unselect"}
+                    Drag.mimeData: { "index":index,"type":"unselect" }
                     Drag.onDragStarted: {
                         frame.visible=true
                     }
@@ -1223,7 +1223,7 @@ ApplicationWindow {
             }
         }
 
-        //右侧已选择列表
+        //Right list---selected     //右侧已选择列表
         Item {
             id: rightlist
             width: parent.width*0.40
@@ -1232,52 +1232,48 @@ ApplicationWindow {
             anchors.topMargin: 10
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.51
-            clip:true
-            ListView{
-                id:selectlist
-                anchors.fill:parent
-                model:select_sp
-                spacing:3
-//                Rectangle{
-//                    anchors.fill: parent
-//                    color:"red"
-//                }
-                Image{
-                    id:frame
-                    visible:false
+            clip: true
+            ListView {
+                id: selectlist
+                anchors.fill: parent
+                model: select_sp
+                spacing: 3
+                Image {
+                    id: frame
+                    visible: false
                     anchors.fill: parent
-                    source:"qrc:/listframe.png"
+                    source: "qrc:/images/listframe.png"
                 }
 
-                ListModel{
-                    id:select_sp
+                ListModel {
+                    id: select_sp
 
                 }
-                delegate:Item{
-                    width:parent.width
+                delegate: Item {
+                    width: parent.width
                     height: 30
 
-                    Rectangle{
+                    Rectangle {
                         anchors.fill: parent
                         radius: parent.height*0.2
-                        color:"transparent"//index%2==0?"white":"#66CCFF"
-                        Text{
+                        color: "transparent"
+                        Text {
                             anchors.left: parent.left
                             anchors.leftMargin: 10
-                            text:name
+                            text: name
                             color: "black"
                             font.pixelSize: 15
                             font.family: "Segoe UI"
                         }
                     }
-                    Drag.active:_mouseaction.drag.active
+                    Drag.active: _mouseaction.drag.active
                     Drag.dragType: Drag.Automatic
-                    Drag.mimeData: {"index":index,"type":"select"}
+                    Drag.mimeData: { "index":index,"type":"select" }
                     Drag.onDragFinished: {
                         ani.visible=false
                     }
-                    MouseArea{
-                        id:_mouseaction
+                    MouseArea {
+                        id: _mouseaction
                         anchors.fill: parent
                         drag.target: parent
                         onReleased: {
@@ -1285,7 +1281,7 @@ ApplicationWindow {
                             select_sp.insert(index,select_sp.get(index))
                             select_sp.remove(index)
                         }
-                        onDoubleClicked:{
+                        onDoubleClicked: {
                             ogCtl.delFromSelOg(ogCtl.tran2ID(select_sp.get(index).name));
                             unselect_sp.append(select_sp.get(index))
                             select_sp.remove(index)
@@ -1295,7 +1291,7 @@ ApplicationWindow {
             }
         }
 
-        //边框
+        //Black border  //边框
         Rectangle {
             id: kuangkuang
             width: rightlist.width
@@ -1309,7 +1305,7 @@ ApplicationWindow {
             border.width: 5
         }
 
-        //拖动目标释放属性设置
+        //Drag and drop property settings   //拖动目标释放属性设置
         DropArea {
             anchors.fill: parent
             onEntered: {
@@ -1339,26 +1335,20 @@ ApplicationWindow {
             }
         }
 
-        //拖动时跟随的图片
+        //Pictures when you drag and drop   //拖动时跟随的图片
         Item {
             id: ani
             visible: false
             width: ani_image.width
             height: ani_image.height
-//            AnimatedImage {
-//                id: ani_image
-//                source: "qrc:/loader.gif"
-//                playing:true
-//            }
-            Image{
-                id:ani_image
-                source:"qrc:/drag.png"
+            Image {
+                id: ani_image
+                source: "qrc:/images/drag.png"
             }
-
             z: 5
         }
 
-        //排序按钮
+        //Sort button   //排序按钮
         Button {
             id:sort
             height: 40
@@ -1369,15 +1359,15 @@ ApplicationWindow {
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.1-width*0.5
             tooltip: "Sort"
-            style:ButtonStyle{
-                background: Rectangle{
+            style: ButtonStyle {
+                background: Rectangle {
                     anchors.fill: parent
-                    color:control.hovered?"#AAAAAA":"transparent"
+                    color: control.hovered ? "#AAAAAA" : "transparent"
                     Image {
-                        width:30
+                        width: 30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/sort1(1).png":"qrc:/sort(1).png"
+                        source: control.hovered ? "qrc:/images/sort1(1).png" : "qrc:/images/sort(1).png"
                     }
                 }
             }
@@ -1394,7 +1384,7 @@ ApplicationWindow {
             }
         }
 
-        //submit
+        //Submit button
         Button {
             height: 40
             width: 40
@@ -1404,15 +1394,15 @@ ApplicationWindow {
             anchors.left:parent.left
             anchors.leftMargin: parent.width*0.9-width*0.5
             tooltip: "Next"
-            style:ButtonStyle{
-                background: Rectangle{
+            style: ButtonStyle {
+                background: Rectangle {
                     anchors.fill: parent
-                    color:control.hovered?"#AAAAAA":"transparent"
+                    color: control.hovered ? "#AAAAAA" : "transparent"
                     Image {
                         width:30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/next1.png":"qrc:/next.png"
+                        source: control.hovered ? "qrc:/images/next1.png" : "qrc:/images/next.png"
                     }
                 }
             }
@@ -1430,7 +1420,7 @@ ApplicationWindow {
             }
         }
 
-        //Home按钮
+        //Home button
         Button {
             height: 40
             width: 40
@@ -1440,15 +1430,15 @@ ApplicationWindow {
             anchors.left:parent.left
             anchors.leftMargin: parent.width*0.5-width*0.5
             tooltip: "Home"
-            style:ButtonStyle{
-                background: Rectangle{
+            style: ButtonStyle {
+                background: Rectangle {
                     anchors.fill: parent
-                    color:control.hovered?"#AAAAAA":"transparent"
+                    color: control.hovered ? "#AAAAAA" : "transparent"
                     Image {
                         width:30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/home1.png":"qrc:/home.png"
+                        source: control.hovered ? "qrc:/images/home1.png" : "qrc:/images/home.png"
                     }
                 }
             }
@@ -1458,26 +1448,26 @@ ApplicationWindow {
             }
         }
 
-        //存档按钮
-        Button{
+        //File button   //存档按钮
+        Button {
             id: record
             height: 40
             width: 40
             opacity: pressed?0.8:1
-            anchors.bottom:parent.bottom
-            anchors.bottomMargin:parent.height*0.02
-            anchors.left:parent.left
+            anchors.bottom: parent.bottom
+            anchors.bottomMargin: parent.height*0.02
+            anchors.left: parent.left
             anchors.leftMargin: parent.width*0.6-width*0.5
             tooltip: "Save"
-            style:ButtonStyle{
-                background: Rectangle{
+            style: ButtonStyle {
+                background: Rectangle {
                     anchors.fill: parent
-                    color:control.hovered?"#AAAAAA":"transparent"
+                    color: control.hovered ? "#AAAAAA" : "transparent"
                     Image {
                         width:30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/record1.png":"qrc:/record.png"
+                        source: control.hovered ? "qrc:/images/record1.png" : "qrc:/images/record.png"
                     }
                 }
             }
@@ -1511,25 +1501,25 @@ ApplicationWindow {
             }
         }
 
-        //历史/读档按钮
-        Button{
+        //History button    //历史按钮
+        Button {
             height: 40
             width: 40
             opacity: pressed?0.8:1
-            anchors.bottom:parent.bottom
-            anchors.bottomMargin:parent.height*0.02
-            anchors.left:parent.left
+            anchors.bottom: parent.bottom
+            anchors.bottomMargin: parent.height*0.02
+            anchors.left: parent.left
             anchors.leftMargin: parent.width*0.7-width*0.5
             tooltip: "History"
-            style:ButtonStyle{
+            style: ButtonStyle{
                 background: Rectangle{
                     anchors.fill: parent
-                    color:control.hovered?"#AAAAAA":"transparent"
+                    color: control.hovered ? "#AAAAAA" : "transparent"
                     Image {
                         width:30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/history1.png":"qrc:/history.png"
+                        source: control.hovered ? "qrc:/images/history1.png" : "qrc:/images/history.png"
                     }
                 }
             }
@@ -1538,7 +1528,7 @@ ApplicationWindow {
             }
         }
 
-        //清除选择按钮
+        //Clear button  //清除选择按钮
         Button{
             height: 40
             width: 40
@@ -1548,15 +1538,15 @@ ApplicationWindow {
             anchors.bottom: parent.bottom
             anchors.bottomMargin: parent.height*0.02
             tooltip: "Reset"
-            style:ButtonStyle{
-                background: Rectangle{
+            style: ButtonStyle {
+                background: Rectangle {
                     anchors.fill: parent
-                    color:control.hovered?"#AAAAAA":"transparent"
+                    color: control.hovered ? "#AAAAAA" : "transparent"
                     Image {
                         width:30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/clear1.png":"qrc:/clear.png"
+                        source: control.hovered ? "qrc:/images/clear1.png" : "qrc:/images/clear.png"
                     }
                 }
             }
@@ -1570,24 +1560,24 @@ ApplicationWindow {
             }
         }
 
-        //提示
-        Item{
-            id:message
+        //Prompt    //提示
+        Item {
+            id: message
             height: 30
             width: parent.width*0.4
             anchors.bottom: parent.bottom
             anchors.bottomMargin: parent.height*0.14
-            x:parent.width
-            visible:true
-            Rectangle{
+            x: parent.width
+            visible: true
+            Rectangle {
                 anchors.fill: parent
                 color: "black"
                 radius: 3
                 opacity:0.6
-                Text{
+                Text {
                     anchors.centerIn: parent
-                    text:"Please choose 4 spcies at least!"
-                    color:"white"
+                    text: "Please choose 4 spcies at least!"
+                    color: "white"
                     font.family: "Microsoft Yahei"
                 }
             }
@@ -1619,7 +1609,7 @@ ApplicationWindow {
             }
         }
 
-        //存档时缩小动画
+        //Animatio of saving    //存档时缩小动画
         SequentialAnimation {
             id: narrow
             ParallelAnimation {
@@ -1688,33 +1678,33 @@ ApplicationWindow {
         }
     }
 
-    //对比结果显示窗口
+    //Window of showing contrast results    //对比结果显示窗口
     Item {
-        id:compareitem
+        id: compareitem
         anchors.fill: parent
         visible: false
         //
         Item {
             height: 40
             width: 40
-            anchors.left:parent.left
-            anchors.bottom:parent.bottom
-            z:5
-            Rectangle{
+            anchors.left: parent.left
+            anchors.bottom: parent.bottom
+            z: 5
+            Rectangle {
                 anchors.fill: parent
-                id:view_rec
-                color:"transparent"
+                id: view_rec
+                color: "transparent"
             }
 
             Image {
-                id:image
-                width:30
+                id: image
+                width: 30
                 height: 30
                 anchors.centerIn: parent
-                source:"qrc:/view.png"
+                source: "qrc:/images/view.png"
             }
-            MouseArea{
-                anchors.fill:parent
+            MouseArea {
+                anchors.fill: parent
                 hoverEnabled: true
                 onEntered: {
                     if(comparetab.currentIndex==0){
@@ -1733,100 +1723,101 @@ ApplicationWindow {
                 }
             }
         }
-        //查看list
-        Item{
-            id:viewitem1
-            visible:false
+
+        //Results view list
+        Item {
+            id: viewitem1
+            visible: false
             width: 300
             height: view1model.count*20
             anchors.bottom: parent.bottom
             anchors.bottomMargin: 40
             anchors.left: parent.left
-            z:5
-            ListView{
+            z: 5
+            ListView {
                 anchors.fill: parent
-                model:view1model
-                delegate:Item{
+                model: view1model
+                delegate: Item {
                     height: 20
                     width: 300
-                    Rectangle{
+                    Rectangle {
                         anchors.fill: parent
-                        color:index%2==0?"#AAAAAA":"#444444"
+                        color: index%2==0?"#AAAAAA":"#444444"
                     }
                     Text {
                         text: name
                         anchors.centerIn: parent
-                        color:index%2==0?"#444444":"#AAAAAA"
+                        color: index%2==0?"#444444":"#AAAAAA"
                     }
                 }
             }
         }
-        Item{
-            id:viewitem2
-            visible:false
+        Item {
+            id: viewitem2
+            visible: false
             width: 300
             height: view2model.count*20
             anchors.bottom: parent.bottom
             anchors.bottomMargin: 40
             anchors.left: parent.left
-            z:5
+            z: 5
             ListView{
                 anchors.fill: parent
-                model:view2model
-                delegate:Item{
+                model: view2model
+                delegate: Item {
                     height: 20
                     width: 300
-                    Rectangle{
+                    Rectangle {
                         anchors.fill: parent
-                        color:index%2==0?"#AAAAAA":"#444444"
+                        color: index%2==0?"#AAAAAA":"#444444"
                     }
                     Text {
                         text: name
                         anchors.centerIn: parent
-                        color:index%2==0?"#444444":"#AAAAAA"
+                        color: index%2==0?"#444444":"#AAAAAA"
                     }
                 }
             }
         }
 
         //tab
-        ListView{
+        ListView {
             id:comparetab
             boundsBehavior:Flickable.StopAtBounds
             orientation: ListView.Horizontal
             height: 40
-            width:parent.width
+            width: parent.width
             highlightMoveVelocity: 800
-            model:ListModel{
-                ListElement{
+            model: ListModel {
+                ListElement {
                     name:"Group 1"
                 }
-                ListElement{
+                ListElement {
                     name:"Group 2"
                 }
-                ListElement{
+                ListElement {
                     name:"Common"
                 }
             }
-            highlight:Component{
-                Rectangle{
+            highlight: Component {
+                Rectangle {
                     height: 40
                     width: compareitem.width*0.2
-                    Image{
+                    Image {
                         anchors.fill: parent
-                        source:"qrc:/cover.png"
+                        source: "qrc:/images/cover.png"
                     }
                 }
             }
-            delegate:Component{
-                Item{
+            delegate: Component {
+                Item {
                     height: 40
                     width: compareitem.width*0.2
-                    Text{
-                        anchors.centerIn:parent
-                        text:name
+                    Text {
+                        anchors.centerIn: parent
+                        text: name
                         font.pixelSize: 20
-                        color:index==comparetab.currentIndex?"white":"black"
+                        color: index==comparetab.currentIndex?"white":"black"
                         font.family: "Microsoft Yahei UI"
                     }
                     MouseArea{
@@ -1848,66 +1839,65 @@ ApplicationWindow {
                         }
 
                     }
-                    //color:"lightblue"
                 }
             }
         }
 
         //model
-        ListModel{
-            id:c1_result
+        ListModel {
+            id: c1_result
         }
-        ListModel{
-            id:c2_result
+        ListModel {
+            id: c2_result
         }
-        ListModel{
-            id:c3_result
+        ListModel {
+            id: c3_result
         }
-        ListModel{
-            id:view1model
+        ListModel {
+            id: view1model
         }
-        ListModel{
-            id:view2model
+        ListModel {
+            id: view2model
         }
 
         //表格
-        TabView{
-            id:comparetabitem
+        TabView {
+            id: comparetabitem
             width: parent.width
             height: parent.height*0.8
             anchors.top: parent.top
             anchors.topMargin: 40
             frameVisible: false
             tabsVisible: false
-            x:parent.width*0.5-width*0.5
-            y:parent.height*0.1
-            Tab{
+            x: parent.width*0.5-width*0.5
+            y: parent.height*0.1
+            Tab {
                 title:"1"
-                TableView{
+                TableView {
                     anchors.fill: parent
-                    Rectangle{
+                    Rectangle {
                         anchors.fill: parent
-                        color:"transparent"
+                        color: "transparent"
                     }
                     //只有1的model
-                    model:c1_result
-                    TableViewColumn{
-                        title:"Name"
-                        role:"name"
+                    model: c1_result
+                    TableViewColumn {
+                        title: "Name"
+                        role: "name"
                     }
-                    TableViewColumn{
-                        title:"Type"
-                        role:"type"
+                    TableViewColumn {
+                        title: "Type"
+                        role: "type"
                     }
-                    TableViewColumn{
-                        title:"Description"
-                        role:"description"
+                    TableViewColumn {
+                        title: "Description"
+                        role: "description"
                     }
-                    headerDelegate: Rectangle{
+                    headerDelegate: Rectangle {
                         height: 30
-                        Text{
-                            text:styleData.value
-                            anchors.left:parent.left
+                        Text {
+                            text: styleData.value
+                            anchors.left: parent.left
                             anchors.bottom: parent.bottom
                             anchors.leftMargin: 5
                             anchors.bottomMargin: 5
@@ -1916,8 +1906,8 @@ ApplicationWindow {
                         }
                     }
 
-                    itemDelegate: Rectangle{
-                        Text{
+                    itemDelegate: Rectangle {
+                        Text {
                             text:styleData.value
                             anchors.left: parent.left
                             anchors.leftMargin: 7
@@ -1935,35 +1925,35 @@ ApplicationWindow {
 
                 }
             }
-            Tab{
-                title:"2"
-                TableView{
+            Tab {
+                title: "2"
+                TableView {
                     anchors.fill: parent
-                    Rectangle{
+                    Rectangle {
                         anchors.fill: parent
-                        color:"transparent"
+                        color: "transparent"
                     }
 
                     model:c2_result
-                    TableViewColumn{
-                        title:"Name"
-                        role:"name"
+                    TableViewColumn {
+                        title: "Name"
+                        role: "name"
                     }
-                    TableViewColumn{
-                        title:"Type"
-                        role:"type"
+                    TableViewColumn {
+                        title: "Type"
+                        role: "type"
                     }
-                    TableViewColumn{
-                        title:"Description"
-                        role:"description"
+                    TableViewColumn {
+                        title: "Description"
+                        role: "description"
                     }
-                    headerDelegate: Rectangle{
+                    headerDelegate: Rectangle {
                         color:"white"
                         height: 30
 
                         Text{
-                            text:styleData.value
-                            anchors.left:parent.left
+                            text: styleData.value
+                            anchors.left: parent.left
                             anchors.bottom: parent.bottom
                             anchors.leftMargin: 5
                             anchors.bottomMargin: 5
@@ -1972,10 +1962,10 @@ ApplicationWindow {
                         }
                     }
 
-                    itemDelegate: Rectangle{
+                    itemDelegate: Rectangle {
                         height: 30
-                        Text{
-                            text:styleData.value
+                        Text {
+                            text: styleData.value
                             anchors.left: parent.left
                             anchors.leftMargin: 7
                             anchors.bottom: parent.bottom
@@ -1985,42 +1975,42 @@ ApplicationWindow {
                         }
                     }
 
-                    rowDelegate: Rectangle{
+                    rowDelegate: Rectangle {
                         height: 20
-                        color:"transparent"
+                        color: "transparent"
                     }
                 }
 
             }
-            Tab{
-                title:"3"
-                TableView{
+            Tab {
+                title: "3"
+                TableView {
                     anchors.fill: parent
-                    Rectangle{
+                    Rectangle {
                         anchors.fill: parent
-                        color:"transparent"
+                        color: "transparent"
                     }
 
-                    model:c3_result
-                    TableViewColumn{
-                        title:"Name"
-                        role:"name"
+                    model: c3_result
+                    TableViewColumn {
+                        title: "Name"
+                        role: "name"
                     }
-                    TableViewColumn{
-                        title:"Type"
-                        role:"type"
+                    TableViewColumn {
+                        title: "Type"
+                        role: "type"
                     }
-                    TableViewColumn{
-                        title:"Description"
-                        role:"description"
+                    TableViewColumn {
+                        title: "Description"
+                        role: "description"
                     }
-                    headerDelegate: Rectangle{
-                        color:"white"
+                    headerDelegate: Rectangle {
+                        color: "white"
                         height: 30
-                        width:styleData.column===0?80:100
-                        Text{
-                            text:styleData.value
-                            anchors.left:parent.left
+                        width: styleData.column===0?80:100
+                        Text {
+                            text: styleData.value
+                            anchors.left: parent.left
                             anchors.bottom: parent.bottom
                             anchors.leftMargin: 5
                             anchors.bottomMargin: 5
@@ -2029,9 +2019,9 @@ ApplicationWindow {
                         }
                     }
 
-                    itemDelegate: Rectangle{
-                        Text{
-                            text:styleData.value
+                    itemDelegate: Rectangle {
+                        Text {
+                            text: styleData.value
                             anchors.left: parent.left
                             anchors.leftMargin: 7
                             anchors.bottom: parent.bottom
@@ -2041,9 +2031,9 @@ ApplicationWindow {
                         }
                     }
 
-                    rowDelegate: Rectangle{
+                    rowDelegate: Rectangle {
                         height: 20
-                        color:"transparent"
+                        color: "transparent"
                     }
                 }
             }
@@ -2058,15 +2048,15 @@ ApplicationWindow {
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.9-20
             tooltip: "Back"
-            style:ButtonStyle{
-                background: Rectangle{
+            style: ButtonStyle {
+                background: Rectangle {
                     anchors.fill: parent
-                    color:control.hovered?"#AAAAAA":"transparent"
+                    color: control.hovered?"#AAAAAA":"transparent"
                     Image {
-                        width:30
+                        width: 30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/back1.png":"qrc:/back.png"
+                        source: control.hovered?"qrc:/images/back1.png":"qrc:/images/back.png"
                     }
                 }
             }
@@ -2075,24 +2065,24 @@ ApplicationWindow {
                 page_1.visible=true
             }
         }
-        Rectangle{
+        Rectangle {
             width: 300
             height:parent.height*0.1
-            color:"transparent"
+            color: "transparent"
             anchors.bottom: parent.bottom
             anchors.left: parent.left
             anchors.bottomMargin: 5
             anchors.leftMargin: 10
-            Text{
+            Text {
                 anchors.centerIn: parent
                 font.pixelSize: 15
             }
         }
     }
 
-    //保存覆盖对话框cover
+    //Dialog to ask whether to cover
     MessageDialog {
-        id:cover
+        id: cover
         visible: false
         title: "Attention"
         icon: StandardIcon.Information
@@ -2109,7 +2099,7 @@ ApplicationWindow {
             recordlist.remove(n)
             narrow.start()
         }
-        onNo:{
+        onNo: {
             recordlist.remove(recordlist.count-1)
         }
         onRejected: {
@@ -2124,11 +2114,11 @@ ApplicationWindow {
         width: parent.width
         height: parent.height
 
-        //设置背景图片
+        //background picture    //设置背景图片
         Image {
             id: p2background
             anchors.fill: parent
-            source: "qrc:/background_3.png"
+            source: "qrc:/images/background_3.png"
         }
 
         //btn1----result
@@ -2138,7 +2128,7 @@ ApplicationWindow {
             width:  parent.width*0.27
             height: parent.width*0.27
             opacity: 0.0
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.22
             anchors.top: parent.top
@@ -2156,7 +2146,7 @@ ApplicationWindow {
                 anchors.fill: parent
                 hoverEnabled: true
                 onEntered: {
-                    resultbtn.source = "qrc:/sjq2.png"
+                    resultbtn.source = "qrc:/images/sjq2.png"
                     resultbtntext.font.pixelSize = 30
                     res1.visible = true
                     res2.visible = true
@@ -2167,16 +2157,16 @@ ApplicationWindow {
                     showres.start()     //4泡渐变出现
                 }
                 onExited: {
-                    resultbtn.source = "qrc:/sjq1.png"
+                    resultbtn.source = "qrc:/images/sjq1.png"
                     resultbtntext.font.pixelSize = 24
                     closeres.start()
                     closeresvis.start()
                 }
                 onPressed: {
-                    resultbtn.source = "qrc:/sjq1.png"
+                    resultbtn.source = "qrc:/images/sjq1.png"
                 }
                 onReleased: {
-                    resultbtn.source = "qrc:/sjq2.png"
+                    resultbtn.source = "qrc:/images/sjq2.png"
                     shackres.start()
                 }
             }
@@ -2188,7 +2178,7 @@ ApplicationWindow {
             width: parent.width*0.225
             height: parent.width*0.225
             opacity: 0.0
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.12
             anchors.top: parent.top
@@ -2206,22 +2196,22 @@ ApplicationWindow {
                 anchors.fill: parent
                 hoverEnabled: true
                 onEntered: {
-                    res1.source = "qrc:/sjq2.png"
+                    res1.source = "qrc:/images/sjq2.png"
                     res1text.font.pixelSize = 17
                     closeres.stop()     //让4泡消失的计时暂停
                     closeresvis.stop()
                 }
                 onExited: {
-                    res1.source = "qrc:/sjq1.png"
+                    res1.source = "qrc:/images/sjq1.png"
                     res1text.font.pixelSize = 16
                     closeres.start()
                     closeresvis.start()
                 }
                 onPressed: {
-                    res1.source = "qrc:/sjq1.png"
+                    res1.source = "qrc:/images/sjq1.png"
                 }
                 onReleased: {
-                    res1.source = "qrc:/sjq2.png"
+                    res1.source = "qrc:/images/sjq2.png"
                     tanchuang1.visible = true
                     tanchuang2.visible = false
                     tanchuang3.visible = false
@@ -2232,7 +2222,7 @@ ApplicationWindow {
                     tanchuang3_leave.start()
                     tanchuang4_leave.start()
                     res1toleft.start()
-                    p2background.source = "qrc:/pure_background.png"
+                    p2background.source = "qrc:/images/pure_background.png"
                 }
             }
         }
@@ -2242,7 +2232,7 @@ ApplicationWindow {
             id: res2
             width: parent.width*0.15625//125
             height: parent.width*0.15625
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
             opacity: 0.0
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.13
@@ -2261,22 +2251,22 @@ ApplicationWindow {
                 anchors.fill: parent
                 hoverEnabled: true
                 onEntered: {
-                    res2.source = "qrc:/sjq2.png"
+                    res2.source = "qrc:/images/sjq2.png"
                     res2text.font.pixelSize = 14
                     closeres.stop()     //让4泡消失的计时暂停
                     closeresvis.stop()
                 }
                 onExited: {
-                    res2.source = "qrc:/sjq1.png"
+                    res2.source = "qrc:/images/sjq1.png"
                     res2text.font.pixelSize = 13
                     closeres.start()
                     closeresvis.start()
                 }
                 onPressed: {
-                    res2.source = "qrc:/sjq1.png"
+                    res2.source = "qrc:/images/sjq1.png"
                 }
                 onReleased: {
-                    res2.source = "qrc:/sjq2.png"
+                    res2.source = "qrc:/images/sjq2.png"
                     tanchuang1.visible = false
                     tanchuang2.visible = true
                     tanchuang3.visible = false
@@ -2287,7 +2277,7 @@ ApplicationWindow {
                     tanchuang3_leave.start()
                     tanchuang4_leave.start()
                     res2toleft.start()
-                    p2background.source = "qrc:/pure_background.png"
+                    p2background.source = "qrc:/images/pure_background.png"
                 }
             }
         }
@@ -2297,7 +2287,7 @@ ApplicationWindow {
             id: res3
             width: parent.width*0.19375//155
             height: parent.width*0.19375
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
             opacity: 0.0
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.06
@@ -2316,22 +2306,22 @@ ApplicationWindow {
                 anchors.fill: parent
                 hoverEnabled: true
                 onEntered: {
-                    res3.source = "qrc:/sjq2.png"
+                    res3.source = "qrc:/images/sjq2.png"
                     res3text.font.pixelSize = 14
                     closeres.stop()     //让4泡消失的计时暂停
                     closeresvis.stop()
                 }
                 onExited: {
-                    res3.source = "qrc:/sjq1.png"
+                    res3.source = "qrc:/images/sjq1.png"
                     res3text.font.pixelSize = 13
                     closeres.start()
                     closeresvis.start()
                 }
                 onPressed: {
-                    res3.source = "qrc:/sjq1.png"
+                    res3.source = "qrc:/images/sjq1.png"
                 }
                 onReleased: {
-                    res3.source = "qrc:/sjq2.png"
+                    res3.source = "qrc:/images/sjq2.png"
                     tanchuang1.visible = false
                     tanchuang2.visible = false
                     tanchuang3.visible = true
@@ -2342,7 +2332,7 @@ ApplicationWindow {
                     tanchuang2_leave.start()
                     tanchuang4_leave.start()
                     res3toleft.start()
-                    p2background.source = "qrc:/pure_background.png"
+                    p2background.source = "qrc:/images/pure_background.png"
                 }
             }
         }
@@ -2352,7 +2342,7 @@ ApplicationWindow {
             id: res4
             width: parent.width*0.125//100
             height: parent.width*0.125
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
             opacity: 0.0
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.26
@@ -2371,22 +2361,22 @@ ApplicationWindow {
                 anchors.fill: parent
                 hoverEnabled: true
                 onEntered: {
-                    res4.source = "qrc:/sjq2.png"
+                    res4.source = "qrc:/images/sjq2.png"
                     res4text.font.pixelSize = 15
                     closeres.stop()     //让4泡消失的计时暂停
                     closeresvis.stop()
                 }
                 onExited: {
-                    res4.source = "qrc:/sjq1.png"
+                    res4.source = "qrc:/images/sjq1.png"
                     res4text.font.pixelSize = 14
                     closeres.start()
                     closeresvis.start()
                 }
                 onPressed: {
-                    res4.source = "qrc:/sjq1.png"
+                    res4.source = "qrc:/images/sjq1.png"
                 }
                 onReleased: {
-                    res4.source = "qrc:/sjq2.png"
+                    res4.source = "qrc:/images/sjq2.png"
                     tanchuang1.visible = false
                     tanchuang2.visible = false
                     tanchuang3.visible = false
@@ -2397,7 +2387,7 @@ ApplicationWindow {
                     tanchuang2_leave.start()
                     tanchuang3_leave.start()
                     res4toleft.start()
-                    p2background.source = "qrc:/pure_background.png"
+                    p2background.source = "qrc:/images/pure_background.png"
                 }
             }
         }
@@ -2408,7 +2398,7 @@ ApplicationWindow {
             id: pathwaybtn
             width: parent.width*0.2375//190
             height: parent.width*0.23
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
             opacity: 0.0
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.55
@@ -2427,7 +2417,7 @@ ApplicationWindow {
                 anchors.fill: parent
                 hoverEnabled: true
                 onEntered: {
-                    pathwaybtn.source = "qrc:/sjq2.png"
+                    pathwaybtn.source = "qrc:/images/sjq2.png"
                     pathwaybtntext.font.pixelSize = 26
                     closepath.stop()     ////让p双泡消失的计时暂停
                     closepathvis.stop()
@@ -2436,16 +2426,16 @@ ApplicationWindow {
                     pwm.visible = true
                 }
                 onExited: {
-                    pathwaybtn.source = "qrc:/sjq1.png"
+                    pathwaybtn.source = "qrc:/images/sjq1.png"
                     pathwaybtntext.font.pixelSize = 20
                     closepath.start()
                     closepathvis.start()
                 }
                 onPressed: {
-                    pathwaybtn.source = "qrc:/sjq1.png"
+                    pathwaybtn.source = "qrc:/images/sjq1.png"
                 }
                 onReleased: {
-                    pathwaybtn.source = "qrc:/sjq2.png"
+                    pathwaybtn.source = "qrc:/images/sjq2.png"
                     shackpath.start()
                 }
             }
@@ -2457,7 +2447,7 @@ ApplicationWindow {
             visible: true
             width: parent.width*0.10625//85
             height: parent.width*0.10625
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
             opacity: 0.0
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.74
@@ -2476,22 +2466,22 @@ ApplicationWindow {
                 anchors.fill: parent
                 hoverEnabled: true
                 onEntered: {
-                    pwg.source = "qrc:/sjq2.png"
+                    pwg.source = "qrc:/images/sjq2.png"
                     pwgtext.font.pixelSize = 17
                     closepath.stop()    //让p双泡消失的计时暂停
                     closepathvis.stop()
                 }
                 onExited: {
-                    pwg.source = "qrc:/sjq1.png"
+                    pwg.source = "qrc:/images/sjq1.png"
                     pwgtext.font.pixelSize = 15
                     closepath.start()
                     closepathvis.start()
                 }
                 onPressed: {
-                    pwg.source = "qrc:/sjq1.png"
+                    pwg.source = "qrc:/images/sjq1.png"
                 }
                 onReleased: {
-                    pwg.source = "qrc:/sjq2.png"
+                    pwg.source = "qrc:/images/sjq2.png"
                     ogCtl.submit_wholePw(); /** Load pathway with all of essential gene, contact with C++ **/
                     webpage.visible = true
                 }
@@ -2504,7 +2494,7 @@ ApplicationWindow {
             visible: true
             width:  parent.width*0.125//100
             height: parent.width*0.125
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
             opacity: 0.0
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.76
@@ -2523,22 +2513,22 @@ ApplicationWindow {
                 anchors.fill: parent
                 hoverEnabled: true
                 onEntered: {
-                    pwm.source = "qrc:/sjq2.png"
+                    pwm.source = "qrc:/images/sjq2.png"
                     pwmtext.font.pixelSize = 17
                     closepath.stop()    //让p双泡消失的计时暂停
                     closepathvis.stop()
                 }
                 onExited: {
-                    pwm.source = "qrc:/sjq1.png"
+                    pwm.source = "qrc:/images/sjq1.png"
                     pwmtext.font.pixelSize = 15
                     closepath.start()
                     closepathvis.start()
                 }
                 onPressed: {
-                    pwm.source = "qrc:/sjq1.png"
+                    pwm.source = "qrc:/images/sjq1.png"
                 }
                 onReleased: {
-                    pwm.source = "qrc:/sjq2.png"
+                    pwm.source = "qrc:/images/sjq2.png"
                     ogCtl.submit_metaPw(); /** Load pathway with essential gene about metabolism only, contact with C++ **/
                     webpage.visible = true
                 }
@@ -2551,7 +2541,7 @@ ApplicationWindow {
             id: modulebtn
             width: parent.width*0.2//180
             height: parent.width*0.2
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
             opacity: 0.0
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.58
@@ -2570,7 +2560,7 @@ ApplicationWindow {
                 anchors.fill: parent
                 hoverEnabled: true
                 onEntered: {
-                    modulebtn.source = "qrc:/sjq2.png"
+                    modulebtn.source = "qrc:/images/sjq2.png"
                     modulebtntext.font.pixelSize = 26
                     closemodule.stop()     ////让m双泡消失的计时暂停
                     closemodulevis.stop()
@@ -2579,16 +2569,16 @@ ApplicationWindow {
                     mwm.visible = true
                 }
                 onExited: {
-                    modulebtn.source = "qrc:/sjq1.png"
+                    modulebtn.source = "qrc:/images/sjq1.png"
                     modulebtntext.font.pixelSize = 20
                     closemodule.start()
                     closemodulevis.start()
                 }
                 onPressed: {
-                    modulebtn.source = "qrc:/sjq1.png"
+                    modulebtn.source = "qrc:/images/sjq1.png"
                 }
                 onReleased: {
-                    modulebtn.source = "qrc:/sjq2.png"
+                    modulebtn.source = "qrc:/images/sjq2.png"
                     shackmodule.start()
                 }
             }
@@ -2600,7 +2590,7 @@ ApplicationWindow {
             visible: true
             width: parent.width*0.10625
             height: parent.width*0.10625
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
             opacity: 0.0
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.77
@@ -2619,22 +2609,22 @@ ApplicationWindow {
                 anchors.fill: parent
                 hoverEnabled: true
                 onEntered: {
-                    mwg.source = "qrc:/sjq2.png"
+                    mwg.source = "qrc:/images/sjq2.png"
                     mwgtext.font.pixelSize = 17
                     closemodule.stop()    //让m双泡消失的计时暂停
                     closemodulevis.stop()
                 }
                 onExited: {
-                    mwg.source = "qrc:/sjq1.png"
+                    mwg.source = "qrc:/images/sjq1.png"
                     mwgtext.font.pixelSize = 15
                     closemodule.start()
                     closemodulevis.start()
                 }
                 onPressed: {
-                    mwg.source = "qrc:/sjq1.png"
+                    mwg.source = "qrc:/images/sjq1.png"
                 }
                 onReleased: {
-                    mwg.source = "qrc:/sjq2.png"
+                    mwg.source = "qrc:/images/sjq2.png"
                     ogCtl.submit_wholeMd(); /** Load module with all of essential gene, contact with C++ **/
                     webpage.visible = true;
                 }
@@ -2647,7 +2637,7 @@ ApplicationWindow {
             visible: true
             width: parent.width*0.125//100
             height: parent.width*0.125
-            source: "qrc:/sjq1.png"
+            source: "qrc:/images/sjq1.png"
             opacity: 0.0
             anchors.left: parent.left
             anchors.leftMargin: parent.width*0.79
@@ -2666,29 +2656,29 @@ ApplicationWindow {
                 anchors.fill: parent
                 hoverEnabled: true
                 onEntered: {
-                    mwm.source = "qrc:/sjq2.png"
+                    mwm.source = "qrc:/images/sjq2.png"
                     mwmtext.font.pixelSize = 17
                     closemodule.stop()    //让m双泡消失的计时暂停
                     closemodulevis.stop()
                 }
                 onExited: {
-                    mwm.source = "qrc:/sjq1.png"
+                    mwm.source = "qrc:/images/sjq1.png"
                     mwmtext.font.pixelSize = 15
                     closemodule.start()
                     closemodulevis.start()
                 }
                 onPressed: {
-                    mwm.source = "qrc:/sjq1.png"
+                    mwm.source = "qrc:/images/sjq1.png"
                 }
                 onReleased: {
-                    mwm.source = "qrc:/sjq2.png"
+                    mwm.source = "qrc:/images/sjq2.png"
                     ogCtl.submit_metaMd(); /** Load module of essential gene about metabolism only, contact with C++ **/
                     webpage.visible = true;
                 }
             }
         }
 
-        //下载按钮
+        //Download button   //下载按钮
         Button {
             height: 40
             width: 40
@@ -2706,15 +2696,21 @@ ApplicationWindow {
                         width:30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/download1.png":"qrc:/download.png"
+                        source:control.hovered?"qrc:/images/download1.png":"qrc:/images/download.png"
                     }
                 }
             }
             onClicked: {
+                var url="http://cefg.cn/Igem2015/mccap-server/api/download/cegCSV.php?id="
+                var n=select_sp.count
+                for(var i=0;i<n;i++)
+                    url=url+ogCtl.tran2ID(select_sp.get(i).name)
+
+                Qt.openUrlExternally(url)
             }
         }
 
-        //返回page_1按钮
+        //Return page_1 button  //返回page_1按钮
         Button {
             height: 40
             width: 40
@@ -2732,7 +2728,7 @@ ApplicationWindow {
                         width:30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/back1.png":"qrc:/back.png"
+                        source:control.hovered?"qrc:/images/back1.png":"qrc:/images/back.png"
                     }
                 }
             }
@@ -2744,7 +2740,7 @@ ApplicationWindow {
             }
         }
 
-        //Home按钮
+        //Home button
         Button {
             height: 40
             width: 40
@@ -2762,7 +2758,7 @@ ApplicationWindow {
                         width:30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/home1.png":"qrc:/home.png"
+                        source:control.hovered?"qrc:/images/home1.png":"qrc:/images/home.png"
                     }
                 }
             }
@@ -2774,7 +2770,7 @@ ApplicationWindow {
             }
         }
 
-        //btn123入场动画
+        //buttons entry animation  //btn123入场动画
         ParallelAnimation {
             id: ruchuang
             //btn1
@@ -3044,7 +3040,7 @@ ApplicationWindow {
             }
         }
 
-        //3泡浮动效果
+        //buttons flow animation    //3泡浮动效果
         ParallelAnimation {
             id: fudong_p2
             //btn1
@@ -3104,7 +3100,7 @@ ApplicationWindow {
             loops: Animation.Infinite
         }
 
-        //btn123淡化效果
+        //buttons dilution effect  //btn123淡化效果
         ParallelAnimation {
             id: hide3pao
             PropertyAnimation {
@@ -3115,7 +3111,7 @@ ApplicationWindow {
             }
         }
 
-        //btn123强化效果
+        //buttons gradient appears effect   //btn123强化效果
         ParallelAnimation {
             id: show3pao
             PropertyAnimation {
@@ -3126,7 +3122,7 @@ ApplicationWindow {
             }
         }
 
-        //btn1子泡泡淡化效果
+        //btn1x dilution effect   //btn1子泡泡淡化效果
         ParallelAnimation {
             id: hideres
             PropertyAnimation {
@@ -3137,7 +3133,7 @@ ApplicationWindow {
             }
         }
 
-        //btn1子泡泡强化效果
+        //btn1x gradient appears effect   //btn1子泡泡强化效果
         ParallelAnimation {
             id: showres
             PropertyAnimation {
@@ -3148,7 +3144,7 @@ ApplicationWindow {
             }
         }
 
-        //btn1子泡泡颤抖效果
+        //btn1x jitter effect   //btn1子泡泡颤抖效果
         SequentialAnimation	{
             id: shackres
             ParallelAnimation {
@@ -3339,7 +3335,7 @@ ApplicationWindow {
             }
         }
 
-        //btn2子泡泡淡化效果
+        //btn2x dilution effect   //btn2子泡泡淡化效果
         ParallelAnimation {
             id: hidepath
             PropertyAnimation {
@@ -3350,7 +3346,7 @@ ApplicationWindow {
             }
         }
 
-        //btn2子泡泡强化效果
+        //btn2x gradient appears effect   //btn2子泡泡强化效果
         ParallelAnimation {
             id: showpath
             PropertyAnimation {
@@ -3361,7 +3357,7 @@ ApplicationWindow {
             }
         }
 
-        //btn2子泡泡颤抖效果
+        //btn2x jitter effect   //btn2子泡泡颤抖效果
         SequentialAnimation	{
             id: shackpath
             ParallelAnimation {
@@ -3454,7 +3450,7 @@ ApplicationWindow {
             }
         }
 
-        //btn3子泡泡淡化效果
+        //btn3x dilution effect   //btn3子泡泡淡化效果
         ParallelAnimation {
             id: hidemodule
             PropertyAnimation {
@@ -3465,7 +3461,7 @@ ApplicationWindow {
             }
         }
 
-        //btn3子泡泡强化效果
+        //btn3x gradient appears effect   //btn3子泡泡强化效果
         ParallelAnimation {
             id: showmodule
             PropertyAnimation {
@@ -3476,7 +3472,7 @@ ApplicationWindow {
             }
         }
 
-        //btn3子泡泡颤抖效果
+        //btn3x jitter effect   //btn3子泡泡颤抖效果
         SequentialAnimation	{
             id: shackmodule
             ParallelAnimation {
@@ -3569,7 +3565,7 @@ ApplicationWindow {
             }
         }
 
-        //result区按钮计时消失(动画)
+        //btn1x disappear  //result区按钮计时消失(动画)
         Timer {
             id: closeres
             interval: 800
@@ -3579,7 +3575,7 @@ ApplicationWindow {
             repeat: false
         }
 
-        //result区按钮计时消失(visiable)
+        //btn1x disappear   //result区按钮计时消失(visiable)
         Timer {
             id: closeresvis
             interval: closeres.interval + 200
@@ -3592,7 +3588,7 @@ ApplicationWindow {
             repeat: false
         }
 
-        //pathway区按钮计时消失（动画）
+        //btn2x disappear   //pathway区按钮计时消失（动画）
         Timer {
             id: closepath
             interval: 300
@@ -3602,7 +3598,7 @@ ApplicationWindow {
             repeat: false
         }
 
-        //pathway区按钮计时消失（visiable）
+        //btn2x disappear   //pathway区按钮计时消失（visiable）
         Timer {
             id: closepathvis
             interval: closepath.interval + 200
@@ -3613,7 +3609,7 @@ ApplicationWindow {
             repeat: false
         }
 
-        //module区按钮计时消失(动画)
+        //btn3x disappear   //module区按钮计时消失(动画)
         Timer {
             id: closemodule
             interval: 300
@@ -3623,7 +3619,7 @@ ApplicationWindow {
             repeat: false
         }
 
-        //module区按钮计时消失(visiable)
+        //btn3x disappear   //module区按钮计时消失(visiable)
         Timer {
             id: closemodulevis
             interval: closemodule.interval + 200
@@ -3634,7 +3630,7 @@ ApplicationWindow {
             repeat: false
         }
 
-        //等待3泡入场后再浮动
+        //start flow until admission animation stop     //等待3泡入场后再浮动
         Timer {
             id: wait3pao
             interval: 500
@@ -3644,7 +3640,7 @@ ApplicationWindow {
             repeat: false
         }
 
-        //btn1_x滚去左侧(res1选中)
+        //btn1x goto left (while res1 clicked)      //btn1_x滚去左侧(res1选中)
         ParallelAnimation {
             id: res1toleft
             //res2-4
@@ -3720,7 +3716,7 @@ ApplicationWindow {
             }
         }
 
-        //btn1_x滚去左侧(res2选中)
+        //btn1x goto left (while res2 clicked)      //btn1_x滚去左侧(res2选中)
         ParallelAnimation {
             id: res2toleft
             //res1,3,4
@@ -3796,7 +3792,7 @@ ApplicationWindow {
             }
         }
 
-        //btn1_x滚去左侧(res3选中)
+        //btn1x goto left (while res3 clicked)      //btn1_x滚去左侧(res3选中)
         ParallelAnimation {
             id: res3toleft
             //res1,2,4
@@ -3872,7 +3868,7 @@ ApplicationWindow {
             }
         }
 
-        //btn1_x滚去左侧(res4选中)
+        //btn1x goto left (while res4 clicked)      //btn1_x滚去左侧(res4选中)
         ParallelAnimation {
             id: res4toleft
             //res1,2,3
@@ -3948,7 +3944,7 @@ ApplicationWindow {
             }
         }
 
-        //btn1_x由左侧回到原位置
+        //btn1x return to initial position      //btn1_x由左侧回到原位置
         ParallelAnimation {
             id: resgoback
             //res1-4
@@ -4041,7 +4037,7 @@ ApplicationWindow {
             }
         }
 
-        //弹窗1出场
+        //Animation of showing popup1    //弹窗1出场
         ParallelAnimation {
             id: showtanchuang1
             PropertyAnimation {
@@ -4053,7 +4049,7 @@ ApplicationWindow {
             }
         }
 
-        //弹窗2出场
+        //Animation of showing popup2    //弹窗2出场
         ParallelAnimation {
             id: showtanchuang2
             PropertyAnimation {
@@ -4065,7 +4061,7 @@ ApplicationWindow {
             }
         }
 
-        //弹窗3出场
+        //Animation of showing popup3    //弹窗3出场
         ParallelAnimation {
             id: showtanchuang3
             PropertyAnimation {
@@ -4077,7 +4073,7 @@ ApplicationWindow {
             }
         }
 
-        //弹窗4出场
+        //Animation of showing popup4    //弹窗4出场
         ParallelAnimation {
             id: showtanchuang4
             PropertyAnimation {
@@ -4089,7 +4085,7 @@ ApplicationWindow {
             }
         }
 
-        //弹窗1
+        //popup1    //弹窗1
         Item {
             id: tanchuang1
             visible: false
@@ -4104,9 +4100,9 @@ ApplicationWindow {
             Image {
                 id: listsquare1
                 anchors.fill: parent
-                source: "qrc:/glass4.png"
+                source: "qrc:/images/glass4.png"
 
-                //左标题 Gene名称
+                //left title    //左标题 Gene名称
                 Rectangle {
                     id: leftgenetitle1
                     anchors.top: parent.top
@@ -4126,7 +4122,7 @@ ApplicationWindow {
                     }
                 }
 
-                //右标题 Description
+                //right title   //右标题 Description
                 Rectangle {
                     anchors.top: parent.top
                     anchors.topMargin: parent.height*0.03
@@ -4145,7 +4141,7 @@ ApplicationWindow {
                     }
                 }
 
-                //list表
+                //list
                 ListView {
                     anchors.left: parent.left
                     anchors.leftMargin: parent.width*0.12
@@ -4193,7 +4189,7 @@ ApplicationWindow {
                         closeres.start()
                         closeresvis.start()
                         show3pao.start()
-                        p2background.source = "qrc:/background_3.png"
+                        p2background.source = "qrc:/images/background_3.png"
                     }
                 }
             }
@@ -4209,7 +4205,7 @@ ApplicationWindow {
             }
         }
 
-        //弹窗2
+        //popup2    //弹窗2
         Item {
             id: tanchuang2
             visible: false
@@ -4224,7 +4220,7 @@ ApplicationWindow {
             Image {
                 id: listsquare2
                 anchors.fill: parent
-                source: "qrc:/glass4.png"
+                source: "qrc:/images/glass4.png"
 
                 //左标题 Gene名称
                 Rectangle {
@@ -4313,7 +4309,7 @@ ApplicationWindow {
                         closeres.start()
                         closeresvis.start()
                         show3pao.start()
-                        p2background.source = "qrc:/background_3.png"
+                        p2background.source = "qrc:/images/background_3.png"
                     }
                 }
             }
@@ -4328,7 +4324,7 @@ ApplicationWindow {
             }
         }
 
-        //弹窗3
+        //popup3    //弹窗3
         Item {
             id: tanchuang3
             visible: false
@@ -4343,7 +4339,7 @@ ApplicationWindow {
             Image {
                 id: listsquare3
                 anchors.fill: parent
-                source: "qrc:/glass4.png"
+                source: "qrc:/images/glass4.png"
 
                 //左标题 Gene名称
                 Rectangle {
@@ -4432,7 +4428,7 @@ ApplicationWindow {
                         closeres.start()
                         closeresvis.start()
                         show3pao.start()
-                        p2background.source = "qrc:/background_3.png"
+                        p2background.source = "qrc:/images/background_3.png"
                     }
                 }
             }
@@ -4447,7 +4443,7 @@ ApplicationWindow {
             }
         }
 
-        //弹窗4
+        //popup4    //弹窗4
         Item {
             id: tanchuang4
             visible: false
@@ -4462,7 +4458,7 @@ ApplicationWindow {
             Image {
                 id: listsquare4
                 anchors.fill: parent
-                source: "qrc:/glass4.png"
+                source: "qrc:/images/glass4.png"
 
                 //左标题 Gene名称
                 Rectangle {
@@ -4550,7 +4546,7 @@ ApplicationWindow {
                         closeres.start()
                         closeresvis.start()
                         show3pao.start()
-                        p2background.source = "qrc:/background_3.png"
+                        p2background.source = "qrc:/images/background_3.png"
                     }
                 }
             }
@@ -4590,7 +4586,7 @@ ApplicationWindow {
             }
         }
 
-        //撤销按钮
+        //Revoke button     //撤销按钮
         Button {
             height: 40
             width: 40
@@ -4608,7 +4604,7 @@ ApplicationWindow {
                         width:30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/back1.png":"qrc:/back.png"
+                        source:control.hovered?"qrc:/images/back1.png":"qrc:/images/back.png"
                     }
                 }
             }
@@ -4617,7 +4613,7 @@ ApplicationWindow {
             }
         }
 
-        //反撤销按钮
+        //go ahead button       //前进按钮
         Button {
             height: 40
             width: 40
@@ -4635,7 +4631,7 @@ ApplicationWindow {
                         width:30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/next1.png":"qrc:/next.png"
+                        source:control.hovered?"qrc:/images/next1.png":"qrc:/images/next.png"
                     }
                 }
             }
@@ -4644,7 +4640,7 @@ ApplicationWindow {
             }
         }
 
-        //返回page_2按钮
+        //return to page2 button    //返回page_2按钮
         Button {
             height: 40
             width: 40
@@ -4662,7 +4658,7 @@ ApplicationWindow {
                         width:30
                         height: 30
                         anchors.centerIn: parent
-                        source:control.hovered?"qrc:/NO1.png":"qrc:/NO.png"
+                        source:control.hovered?"qrc:/images/NO1.png":"qrc:/images/NO.png"
                     }
                 }
             }
@@ -4674,7 +4670,7 @@ ApplicationWindow {
 
     }
 
-    //记录窗口
+    //record window     //记录窗口
     Window {
         id: recorditem
         width: 450
@@ -4682,7 +4678,7 @@ ApplicationWindow {
         flags: Qt.FramelessWindowHint
         modality: Qt.ApplicationModal
         property int num:0
-        MouseArea{
+        MouseArea {
             anchors.fill:parent
             property variant clickPos: "1,1"
 
@@ -4698,15 +4694,15 @@ ApplicationWindow {
 
         }
 
-        Item{
+        Item {
             anchors.fill: parent
-            Rectangle{
+            Rectangle {
                 anchors.fill: parent
                 color:"#DDDDDD"
             }
 
-            //关闭按钮
-            Button{
+            //close button  //关闭按钮
+            Button {
                 width:30
                 height: 30
                 anchors.right:parent.right
@@ -4721,7 +4717,7 @@ ApplicationWindow {
                             width:25
                             height: 25
                             anchors.centerIn: parent
-                            source:control.hovered?"qrc:/NO1.png":"qrc:/NO.png"
+                            source:control.hovered?"qrc:/images/NO1.png":"qrc:/images/NO.png"
                         }
                     }
                 }
@@ -4731,13 +4727,13 @@ ApplicationWindow {
             }
 
             //nodata
-            Rectangle{
+            Rectangle {
                 id:nodata
-                property  int n: 0
+                property int n: 0
                 anchors.fill: parent
                 visible: n==0?true:false
-                color:"transparent"
-                Text{
+                color: "transparent"
+                Text {
                     anchors.centerIn: parent
                     font.family: "Segoe Script"
                     text:"No Data!"
@@ -4745,27 +4741,27 @@ ApplicationWindow {
                 }
             }
             //记录model
-            ListModel{
-                id:recordlist
+            ListModel {
+                id: recordlist
             }
             //记录列表
-            ListView{
-                id:recordlistitem
+            ListView {
+                id: recordlistitem
                 anchors.top: parent.top
                 anchors.topMargin: 50
                 height: parent.height-80
                 width: parent.width
-                model:recordlist
-                delegate: Item{
+                model: recordlist
+                delegate: Item {
                     width: parent.width
                     height: 30
                     //background
-                    Rectangle{
-                        id:record_show_rec
+                    Rectangle {
+                        id: record_show_rec
                         height: parent.height
                         width: parent.width-15
                         visible: false
-                        color:"lightblue"
+                        color: "lightblue"
                     }
                     //假@复选框
                     Button{
@@ -4773,16 +4769,16 @@ ApplicationWindow {
                         anchors.right: parent.right
                         anchors.rightMargin: 8
                         height: 30
-                        width:30
-                        Rectangle{
+                        width: 30
+                        Rectangle {
                             anchors.fill: parent
-                            Image{
-                                id:checked
+                            Image {
+                                id: checked
                                 anchors.fill: parent
-                                source:"qrc:/check1.png"
-                                visible:false
+                                source: "qrc:/images/check1.png"
+                                visible: false
                             }
-                            color:"transparent"
+                            color: "transparent"
                         }
 
                         onClicked: {
@@ -4802,21 +4798,21 @@ ApplicationWindow {
                             }
                         }
                     }
-                    //删除
-                    Button{
-                        id:del
+                    //delete button     //删除
+                    Button {
+                        id: del
                         height: parent.height
                         width: 30
                         tooltip: "Delete this item"
-                        style:ButtonStyle{
-                            background: Rectangle{
+                        style: ButtonStyle {
+                            background: Rectangle {
                                 anchors.fill: parent
-                                color:control.hovered?"red":"transparent"
+                                color: control.hovered ? "red" : "transparent"
                                 Image {
                                     width:25
                                     height: 25
                                     anchors.centerIn: parent
-                                    source:control.hovered?"qrc:/delete1.png":"qrc:/delete.png"
+                                    source: control.hovered ? "qrc:/images/delete1.png" : "qrc:/images/delete.png"
                                 }
                             }
                         }
@@ -4829,19 +4825,18 @@ ApplicationWindow {
                         }
                     }
 
-                    //
-                    Rectangle{
+                    Rectangle {
                         height: parent.height-2
                         anchors.left: del.right
                         width: parent.width-check.width-del.width-check.anchors.rightMargin-3
-                        radius:3
+                        radius: 3
                         color:"transparent"
-                        Text{
+                        Text {
                             anchors.centerIn: parent
-                            text:label
+                            text: label
                             font.family: "Microsoft YaHei"
                         }
-                        MouseArea{
+                        MouseArea {
                             anchors.fill: parent
                             hoverEnabled: true
                             onEntered: {
@@ -4864,12 +4859,12 @@ ApplicationWindow {
                             }
                         }
                     }
-                    Rectangle{
+                    Rectangle {
                         height: parent.width
-                        width:2
+                        width: 2
                         rotation: 90
-                        y:-height*0.5+parent.height
-                        x:parent.width*0.5
+                        y: -height*0.5+parent.height
+                        x: parent.width*0.5
                         gradient: Gradient {
                             GradientStop { position: 0.0; color: "#DDDDDD" }
                             GradientStop { position: 0.8; color: "#DDDDDD" }
@@ -4879,48 +4874,45 @@ ApplicationWindow {
                 }
             }
 
-            Rectangle{
+            Rectangle {
                 width: parent.width
                 height: 30
                 anchors.bottom: parent.bottom
                 anchors.bottomMargin: 40
-                visible:!nodata.visible
-                color:"transparent"
-                //color:"#444444"
-                Text{
+                visible: !nodata.visible
+                color: "transparent"
+                Text {
                     anchors.centerIn: parent
-                    text:"You can only choose two items to compare."
+                    text: "You can only choose two items to compare."
                     font.family: "Segoe Script"
                 }
             }
-            Timer{
-                id:record_show_t
+            Timer {
+                id: record_show_t
                 interval: 1
                 onTriggered: {
                     record_show.close()
                     record_show.show()
                 }
-               //repeat:true
             }
-            //提交按钮
-            Button{
-                //text:"Compare"
+            //submit button     //提交按钮
+            Button {
                 width:50
                 height: 30
                 anchors.bottom: parent.bottom
                 anchors.bottomMargin: 5
                 anchors.right: parent.right
-                anchors.rightMargin:5
+                anchors.rightMargin: 5
                 visible: !nodata.visible
-                style:ButtonStyle{
-                    background: Rectangle{
+                style: ButtonStyle {
+                    background: Rectangle {
                         anchors.fill: parent
                         color:control.hovered?"#AAAAAA":"transparent"
                         Image {
                             width:30
                             height: 30
                             anchors.centerIn: parent
-                            source:control.hovered?"qrc:/next1.png":"qrc:/next.png"
+                            source: control.hovered ? "qrc:/images/next1.png" : "qrc:/images/next.png"
                         }
                     }
                 }
@@ -4962,32 +4954,32 @@ ApplicationWindow {
             }
         }
 
-        //记录展示窗口
+        //show record window    //记录展示窗口
         Window {
             id:record_show
             color: "gray"
             opacity: 0.9
             visible: false
-            flags:Qt.FramelessWindowHint
+            flags: Qt.FramelessWindowHint
             width: 300
 
-            Item{
+            Item {
                 anchors.fill: parent
 
-                ListModel{
-                    id:record_show_list
+                ListModel {
+                    id: record_show_list
                 }
-                ListView{
+                ListView {
                     anchors.fill: parent
-                    model:record_show_list
-                    delegate: Rectangle{
+                    model: record_show_list
+                    delegate: Rectangle {
                         width: parent.width
                         height: 20
-                        color:index%2?"white":"#444444"
-                        Text{
+                        color: index%2?"white":"#444444"
+                        Text {
                             anchors.centerIn: parent
-                            color:index%2?"#444444":"white"
-                            text:name
+                            color: index%2?"#444444":"white"
+                            text: name
                             font.family: "Microsoft YaHei"
                         }
                     }
@@ -4995,5 +4987,4 @@ ApplicationWindow {
             }
         }
     }
-
 }
