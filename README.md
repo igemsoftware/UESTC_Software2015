@@ -5,16 +5,24 @@ Construction of the smallest cell is a great project in synthetic biology. MCCAP
 ## Environment
 
 #### Operating environment
-
 WindowsXP & Vista & Win7 & Win8 & Win10
 
 #### Development environment
-
 * Windows
 * Qt 5.5.0
 * MinGW_32
 
+## Features
+
+### Get minimal gene set
+### Compare results
+
 ## Installation
 
 Download MCCAP.zip and decompression it, just run the exe file.
+
+## Contact Us
+
+For any questions or ideas about MCCAP, please contact:
+uestcIGEM2015@163.com
 
