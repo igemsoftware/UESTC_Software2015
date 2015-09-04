@@ -19,6 +19,7 @@ Download MCCAP.zip and decompression it, just run the exe file.
 ## Features
 
 ### Get minimal gene set
+![](https:/ GITHUB.com/ycduan/UESTC_Software2015/raw/master/MCCAP_Project/README_image/showresults.png)
 ### Compare results
 
 ## Team Members
