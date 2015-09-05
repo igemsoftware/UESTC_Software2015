@@ -28,11 +28,6 @@ Every time you select the cell, you can save the selected results. Checked two s
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project/README_image/choose.png)
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project/README_image/compare.png)
 
-## Advantage
-* 
-* 
-* 
-
 ## Team Members
 * Yaocong Duan <dyc@mccap.org>
 * Yizhou Gao <gyz@mccap.org>
