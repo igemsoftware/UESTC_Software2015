@@ -20,8 +20,8 @@ Download MCCAP.zip and decompression it, just run the exe file.
 
 ### Linux
 Download MCCAP.tar.gz
-  tar -zxvf MCCAP.tar.gz
-  ./MCCAP.sh
+    tar -zxvf MCCAP.tar.gz
+    ./MCCAP.sh
 
 ## Features
 
