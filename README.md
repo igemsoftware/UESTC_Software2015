@@ -5,7 +5,8 @@ Construction of the smallest cell is a great project in synthetic biology. MCCAP
 ## Environment
 
 #### Operating environment
-WindowsXP & Vista & Win7 & Win8 & Win10
+* WindowsXP & Vista & Win7 & Win8 & Win10
+* Linux
 
 #### Development environment
 * Windows
@@ -14,7 +15,14 @@ WindowsXP & Vista & Win7 & Win8 & Win10
 
 ## Installation
 
+### Windows
 Download MCCAP.zip and decompression it, just run the exe file.
+
+### Linux
+Download MCCAP.tar.gz.
+
+    tar -zxvf MCCAP.tar.gz
+    ./MCCAP.sh
 
 ## Features
 
