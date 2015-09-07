@@ -19,7 +19,8 @@ Construction of the smallest cell is a great project in synthetic biology. MCCAP
 Download MCCAP.zip and decompression it, just run the exe file.
 
 ### Linux
-Download MCCAP.tar.gz
+Download MCCAP.tar.gz.
+
     tar -zxvf MCCAP.tar.gz
     ./MCCAP.sh
 
