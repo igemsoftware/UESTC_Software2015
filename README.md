@@ -5,7 +5,7 @@ Construction of the smallest cell is a great project in synthetic biology. MCCAP
 ## Environment
 
 #### Operating environment
-* WindowsXP & Vista & Win7 & Win8 & Win10
+* Windows XP of higher
 * Linux
 
 #### Development environment
