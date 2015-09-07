@@ -31,6 +31,7 @@ You can choose at least 4 spcies to get their minimal gene set.
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/genepick.png)
 The minimal set is divided into four part, you can download it in csv format. MCCAP will alse produce the result of pathway and module at the same time.
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/showresults.png)
+![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/detail.png)
 ### Compare results
 Every time you select the cell, you can save the selected results. Checked two sets of records in historical records and clicked on the Compare Button, and the comparison results are obtained.
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/choose.png)
