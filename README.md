@@ -6,7 +6,7 @@ Construction of the smallest cell is a great project in synthetic biology. MCCAP
 
 #### Operating environment
 * Windows XP of higher
-* Linux 64bit
+* Linux 64 bit
 
 #### Development environment
 * Windows
@@ -26,8 +26,8 @@ Download MCCAP.tar.gz.
 
 ## Features
 
-### Get minimal gene set
-You can choose at least 4 spcies to get their minimal gene set.
+### Reference species select
+This is the first part of MCCAP, and all the work of constructing  a minimal cell start from here. User can choose appropriate reference species according to their own needs. You can choose species(at least 4) which you wanted by pull them to right side or double clicking them.
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/genepick.png)
 The minimal set is divided into four part, you can download it in csv format. MCCAP will alse produce the result of pathway and module at the same time.
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/showresults.png)
