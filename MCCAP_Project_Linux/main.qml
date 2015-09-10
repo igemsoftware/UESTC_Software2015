@@ -60,10 +60,13 @@ ApplicationWindow {
             switch(objArr[i].group) {
             case 1:
                 c1_result.append({"name": objArr[i].accessNum, "type": objArr[i].category, "description": objArr[i].description});
+                break;
             case 2:
                 c2_result.append({"name": objArr[i].accessNum, "type": objArr[i].category, "description": objArr[i].description});
+                break;
             case 3:
                 c3_result.append({"name": objArr[i].accessNum, "type": objArr[i].category, "description": objArr[i].description});
+                break;
             }
         }
     }
