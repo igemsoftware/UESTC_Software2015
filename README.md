@@ -29,13 +29,20 @@ Download MCCAP.tar.gz.
 ### Reference species select
 This is the first part of MCCAP, and all the work of constructing  a minimal cell start from here. User can choose appropriate reference species according to their own needs. You can choose species(at least 4) which you wanted by pull them to right side or double clicking them.
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/genepick.png)
+
+### Minimal gene set display
 The minimal set is divided into four part, you can download it in csv format. MCCAP will alse produce the result of pathway and module at the same time.
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/showresults.png)
-![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/detail.png)
+
+### Gene network display
+
 ### Compare results
 Every time you select the cell, you can save the selected results. Checked two sets of records in historical records and clicked on the Compare Button, and the comparison results are obtained.
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/choose.png)
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/compare.png)
+
+### Analysis of assembly
+![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/detail.png)
 
 ## Team Members
 * Yaocong Duan <dyc@mccap.org>
