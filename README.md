@@ -48,7 +48,7 @@ For researchers aiming to bring their design into reality, MCCAP provides inform
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/detail.png)
 
 ## Father's Gene Detector
-A funny Android game, propagate iGEM ideas.
+A funny IOS game to propagate iGEM ideas.
 
 ## Team Members
 * Yaocong Duan <dyc@mccap.org>
