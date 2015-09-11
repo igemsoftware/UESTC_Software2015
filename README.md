@@ -47,6 +47,9 @@ Every time you select the cell, you can save the selected results. Checked two s
 For researchers aiming to bring their design into reality, MCCAP provides informations related to assembly and standard parts. So that users can decide which certain gene to use and how to process this gene into a standard part.
 ![](https://github.com/igemsoftware/UESTC_Software2015/blob/master/MCCAP_Project_Windows/README_image/detail.png)
 
+## Father's Gene Detector
+A funny Android game, propagate iGEM ideas.
+
 ## Team Members
 * Yaocong Duan <dyc@mccap.org>
 * Yizhou Gao <gyz@mccap.org>
