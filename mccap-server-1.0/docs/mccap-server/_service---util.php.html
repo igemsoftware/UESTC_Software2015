@@ -1,0 +1,374 @@
+<html>
+<head>
+<title>Docs for page util.php</title>
+<link rel="stylesheet" type="text/css" href="../media/style.css">
+</head>
+<body>
+
+<table border="0" cellspacing="0" cellpadding="0" height="48" width="100%">
+  <tr>
+    <td class="header_top">mccap-server</td>
+  </tr>
+  <tr><td class="header_line"><img src="../media/empty.png" width="1" height="1" border="0" alt=""  /></td></tr>
+  <tr>
+    <td class="header_menu">
+        
+                                    
+                              		  [ <a href="../classtrees_mccap-server.html" class="menu">class tree: mccap-server</a> ]
+		  [ <a href="../elementindex_mccap-server.html" class="menu">index: mccap-server</a> ]
+		  	    [ <a href="../elementindex.html" class="menu">all elements</a> ]
+    </td>
+  </tr>
+  <tr><td class="header_line"><img src="../media/empty.png" width="1" height="1" border="0" alt=""  /></td></tr>
+</table>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="200" class="menu">
+      <b>Packages:</b><br />
+              <a href="../li_mccap-server.html">mccap-server</a><br />
+            <br /><br />
+                        <b>Files:</b><br />
+      	  <div class="package">
+			<a href="../mccap-server/_data---bioBrickDA.php.html">		bioBrickDA.php
+		</a><br>
+			<a href="../mccap-server/_service---bioBrickServ.php.html">		bioBrickServ.php
+		</a><br>
+			<a href="../mccap-server/_validation---bootstrap.php.html">		bootstrap.php
+		</a><br>
+			<a href="../mccap-server/_data---cegRecordDA.php.html">		cegRecordDA.php
+		</a><br>
+			<a href="../mccap-server/_service---cegRecordServ.php.html">		cegRecordServ.php
+		</a><br>
+			<a href="../mccap-server/_validation---compareHalfNumWithNumber.php.html">		compareHalfNumWithNumber.php
+		</a><br>
+			<a href="../mccap-server/_validation---compareHalfNumWithRatio.php.html">		compareHalfNumWithRatio.php
+		</a><br>
+			<a href="../mccap-server/_config---db.php.html">		db.php
+		</a><br>
+			<a href="../mccap-server/_validation---generateMatrix.php.html">		generateMatrix.php
+		</a><br>
+			<a href="../mccap-server/_validation---halfCmpFull.php.html">		halfCmpFull.php
+		</a><br>
+			<a href="../mccap-server/_index.php.html">		index.php
+		</a><br>
+			<a href="../mccap-server/_service---keggServ.php.html">		keggServ.php
+		</a><br>
+			<a href="../mccap-server/_config---main.php.html">		main.php
+		</a><br>
+			<a href="../mccap-server/_data---organismDA.php.html">		organismDA.php
+		</a><br>
+			<a href="../mccap-server/_service---organismServ.php.html">		organismServ.php
+		</a><br>
+			<a href="../mccap-server/_validation---service.php.html">		service.php
+		</a><br>
+			<a href="../mccap-server/_service---util.php.html">		util.php
+		</a><br>
+	  </div><br />
+      
+      
+                </td>
+    <td>
+      <table cellpadding="10" cellspacing="0" width="100%" border="0"><tr><td valign="top">
+
+<h1>Procedural File: util.php</h1>
+Source Location: /service/util.php<br /><br />
+
+<br>
+<br>
+
+
+<h2>Page Details:</h2>
+<br /><br />
+<h4>Includes:</h4>
+<div class="tags">
+require_once(<a href="../mccap-server/_config---main.php.html">main.php</a>) [line 5]<br />
+</div>
+<br /><br />
+<br /><br />
+<br />
+  <hr />
+	<a name="functioncate2Name"></a>
+	<h3>cate2Name <span class="smalllinenumber">[line 98]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>string cate2Name(
+type $category)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		trsnsform number of category to category name.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$category</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiondeterCegBaseCate"></a>
+	<h3>deterCegBaseCate <span class="smalllinenumber">[line 88]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>type deterCegBaseCate(
+type $cegBase)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		Determine the category of ceg_base.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$cegBase</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiondetermineCategory"></a>
+	<h3>determineCategory <span class="smalllinenumber">[line 71]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>int determineCategory(
+type $cogId)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		Determine the category of cluster by COG ID.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$cogId</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiongetBbkUrl"></a>
+	<h3>getBbkUrl <span class="smalllinenumber">[line 176]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>String getBbkUrl(
+type $bbkName)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		get an detailed information of a biobrick by their name.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$bbkName</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiongetCogFunCate"></a>
+	<h3>getCogFunCate <span class="smalllinenumber">[line 185]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>array getCogFunCate(
+)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		get categories of COG function.<br /><br />    <br /><br />
+	
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiongetPageUrl"></a>
+	<h3>getPageUrl <span class="smalllinenumber">[line 146]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>string getPageUrl(
+type $pageName, [type $idArr = array(1 ,2, 3, 4)])</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		Get the url of corresponding page. for gene network diagram.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$pageName</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$idArr</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functionidArr2Str"></a>
+	<h3>idArr2Str <span class="smalllinenumber">[line 117]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>string idArr2Str(
+type $arr)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		Transform an array of reference species to String.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$arr</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functionidNum2Str"></a>
+	<h3>idNum2Str <span class="smalllinenumber">[line 130]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>type idNum2Str(
+type $id)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		Transform the id of reference species to String.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$id</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functionis2Tran"></a>
+	<h3>is2Tran <span class="smalllinenumber">[line 43]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>boolean is2Tran(
+type $cogId)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		Determine if the category of cluster is transcription and translation.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$cogId</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functionisGFPO"></a>
+	<h3>isGFPO <span class="smalllinenumber">[line 57]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>boolean isGFPO(
+type $cogId)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		Determine if the category of cluster is General function prediction only.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$cogId</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functionisTranMeta"></a>
+	<h3>isTranMeta <span class="smalllinenumber">[line 29]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>boolean isTranMeta(
+type $cogId)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		Determine if the category of cluster is transport and metabolism.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$cogId</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functionvalidateCogId"></a>
+	<h3>validateCogId <span class="smalllinenumber">[line 16]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>boolean validateCogId(
+type $cogId)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		Validate the ID of cog<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$cogId</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+
+        <div class="credit">
+		    <hr />
+		    Documentation generated on Thu, 17 Sep 2015 22:02:01 +0200 by <a href="http://www.phpdoc.org">phpDocumentor 1.4.3</a>
+	      </div>
+      </td></tr></table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>

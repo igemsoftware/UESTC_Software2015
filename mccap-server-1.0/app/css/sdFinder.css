@@ -1,0 +1,42 @@
+/* css for sdFinder */
+html {
+    height: 100%;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+    height: 100%;
+    background-image: url(../image/mainpage_background.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.row {
+    width: 100%;
+}
+
+#head {
+    text-align: center;
+}
+
+#body {
+    margin: 20px 0 20px 0;
+}
+
+#mainApp {
+
+}
+
+#accordion {
+    margin: 23px 0 0 0;
+}
+
+#redMark {
+    color: red;
+}
+
+.panel-body {
+    text-align: justify;
+}

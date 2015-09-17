@@ -1,0 +1,416 @@
+<html>
+<head>
+<title>Docs for page service.php</title>
+<link rel="stylesheet" type="text/css" href="../media/style.css">
+</head>
+<body>
+
+<table border="0" cellspacing="0" cellpadding="0" height="48" width="100%">
+  <tr>
+    <td class="header_top">mccap-server</td>
+  </tr>
+  <tr><td class="header_line"><img src="../media/empty.png" width="1" height="1" border="0" alt=""  /></td></tr>
+  <tr>
+    <td class="header_menu">
+        
+                                    
+                              		  [ <a href="../classtrees_mccap-server.html" class="menu">class tree: mccap-server</a> ]
+		  [ <a href="../elementindex_mccap-server.html" class="menu">index: mccap-server</a> ]
+		  	    [ <a href="../elementindex.html" class="menu">all elements</a> ]
+    </td>
+  </tr>
+  <tr><td class="header_line"><img src="../media/empty.png" width="1" height="1" border="0" alt=""  /></td></tr>
+</table>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="200" class="menu">
+      <b>Packages:</b><br />
+              <a href="../li_mccap-server.html">mccap-server</a><br />
+            <br /><br />
+                        <b>Files:</b><br />
+      	  <div class="package">
+			<a href="../mccap-server/_data---bioBrickDA.php.html">		bioBrickDA.php
+		</a><br>
+			<a href="../mccap-server/_service---bioBrickServ.php.html">		bioBrickServ.php
+		</a><br>
+			<a href="../mccap-server/_validation---bootstrap.php.html">		bootstrap.php
+		</a><br>
+			<a href="../mccap-server/_data---cegRecordDA.php.html">		cegRecordDA.php
+		</a><br>
+			<a href="../mccap-server/_service---cegRecordServ.php.html">		cegRecordServ.php
+		</a><br>
+			<a href="../mccap-server/_validation---compareHalfNumWithNumber.php.html">		compareHalfNumWithNumber.php
+		</a><br>
+			<a href="../mccap-server/_validation---compareHalfNumWithRatio.php.html">		compareHalfNumWithRatio.php
+		</a><br>
+			<a href="../mccap-server/_config---db.php.html">		db.php
+		</a><br>
+			<a href="../mccap-server/_validation---generateMatrix.php.html">		generateMatrix.php
+		</a><br>
+			<a href="../mccap-server/_validation---halfCmpFull.php.html">		halfCmpFull.php
+		</a><br>
+			<a href="../mccap-server/_index.php.html">		index.php
+		</a><br>
+			<a href="../mccap-server/_service---keggServ.php.html">		keggServ.php
+		</a><br>
+			<a href="../mccap-server/_config---main.php.html">		main.php
+		</a><br>
+			<a href="../mccap-server/_data---organismDA.php.html">		organismDA.php
+		</a><br>
+			<a href="../mccap-server/_service---organismServ.php.html">		organismServ.php
+		</a><br>
+			<a href="../mccap-server/_validation---service.php.html">		service.php
+		</a><br>
+			<a href="../mccap-server/_service---util.php.html">		util.php
+		</a><br>
+	  </div><br />
+      
+      
+                </td>
+    <td>
+      <table cellpadding="10" cellspacing="0" width="100%" border="0"><tr><td valign="top">
+
+<h1>Procedural File: service.php</h1>
+Source Location: /validation/service.php<br /><br />
+
+<br>
+<br>
+
+
+<h2>Page Details:</h2>
+<br /><br />
+<h4>Includes:</h4>
+<div class="tags">
+require_once(<a href="../mccap-server/_service---organismServ.php.html">organismServ.php</a>) [line 5]<br />
+require_once(<a href="../mccap-server/_service---util.php.html">util.php</a>) [line 6]<br />
+require_once(<a href="../mccap-server/_service---cegRecordServ.php.html">cegRecordServ.php</a>) [line 4]<br />
+</div>
+<br /><br />
+<br /><br />
+<br />
+  <hr />
+	<a name="functioncompareTwoMgsWithHalfNum"></a>
+	<h3>compareTwoMgsWithHalfNum <span class="smalllinenumber">[line 104]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>void compareTwoMgsWithHalfNum(
+ $idArr1,  $idArr2,  $num)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$idArr1</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$idArr2</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$num</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functionfindMgsWithHalfNum"></a>
+	<h3>findMgsWithHalfNum <span class="smalllinenumber">[line 13]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>int findMgsWithHalfNum(
+type $idArr,  $num)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		Find clusters of essential gene with a custom number.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$idArr</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$num</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiongetCegBaseByIdArrWithHalfNum"></a>
+	<h3>getCegBaseByIdArrWithHalfNum <span class="smalllinenumber">[line 75]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>type getCegBaseByIdArrWithHalfNum(
+type $idArr,  $num)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		Get CEG base record, each cluster with a description.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$idArr</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$num</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiongetCmpResultWithHalfNum"></a>
+	<h3>getCmpResultWithHalfNum <span class="smalllinenumber">[line 125]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>void getCmpResultWithHalfNum(
+ $idArr1,  $idArr2,  $num)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$idArr1</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$idArr2</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$num</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiongetMgsCegDescCateWithHalfNum"></a>
+	<h3>getMgsCegDescCateWithHalfNum <span class="smalllinenumber">[line 92]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>type getMgsCegDescCateWithHalfNum(
+type $idArr,  $num)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		Get a set of record with cluster, description and category.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$idArr</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$num</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiongetMgsPureCegWithHalfNum"></a>
+	<h3>getMgsPureCegWithHalfNum <span class="smalllinenumber">[line 64]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>type getMgsPureCegWithHalfNum(
+type $idArr,  $num)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		Get the cluster only.<br /><br />    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">type&nbsp;&nbsp;</td>
+        <td><b>$idArr</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$num</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiongetRandOgList"></a>
+	<h3>getRandOgList <span class="smalllinenumber">[line 199]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>void getRandOgList(
+ $minId,  $maxId,  $ogNum, [ $listNum = 1])</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$minId</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$maxId</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$ogNum</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$listNum</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiongetStaticsForCmpHalfNumWithNumber"></a>
+	<h3>getStaticsForCmpHalfNumWithNumber <span class="smalllinenumber">[line 169]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>void getStaticsForCmpHalfNumWithNumber(
+ $pureCegArr)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$pureCegArr</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiongetStaticsForCmpHalfNumWithRatio"></a>
+	<h3>getStaticsForCmpHalfNumWithRatio <span class="smalllinenumber">[line 174]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>void getStaticsForCmpHalfNumWithRatio(
+ $compareRs)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$compareRs</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiongetStaticsForHalfCmpFull"></a>
+	<h3>getStaticsForHalfCmpFull <span class="smalllinenumber">[line 163]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>void getStaticsForHalfCmpFull(
+ $pureCegArr1,  $pureCegArr2)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$pureCegArr1</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$pureCegArr2</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+  <hr />
+	<a name="functiongetValidateStatics"></a>
+	<h3>getValidateStatics <span class="smalllinenumber">[line 134]</span></h3>
+	<div class="function">
+    <table width="90%" border="0" cellspacing="0" cellpadding="1"><tr><td class="code_border">
+    <table width="100%" border="0" cellspacing="0" cellpadding="2"><tr><td class="code">
+		<code>void getValidateStatics(
+ $compareRs)</code>
+    </td></tr></table>
+    </td></tr></table><br />
+
+		    <br /><br />
+	
+    		<h4>Parameters</h4>
+    <table border="0" cellspacing="0" cellpadding="0">
+		      <tr>
+        <td class="type">&nbsp;&nbsp;</td>
+        <td><b>$compareRs</b>&nbsp;&nbsp;</td>
+        <td></td>
+      </tr>
+				</table>
+    	<div class="top">[ <a href="#top">Top</a> ]</div><br /><br />
+	</div>
+
+        <div class="credit">
+		    <hr />
+		    Documentation generated on Thu, 17 Sep 2015 22:02:01 +0200 by <a href="http://www.phpdoc.org">phpDocumentor 1.4.3</a>
+	      </div>
+      </td></tr></table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>

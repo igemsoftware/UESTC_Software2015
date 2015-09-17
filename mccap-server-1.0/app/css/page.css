@@ -1,0 +1,114 @@
+/** common css for page **/
+html {
+    height: 100%;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+    height: 100%;
+    background-color: #EAEAEA;
+    background-attachment: fixed;
+}
+
+/** begin of css for Gene Network page **/
+#ul-geneNetwork, #li-geneNetwork {
+    list-style: none;
+    margin: 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: black;
+}
+
+#li-geneNetwork a {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: black;
+    text-decoration: none;
+}
+
+#li-geneNetwork a:hover {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: black;
+    text-decoration:underline;
+    font-weight: bold;
+}
+/** end of css for Gene Network page **/
+
+/** begin of css for Gene Cluster Detail page **/
+#head {
+    text-align: center;
+}
+
+#body {
+    margin: 20px 0 0 0;
+}
+
+table {
+    width: 100%;
+}
+
+#th-heading {
+    width: 30%;
+}
+
+#th-content {
+    width: 70%;
+}
+
+#div-scroll-bar {
+    height: 80px;
+    overflow: auto;
+    text-align: justify;
+    word-break: break-all;
+    margin-bottom: 0px;
+}
+
+#gene-content {
+    height: 460px;
+    overflow: auto;
+}
+
+#right-bar-1 {
+    height: 200px;
+    overflow: hidden;
+}
+
+#right-bar-2 {
+    height: 200px;
+    overflow: hidden;
+}
+
+#cluster-table tr {
+    margin: 3px 0 3px 0;
+    padding: 4px 0 0 0;
+}
+
+#gene-info-table {
+    
+}
+
+.my-panel {
+    margin-bottom: 30px;
+}
+
+#gene-table, #cluster-table {
+    font-size: 110%;
+    height: 100%;
+}
+
+#biobrick-table {
+    font-size: 110%;
+}
+
+/** end of css for Gene Cluster Detail page **/
+
+/** begin of css for All Biobrick Table page **/
+#BBK {
+    width: 100%;
+    font-size: 100%;
+}
+
+#BBK-panel {
+    width: 100%;
+    height: 500px;
+    overflow-y: auto;
+}
+/** end of css for All Biobrick Table page **/
