@@ -1,0 +1,17 @@
+ENTRY       M00581            Complex   Module
+NAME        Biotin transport system
+DEFINITION  K03523+K16783+K16784
+ORTHOLOGY   K03523  bioY; biotin transport system substrate-specific component
+            K16783  bioN; biotin transport system permease protein
+            K16784  bioM; biotin transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Metallic cation, iron-siderophore and vitamin B12 transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 2:1:2
+            Substrate: Biotin [CPD:C00120]
+DBLINKS     BSID: 890648
+REFERENCE   PMID:18931129
+  AUTHORS   Rodionov DA, Hebbeln P, Eudes A, ter Beek J, Rodionova IA, Erkens GB, Slotboom DJ, Gelfand MS, Osterman AL, Hanson AD, Eitinger T
+  TITLE     A novel class of modular transporters for vitamins in prokaryotes.
+  JOURNAL   J Bacteriol 191:42-51 (2009)
+///

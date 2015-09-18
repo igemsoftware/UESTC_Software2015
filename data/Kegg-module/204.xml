@@ -1,0 +1,22 @@
+ENTRY       M00204            Complex   Module
+NAME        Trehalose/maltose transport system
+DEFINITION  K10236+K10237+K10238+K10111
+ORTHOLOGY   K10236  thuE; trehalose/maltose transport system substrate-binding protein
+            K10237  thuF; trehalose/maltose transport system permease protein
+            K10238  thuG; trehalose/maltose transport system permease protein
+            K10111  malK; multiple sugar transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: Trehalose [CPD:C01083], Maltose [CPD:C00208], Sucrose [CPD:C00089]
+DBLINKS     BSID: 890472
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:12003938 (trehalose, maltose, sucrose)
+  AUTHORS   Jensen JB, Peters NK, Bhuvaneswari TV.
+  TITLE     Redundancy in periplasmic binding protein-dependent transport systems for trehalose, sucrose, and maltose in Sinorhizobium meliloti.
+  JOURNAL   J Bacteriol 184:2978-86 (2002)
+///

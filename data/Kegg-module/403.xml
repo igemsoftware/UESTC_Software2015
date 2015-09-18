@@ -1,0 +1,27 @@
+ENTRY       M00403            Complex   Module
+NAME        HRD1/SEL1 ERAD complex
+DEFINITION  K10601+K14026+(K10088,K14008)+K14027+K11519+K13989+K14025+K13525+K14015+K14016
+ORTHOLOGY   K10601  SYVN1; E3 ubiquitin-protein ligase synoviolin [EC:6.3.2.19]
+            K14026  SEL1; SEL1 protein
+            K10088  OS9; protein OS-9
+            K14008  ERLEC1; endoplasmic reticulum lectin 1
+            K14027  HERPUD1; homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 protein
+            K11519  DERL1; Derlin-1
+            K13989  DERL2_3; Derlin-2/3
+            K14025  SELS; selenoprotein S
+            K13525  VCP; transitional endoplasmic reticulum ATPase
+            K14015  NPLOC4; nuclear protein localization protein 4 homolog
+            K14016  UFD1; ubiquitin fusion degradation protein 1
+CLASS       Structural complex; Genetic information processing; Protein processing
+PATHWAY     map04141  Protein processing in endoplasmic reticulum
+COMMENT     containing  p97-Ufd1-Npl4 complex [MD:M00400]
+DBLINKS     BSID: 468401
+REFERENCE   PMID:21454652
+  AUTHORS   Iida Y, Fujimori T, Okawa K, Nagata K, Wada I, Hosokawa N
+  TITLE     SEL1L Protein Critically Determines the Stability of the HRD1-SEL1L Endoplasmic Reticulum-associated Degradation (ERAD) Complex to Optimize the Degradation Kinetics of ERAD Substrates.
+  JOURNAL   J Biol Chem 286:16929-39 (2011)
+REFERENCE   PMID:19923195
+  AUTHORS   Hoseki J, Ushioda R, Nagata K
+  TITLE     Mechanism and components of endoplasmic reticulum-associated degradation.
+  JOURNAL   J Biochem 147:19-25 (2010)
+///

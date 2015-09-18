@@ -1,0 +1,15 @@
+ENTRY       M00518            FuncSet   Module
+NAME        GlnK-GlnL (glutamine utilization) two-component regulatory system
+DEFINITION  K07717 K07719
+ORTHOLOGY   K07717  glnK; sensor histidine kinase
+            K07719  glnL; response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Glutamine [CPD:C00064]
+DBLINKS     BSID: 565971
+REFERENCE   PMID:15995196
+  AUTHORS   Satomura T, Shimura D, Asai K, Sadaie Y, Hirooka K, Fujita Y
+  TITLE     Enhancement of glutamine utilization in Bacillus subtilis through the GlnK-GlnL two-component regulatory system.
+  JOURNAL   J Bacteriol 187:4813-21 (2005)
+///

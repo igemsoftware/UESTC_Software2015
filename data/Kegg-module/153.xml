@@ -1,0 +1,10 @@
+ENTRY       M00153            Complex   Module
+NAME        Cytochrome d ubiquinol oxidase
+DEFINITION  K00425+K00426
+ORTHOLOGY   K00425  cytochrome d ubiquinol oxidase subunit I [EC:1.10.3.-]
+            K00426  cytochrome d ubiquinol oxidase subunit II [EC:1.10.3.-]
+CLASS       Structural complex; Energy metabolism; ATP synthesis
+PATHWAY     map00190  Oxidative phosphorylation
+COMMENT     Terminal oxidase in the electron transport chain.
+DBLINKS     BSID: 890448
+///

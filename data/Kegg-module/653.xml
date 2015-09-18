@@ -1,0 +1,14 @@
+ENTRY       M00653            FuncSet   Module
+NAME        AauS-AauR (acidic amino acids utilization) two-component regulatory system
+DEFINITION  K17060 K17061
+ORTHOLOGY   K17060  aauS; two-component system, sensor histidine kinase AauS [EC:2.7.13.3]
+            K17061  aauR; two-component system, response regulator AauR
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Glutamate [CPD:C00025]
+REFERENCE   PMID:17021207
+  AUTHORS   Sonawane AM, Singh B, Rohm KH
+  TITLE     The AauR-AauS two-component system regulates uptake and metabolism of acidic amino acids in Pseudomonas putida.
+  JOURNAL   Appl Environ Microbiol 72:6569-77 (2006)
+///

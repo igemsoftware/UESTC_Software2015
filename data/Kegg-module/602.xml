@@ -1,0 +1,17 @@
+ENTRY       M00602            Complex   Module
+NAME        Arabinosaccharide transport system
+DEFINITION  K17234+K17235+K17236+K10112
+ORTHOLOGY   K17234  araN; arabinosaccharide transport system substrate-binding protein
+            K17235  araP; arabinosaccharide transport system permease protein
+            K17236  araQ; arabinosaccharide transport system permease protein
+            K10112  msmX; multiple sugar transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: alpha-1,5-Arabinooligosaccharide [CPD:C20570 C20571 C20572]
+DBLINKS     BSID: 890664
+REFERENCE   PMID:20693325
+  AUTHORS   Ferreira MJ, Sa-Nogueira Id
+  TITLE     A multitask ATPase serving different ABC-type sugar importers in Bacillus subtilis.
+  JOURNAL   J Bacteriol 192:5312-8 (2010)
+///

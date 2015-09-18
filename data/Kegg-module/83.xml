@@ -1,0 +1,24 @@
+ENTRY       M00083            Pathway   Module
+NAME        Fatty acid biosynthesis, elongation
+DEFINITION  K00665,(K00667 K00668),K11533,((K00647,K09458,K00648) K00059 (K02372,K01716,K16363) (K00208,K02371,K10780,K00209))
+ORTHOLOGY   K00665  fatty acid synthase, animal type [EC:2.3.1.85] [RN:R04355 R04533 R04428 R04430]
+            K00667+K00668  fatty acid synthase, fungi type [EC:2.3.1.86] [RN:R04355 R04533 R04428 R04430]
+            K11533  ffatty acid synthase, actinobacteria type [EC:2.3.1.-] [RN:R04355 R04533 R04428 R04430]
+            K00647,K09458,K00648  3-oxoacyl-[acyl-carrier-protein] synthase [EC:2.3.1.41] [RN:R04355]
+            K00059  3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] [RN:R04533]
+            K02372,K01716,K16363  f3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59] [RN:R04428]
+            K00208,K02371,K10780,K00209  enoyl-[acyl-carrier protein] reductase [EC:1.3.1.9] [RN:R04429 R04430]
+CLASS       Pathway module; Carbohydrate and lipid metabolism; Fatty acid metabolism
+PATHWAY     map01212  Fatty acid metabolism
+            map00061  Fatty acid biosynthesis
+REACTION    R04355  C03939 -> C05744
+            R04533  C05744 -> C04618
+            R04428  C04618 -> C04246
+            R04429,R04430  C04246 -> C05745
+COMPOUND    C03939  Acetyl-[acp]
+            C05744  Acetoacetyl-[acp]
+            C04618  (3R)-3-Hydroxybutanoyl-[acp]
+            C04246  But-2-enoyl-[acp]
+            C05745  Butyryl-[acp]
+DBLINKS     BSID: 468276
+///

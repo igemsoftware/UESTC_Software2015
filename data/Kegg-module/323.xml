@@ -1,0 +1,23 @@
+ENTRY       M00323            Complex   Module
+NAME        Urea transport system
+DEFINITION  K11959+K11960+K11961+K11962+K11963
+ORTHOLOGY   K11959  urtA; urea transport system substrate-binding protein
+            K11960  urtB; urea transport system permease protein
+            K11961  urtC; urea transport system permease protein
+            K11962  urtD; urea transport system ATP-binding protein
+            K11963  urtE; urea transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:1:1
+            Substrate: Urea [CPD:C00086]
+DBLINKS     BSID: 890577
+REFERENCE   PMID:11929526 (Urea)
+  AUTHORS   Valladares A, Montesinos ML, Herrero A, Flores E.
+  TITLE     An ABC-type, high-affinity urea permease identified in cyanobacteria.
+  JOURNAL   Mol Microbiol 43:703-15 (2002)
+REFERENCE   PMID:15516578
+  AUTHORS   Beckers G, Bendt AK, Kramer R, Burkovski A
+  TITLE     Molecular identification of the urea uptake system and transcriptional analysis of urea transporter- and urease-encoding genes in Corynebacterium glutamicum.
+  JOURNAL   J Bacteriol 186:7645-52 (2004)
+///

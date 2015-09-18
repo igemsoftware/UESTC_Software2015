@@ -1,0 +1,15 @@
+ENTRY       M00466            FuncSet   Module
+NAME        NblS-NblR (photosynthesis) two-component regulatory system
+DEFINITION  K07769 K11332
+ORTHOLOGY   K07769  nblS; OmpR family, sensor histidine kinase
+            K11332  nblR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: High-intensity light and nutrient stress conditions
+DBLINKS     BSID: 565920
+REFERENCE   PMID:11948163
+  AUTHORS   van Waasbergen LG, Dolganov N, Grossman AR
+  TITLE     nblS, a gene involved in controlling photosynthesis-related gene expression during high light and nutrient stress in Synechococcus elongatus PCC 7942.
+  JOURNAL   J Bacteriol 184:2481-90 (2002)
+///

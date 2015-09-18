@@ -1,0 +1,24 @@
+ENTRY       M00593            Complex   Module
+NAME        Inositol transport system
+DEFINITION  K17213+K17214+K17215
+ORTHOLOGY   K17213  K17213; inositol transport system substrate-binding protein
+            K17214  K17214; inositol transport system permease protein
+            K17215  K17215; inositol transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: myo-Inositol [CPD:C00137]
+DBLINKS     BSID: 890658
+REFERENCE   PMID:19096521
+  AUTHORS   Boutte CC, Srinivasan BS, Flannick JA, Novak AF, Martens AT, Batzoglou S, Viollier PH, Crosson S
+  TITLE     Genetic and computational identification of a conserved bacterial metabolic module.
+  JOURNAL   PLoS Genet 4:e1000310 (2008)
+REFERENCE   PMID:6735978
+  AUTHORS   Deshusses J, Belet M
+  TITLE     Purification and properties of the myo-inositol-binding protein from a Pseudomonas sp.
+  JOURNAL   J Bacteriol 159:179-83 (1984)
+REFERENCE   PMID:23504019
+  AUTHORS   Herrou J, Crosson S
+  TITLE     myo-inositol and D-ribose ligand discrimination in an ABC periplasmic binding protein.
+  JOURNAL   J Bacteriol 195:2379-88 (2013)
+///

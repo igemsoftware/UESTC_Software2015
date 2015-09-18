@@ -1,0 +1,18 @@
+ENTRY       M00348            Complex   Module
+NAME        Glutathione transport system
+DEFINITION  K13889+K13890+K13891+K13892
+ORTHOLOGY   K13889  gsiB; glutathione transport system substrate-binding protein
+            K13890  gsiC; glutathione transport system permease protein
+            K13891  gsiD; glutathione transport system permease protein
+            K13892  gsiA; glutathione transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Peptide and nickel transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: Glutathione [CPD:C00051]
+DBLINKS     BSID: 890596
+REFERENCE   PMID:16109926
+  AUTHORS   Suzuki H, Koyanagi T, Izuka S, Onishi A, Kumagai H
+  TITLE     The yliA, -B, -C, and -D genes of Escherichia coli K-12 encode a novel glutathione importer with an ATP-binding cassette.
+  JOURNAL   J Bacteriol 187:5861-7 (2005)
+///

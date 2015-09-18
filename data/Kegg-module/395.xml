@@ -1,0 +1,22 @@
+ENTRY       M00395            Complex   Module
+NAME        Decapping complex
+DEFINITION  (K12610,K12611,K12612)+K12613+K12614+K12615+K12617
+ORTHOLOGY   K12610  DCP1A; mRNA-decapping enzyme 1A [EC:3.-.-.-]
+            K12611  DCP1B; mRNA-decapping enzyme 1B [EC:3.-.-.-]
+            K12612  DCP1; mRNA-decapping enzyme subunit 1
+            K12613  DCP2; mRNA-decapping enzyme subunit 2 [EC:3.-.-.-]
+            K12614  DDX6; ATP-dependent RNA helicase DDX6/DHH1 [EC:3.6.4.13]
+            K12615  EDC3; enhancer of mRNA-decapping protein 3
+            K12617  PATL1; DNA topoisomerase 2-associated protein PAT1
+CLASS       Structural complex; Genetic information processing; RNA processing
+PATHWAY     map03018  RNA degradation
+DBLINKS     BSID: 468400
+REFERENCE   PMID:15901504
+  AUTHORS   Fillman C, Lykke-Andersen J
+  TITLE     RNA decapping inside and outside of processing bodies.
+  JOURNAL   Curr Opin Cell Biol 17:326-31 (2005)
+REFERENCE   PMID:15189161
+  AUTHORS   Coller J, Parker R
+  TITLE     Eukaryotic mRNA decapping.
+  JOURNAL   Annu Rev Biochem 73:861-90 (2004)
+///

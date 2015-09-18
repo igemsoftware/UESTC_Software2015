@@ -1,0 +1,25 @@
+ENTRY       M00234            Complex   Module
+NAME        Cystine transport system
+DEFINITION  K02424+K10009+K10010
+ORTHOLOGY   K02424  fliY; cystine transport system substrate-binding protein
+            K10009  ABC.CYST.P; cystine transport system permease protein
+            K10010  ABC.CYST.A; cystine transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:1
+            Substrate: L-Cystine [CPD:C00491], meso-2,6-Diaminopimelate [CPD:C00680]
+DBLINKS     BSID: 890500
+REFERENCE   PMID:11421273
+  AUTHORS   Hosie AH, Poole PS.
+  TITLE     Bacterial ABC transporters of amino acids.
+  JOURNAL   Res Microbiol 152:259-70 (2001)
+REFERENCE   PMID:9315727
+  AUTHORS   Walshaw DL, Lowthorpe S, East A, Poole PS.
+  TITLE     Distribution of a sub-class of bacterial ABC polar amino acid transporter and identification of an N-terminal region involved in solute specificity.
+  JOURNAL   FEBS Lett 414:397-401 (1997)
+REFERENCE   PMID:4564569 (L-cystine, meso-2,6-diaminopimelate)
+  AUTHORS   Berger EA, Heppel LA.
+  TITLE     A binding protein involved in the transport of cystine and diaminopimelic acid in Escherichia coli.
+  JOURNAL   J Biol Chem 247:7684-94 (1972)
+///

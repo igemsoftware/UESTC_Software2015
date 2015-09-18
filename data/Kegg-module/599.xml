@@ -1,0 +1,17 @@
+ENTRY       M00599            Complex   Module
+NAME        Inositol-phosphate transport system
+DEFINITION  K17237+K17238+K17239+K17240
+ORTHOLOGY   K17237  inoE; inositol-phosphate transport system substrate-binding protein
+            K17238  inoF; inositol-phosphate transport system permease protein
+            K17239  inoG; inositol-phosphate transport system permease protein
+            K17240  inoK; inositol-phosphate transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: myo-Inositol 1-phosphate [CPD:C01177]
+DBLINKS     BSID: 890661
+REFERENCE   PMID:23441918
+  AUTHORS   Rodionova IA, Leyn SA, Burkart MD, Boucher N, Noll KM, Osterman AL, Rodionov DA
+  TITLE     Novel inositol catabolic pathway in Thermotoga maritima.
+  JOURNAL   Environ Microbiol 15:2254-66 (2013)
+///

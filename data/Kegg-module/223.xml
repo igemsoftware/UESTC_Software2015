@@ -1,0 +1,25 @@
+ENTRY       M00223            Complex   Module
+NAME        Phosphonate transport system
+DEFINITION  K02044+K02042+K02041
+ORTHOLOGY   K02044  phnD; phosphonate transport system substrate-binding protein
+            K02042  phnE; phosphonate transport system permease protein
+            K02041  phnC; phosphonate transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Alkylphosphonate [CPD:C06235], Phosphate [CPD:C00009]
+DBLINKS     BSID: 890490
+REFERENCE   PMID:8388873 (phosphonate degradation)
+  AUTHORS   Metcalf WW, Wanner BL.
+  TITLE     Mutational analysis of an Escherichia coli fourteen-gene operon for phosphonate degradation, using TnphoA' elements.
+  JOURNAL   J Bacteriol 175:3430-42 (1993)
+REFERENCE   PMID:1840580 (alkylphosphonate)
+  AUTHORS   Makino K, Kim SK, Shinagawa H, Amemura M, Nakata A.
+  TITLE     Molecular analysis of the cryptic and functional phn operons for phosphonate use in Escherichia coli K-12.
+  JOURNAL   J Bacteriol 173:2665-72 (1991)
+REFERENCE   PMID:17074913 (phosphate)
+  AUTHORS   Gebhard S, Tran SL, Cook GM
+  TITLE     The Phn system of Mycobacterium smegmatis: a second high-affinity ABC-transporter for phosphate.
+  JOURNAL   Microbiology 152:3453-65 (2006)
+///

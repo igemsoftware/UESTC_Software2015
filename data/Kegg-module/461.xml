@@ -1,0 +1,19 @@
+ENTRY       M00461            FuncSet   Module
+NAME        MtrB-MtrA (osmotic stress response) two-component regulatory system
+DEFINITION  K07654 K07670
+ORTHOLOGY   K07654  mtrB; OmpR family, sensor histidine kinase
+            K07670  mtrA; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Hyperosmotic stress
+DBLINKS     BSID: 565915
+REFERENCE   PMID:16629667
+  AUTHORS   Fol M, Chauhan A, Nair NK, Maloney E, Moomey M, Jagannath C, Madiraju MV, Rajagopalan M
+  TITLE     Modulation of Mycobacterium tuberculosis proliferation by MtrA, an essential two-component response regulator.
+  JOURNAL   Mol Microbiol 60:643-57 (2006)
+REFERENCE   PMID:19308662
+  AUTHORS   Kramer R
+  TITLE     Osmosensing and osmosignaling in Corynebacterium glutamicum.
+  JOURNAL   Amino Acids 37:487-97 (2009)
+///

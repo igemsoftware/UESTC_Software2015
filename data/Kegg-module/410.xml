@@ -1,0 +1,18 @@
+ENTRY       M00410            Complex   Module
+NAME        ESCRT-II complex
+DEFINITION  K12188+K12189+K12190
+ORTHOLOGY   K12188  SNF8; ESCRT-II complex subunit VPS22
+            K12189  VPS25; ESCRT-II complex subunit VPS25
+            K12190  VPS36; ESCRT-II complex subunit VPS36
+CLASS       Structural complex; Genetic information processing; Protein processing
+PATHWAY     map04144  Endocytosis
+DBLINKS     BSID: 890625
+REFERENCE   PMID:16615903
+  AUTHORS   Eathiraj S, Lambright DG
+  TITLE     ESCRT complexes assembled and GLUEd.
+  JOURNAL   Structure 14:631-2 (2006)
+REFERENCE   PMID:19560911
+  AUTHORS   Hanson PI, Shim S, Merrill SA
+  TITLE     Cell biology of the ESCRT machinery.
+  JOURNAL   Curr Opin Cell Biol 21:568-74 (2009)
+///

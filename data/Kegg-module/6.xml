@@ -1,0 +1,19 @@
+ENTRY       M00006            Pathway   Module
+NAME        Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P
+DEFINITION  (K13937,K00036 (K01057,K07404)) K00033
+ORTHOLOGY   K13937  hexose-6-phosphate dehydrogenase [EC:1.1.1.47 3.1.1.31] [RN:R02736 R02035]
+            K00036  glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49] [RN:R02736]
+            K01057,K07404  6-phosphogluconolactonase [EC:3.1.1.31] [RN:R02035]
+            K00033  6-phosphogluconate dehydrogenase [EC:1.1.1.44] [RN:R01528]
+CLASS       Pathway module; Carbohydrate and lipid metabolism; Central carbohydrate metabolism
+PATHWAY     map01200  Carbon metabolism
+            map00030  Pentose phosphate pathway
+REACTION    R02736  C01172 -> C01236
+            R02035  C01236 -> C00345
+            R01528  C00345 -> C00199
+COMPOUND    C01172  beta-D-Glucose 6-phosphate
+            C01236  D-Glucono-1,5-lactone 6-phosphate
+            C00345  6-Phospho-D-gluconate
+            C00199  D-Ribulose 5-phosphate
+DBLINKS     BSID: 468199
+///

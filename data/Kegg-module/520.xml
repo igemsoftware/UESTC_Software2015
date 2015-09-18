@@ -1,0 +1,23 @@
+ENTRY       M00520            FuncSet   Module
+NAME        ChvG-ChvI (acidity sensing) two-component regulatory system
+DEFINITION  K14980 K14981
+ORTHOLOGY   K14980  chvG; OmpR family, sensor histidine kinase
+            K14981  chvI; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Acidic condition
+DBLINKS     BSID: 565973
+REFERENCE   PMID:19749054
+  AUTHORS   Chen EJ, Fisher RF, Perovich VM, Sabio EA, Long SR
+  TITLE     Identification of direct transcriptional target genes of ExoS/ChvI two-component  signaling in Sinorhizobium meliloti.
+  JOURNAL   J Bacteriol 191:6833-42 (2009)
+REFERENCE   PMID:17993523
+  AUTHORS   Yuan ZC, Liu P, Saenkham P, Kerr K, Nester EW
+  TITLE     Transcriptome profiling and functional analysis of Agrobacterium tumefaciens reveals a general conserved response to acidic conditions (pH 5.5) and a complex  acid-mediated signaling involved in Agrobacterium-plant interactions.
+  JOURNAL   J Bacteriol 190:494-507 (2008)
+REFERENCE   PMID:12218184
+  AUTHORS   Li L, Jia Y, Hou Q, Charles TC, Nester EW, Pan SQ
+  TITLE     A global pH sensor: Agrobacterium sensor protein ChvG regulates acid-inducible genes on its two chromosomes and Ti plasmid.
+  JOURNAL   Proc Natl Acad Sci U S A 99:12369-74 (2002)
+///

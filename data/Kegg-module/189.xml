@@ -1,0 +1,22 @@
+ENTRY       M00189            Complex   Module
+NAME        Molybdate transport system
+DEFINITION  K02020+K02018+K02017-K05776
+ORTHOLOGY   K02020  modA; molybdate transport system substrate-binding protein
+            K02018  modB; molybdate transport system permease protein
+            K02017  modC; molybdate transport system ATP-binding protein [EC:3.6.3.29]
+            K05776  modF; molybdate transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:1:1
+            Substrate: Molybdate [CPD:C06232]
+DBLINKS     BSID: 890462
+REFERENCE   PMID:8564363
+  AUTHORS   Walkenhorst HM, Hemschemeier SK, Eichenlaub R
+  TITLE     Molecular analysis of the molybdate uptake operon, modABCD, of Escherichia coli and modR, a regulatory gene.
+  JOURNAL   Microbiol Res 150:347-61 (1995)
+REFERENCE   PMID:7860583 (molybdate)
+  AUTHORS   Rech S, Deppenmeier U, Gunsalus RP.
+  TITLE     Regulation of the molybdate transport operon, modABCD, of Escherichia coli in response to molybdate availability.
+  JOURNAL   J Bacteriol 177:1023-9 (1995)
+///

@@ -1,0 +1,29 @@
+ENTRY       M00359            FuncSet   Module
+NAME        Aminoacyl-tRNA biosynthesis, eukaryotes
+DEFINITION  K01872 K01887 K01893 K01876 K01883 K01886 K01885 K01880 K01892 K01870 K01869 K04567 K01874 (K01889+K01890) K01881 K01875 K01868 K01867 K01866 K01873 -K14163
+ORTHOLOGY   K01872  AARS; alanyl-tRNA synthetase [EC:6.1.1.7]
+            K01887  RARS; arginyl-tRNA synthetase [EC:6.1.1.19]
+            K01893  NARS; asparaginyl-tRNA synthetase [EC:6.1.1.22]
+            K01876  DARS; aspartyl-tRNA synthetase [EC:6.1.1.12]
+            K01883  CARS; cysteinyl-tRNA synthetase [EC:6.1.1.16]
+            K01886  QARS; glutaminyl-tRNA synthetase [EC:6.1.1.18]
+            K01885  EARS; glutamyl-tRNA synthetase [EC:6.1.1.17]
+            K01880  GARS; glycyl-tRNA synthetase [EC:6.1.1.14]
+            K01892  HARS; histidyl-tRNA synthetase [EC:6.1.1.21]
+            K01870  IARS; isoleucyl-tRNA synthetase [EC:6.1.1.5]
+            K01869  LARS; leucyl-tRNA synthetase [EC:6.1.1.4]
+            K04567  KARS; lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+            K01874  MARS; methionyl-tRNA synthetase [EC:6.1.1.10]
+            K01889  FARSA; phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+            K01890  FARSB; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+            K01881  PARS; prolyl-tRNA synthetase [EC:6.1.1.15]
+            K01875  SARS; seryl-tRNA synthetase [EC:6.1.1.11]
+            K01868  TARS; threonyl-tRNA synthetase [EC:6.1.1.3]
+            K01867  WARS; tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+            K01866  YARS; tyrosyl-tRNA synthetase [EC:6.1.1.1]
+            K01873  VARS; valyl-tRNA synthetase [EC:6.1.1.9]
+            K14163  EPRS; bifunctional glutamyl/prolyl-tRNA synthetase [EC:6.1.1.17 6.1.1.15]
+CLASS       Functional set; Metabolism; Aminoacyl tRNA
+PATHWAY     map00970  Aminoacyl-tRNA biosynthesis
+DBLINKS     BSID: 468360
+///

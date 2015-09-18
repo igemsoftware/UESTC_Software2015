@@ -1,0 +1,28 @@
+ENTRY       M00284            Complex   Module
+NAME        Origin recognition complex
+DEFINITION  K02603+K02604+K02605+K02606+K02607+K02608
+ORTHOLOGY   K02603  ORC1; origin recognition complex subunit 1
+            K02604  ORC2; origin recognition complex subunit 2
+            K02605  ORC3; origin recognition complex subunit 3
+            K02606  ORC4; origin recognition complex subunit 4
+            K02607  ORC5; origin recognition complex subunit 5
+            K02608  ORC6; origin recognition complex subunit 6
+CLASS       Structural complex; Genetic information processing; Replication system
+PATHWAY     map04110  Cell cycle
+            map04111  Cell cycle - yeast
+            map04113  Meiosis - yeast
+BRITE       ko03032  DNA replication proteins
+DBLINKS     BSID: 890546
+REFERENCE   PMID:17466500
+  AUTHORS   Sasaki T, Gilbert DM
+  TITLE     The many faces of the origin recognition complex.
+  JOURNAL   Curr Opin Cell Biol 19:337-43 (2007)
+REFERENCE   PMID:17042960
+  AUTHORS   Fujita M.
+  TITLE     Cdt1 revisited: complex and tight regulation during the cell cycle and consequences of deregulation in mammalian cells.
+  JOURNAL   Cell Div 1:22 (2006)
+REFERENCE   PMID:17621316
+  AUTHORS   Aladjem MI.
+  TITLE     Replication in context: dynamic regulation of DNA replication patterns in metazoans.
+  JOURNAL   Nat Rev Genet 8:588-600 (2007)
+///

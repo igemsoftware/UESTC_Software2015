@@ -1,0 +1,19 @@
+ENTRY       M00517            FuncSet   Module
+NAME        RpfC-RpfG (cell-to-cell signaling) two-component regulatory system
+DEFINITION  K10715 K13815
+ORTHOLOGY   K10715  rpfC; sensor histidine kinase
+            K13815  rpfG; response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: DSF (Diffusible signaling factor) [CPD:C16665 C18206]
+DBLINKS     BSID: 565970
+REFERENCE   PMID:18422428
+  AUTHORS   Chatterjee S, Almeida RP, Lindow S
+  TITLE     Living in two worlds: the plant and insect lifestyles of Xylella fastidiosa.
+  JOURNAL   Annu Rev Phytopathol 46:243-71 (2008)
+REFERENCE   PMID:18506032
+  AUTHORS   Dow M
+  TITLE     Diversification of the function of cell-to-cell signaling in regulation of virulence within plant pathogenic xanthomonads.
+  JOURNAL   Sci Signal 1:pe23 (2008)
+///

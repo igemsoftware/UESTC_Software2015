@@ -1,0 +1,18 @@
+ENTRY       M00658            FuncSet   Module
+NAME        VanS-VanR (actinomycete type vancomycin resistance) two-component regulatory system
+DEFINITION  K18351 K18352
+ORTHOLOGY   K18351  vanSAc; two-component system, OmpR family, sensor histidine kinase VanS [EC:2.7.13.3]
+            K18352  vanRAc; two-component system, OmpR family, response regulator VanR
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Extracellular glycopeptide antibiotic
+REFERENCE   PMID:18792691
+  AUTHORS   Hong HJ, Hutchings MI, Buttner MJ
+  TITLE     Vancomycin resistance VanS/VanR two-component systems.
+  JOURNAL   Adv Exp Med Biol 631:200-13 (2008)
+REFERENCE   PMID:15130128
+  AUTHORS   Hong HJ, Hutchings MI, Neu JM, Wright GD, Paget MS, Buttner MJ
+  TITLE     Characterization of an inducible vancomycin resistance system in Streptomyces coelicolor reveals a novel gene (vanK) required for drug resistance.
+  JOURNAL   Mol Microbiol 52:1107-21 (2004)
+///

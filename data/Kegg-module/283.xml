@@ -1,0 +1,12 @@
+ENTRY       M00283            Complex   Module
+NAME        PTS system, ascorbate-specific II component
+DEFINITION  K02821+K02822+K03475
+ORTHOLOGY   K02821  PTS-Ula-EIIA; PTS system, ascorbate-specific IIA component [EC:2.7.1.69]
+            K02822  PTS-Ula-EIIB; PTS system, ascorbate-specific IIB component [EC:2.7.1.69]
+            K03475  PTS-Ula-EIIC; PTS system, ascorbate-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00053  Ascorbate and aldarate metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890545
+///

@@ -1,0 +1,13 @@
+ENTRY       M00278            Complex   Module
+NAME        PTS system, sorbose-specific II component
+DEFINITION  K02812+K02813+K02814+K02815
+ORTHOLOGY   K02812  PTS-Sor-EIIA; PTS system, sorbose-specific IIA component [EC:2.7.1.69]
+            K02813  PTS-Sor-EIIB; PTS system, sorbose-specific IIB component [EC:2.7.1.69]
+            K02814  PTS-Sor-EIIC; PTS system, sorbose-specific IIC component
+            K02815  PTS-Sor-EIID; PTS system, sorbose-specific IID component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00051  Fructose and mannose metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890540
+///

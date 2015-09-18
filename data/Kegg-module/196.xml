@@ -1,0 +1,34 @@
+ENTRY       M00196            Complex   Module
+NAME        Raffinose/stachyose/melibiose transport system
+DEFINITION  K10117+K10118+K10119+K10112
+ORTHOLOGY   K10117  msmE; raffinose/stachyose/melibiose transport system substrate-binding protein
+            K10118  msmF; raffinose/stachyose/melibiose transport system permease protein
+            K10119  msmG; raffinose/stachyose/melibiose transport system permease protein
+            K10112  msmX; multiple sugar transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: Melibiose [CPD:C05402], Raffinose [CPD:C00492], Isomaltotriose [CPD:C02160], Maltotriose [CPD:C01835]
+DBLINKS     BSID: 890467
+REFERENCE   PMID:17965163
+  AUTHORS   Webb AJ, Homer KA, Hosie AH
+  TITLE     Two closely related ABC transporters in Streptococcus mutans are involved in disaccharide and/or oligosaccharide uptake.
+  JOURNAL   J Bacteriol 190:168-78 (2008)
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:11162100 (maltotriose)
+  AUTHORS   Evdokimov AG, Anderson DE, Routzahn KM, Waugh DS
+  TITLE     Structural basis for oligosaccharide recognition by Pyrococcus furiosus maltodextrin-binding protein.
+  JOURNAL   J Mol Biol 305:891-904 (2001)
+REFERENCE   PMID:1537846 (melibiose, raffinose, isomaltotriose)
+  AUTHORS   Russell RR, Aduse-Opoku J, Sutcliffe IC, Tao L, Ferretti JJ.
+  TITLE     A binding protein-dependent transport system in Streptococcus mutans responsible for multiple sugar metabolism.
+  JOURNAL   J Biol Chem 267:4631-7 (1992)
+REFERENCE   PMID:10613841 (raffinose)
+  AUTHORS   Rosenow C, Maniar M, Trias J.
+  TITLE     Regulation of the alpha-galactosidase activity in Streptococcus pneumoniae: characterization of the raffinose utilization system.
+  JOURNAL   Genome Res 9:1189-97 (1999)
+///

@@ -1,0 +1,17 @@
+ENTRY       M00063            Pathway   Module
+NAME        CMP-KDO biosynthesis
+DEFINITION  K01627 K03270 K00979
+ORTHOLOGY   K01627  2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55] [RN:R03254]
+            K03270  3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase) [EC:3.1.3.45] [RN:R03350]
+            K00979  3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38] [RN:R03351]
+CLASS       Pathway module; Carbohydrate and lipid metabolism; Lipopolysaccharide metabolism
+PATHWAY     map00540  Lipopolysaccharide biosynthesis
+REACTION    R03254  C01112 -> C04478
+            R03350  C04478 -> C01187
+            R03351  C01187 -> C04121
+COMPOUND    C01112  D-Arabinose 5-phosphate
+            C04478  3-Deoxy-D-manno-octulosonate 8-phosphate
+            C01187  3-Deoxy-D-manno-octulosonate
+            C04121  CMP-3-deoxy-D-manno-octulosonate
+DBLINKS     BSID: 468256
+///

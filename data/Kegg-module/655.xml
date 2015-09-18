@@ -1,0 +1,13 @@
+ENTRY       M00655            FuncSet   Module
+NAME        AdeS-AdeR two-component regulatory system
+DEFINITION  K18143 K18144
+ORTHOLOGY   K18143  adeS; two-component system, OmpR family, sensor histidine kinase AdeS [EC:2.7.13.3]
+            K18144  adeR; two-component system, OmpR family, response regulator AdeR
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map00312  beta-Lactam resistance
+BRITE       ko02022  Two-component system
+REFERENCE   PMID:23217848
+  AUTHORS   Lopes BS, Amyes SG
+  TITLE     Insertion sequence disruption of adeR and ciprofloxacin resistance caused by efflux pumps and gyrA and parC mutations in Acinetobacter baumannii.
+  JOURNAL   Int J Antimicrob Agents 41:117-21 (2013)
+///

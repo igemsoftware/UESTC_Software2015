@@ -1,0 +1,24 @@
+ENTRY       M00398            Complex   Module
+NAME        Sm core complex
+DEFINITION  K11086+K11087+K11096+K11088+K11097+K11098+K11099
+ORTHOLOGY   K11086  SNRPB; small nuclear ribonucleoprotein B and B'
+            K11087  SNRPD1; small nuclear ribonucleoprotein D1
+            K11096  SNRPD2; small nuclear ribonucleoprotein D2
+            K11088  SNRPD3; small nuclear ribonucleoprotein D3
+            K11097  SNRPE; small nuclear ribonucleoprotein E
+            K11098  SNRPF; small nuclear ribonucleoprotein F
+            K11099  SNRPG; small nuclear ribonucleoprotein G
+CLASS       Structural complex; Genetic information processing; Spliceosome
+PATHWAY     map03040  Spliceosome
+BRITE       ko03032  DNA replication proteins
+            ko03041  Spliceosome
+DBLINKS     BSID: 890614
+REFERENCE   PMID:10025403
+  AUTHORS   Kambach C, Walke S, Young R, Avis JM, de la Fortelle E, Raker VA, Luhrmann R, Li J, Nagai K
+  TITLE     Crystal structures of two Sm protein complexes and their implications for the assembly of the spliceosomal snRNPs.
+  JOURNAL   Cell 96:375-87 (1999)
+REFERENCE   PMID:12409299
+  AUTHORS   Thore S, Mayer C, Sauter C, Weeks S, Suck D
+  TITLE     Crystal structures of the Pyrococcus abyssi Sm core and its complex with RNA. Common features of RNA binding in archaea and eukarya.
+  JOURNAL   J Biol Chem 278:1239-47 (2003)
+///

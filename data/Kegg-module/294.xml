@@ -1,0 +1,14 @@
+ENTRY       M00294            Complex   Module
+NAME        DNA polymerase gamma complex
+DEFINITION  K02332+K02333
+ORTHOLOGY   K02332  POLG1; DNA polymerase gamma subunit [EC:2.7.7.7] [COG:COG0749] [GO:0003895]
+            K02333  POLG2; DNA polymerase gamma2 subunit [EC:2.7.7.7] [GO:0003895]
+CLASS       Structural complex; Genetic information processing; DNA polymerase
+BRITE       ko03032  DNA replication proteins
+COMMENT     POLG1:POLG2=1:2
+DBLINKS     BSID: 890554
+REFERENCE   PMID:16574152
+  AUTHORS   Fan L, Kim S, Farr CL, Schaefer KT, Randolph KM, Tainer JA, Kaguni LS.
+  TITLE     A novel processive mechanism for DNA synthesis revealed by structure, modeling and mutagenesis of the accessory subunit of human mitochondrial DNA polymerase.
+  JOURNAL   J Mol Biol 358:1229-43 (2006)
+///

@@ -1,0 +1,19 @@
+ENTRY       M00440            Complex   Module
+NAME        Nickel transport system
+DEFINITION  K15584+K15585+K15586+K15587+K10824
+ORTHOLOGY   K15584  nikA; nickel transport system substrate-binding protein
+            K15585  nikB; nickel transport system permease protein
+            K15586  nikC; nickel transport system permease protein
+            K15587  nikD; nickel transport system ATP-binding protein [EC:3.6.3.24]
+            K10824  nikE; nickel transport system ATP-binding protein [EC:3.6.3.24]
+CLASS       Structural complex; Environmental information processing; Peptide and nickel transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:1:1
+            Substrate: Nickel(2+) [CPD:C19609]
+DBLINKS     BSID: 890644
+REFERENCE   PMID:21281641
+  AUTHORS   Cavazza C, Martin L, Laffly E, Lebrette H, Cherrier MV, Zeppieri L, Richaud P, Carriere M, Fontecilla-Camps JC
+  TITLE     Histidine 416 of the periplasmic binding protein NikA is essential for nickel uptake in Escherichia coli.
+  JOURNAL   FEBS Lett 585:711-5 (2011)
+///

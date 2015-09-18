@@ -1,0 +1,41 @@
+ENTRY       M00212            Complex   Module
+NAME        Ribose transport system
+DEFINITION  K10439+K10440+K10441
+ORTHOLOGY   K10439  rbsB; ribose transport system substrate-binding protein
+            K10440  rbsC; ribose transport system permease protein
+            K10441  rbsA; ribose transport system ATP-binding protein [EC:3.6.3.17]
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:1
+            Substrate: D-Ribose [CPD:C00121], Autoinducer 2 [CPD:C16421], D-Xylose [CPD:C00181]
+DBLINKS     BSID: 890479
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:7921236 (D-ribose)
+  AUTHORS   Woodson K, Devine KM.
+  TITLE     Analysis of a ribose transport operon from Bacillus subtilis.
+  JOURNAL   Microbiology 140 ( Pt 8):1829-38 (1994)
+REFERENCE   PMID:3011793 (D-ribose)
+  AUTHORS   Bell AW, Buckel SD, Groarke JM, Hope JN, Kingsley DH, Hermodson MA.
+  TITLE     The nucleotide sequences of the rbsD, rbsA, and rbsC genes of Escherichia coli K12.
+  JOURNAL   J Biol Chem 261:7652-8 (1986)
+REFERENCE   PMID:12923096 (D-ribose)
+  AUTHORS   Stewart JB, Hermodson MA.
+  TITLE     Topology of RbsC, the membrane component of the Escherichia coli ribose transporter.
+  JOURNAL   J Bacteriol 185:5234-9 (2003)
+REFERENCE   PMID:19118356 (ribose)
+  AUTHORS   Nentwich SS, Brinkrolf K, Gaigalat L, Huser AT, Rey DA, Mohrbach T, Marin K, Puhler A, Tauch A, Kalinowski J
+  TITLE     Characterization of the LacI-type transcriptional repressor RbsR controlling ribose transport in Corynebacterium glutamicum ATCC 13032.
+  JOURNAL   Microbiology 155:150-64 (2009)
+REFERENCE   PMID:17526716 (Autoinducer 2)
+  AUTHORS   Shao H, James D, Lamont RJ, Demuth DR
+  TITLE     Differential interaction of Aggregatibacter (Actinobacillus) actinomycetemcomitans LsrB and RbsB proteins with autoinducer 2.
+  JOURNAL   J Bacteriol 189:5559-65 (2007)
+REFERENCE   PMID:16461685 (ribose)
+  AUTHORS   Nanavati DM, Thirangoon K, Noll KM
+  TITLE     Several archaeal homologs of putative oligopeptide-binding proteins encoded by Thermotoga maritima bind sugars.
+  JOURNAL   Appl Environ Microbiol 72:1336-45 (2006)
+///

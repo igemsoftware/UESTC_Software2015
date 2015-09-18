@@ -1,0 +1,20 @@
+ENTRY       M00304            Complex   Module
+NAME        PTS system, fructose-specific II component
+DEFINITION  K11194+K11195+K11196+K02771
+ORTHOLOGY   K11194  PTS-Fru1-EIIA; PTS system, fructose-specific IIA component [EC:2.7.1.69]
+            K11195  PTS-Fru1-EIIB; PTS system, fructose-specific IIB component [EC:2.7.1.69]
+            K11196  PTS-Fru1-EIIC; PTS system, fructose-specific IIC component
+            K02771  PTS-Fru1-EIID; PTS system, fructose-specific IID component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890562
+REFERENCE   PMID:2117666
+  AUTHORS   Martin-Verstraete I, Debarbouille M, Klier A, Rapoport G
+  TITLE     Levanase operon of Bacillus subtilis includes a fructose-specific phosphotransferase system regulating the expression of the operon.
+  JOURNAL   J Mol Biol 214:657-71 (1990)
+REFERENCE   PMID:12603740
+  AUTHORS   Kristich CJ, Glekas GD, Ordal GW.
+  TITLE     The conserved cytoplasmic module of the transmembrane chemoreceptor McpC mediates carbohydrate chemotaxis in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 47:1353-66 (2003)
+///

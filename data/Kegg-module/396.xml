@@ -1,0 +1,25 @@
+ENTRY       M00396            Complex   Module
+NAME        Lsm 2-8 complex
+DEFINITION  K12621+K12622+K12623+K12624+K12625+K12626+K12627
+ORTHOLOGY   K12621  LSM2; U6 snRNA-associated Sm-like protein LSm2
+            K12622  LSM3; U6 snRNA-associated Sm-like protein LSm3
+            K12623  LSM4; U6 snRNA-associated Sm-like protein LSm4
+            K12624  LSM5; U6 snRNA-associated Sm-like protein LSm5
+            K12625  LSM6; U6 snRNA-associated Sm-like protein LSm6
+            K12626  LSM7; U6 snRNA-associated Sm-like protein LSm7
+            K12627  LSM8; U6 snRNA-associated Sm-like protein LSm8
+CLASS       Structural complex; Genetic information processing; Spliceosome
+PATHWAY     map03040  Spliceosome
+            map03018  RNA degradation
+BRITE       ko03041  Spliceosome
+COMMENT     nuclear localization
+DBLINKS     BSID: 890612
+REFERENCE   PMID:18029398
+  AUTHORS   Spiller MP, Reijns MA, Beggs JD
+  TITLE     Requirements for nuclear localization of the Lsm2-8p complex and competition between nuclear and cytoplasmic Lsm complexes.
+  JOURNAL   J Cell Sci 120:4310-20 (2007)
+REFERENCE   PMID:10801455
+  AUTHORS   He W, Parker R
+  TITLE     Functions of Lsm proteins in mRNA degradation and splicing.
+  JOURNAL   Curr Opin Cell Biol 12:346-50 (2000)
+///

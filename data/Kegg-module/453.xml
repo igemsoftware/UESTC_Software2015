@@ -1,0 +1,27 @@
+ENTRY       M00453            FuncSet   Module
+NAME        QseC-QseB (quorum sensing) two-component regulatory system
+DEFINITION  K07645 K07666
+ORTHOLOGY   K07645  qseC; OmpR family, sensor histidine kinase
+            K07666  qseB; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Hormone-like signals [CPD:C00547 C00788]
+DBLINKS     BSID: 565907
+REFERENCE   PMID:21288493
+  AUTHORS   Wang X, Wang Q, Yang M, Xiao J, Liu Q, Wu H, Zhang Y
+  TITLE     QseBC controls flagellar motility, fimbrial hemagglutination and intracellular virulence in fish pathogen Edwardsiella tarda.
+  JOURNAL   Fish Shellfish Immunol 30:944-53 (2011)
+REFERENCE   PMID:16803956
+  AUTHORS   Clarke MB, Hughes DT, Zhu C, Boedeker EC, Sperandio V
+  TITLE     The QseC sensor kinase: a bacterial adrenergic receptor.
+  JOURNAL   Proc Natl Acad Sci U S A 103:10420-5 (2006)
+REFERENCE   PMID:16135237
+  AUTHORS   Clarke MB, Sperandio V
+  TITLE     Transcriptional regulation of flhDC by QseBC and sigma (FliA) in enterohaemorrhagic Escherichia coli.
+  JOURNAL   Mol Microbiol 57:1734-49 (2005)
+REFERENCE   PMID:11929534 (name)
+  AUTHORS   Sperandio V, Torres AG, Kaper JB.
+  TITLE     Quorum sensing Escherichia coli regulators B and C (QseBC): a novel two-component regulatory system involved in the regulation of flagella and motility by quorum sensing in E. coli.
+  JOURNAL   Mol Microbiol 43:809-21 (2002)
+///

@@ -1,0 +1,27 @@
+ENTRY       M00565            Pathway   Module
+NAME        Trehalose biosynthesis, D-glucose 1P => trehalose
+DEFINITION  K00975 (K00703,K16148) (K00700,K16149) (K00688,K16153)
+            (K02438,K06044,K01236)
+ORTHOLOGY   K00975  glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] [RN:R00948]
+            K00703,K16148  starch synthase [EC:2.4.1.21] [RN:R02421]
+            K00700,K16149  1,4-alpha-glucan branching enzyme [EC:2.4.1.18] [RN:R02110]
+            K00680,K16153  starch phosphorylase [EC:2.4.1.1] [RN:R02111]
+            K02438,K06044,K01236  glycogen debranching enzyme [RN:R09995]
+CLASS       Pathway module; Carbohydrate and lipid metabolism; Sugar metabolism
+PATHWAY     map00500 Starch and sucrose metabolism
+REACTION    R00948 C00103 -> C00498
+            R02421 C00498 -> C00718
+            R02110 C00718 -> C00369
+            R02111 C00369 -> C00103+C00718
+            R09995 C00369 -> C01083
+COMPOUND    C00103  D-Glucose 1-phosphate
+            C00498  ADP-glucose
+            C00718  Amylose
+            C00369  Starch
+            C01083  alpha,alpha-Trehalose
+DBLINKS     BSID: 672429
+REFERENCE   PMID:21474533
+  AUTHORS   Chandra G, Chater KF, Bornemann S
+  TITLE     Unexpected and widespread connections between bacterial glycogen and trehalose metabolism.
+  JOURNAL   Microbiology 157:1565-72 (2011)
+///

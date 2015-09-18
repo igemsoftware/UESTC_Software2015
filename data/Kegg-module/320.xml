@@ -1,0 +1,20 @@
+ENTRY       M00320            Complex   Module
+NAME        Lipopolysaccharide export system
+DEFINITION  K07091+K11720+K06861
+ORTHOLOGY   K07091  lptF; lipopolysaccharide export system permease protein
+            K11720  lptG; lipopolysaccharide export system permease protein
+            K06861  lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Lipopolysaccharide [CPD:C00338]
+DBLINKS     BSID: 890574
+REFERENCE   PMID:18375759
+  AUTHORS   Ruiz N, Gronenberg LS, Kahne D, Silhavy TJ
+  TITLE     Identification of two inner-membrane proteins required for the transport of lipopolysaccharide to the outer membrane of Escherichia coli.
+  JOURNAL   Proc Natl Acad Sci U S A 105:5537-42 (2008)
+REFERENCE   PMID:18534617
+  AUTHORS   Suits MD, Sperandeo P, Deho G, Polissi A, Jia Z
+  TITLE     Novel structure of the conserved gram-negative lipopolysaccharide transport protein A and mutagenesis analysis.
+  JOURNAL   J Mol Biol 380:476-88 (2008)
+///

@@ -1,0 +1,17 @@
+ENTRY       M00604            Complex   Module
+NAME        Trehalose transport system
+DEFINITION  K17311+K17312+K17313-K17314
+ORTHOLOGY   K17311  K17311; trehalose transport system substrate-binding protein
+            K17312  K17312; trehalose transport system permease protein
+            K17313  treU; trehalose transport system permease protein
+            K17314  treV; trehalose transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Trehalose [CPD:C01083]
+DBLINKS     BSID: 890666
+REFERENCE   PMID:11260467
+  AUTHORS   Elferink MG, Albers SV, Konings WN, Driessen AJ.
+  TITLE     Sugar transport in Sulfolobus solfataricus is mediated by two families of binding protein-dependent ABC transporters.
+  JOURNAL   Mol Microbiol 39:1494-503 (2001)
+///

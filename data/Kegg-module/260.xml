@@ -1,0 +1,30 @@
+ENTRY       M00260            Complex   Module
+NAME        DNA polymerase III complex, bacteria
+DEFINITION  K02337+(K03763,K02342,K14159)-K02345+K02338+K02340+K02341+K02343-K02339-K02344
+ORTHOLOGY   K02337  DPO3A1; DNA polymerase III alpha subunit [EC:2.7.7.7] 
+            K03763  DPO3A2; DNA polymerase III alpha subunit, Gram-positive type [EC:2.7.7.7]
+            K02342  DPO3E; DNA polymerase III epsilon subunit [EC:2.7.7.7]
+            K14159  rnhA-dnaQ; ribonuclease HI / DNA polymerase III subunit epsilon [EC:3.1.26.4 2.7.7.7]
+            K02345  DPO3T; DNA polymerase III theta subunit [EC:2.7.7.7]
+            K02338  DPO3B; DNA polymerase III beta subunit [EC:2.7.7.7]
+            K02340  DPO3D1; DNA polymerase III delta subunit [EC:2.7.7.7]
+            K02341  DPO3D2; DNA polymerase III delta' subunit [EC:2.7.7.7]
+            K02343  DPO3G; DNA polymerase III gamma and tau subunit [EC:2.7.7.7]
+            K02339  DPO3C; DNA polymerase III chi subunit [EC:2.7.7.7]
+            K02344  DPO3P; DNA polymerase III psi subunit [EC:2.7.7.7]
+CLASS       Structural complex; Genetic information processing; DNA polymerase
+PATHWAY     map03030  DNA replication
+            map03430  Mismatch repair
+            map03440  Homologous recombination
+BRITE       ko03032  DNA replication proteins
+            ko03400  DNA repair and recombination proteins
+COMMENT     These subunits are organized into 3 functionally essential subassemblies.
+            The pol III core: alpha, epsilon, and theta
+            The sliding clamp: beta
+            The clamp loading complex: delta, delta', gamma, tau, chi, and psi
+DBLINKS     BSID: 468375
+REFERENCE   PMID:7574479
+  AUTHORS   Kelman Z, O'Donnell M
+  TITLE     DNA polymerase III holoenzyme: structure and function of a chromosomal replicating machine.
+  JOURNAL   Annu Rev Biochem 64:171-200 (1995)
+///

@@ -1,0 +1,20 @@
+ENTRY       M00186            Complex   Module
+NAME        Tungstate transport system
+DEFINITION  K05772+K05773+K06857
+ORTHOLOGY   K05772  tupA; tungstate transport system substrate-binding protein
+            K05773  tupB; tungstate transport system permease protein
+            K06857  tupC; tungstate transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Tungsten [CPD:C00753], Vanadate [CPD:C11627]
+DBLINKS     BSID: 890460
+REFERENCE   PMID:18096847 (tungstate)
+  AUTHORS   Andreesen JR, Makdessi K
+  TITLE     Tungsten, the surprisingly positively acting heavy metal element for prokaryotes.
+  JOURNAL   Ann N Y Acad Sci 1125:215-29 (2008)
+REFERENCE   PMID:16385036 (vanadate)
+  AUTHORS   Pratte BS, Thiel T
+  TITLE     High-affinity vanadate transport system in the cyanobacterium Anabaena variabilis ATCC 29413.
+  JOURNAL   J Bacteriol 188:464-8 (2006)
+///

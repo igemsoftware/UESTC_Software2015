@@ -1,0 +1,18 @@
+ENTRY       M00505            FuncSet   Module
+NAME        KinB-AlgB (alginate production) two-component regulatory system
+DEFINITION  K11383 K11384
+ORTHOLOGY   K11383  kinB; NtrC family, nitrogen regulation sensor histidine kinase
+            K11384  algB; NtrC family, nitrogen regulation response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565958
+REFERENCE   PMID:17981963
+  AUTHORS   Leech AJ, Sprinkle A, Wood L, Wozniak DJ, Ohman DE
+  TITLE     The NtrC family regulator AlgB, which controls alginate biosynthesis in mucoid Pseudomonas aeruginosa, binds directly to the algD promoter.
+  JOURNAL   J Bacteriol 190:581-9 (2008)
+REFERENCE   PMID:9218420
+  AUTHORS   Ma S, Wozniak DJ, Ohman DE
+  TITLE     Identification of the histidine protein kinase KinB in Pseudomonas aeruginosa and its phosphorylation of the alginate regulator algB.
+  JOURNAL   J Biol Chem 272:17952-60 (1997)
+///

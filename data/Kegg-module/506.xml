@@ -1,0 +1,21 @@
+ENTRY       M00506            FuncSet   Module
+NAME        CheA-CheYBV (chemotaxis) two-component regulatory system
+DEFINITION  K03407 K03413 K03412 K13924 K03415
+ORTHOLOGY   K03407  cheA; chemotaxis family, sensor kinase
+            K03413  cheY; chemotaxis family, response regulator
+            K03412  cheB; chemotaxis family, response regulator 
+            K13924  cheBR; chemotaxis family, response regulator/methyltransferase
+            K03415  cheV; chemotaxis family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+            map02030  Bacterial chemotaxis
+BRITE       ko02022  Two-component system
+            ko02030  Bacterial chemotaxis
+            ko02035  Bacterial motility proteins
+COMMENT     Signal: Attractant/repellent
+DBLINKS     BSID: 565959
+REFERENCE   PMID:19203648
+  AUTHORS   Miller LD, Russell MH, Alexandre G
+  TITLE     Diversity in bacterial chemotactic responses and niche adaptation.
+  JOURNAL   Adv Appl Microbiol 66:53-75 (2009)
+///

@@ -1,0 +1,48 @@
+ENTRY       M00355            Complex   Module
+NAME        Spliceosome, 35S U5-snRNP
+DEFINITION  K11086+K11087+K11096+K11088+K11097+K11098+K11099+K12856+K12854+K12852+K12857+K10599+K12860+K12861+K12862+K12863+K06063+K12867+K12868+K12869+K12870+K12871+K12872+K12873+K12874+K09564+K12733+K12816+K13117+K03283+K13123
+ORTHOLOGY   K11086  SNRPB; small nuclear ribonucleoprotein B and B'
+            K11087  SNRPD1; small nuclear ribonucleoprotein D1
+            K11096  SNRPD2; small nuclear ribonucleoprotein D2
+            K11088  SNRPD3; small nuclear ribonucleoprotein D3
+            K11097  SNRPE; small nuclear ribonucleoprotein E
+            K11098  SNRPF; small nuclear ribonucleoprotein F
+            K11099  SNRPG; small nuclear ribonucleoprotein G
+            K12856  PRPF8; pre-mRNA-processing factor 8
+            K12854  SNRNP200; pre-mRNA-splicing helicase BRR2 [EC:3.6.1.-]
+            K12852  EFTUD2; 116 kDa U5 small nuclear ribonucleoprotein component
+            K12857  SNRNP40; Prp8 binding protein
+            K10599  PRPF19; pre-mRNA-processing factor 19 [EC:6.3.2.19]
+            K12860  CDC5L; pre-mRNA-splicing factor CDC5/CEF1
+            K12861  BCAS2; pre-mRNA-splicing factor SPF27
+            K12862  PLRG1; pleiotropic regulator 1
+            K12863  CWC15; protein CWC15
+            K06063  SNW1; SNW domain-containing protein 1
+            K12867  SYF1; pre-mRNA-splicing factor SYF1
+            K12868  SYF2; pre-mRNA-splicing factor SYF2
+            K12869  CRN; crooked neck
+            K12870  ISY1; pre-mRNA-splicing factor ISY1
+            K12871  CCDC12; coiled-coil domain-containing protein 12
+            K12872  RBM22; pre-mRNA-splicing factor RBM22/SLT11
+            K12873  BUD31; bud site selection protein 31
+            K12874  AQR; intron-binding protein aquarius
+            K09564  PPIE; peptidyl-prolyl isomerase E (cyclophilin E) [EC:5.2.1.8]
+            K12733  PPIL1; peptidyl-prolyl cis-trans isomerase-like 1 [EC:5.2.1.8]
+            K12816  CDC40; pre-mRNA-processing factor 17
+            K13117  DHX35; ATP-dependent RNA helicase DDX35 [EC:3.6.4.13]
+            K03283  HSPA1_8; heat shock 70kDa protein 1/8
+            K13123  GPATCH1; G patch domain-containing protein 1
+CLASS       Structural complex; Genetic information processing; Spliceosome
+PATHWAY     map03040  Spliceosome
+BRITE       ko03041  Spliceosome
+COMMENT     containing  Sm core complex [MD:M00736]
+DBLINKS     BSID: 890602
+REFERENCE   PMID:19239890
+  AUTHORS   Wahl MC, Will CL, Luhrmann R
+  TITLE     The spliceosome: design principles of a dynamic RNP machine.
+  JOURNAL   Cell 136:701-18 (2009)
+REFERENCE   PMID:15175653
+  AUTHORS   Makarova OV, Makarov EM, Urlaub H, Will CL, Gentzel M, Wilm M, Luhrmann R
+  TITLE     A subset of human 35S U5 proteins, including Prp19, function prior to catalytic step 1 of splicing.
+  JOURNAL   EMBO J 23:2381-91 (2004)
+///

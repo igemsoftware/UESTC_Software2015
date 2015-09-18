@@ -1,0 +1,20 @@
+ENTRY       M00380            Complex   Module
+NAME        SCF-BTRC complex
+DEFINITION  K03868+K03347+K03094+K03362
+ORTHOLOGY   K03868  RBX1; RING-box protein 1
+            K03347  CUL1; cullin 1
+            K03094  SKP1; S-phase kinase-associated protein 1
+            K03362  FBXW1_11; F-box and WD-40 domain protein 1/11
+CLASS       Structural complex; Genetic information processing; Ubiquitin system
+PATHWAY     map04120  Ubiquitin mediated proteolysis
+            map04114  Oocyte meiosis
+            map04310  Wnt signaling pathway
+            map04710  Circadian rhythm - mammal
+BRITE       ko04121  Ubiquitin system
+COMMENT     Substrate: beta-catenin, IKBA, ATF4, EMI1
+DBLINKS     BSID: 890604
+REFERENCE   PMID:12820959
+  AUTHORS   Wu G, Xu G, Schulman BA, Jeffrey PD, Harper JW, Pavletich NP
+  TITLE     Structure of a beta-TrCP1-Skp1-beta-catenin complex: destruction motif binding and lysine specificity of the SCF(beta-TrCP1) ubiquitin ligase.
+  JOURNAL   Mol Cell 11:1445-56 (2003)
+///

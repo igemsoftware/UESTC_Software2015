@@ -1,0 +1,38 @@
+ENTRY       M00389            Complex   Module
+NAME        APC/C complex
+DEFINITION  K03358+K03349+(K03363,K03364)+K03348+K03350+K03351+K03352+K03353+(K03354,K03356)+K03355+K03357+(K03359,K12456)
+ORTHOLOGY   K03358  APC11; anaphase-promoting complex subunit 11
+            K03349  APC2; anaphase-promoting complex subunit 2
+            K03363  CDC20; cell division cycle 20, cofactor of APC complex
+            K03364  CDH1; cell division cycle 20-like protein 1, cofactor of APC complex
+            K03348  APC1; anaphase-promoting complex subunit 1
+            K03350  APC3; anaphase-promoting complex subunit 3
+            K03351  APC4; anaphase-promoting complex subunit 4
+            K03352  APC5; anaphase-promoting complex subunit 5
+            K03353  APC6; anaphase-promoting complex subunit 6
+            K03354  APC7; anaphase-promoting complex subunit 7
+            K03355  APC8; anaphase-promoting complex subunit 8
+            K03356  APC9; anaphase-promoting complex subunit 9
+            K03357  APC10; anaphase-promoting complex subunit 10
+            K03359  APC12; anaphase-promoting complex subunit 12
+            K12456  APC13; anaphase-promoting complex subunit 13
+CLASS       Structural complex; Genetic information processing; Ubiquitin system
+PATHWAY     map04120  Ubiquitin mediated proteolysis
+            map04110  Cell cycle
+            map04114  Oocyte meiosis 
+            map04914  Progesterone-mediated oocyte maturation
+            map04111  Cell cycle - yeast
+            map04113  Meiosis - yeast
+BRITE       ko04121  Ubiquitin system
+            ko03036  Chromosome
+COMMENT     Substrate: cyclinB, cyclinA, securin (CDC20), Plk1 (cdh1), AuroraA/B (cdh1), Geminin (cdh1), skp2 (cdh1)
+DBLINKS     BSID: 468395
+REFERENCE   PMID:21307936
+  AUTHORS   Schreiber A, Stengel F, Zhang Z, Enchev RI, Kong EH, Morris EP, Robinson CV, da Fonseca PC, Barford D
+  TITLE     Structural basis for the subunit assembly of the anaphase-promoting complex.
+  JOURNAL   Nature 470:227-32 (2011)
+REFERENCE   PMID:10582241
+  AUTHORS   Yanagida M, Yamashita YM, Tatebe H, Ishii K, Kumada K, Nakaseko Y
+  TITLE     Control of metaphase-anaphase progression by proteolysis: cyclosome function regulated by the protein kinase A pathway, ubiquitination and localization.
+  JOURNAL   Philos Trans R Soc Lond B Biol Sci 354:1559-69; discussion 1569-70 (1999)
+///

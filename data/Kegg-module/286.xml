@@ -1,0 +1,15 @@
+ENTRY       M00286            Complex   Module
+NAME        GINS complex
+DEFINITION  K10732+K10733+K10734+K10735
+ORTHOLOGY   K10732  GINS1, PSF1; DNA replication complex GINS protein PSF1
+            K10733  GINS2, PSF2; DNA replication complex GINS protein PSF2
+            K10734  GINS3; GINS complex subunit 3
+            K10735  GINS4, SLD5; GINS complex subunit 4
+CLASS       Structural complex; Genetic information processing; Replication system
+BRITE       ko03032  DNA replication proteins
+DBLINKS     BSID: 890548
+REFERENCE   PMID:20070258
+  AUTHORS   MacNeill SA
+  TITLE     Structure and function of the GINS complex, a key component of the eukaryotic replisome.
+  JOURNAL   Biochem J 425:489-500 (2010)
+///

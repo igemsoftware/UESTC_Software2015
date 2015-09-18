@@ -1,0 +1,25 @@
+ENTRY       M00208            Complex   Module
+NAME        Glycine betaine/proline transport system
+DEFINITION  K02002+K02001+K02000
+ORTHOLOGY   K02002  proX; glycine betaine/proline transport system substrate-binding protein
+            K02001  proW; glycine betaine/proline transport system permease protein
+            K02000  proV; glycine betaine/proline transport system ATP-binding protein [EC:3.6.3.32]
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Glycine [CPD:C00037], Betaine [CPD:C00719], L-Proline [CPD:C00148]
+DBLINKS     BSID: 890475
+REFERENCE   PMID:7622480 (glycine, betaine)
+  AUTHORS   Kempf B, Bremer E.
+  TITLE     OpuA, an osmotically regulated binding protein-dependent transport system for the osmoprotectant glycine betaine in Bacillus subtilis.
+  JOURNAL   J Biol Chem 270:16701-13 (1995)
+REFERENCE   PMID:2691838 (glycine, betaine, L-proline)
+  AUTHORS   Stirling DA, Hulton CS, Waddell L, Park SF, Stewart GS, Booth IR, Higgins CF
+  TITLE     Molecular characterization of the proU loci of Salmonella typhimurium and Escherichia coli encoding osmoregulated glycine betaine transport systems.
+  JOURNAL   Mol Microbiol 3:1025-38 (1989)
+REFERENCE   PMID:2649479 (glycine, betaine, L-proline)
+  AUTHORS   Gowrishankar J.
+  TITLE     Nucleotide sequence of the osmoregulatory proU operon of Escherichia coli.
+  JOURNAL   J Bacteriol 171:1923-31 (1989)
+///

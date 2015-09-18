@@ -1,0 +1,19 @@
+ENTRY       M00305            Complex   Module
+NAME        PTS system, 2-O-A-mannosyl-D-glycerate-specific II component
+DEFINITION  K11198+K11199+K11200
+ORTHOLOGY   K11198  PTS-Mng-EIIA; PTS system, 2-O-A-mannosyl-D-glycerate-specific IIA component [EC:2.7.1.69]
+            K11199  PTS-Mng-EIIB; PTS system, 2-O-A-mannosyl-D-glycerate-specific IIB component [EC:2.7.1.69]
+            K11200  PTS-Mng-EIIC; PTS system, 2-O-A-mannosyl-D-glycerate-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890563
+REFERENCE   PMID:14645248
+  AUTHORS   Sampaio MM, Chevance F, Dippel R, Eppler T, Schlegel A, Boos W, Lu YJ, Rock CO.
+  TITLE     Phosphotransferase-mediated transport of the osmolyte 2-O-alpha-mannosyl-D-glycerate in Escherichia coli occurs by the product of the mngA (hrsA) gene and is regulated by the mngR (farR) gene product acting as repressor.
+  JOURNAL   J Biol Chem 279:5537-48 (2004)
+REFERENCE   PMID:15608210
+  AUTHORS   Keseler IM, Collado-Vides J, Gama-Castro S, Ingraham J, Paley S, Paulsen IT, Peralta-Gil M, Karp PD.
+  TITLE     EcoCyc: a comprehensive database resource for Escherichia coli.
+  JOURNAL   Nucleic Acids Res 33:D334-7 (2005)
+///

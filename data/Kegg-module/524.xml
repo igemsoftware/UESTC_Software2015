@@ -1,0 +1,23 @@
+ENTRY       M00524            FuncSet   Module
+NAME        FixL-FixJ (nitrogen fixation) two-component regulatory system
+DEFINITION  K14986 K14987
+ORTHOLOGY   K14986  fixL; LuxR family, sensor histidine kinase
+            K14987  fixJ; LuxR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Oxygen limitation [CPD:C00007]
+DBLINKS     BSID: 565977
+REFERENCE   PMID:16788198
+  AUTHORS   Bobik C, Meilhoc E, Batut J
+  TITLE     FixJ: a major regulator of the oxygen limitation response and late symbiotic functions of Sinorhizobium meliloti.
+  JOURNAL   J Bacteriol 188:4890-902 (2006)
+REFERENCE   PMID:8226629
+  AUTHORS   Reyrat JM, David M, Blonski C, Boistard P, Batut J
+  TITLE     Oxygen-regulated in vitro transcription of Rhizobium meliloti nifA and fixK genes.
+  JOURNAL   J Bacteriol 175:6867-72 (1993)
+REFERENCE   PMID:2556636 (name)
+  AUTHORS   Stock JB, Ninfa AJ, Stock AM
+  TITLE     Protein phosphorylation and regulation of adaptive responses in bacteria.
+  JOURNAL   Microbiol Rev 53:450-90 (1989)
+///

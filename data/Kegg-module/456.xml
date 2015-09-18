@@ -1,0 +1,23 @@
+ENTRY       M00456            FuncSet   Module
+NAME        ArcB-ArcA (anoxic redox control) two-component regulatory system
+DEFINITION  K07648 K07773
+ORTHOLOGY   K07648  arcB; OmpR family, sensor histidine kinase
+            K07773  arcA; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Quinone electron carriers [CPD:C00399 C00828 C05818]
+DBLINKS     BSID: 565910
+REFERENCE   PMID:14711822
+  AUTHORS   Liu X, De Wulf P
+  TITLE     Probing the ArcA-P modulon of Escherichia coli by whole genome transcriptional analysis and sequence recognition profiling.
+  JOURNAL   J Biol Chem 279:12588-97 (2004)
+REFERENCE   PMID:11423658
+  AUTHORS   Georgellis D, Kwon O, Lin EC
+  TITLE     Quinones as the redox signal for the arc two-component system of bacteria.
+  JOURNAL   Science 292:2314-6 (2001)
+REFERENCE   PMID:10966457 (name)
+  AUTHORS   Stock AM, Robinson VL, Goudreau PN
+  TITLE     Two-component signal transduction.
+  JOURNAL   Annu Rev Biochem 69:183-215 (2000)
+///

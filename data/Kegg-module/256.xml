@@ -1,0 +1,15 @@
+ENTRY       M00256            Complex   Module
+NAME        Cell division transport system
+DEFINITION  K09811+K09812
+ORTHOLOGY   K09811  ftsX; cell division transport system permease protein
+            K09812  ftsE; cell division transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 2:2
+DBLINKS     BSID: 890520
+REFERENCE   PMID:10048040
+  AUTHORS   de Leeuw E, Graham B, Phillips GJ, ten Hagen-Jongman CM, Oudega B, Luirink J
+  TITLE     Molecular characterization of Escherichia coli FtsE and FtsX.
+  JOURNAL   Mol Microbiol 31:983-93 (1999)
+///

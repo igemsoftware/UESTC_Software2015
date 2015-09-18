@@ -1,0 +1,20 @@
+ENTRY       M00394            Complex   Module
+NAME        RNA degradosome
+DEFINITION  K08300+K03732+K01689+K00962
+ORTHOLOGY   K08300  rne; ribonuclease E [EC:3.1.26.12]
+            K03732  rhlB; ATP-dependent RNA helicase RhlB [EC:3.6.4.13]
+            K01689  ENO; enolase [EC:4.2.1.11]
+            K00962  pnp; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+CLASS       Structural complex; Genetic information processing; RNA processing
+PATHWAY     map03018  RNA degradation
+COMMENT     PNPase trimer : RNase E tetramer : enolase dimer : helicase=4:3:8:8
+DBLINKS     BSID: 890611
+REFERENCE   PMID:17447862
+  AUTHORS   Carpousis AJ
+  TITLE     The RNA degradosome of Escherichia coli: an mRNA-degrading machine assembled on RNase E.
+  JOURNAL   Annu Rev Microbiol 61:71-87 (2007)
+REFERENCE   PMID:16766188
+  AUTHORS   Marcaida MJ, DePristo MA, Chandran V, Carpousis AJ, Luisi BF
+  TITLE     The RNA degradosome: life in the fast lane of adaptive molecular evolution.
+  JOURNAL   Trends Biochem Sci 31:359-65 (2006)
+///

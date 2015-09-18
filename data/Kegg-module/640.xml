@@ -1,0 +1,17 @@
+ENTRY       M00640            Signature Module
+NAME        Aminoglycoside antibiotics resistance
+DEFINITION  K18320 (K00662,K00897)
+ORTHOLOGY   K18320  IS15; transposase, IS6 family
+            K00662  aacC; aminoglycoside N3'-acetyltransferase [EC:2.3.1.81]
+            K00897  E2.7.1.95; kanamycin kinase [EC:2.7.1.95]
+CLASS       Signature module; Gene set; Drug resistance
+COMMENT     Aminoglycoside modifying enzyme gene activation by flanked IS15
+REFERENCE   PMID:6318050
+  AUTHORS   Brau B, Pilz U, Piepersberg W
+  TITLE     Genes for gentamicin-(3)-N-acetyltransferases III and IV: I. Nucleotide sequence  of the AAC(3)-IV gene and possible involvement of an IS140 element in its expression.
+  JOURNAL   Mol Gen Genet 193:179-87 (1984)
+REFERENCE   PMID:17223624
+  AUTHORS   Depardieu F, Podglajen I, Leclercq R, Collatz E, Courvalin P
+  TITLE     Modes and modulations of antibiotic resistance gene expression.
+  JOURNAL   Clin Microbiol Rev 20:79-114 (2007)
+///

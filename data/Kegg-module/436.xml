@@ -1,0 +1,25 @@
+ENTRY       M00436            Complex   Module
+NAME        Sulfonate transport system
+DEFINITION  K15553+K15554+K15555
+ORTHOLOGY   K15553  ssuA; sulfonate transport system substrate-binding protein
+            K15554  ssuC; sulfonate transport system permease protein
+            K15555  ssuB; sulfonate transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Alkanesulfonate [CPD:C15521]
+DBLINKS     BSID: 890640
+REFERENCE   PMID:12835925
+  AUTHORS   Endoh T, Kasuga K, Horinouchi M, Yoshida T, Habe H, Nojiri H, Omori T
+  TITLE     Characterization and identification of genes essential for dimethyl sulfide utilization in Pseudomonas putida strain DS1.
+  JOURNAL   Appl Microbiol Biotechnol 62:83-91 (2003)
+REFERENCE   PMID:10781534 (Alkanesulfonate)
+  AUTHORS   Eichhorn E, van der Ploeg JR, Leisinger T
+  TITLE     Deletion analysis of the Escherichia coli taurine and alkanesulfonate transport systems.
+  JOURNAL   J Bacteriol 182:2687-95 (2000)
+REFERENCE   PMID:9782504 (aliphatic sulfonate)
+  AUTHORS   van der Ploeg JR, Cummings NJ, Leisinger T, Connerton IF.
+  TITLE     Bacillus subtilis genes for the utilization of sulfur from aliphatic sulfonates.
+  JOURNAL   Microbiology 144 ( Pt 9):2555-61 (1998)
+///

@@ -1,0 +1,18 @@
+ENTRY       M00316            Complex   Module
+NAME        Manganese transport system
+DEFINITION  K11601+K11602+K11603
+ORTHOLOGY   K11601  mntC; manganese transport system substrate-binding protein
+            K11602  mntB; manganese transport system permease protein
+            K11603  mntA; manganese transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Metallic cation, iron-siderophore and vitamin B12 transport system
+PATHWAY     map02010  ABC transporters
+            map02020  Two-component system
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Manganese [CPD:C00034]
+DBLINKS     BSID: 890570
+REFERENCE   PMID:8824246 (manganese)
+  AUTHORS   Bartsevich VV, Pakrasi HB
+  TITLE     Manganese transport in the cyanobacterium Synechocystis sp. PCC 6803.
+  JOURNAL   J Biol Chem 271:26057-61 (1996)
+///

@@ -1,0 +1,15 @@
+ENTRY       M00455            FuncSet   Module
+NAME        TorS-TorR (TMAO respiration) two-component regulatory system
+DEFINITION  K07647 K07772
+ORTHOLOGY   K07647  torS; OmpR family, sensor histidine kinase
+            K07772  torR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Trimethylamine N-oxide (TMAO) [CPD:C01104]
+DBLINKS     BSID: 565909
+REFERENCE   PMID:12618472
+  AUTHORS   Bordi C, Iobbi-Nivol C, Mejean V, Patte JC
+  TITLE     Effects of ISSo2 insertions in structural and regulatory genes of the trimethylamine oxide reductase of Shewanella oneidensis.
+  JOURNAL   J Bacteriol 185:2042-5 (2003)
+///

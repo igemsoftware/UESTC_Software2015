@@ -1,0 +1,15 @@
+ENTRY       M00257            Complex   Module
+NAME        Hemin transport system
+DEFINITION  K09813+K09814
+ORTHOLOGY   K09813  hrtB; hemin transport system permease protein
+            K09814  hrtA; hemin transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Hemine [CPD:C06767]
+DBLINKS     BSID: 890521
+REFERENCE   PMID:19494582
+  AUTHORS   Stauff DL, Skaar EP
+  TITLE     The heme sensor system of Staphylococcus aureus.
+  JOURNAL   Contrib Microbiol 16:120-35 (2009)
+///

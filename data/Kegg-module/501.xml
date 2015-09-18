@@ -1,0 +1,14 @@
+ENTRY       M00501            FuncSet   Module
+NAME        PilS-PilR (type 4 fimbriae synthesis) two-component regulatory system
+DEFINITION  K02668 K02667
+ORTHOLOGY   K02668  pilS; NtrC family, nitrogen regulation sensor histidine kinase
+            K02667  pilR; NtrC family, nitrogen regulation response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565954
+REFERENCE   PMID:8097014
+  AUTHORS   Hobbs M, Collie ES, Free PD, Livingston SP, Mattick JS
+  TITLE     PilS and PilR, a two-component transcriptional regulatory system controlling expression of type 4 fimbriae in Pseudomonas aeruginosa.
+  JOURNAL   Mol Microbiol 7:669-82 (1993)
+///

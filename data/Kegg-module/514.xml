@@ -1,0 +1,19 @@
+ENTRY       M00514            FuncSet   Module
+NAME        TtrS-TtrR (tetrathionate respiration) two-component regulatory system
+DEFINITION  K13040 K13041
+ORTHOLOGY   K13040  ttrS; LuxR family, sensor histidine kinase
+            K13041  ttrR; LuxR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Tetrathionate [CPD:C02084]
+DBLINKS     BSID: 565967
+REFERENCE   PMID:10231485
+  AUTHORS   Hensel M, Hinsley AP, Nikolaus T, Sawers G, Berks BC
+  TITLE     The genetic basis of tetrathionate respiration in Salmonella typhimurium.
+  JOURNAL   Mol Microbiol 32:275-87 (1999)
+REFERENCE   PMID:11274105
+  AUTHORS   Price-Carter M, Tingey J, Bobik TA, Roth JR
+  TITLE     The alternative electron acceptor tetrathionate supports B12-dependent anaerobic  growth of Salmonella enterica serovar typhimurium on ethanolamine or 1,2-propanediol.
+  JOURNAL   J Bacteriol 183:2463-75 (2001)
+///

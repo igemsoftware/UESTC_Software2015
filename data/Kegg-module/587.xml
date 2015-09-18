@@ -1,0 +1,15 @@
+ENTRY       M00587            Complex   Module
+NAME        Arginine/lysine/histidine/glutamine transport system
+DEFINITION  K17062+K17063
+ORTHOLOGY   K17062  bgtB; arginine/lysine/histidine/glutamine transport system substrate-binding and permease protein
+            K17063  bgtA; arginine/lysine/histidine/glutamine transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Arginine [CPD:C00062], Lysine [CPD:C00047], Histidine [CPD:C00135], Glutamine [CPD:C00064]
+DBLINKS     BSID: 890653
+REFERENCE   PMID:11731493
+  AUTHORS   Quintero MJ, Montesinos ML, Herrero A, Flores E
+  TITLE     Identification of genes encoding amino acid permeases by inactivation of selected ORFs from the Synechocystis genomic sequence.
+  JOURNAL   Genome Res 11:2034-40 (2001)
+///

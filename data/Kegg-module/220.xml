@@ -1,0 +1,22 @@
+ENTRY       M00220            Complex   Module
+NAME        Rhamnose transport system
+DEFINITION  K10559+K10560+K10561+K10562
+ORTHOLOGY   K10559  rhaS1; rhamnose transport system substrate-binding protein
+            K10560  rhaP; rhamnose transport system permease protein
+            K10561  rhaQ; rhamnose transport system permease protein
+            K10562  rhaT; rhamnose transport system ATP-binding protein [EC:3.6.3.17]
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: L-Rhamnose [CPD:C00507]
+DBLINKS     BSID: 890487
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:15576793 (L-rhamnose)
+  AUTHORS   Richardson JS, Hynes MF, Oresnik IJ.
+  TITLE     A genetic locus necessary for rhamnose uptake and catabolism in Rhizobium leguminosarum bv. trifolii.
+  JOURNAL   J Bacteriol 186:8433-42 (2004)
+///

@@ -1,0 +1,19 @@
+ENTRY       M00473            FuncSet   Module
+NAME        UhpB-UhpA (hexose phosphates uptake) two-component regulatory system
+DEFINITION  K07675 K07686
+ORTHOLOGY   K07675  uhpB; NarL family, sensor histidine kinase
+            K07686  uhpA; NarL family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Glucose 6-phosphate [CPD:C00092]
+DBLINKS     BSID: 565927
+REFERENCE   PMID:12107138
+  AUTHORS   Verhamme DT, Postma PW, Crielaard W, Hellingwerf KJ.
+  TITLE     Cooperativity in signal transfer through the Uhp system of Escherichia coli.
+  JOURNAL   J Bacteriol 184:4205-10 (2002)
+REFERENCE   PMID:2556636 (name)
+  AUTHORS   Stock JB, Ninfa AJ, Stock AM
+  TITLE     Protein phosphorylation and regulation of adaptive responses in bacteria.
+  JOURNAL   Microbiol Rev 53:450-90 (1989)
+///

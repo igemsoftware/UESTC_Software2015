@@ -1,0 +1,19 @@
+ENTRY       M00475            FuncSet   Module
+NAME        BarA-UvrY (central carbon metabolism) two-component regulatory system
+DEFINITION  K07678 K07689
+ORTHOLOGY   K07678  barA; NarL family, sensor histidine kinase
+            K07689  uvrY; NarL family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Formate [CPD:C00058], Acetate [CPD:C00033]
+DBLINKS     BSID: 565929
+REFERENCE   PMID:12193630
+  AUTHORS   Suzuki K, Wang X, Weilbacher T, Pernestig AK, Melefors O, Georgellis D, Babitzke P, Romeo T.
+  TITLE     Regulatory circuitry of the CsrA/CsrB and BarA/UvrY systems of Escherichia coli.
+  JOURNAL   J Bacteriol 184:5130-40 (2002)
+REFERENCE   PMID:20118252
+  AUTHORS   Chavez RG, Alvarez AF, Romeo T, Georgellis D
+  TITLE     The physiological stimulus for the BarA sensor kinase.
+  JOURNAL   J Bacteriol 192:2009-12 (2010)
+///

@@ -1,0 +1,17 @@
+ENTRY       M00224            Complex   Module
+NAME        Fluoroquinolones transport system
+DEFINITION  K16905+K16906+K16907
+ORTHOLOGY   K16905  K16905; fluoroquinolones transport system permease protein
+            K16906  K16906; fluoroquinolones transport system permease protein
+            K16907  K16907; fluoroquinolones transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry:1:1:2
+            Substrate: Fluoroquinolone [CPD:C05349 C06687 C07663 C07662]
+DBLINKS     BSID: 890491
+REFERENCE   PMID:15273144
+  AUTHORS   Pasca MR, Guglierame P, Arcesi F, Bellinzoni M, De Rossi E, Riccardi G
+  TITLE     Rv2686c-Rv2687c-Rv2688c, an ABC fluoroquinolone efflux pump in Mycobacterium tuberculosis.
+  JOURNAL   Antimicrob Agents Chemother 48:3175-8 (2004)
+///

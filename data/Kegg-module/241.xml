@@ -1,0 +1,21 @@
+ENTRY       M00241            Complex   Module
+NAME        Vitamin B12 transport system
+DEFINITION  K06858+K06073+K06074
+ORTHOLOGY   K06858  ABC.VB12.S1; vitamin B12 transport system substrate-binding protein
+            K06073  ABC.VB12.P; vitamin B12 transport system permease protein
+            K06074  ABC.VB12.A; vitamin B12 transport system ATP-binding protein [EC:3.6.3.33]
+CLASS       Structural complex; Environmental information processing; Metallic cation, iron-siderophore and vitamin B12 transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Vitamin B12 [CPD:C05776]
+DBLINKS     BSID: 890507
+REFERENCE   PMID:3528128 (vitamin B12)
+  AUTHORS   de Veaux LC, Clevenson DS, Bradbeer C, Kadner RJ
+  TITLE     Identification of the btuCED polypeptides and evidence for their role in vitamin  B12 transport in Escherichia coli.
+  JOURNAL   J Bacteriol 167:920-7 (1986)
+REFERENCE   PMID:17673622 (crystal structure)
+  AUTHORS   Hvorup RN, Goetz BA, Niederer M, Hollenstein K, Perozo E, Locher KP
+  TITLE     Asymmetry in the structure of the ABC transporter-binding protein complex BtuCD-BtuF.
+  JOURNAL   Science 317:1387-90 (2007)
+///

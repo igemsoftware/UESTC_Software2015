@@ -1,0 +1,10 @@
+ENTRY       M00236            Complex   Module
+NAME        Putative polar amino acid transport system
+DEFINITION  K02030+K02029+K02028
+ORTHOLOGY   K02030  ABC.PA.S; polar amino acid transport system substrate-binding protein
+            K02029  ABC.PA.P; polar amino acid transport system permease protein
+            K02028  ABC.PA.A; polar amino acid transport system ATP-binding protein [EC:3.6.3.21]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890502
+///

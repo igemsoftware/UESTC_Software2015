@@ -1,0 +1,16 @@
+ENTRY       M00600            Complex   Module
+NAME        alpha-1,4-Digalacturonate transport system
+DEFINITION  K17241+K17242+K17243
+ORTHOLOGY   K17241  aguE; alpha-1,4-digalacturonate transport system substrate-binding protein
+            K17242  aguF; alpha-1,4-digalacturonate transport system permease protein
+            K17243  aguG; alpha-1,4-digalacturonate transport system permease protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: alpha-1,4-Digalacturonate [CPD:C02273]
+DBLINKS     BSID: 890662
+REFERENCE   PMID:16461685
+  AUTHORS   Nanavati DM, Thirangoon K, Noll KM
+  TITLE     Several archaeal homologs of putative oligopeptide-binding proteins encoded by Thermotoga maritima bind sugars.
+  JOURNAL   Appl Environ Microbiol 72:1336-45 (2006)
+///

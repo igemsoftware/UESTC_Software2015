@@ -1,0 +1,25 @@
+ENTRY       M00429            Complex   Module
+NAME        Competence-related DNA transformation transporter
+DEFINITION  K02237+K02238+K02240+K02243+K02244+(K02245,K02246,K02247,K02248,K02249)
+ORTHOLOGY   K02237  comEA; competence protein ComEA
+            K02238  comEC; competence protein ComEC
+            K02240  comFA; competence protein ComFA
+            K02243  comGA; competence protein ComGA
+            K02244  comGB; competence protein ComGB
+            K02245  comGC; competence protein ComGC
+            K02246  comGD; competence protein ComGD
+            K02247  comGE; competence protein ComGE
+            K02248  comGF; competence protein ComGF
+            K02249  comGG; competence protein ComGG
+CLASS       Structural complex; Environmental information processing; Bacterial secretion system
+BRITE       ko02044  Secretion system
+DBLINKS     BSID: 471013
+REFERENCE   PMID:12706993
+  AUTHORS   Claverys JP, Martin B
+  TITLE     Bacterial "competence" genes: signatures of active transformation, or only remnants?
+  JOURNAL   Trends Microbiol 11:161-5 (2003)
+REFERENCE   PMID:15168607
+  AUTHORS   Averhoff B
+  TITLE     DNA transport and natural transformation in mesophilic and thermophilic bacteria.
+  JOURNAL   J Bioenerg Biomembr 36:25-33 (2004)
+///

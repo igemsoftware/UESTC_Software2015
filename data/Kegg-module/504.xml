@@ -1,0 +1,19 @@
+ENTRY       M00504            FuncSet   Module
+NAME        DctB-DctD (C4-dicarboxylate transport) two-component regulatory system
+DEFINITION  K10125 K10126
+ORTHOLOGY   K10125  dctB; NtrC family, nitrogen regulation sensor histidine kinase
+            K10126  dctD; NtrC family, nitrogen regulation response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: C4-dicarboxylate [CPD:C00042 C00149 C00049 C00036]
+DBLINKS     BSID: 565957
+REFERENCE   PMID:11803016
+  AUTHORS   Janausch IG, Zientz E, Tran QH, Kroger A, Unden G
+  TITLE     C4-dicarboxylate carriers and sensors in bacteria.
+  JOURNAL   Biochim Biophys Acta 1553:39-56 (2002)
+REFERENCE   PMID:18725229
+  AUTHORS   Zhou YF, Nan B, Nan J, Ma Q, Panjikar S, Liang YH, Wang Y, Su XD
+  TITLE     C4-dicarboxylates sensing mechanism revealed by the crystal structures of DctB sensor domain.
+  JOURNAL   J Mol Biol 383:49-61 (2008)
+///

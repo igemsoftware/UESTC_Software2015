@@ -1,0 +1,19 @@
+ENTRY       M00480            FuncSet   Module
+NAME        VraS-VraR (cell-wall peptidoglycan synthesis) two-component regulatory system
+DEFINITION  K07681 K07694
+ORTHOLOGY   K07681  vraS; NarL family, sensor histidine kinase
+            K07694  vraR; NarL family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Cell wall active agents
+DBLINKS     BSID: 565934
+REFERENCE   PMID:21173175
+  AUTHORS   Galbusera E, Renzoni A, Andrey DO, Monod A, Barras C, Tortora P, Polissi A, Kelley WL
+  TITLE     Site-specific mutation of Staphylococcus aureus VraS reveals a crucial role for the VraR-VraS sensor in the emergence of glycopeptide resistance.
+  JOURNAL   Antimicrob Agents Chemother 55:1008-20 (2011)
+REFERENCE   PMID:21251258
+  AUTHORS   Dengler V, Meier PS, Heusser R, Berger-Bachi B, McCallum N
+  TITLE     Induction kinetics of the Staphylococcus aureus cell wall stress stimulon in response to different cell wall active antibiotics.
+  JOURNAL   BMC Microbiol 11:16 (2011)
+///

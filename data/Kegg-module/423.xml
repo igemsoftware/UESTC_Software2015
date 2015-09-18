@@ -1,0 +1,16 @@
+ENTRY       M00423            Complex   Module
+NAME        Molybdate/tungstate transport system
+DEFINITION  K15495+K15496+K15497
+ORTHOLOGY   K15495  wtpC; molybdate/tungstate transport system substrate-binding protein
+            K15496  wtpB; molybdate/tungstate transport system permease protein
+            K15497  wtpA; molybdate/tungstate transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Tungsten [CPD:C00753], Molybdate [CPD:C06232]
+DBLINKS     BSID: 890632
+REFERENCE   PMID:16952940 (molybdate, tungstate)
+  AUTHORS   Bevers LE, Hagedoorn PL, Krijger GC, Hagen WR
+  TITLE     Tungsten transport protein A (WtpA) in Pyrococcus furiosus: the first member of a new class of tungstate and molybdate transporters.
+  JOURNAL   J Bacteriol 188:6498-505 (2006)
+///

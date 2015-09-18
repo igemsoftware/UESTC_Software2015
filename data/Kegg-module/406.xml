@@ -1,0 +1,25 @@
+ENTRY       M00406            Complex   Module
+NAME        TREX complex
+DEFINITION  K12878+K12879+K13174+K13175+K13176+K12880+K12881+K12812
+ORTHOLOGY   K12878  THOC1; THO complex subunit 1
+            K12879  THOC2; THO complex subunit 2
+            K13174  THOC5; THO complex subunit 5
+            K13175  THOC6; THO complex subunit 6
+            K13176  THOC7; THO complex subunit 7
+            K12880  THOC3; THO complex subunit 3
+            K12881  THOC4; THO complex subunit 4
+            K12812  UAP56; ATP-dependent RNA helicase UAP56/SUB2 [EC:3.6.4.13]
+CLASS       Structural complex; Genetic information processing; RNA processing
+PATHWAY     map03013  RNA transport
+            map03040  Spliceosome
+BRITE       ko03041  Spliceosome
+DBLINKS     BSID: 890621
+REFERENCE   PMID:19229134
+  AUTHORS   Katahira J, Yoneda Y
+  TITLE     Roles of the TREX complex in nuclear export of mRNA.
+  JOURNAL   RNA Biol 6:149-52 (2009)
+REFERENCE   PMID:15901496
+  AUTHORS   Reed R, Cheng H
+  TITLE     TREX, SR proteins and export of mRNA.
+  JOURNAL   Curr Opin Cell Biol 17:269-73 (2005)
+///

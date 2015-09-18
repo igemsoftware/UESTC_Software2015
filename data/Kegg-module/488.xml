@@ -1,0 +1,15 @@
+ENTRY       M00488            FuncSet   Module
+NAME        DcuS-DcuR (C4-dicarboxylate metabolism) two-component regulatory system
+DEFINITION  K07701 K07703
+ORTHOLOGY   K07701  dcuS; CitB family, sensor histidine kinase
+            K07703  dcuR; CitB family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: C4-dicarboxylates [CPD:C00049 C00122 C00149 C00042]
+DBLINKS     BSID: 565942
+REFERENCE   PMID:9973351
+  AUTHORS   Golby P, Davies S, Kelly DJ, Guest JR, Andrews SC
+  TITLE     Identification and characterization of a two-component sensor-kinase and response-regulator system (DcuS-DcuR) controlling gene expression in response to  C4-dicarboxylates in Escherichia coli.
+  JOURNAL   J Bacteriol 181:1238-48 (1999)
+///

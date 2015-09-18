@@ -1,0 +1,27 @@
+ENTRY       M00382            Complex   Module
+NAME        SCF-FBS complex
+DEFINITION  K03868+K03347+K03094+(K10099,K10100)
+ORTHOLOGY   K03868  RBX1; RING-box protein 1
+            K03347  CUL1; cullin 1
+            K03094  SKP1; S-phase kinase-associated protein 1
+            K10099  FBXO2; F-box protein 2
+            K10100  FBXO6; F-box protein 6
+CLASS       Structural complex; Genetic information processing; Ubiquitin system
+PATHWAY     map04120  Ubiquitin mediated proteolysis
+            map04141  Protein processing in endoplasmic reticulum
+BRITE       ko04121  Ubiquitin system
+COMMENT     Substrate: N-glycans, Chk1
+DBLINKS     BSID: 468393
+REFERENCE   PMID:12939278
+  AUTHORS   Yoshida Y, Tokunaga F, Chiba T, Iwai K, Tanaka K, Tai T.
+  TITLE     Fbs2 is a new member of the E3 ubiquitin ligase family that recognizes sugar chains.
+  JOURNAL   J Biol Chem 278:43877-84 (2003)
+REFERENCE   PMID:16137618
+  AUTHORS   Zhang YW, Otterness DM, Chiang GG, Xie W, Liu YC, Mercurio F, Abraham RT
+  TITLE     Genotoxic stress targets human Chk1 for degradation by the ubiquitin-proteasome pathway.
+  JOURNAL   Mol Cell 19:607-18 (2005)
+REFERENCE   PMID:19716789
+  AUTHORS   Zhang YW, Brognard J, Coughlin C, You Z, Dolled-Filhart M, Aslanian A, Manning G, Abraham RT, Hunter T
+  TITLE     The F box protein Fbx6 regulates Chk1 stability and cellular sensitivity to replication stress.
+  JOURNAL   Mol Cell 35:442-53 (2009)
+///

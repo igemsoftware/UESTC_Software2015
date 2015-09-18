@@ -1,0 +1,17 @@
+ENTRY       M00302            Complex   Module
+NAME        2-Aminoethylphosphonate transport system
+DEFINITION  K11081+K11082+K11083+K11084
+ORTHOLOGY   K11081  phnS; 2-aminoethylphosphonate transport system substrate-binding protein
+            K11082  phnV; 2-aminoethylphosphonate transport system permease protein
+            K11083  phnU; 2-aminoethylphosphonate transport system permease protein
+            K11084  phnT; 2-aminoethylphosphonate transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: 2-Aminoethylphosphonate [CPD:C03557]
+DBLINKS     BSID: 890560
+REFERENCE   PMID:12107130
+  AUTHORS   Kim AD, Baker AS, Dunaway-Mariano D, Metcalf WW, Wanner BL, Martin BM.
+  TITLE     The 2-aminoethylphosphonate-specific transaminase of the 2-aminoethylphosphonate degradation pathway.
+  JOURNAL   J Bacteriol 184:4134-40 (2002)
+///

@@ -1,0 +1,21 @@
+ENTRY       M00238            Complex   Module
+NAME        D-Methionine transport system
+DEFINITION  K02073+K02072+K02071
+ORTHOLOGY   K02073  ABC.MET.S; D-methionine transport system substrate-binding protein
+            K02072  ABC.MET.P; D-methionine transport system permease protein
+            K02071  ABC.MET.A; D-methionine transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: D-Methionine [CPD:C00855]
+DBLINKS     BSID: 890504
+REFERENCE   PMID:12218041 (D-methionine)
+  AUTHORS   Merlin C, Gardiner G, Durand S, Masters M.
+  TITLE     The Escherichia coli metD locus encodes an ABC transporter which includes Abc (MetN), YaeE (MetI), and YaeC (MetQ).
+  JOURNAL   J Bacteriol 184:5513-7 (2002)
+REFERENCE   PMID:318639 (D-methionine)
+  AUTHORS   Kadner RJ
+  TITLE     Transport and utilization of D-methionine and other methionine sources in Escherichia coli.
+  JOURNAL   J Bacteriol 129:207-16 (1977)
+///

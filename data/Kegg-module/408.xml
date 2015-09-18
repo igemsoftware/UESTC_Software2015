@@ -1,0 +1,17 @@
+ENTRY       M00408            Complex   Module
+NAME        ESCRT-0 complex
+DEFINITION  K12182+K04705
+ORTHOLOGY   K12182  HGS; hepatocyte growth factor-regulated tyrosine kinase substrate
+            K04705  STAM; signal transducing adaptor molecule
+CLASS       Structural complex; Genetic information processing; Protein processing
+PATHWAY     map04144  Endocytosis
+DBLINKS     BSID: 890623
+REFERENCE   PMID:19278655
+  AUTHORS   Ren X, Kloer DP, Kim YC, Ghirlando R, Saidi LF, Hummer G, Hurley JH
+  TITLE     Hybrid structural model of the complete human ESCRT-0 complex.
+  JOURNAL   Structure 17:406-16 (2009)
+REFERENCE   PMID:19560911
+  AUTHORS   Hanson PI, Shim S, Merrill SA
+  TITLE     Cell biology of the ESCRT machinery.
+  JOURNAL   Curr Opin Cell Biol 21:568-74 (2009)
+///

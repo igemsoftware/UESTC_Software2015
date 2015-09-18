@@ -1,0 +1,17 @@
+ENTRY       M00605            Complex   Module
+NAME        Glucose/mannose transport system
+DEFINITION  K17315+K17316+K17317+K10112
+ORTHOLOGY   K17315  gtsA; glucose/mannose transport system substrate-binding protein
+            K17316  gtsB; glucose/mannose transport system permease protein
+            K17317  gtsC; glucose/mannose transport system permease protein
+            K10112  msmX; multiple sugar transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Glucose [CPD:C00031], Mannose [CPD:C00159]
+DBLINKS     BSID: 890667
+REFERENCE   PMID:16952948
+  AUTHORS   Chevance FF, Erhardt M, Lengsfeld C, Lee SJ, Boos W
+  TITLE     Mlc of Thermus thermophilus: a glucose-specific regulator for a glucose/mannose ABC transporter in the absence of the phosphotransferase system.
+  JOURNAL   J Bacteriol 188:6561-71 (2006)
+///

@@ -1,0 +1,13 @@
+ENTRY       M00635            Signature Module
+NAME        Tetracycline resistance, TetAB(46) transporter
+DEFINITION  K18216+K18217
+ORTHOLOGY   K18216  steA; ATP-binding cassette, subfamily B, tetracycline resistant protein
+            K18217  steB; ATP-binding cassette, subfamily B, tetracycline resistant protein
+CLASS       Signature module; Gene set; Drug resistance
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+REFERENCE   PMID:22941900
+  AUTHORS   Warburton PJ, Ciric L, Lerner A, Seville LA, Roberts AP, Mullany P, Allan E
+  TITLE     TetAB46, a predicted heterodimeric ABC transporter conferring tetracycline resistance in Streptococcus australis isolated from the oral cavity.
+  JOURNAL   J Antimicrob Chemother 68:17-22 (2013)
+///

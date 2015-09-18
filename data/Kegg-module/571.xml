@@ -1,0 +1,15 @@
+ENTRY       M00571            Complex   Module
+NAME        AlgE-type Mannuronan C-5-Epimerase transport system
+DEFINITION  K16300+K16299+K12340
+ORTHOLOGY   K16300  eexE; membrane fusion protein EexE
+            K16299  eexD; ATP-binding cassette, subfamily C, bacterial EexD
+            K12340  tolC; outer membrane channel protein
+CLASS       Structural complex; Environmental information processing; Bacterial secretion system
+BRITE       ko02044  Secretion system
+COMMENT     Substrate: AlgE-type mannuronan C-5-epimerase [avn:Avin_51190 avn:Avin_51180 avn:Avin_51170 avn:Avin_51200 avn:Avin_33710 avn:Avin_51230 avn:Avin_51250]
+DBLINKS     BSID: 890647
+REFERENCE   PMID:16855245
+  AUTHORS   Gimmestad M, Steigedal M, Ertesvag H, Moreno S, Christensen BE, Espin G, Valla S
+  TITLE     Identification and characterization of an Azotobacter vinelandii type I secretion system responsible for export of the AlgE-type mannuronan C-5-epimerases.
+  JOURNAL   J Bacteriol 188:5551-60 (2006)
+///

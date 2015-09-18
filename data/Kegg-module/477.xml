@@ -1,0 +1,14 @@
+ENTRY       M00477            FuncSet   Module
+NAME        EvgS-EvgA (acid and drug tolerance) two-component regulatory system
+DEFINITION  K07679 K07690
+ORTHOLOGY   K07679  evgS, bvgS; NarL family, sensor histidine kinase
+            K07690  evgA, bvgA; NarL family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565931
+REFERENCE   PMID:19352034
+  AUTHORS   Itou J, Eguchi Y, Utsumi R
+  TITLE     Molecular mechanism of transcriptional cascade initiated by the EvgS/EvgA system  in Escherichia coli K-12.
+  JOURNAL   Biosci Biotechnol Biochem 73:870-8 (2009)
+///

@@ -1,0 +1,31 @@
+ENTRY       M00237            Complex   Module
+NAME        Branched-chain amino acid transport system
+DEFINITION  K01999+K01997+K01998+K01995+K01996
+ORTHOLOGY   K01999  livK; branched-chain amino acid transport system substrate-binding protein
+            K01997  livH; branched-chain amino acid transport system permease protein
+            K01998  livM; branched-chain amino acid transport system permease protein
+            K01995  livG; branched-chain amino acid transport system ATP-binding protein
+            K01996  livF; branched-chain amino acid transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:1:1
+            Substrate: L-Valine [CPD:C00183], L-Leucine [CPD:C00123], L-Isoleucine [CPD:C00407], L-Threonine [CPD:C00188], L-Histidine [CPD:C00135], L-Phenylalanine [CPD:C00079]
+DBLINKS     BSID: 890503
+REFERENCE   PMID:2120183 (neutral amino acid, histidine )
+  AUTHORS   Hoshino T, Kose K
+  TITLE     Cloning, nucleotide sequences, and identification of products of the Pseudomonas aeruginosa PAO bra genes, which encode the high-affinity branched-chain amino acid transport system.
+  JOURNAL   J Bacteriol 172:5531-9 (1990)
+REFERENCE   PMID:14702302 (L-phenylalanine, L-leucine, L-valine, L-isoleucine)
+  AUTHORS   Koyanagi T, Katayama T, Suzuki H, Kumagai H
+  TITLE     Identification of the LIV-I/LS system as the third phenylalanine transporter in Escherichia coli K-12.
+  JOURNAL   J Bacteriol 186:343-50 (2004)
+REFERENCE   PMID:1429514 (L-valine, L-leucine, L-isoleucine, L-threonine)
+  AUTHORS   Matsubara K, Ohnishi K, Kiritani K.
+  TITLE     Nucleotide sequences and characterization of liv genes encoding components of the high-affinity branched-chain amino acid transport system in Salmonella typhimurium.
+  JOURNAL   J Biochem (Tokyo) 112:93-101 (1992)
+REFERENCE   PMID:2195019 (L-leucine)
+  AUTHORS   Adams MD, Wagner LM, Graddis TJ, Landick R, Antonucci TK, Gibson AL, Oxender DL.
+  TITLE     Nucleotide sequence and genetic characterization reveal six essential genes for the LIV-I and LS transport systems of Escherichia coli.
+  JOURNAL   J Biol Chem 265:11436-43 (1990)
+///

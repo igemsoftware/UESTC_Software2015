@@ -1,0 +1,24 @@
+ENTRY       M00434            FuncSet   Module
+NAME        PhoR-PhoB (phosphate starvation response) two-component regulatory system
+DEFINITION  K07636 (K07657,K07658)
+ORTHOLOGY   K07636  phoR; OmpR family, sensor histidine kinase
+            K07657  phoB; OmpR family, response regulator
+            K07658  phoB1; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Phosphate limitation [CPD:C00059]
+DBLINKS     BSID: 565896
+REFERENCE   PMID:21700403
+  AUTHORS   Crepin S, Chekabab SM, Le Bihan G, Bertrand N, Dozois CM, Harel J
+  TITLE     The Pho regulon and the pathogenesis of Escherichia coli.
+  JOURNAL   Vet Microbiol 153:82-8 (2011)
+REFERENCE   PMID:8830274
+  AUTHORS   Hulett FM
+  TITLE     The signal-transduction network for Pho regulation in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 19:933-9 (1996)
+REFERENCE   PMID:2556636 (name)
+  AUTHORS   Stock JB, Ninfa AJ, Stock AM
+  TITLE     Protein phosphorylation and regulation of adaptive responses in bacteria.
+  JOURNAL   Microbiol Rev 53:450-90 (1989)
+///

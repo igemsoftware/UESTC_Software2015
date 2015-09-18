@@ -1,0 +1,13 @@
+ENTRY       M00270            Complex   Module
+NAME        PTS system, trehalose-specific II component
+DEFINITION  (K02777,K02817)+K02818+K02819
+ORTHOLOGY   K02777  PTS-Glc-EIIA; PTS system, glucose-specific IIA component [EC:2.7.1.69]
+            K02817  PTS-Tre-EIIA; PTS system, trehalose-specific IIA component [EC:2.7.1.69]
+            K02818  PTS-Tre-EIIB; PTS system, trehalose-specific IIB component [EC:2.7.1.69]
+            K02819  PTS-Tre-EIIC; PTS system, trehalose-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00500  Starch and sucrose metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 468343
+///

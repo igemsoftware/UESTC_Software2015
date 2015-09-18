@@ -1,0 +1,19 @@
+ENTRY       M00262            Complex   Module
+NAME        DNA polymerase delta complex
+DEFINITION  K02327+K02328+K03504+K03505
+ORTHOLOGY   K02327  POLD1; DNA polymerase delta, subunit A [EC:2.7.7.7]
+            K02328  POLD2; DNA polymerase delta, subunit B [EC:2.7.7.7]
+            K03504  POLD3; DNA polymerase delta, subunit C [EC:2.7.7.7]
+            K03505  POLD4; DNA polymerase delta, subunit D [EC:2.7.7.7]
+CLASS       Structural complex; Genetic information processing; DNA polymerase
+PATHWAY     map03030  DNA replication
+            map03410  Base excision repair
+            map03420  Nucleotide excision repair
+BRITE       ko03032  DNA replication proteins
+            ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 890525
+REFERENCE   PMID:9759502
+  AUTHORS   Waga S, Stillman B.
+  TITLE     The DNA replication fork in eukaryotic cells.
+  JOURNAL   Annu Rev Biochem 67:721-51 (1998)
+///

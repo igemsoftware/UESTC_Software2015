@@ -1,0 +1,25 @@
+ENTRY       M00213            Complex   Module
+NAME        L-Arabinose transport system
+DEFINITION  K10537+K10538+K10539
+ORTHOLOGY   K10537  araF; L-arabinose transport system substrate-binding protein
+            K10538  araH; L-arabinose transport system permease protein
+            K10539  araG; L-arabinose transport system ATP-binding protein [EC:3.6.3.17]
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:1
+            Substrate: L-Arabinose [CPD:C00259]
+DBLINKS     BSID: 890480
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:2445996 (L-arabinose)
+  AUTHORS   Scripture JB, Voelker C, Miller S, O'Donnell RT, Polgar L, Rade J, Horazdovsky BF, Hogg RW.
+  TITLE     High-affinity L-arabinose transport operon. Nucleotide sequence and analysis of gene products.
+  JOURNAL   J Mol Biol 197:37-46 (1987)
+REFERENCE   PMID:1304895 (L-arabinose)
+  AUTHORS   Kehres DG, Hogg RW.
+  TITLE     Escherichia coli K12 arabinose-binding protein mutants with altered transport properties.
+  JOURNAL   Protein Sci 1:1652-60 (1992)
+///

@@ -1,0 +1,2862 @@
+"access_num","koid","cogid","description","ec"
+"CEG0001","K01972","COG0272L","DNA ligase (NAD+)","[EC:6.5.1.2]"
+"CEG0002","K01890","COG0072J","phenylalanyl-tRNA synthetase beta chain","[EC:6.1.1.20]"
+"CEG0003","K02931","COG0094J","large subunit ribosomal protein L5","---"
+"CEG0004","K00059","COG1028IQR","3-oxoacyl-[acyl-carrier protein] reductase","[EC:1.1.1.100]"
+"CEG0005","K00789","COG0192H","S-adenosylmethionine synthetase","[EC:2.5.1.6]"
+"CEG0006","K00945","COG0283F","cytidylate kinase","[EC:2.7.4.14]"
+"CEG0007","K00995","COG0558I","CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase","[EC:2.7.8.5]"
+"CEG0008","K01868","COG0441J","threonyl-tRNA synthetase","[EC:6.1.1.3]"
+"CEG0009","K01875","COG0172J","seryl-tRNA synthetase","[EC:6.1.1.11]"
+"CEG0010","K01881","COG0442J","prolyl-tRNA synthetase","[EC:6.1.1.15]"
+"CEG0011","K01889","COG0016J","phenylalanyl-tRNA synthetase alpha chain","[EC:6.1.1.20]"
+"CEG0012","K02337","COG0587L","DNA polymerase III subunit alpha","[EC:2.7.7.7]"
+"CEG0013","K02470","COG0187L","DNA gyrase subunit B","[EC:5.99.1.3]"
+"CEG0014","K02518","COG0361J","translation initiation factor IF-1","---"
+"CEG0015","K02520","COG0290J","translation initiation factor IF-3","---"
+"CEG0016","K02600","COG0195K","N utilization substance protein A","---"
+"CEG0017","K02835","COG0216J","peptide chain release factor RF-1","---"
+"CEG0018","K02874","COG0093J","large subunit ribosomal protein L14","---"
+"CEG0019","K02876","COG0200J","large subunit ribosomal protein L15","---"
+"CEG0020","K02878","COG0197J","large subunit ribosomal protein L16","---"
+"CEG0021","K02890","COG0091J","large subunit ribosomal protein L22","---"
+"CEG0022","K02895","COG0198J","large subunit ribosomal protein L24","---"
+"CEG0023","K02904","COG0255J","large subunit ribosomal protein L29","---"
+"CEG0024","K02933","COG0097J","large subunit ribosomal protein L6","---"
+"CEG0025","K02948","COG0100J","small subunit ribosomal protein S11","---"
+"CEG0026","K02967","COG0052J","small subunit ribosomal protein S2","---"
+"CEG0027","K02988","COG0098J","small subunit ribosomal protein S5","---"
+"CEG0028","K02992","COG0049J","small subunit ribosomal protein S7","---"
+"CEG0029","K03040","COG0202K","DNA-directed RNA polymerase subunit alpha","[EC:2.7.7.6]"
+"CEG0030","K03086","COG0568K","RNA polymerase primary sigma factor","---"
+"CEG0031","K03110","COG0552U","fused signal recognition particle receptor","---"
+"CEG0032","K03531","COG0206D","cell division protein FtsZ","---"
+"CEG0033","K00525","COG0209F","ribonucleoside-diphosphate reductase alpha chain","[EC:1.17.4.1]"
+"CEG0034","K00554","COG0336J","tRNA (guanine-N1-)-methyltransferase","[EC:2.1.1.31]"
+"CEG0035","K01056","COG0193J","peptidyl-tRNA hydrolase, PTH1 family","[EC:3.1.1.29]"
+"CEG0036","K01409","COG0533O","O-sialoglycoprotein endopeptidase","[EC:3.4.24.57]"
+"CEG0037","K01866","COG0162J","tyrosyl-tRNA synthetase","[EC:6.1.1.1]"
+"CEG0038","K01872","COG0013J","alanyl-tRNA synthetase","[EC:6.1.1.7]"
+"CEG0039","K01873","COG0525J","valyl-tRNA synthetase","[EC:6.1.1.9]"
+"CEG0040","K01883","COG0215J","cysteinyl-tRNA synthetase","[EC:6.1.1.16]"
+"CEG0041","K02519","COG0532J","translation initiation factor IF-2","---"
+"CEG0042","K02622","COG0187L","topoisomerase IV subunit B","[EC:5.99.1.-]"
+"CEG0043","K02838","COG0233J","ribosome recycling factor","---"
+"CEG0044","K02871","COG0102J","large subunit ribosomal protein L13","---"
+"CEG0045","K02879","COG0203J","large subunit ribosomal protein L17","---"
+"CEG0046","K02887","COG0292J","large subunit ribosomal protein L20","---"
+"CEG0047","K02926","COG0088J","large subunit ribosomal protein L4","---"
+"CEG0048","K02935","COG0222J","large subunit ribosomal protein L7/L12","---"
+"CEG0049","K02954","COG0199J","small subunit ribosomal protein S14","---"
+"CEG0050","K02961","COG0186J","small subunit ribosomal protein S17","---"
+"CEG0051","K02965","COG0185J","small subunit ribosomal protein S19","---"
+"CEG0052","K02982","COG0092J","small subunit ribosomal protein S3","---"
+"CEG0053","K03043","COG0085K","DNA-directed RNA polymerase subunit beta","[EC:2.7.7.6]"
+"CEG0054","K03070","COG0653U","preprotein translocase subunit SecA","---"
+"CEG0055","K03076","COG0201U","preprotein translocase subunit SecY","---"
+"CEG0056","K03111","COG0629L","single-strand DNA-binding protein","---"
+"CEG0057","K03977","COG1160R","GTP-binding protein","---"
+"CEG0058","K03978","COG0218R","GTP-binding protein","---"
+"CEG0059","K04567","COG1190J","lysyl-tRNA synthetase, class II","[EC:6.1.1.6]"
+"CEG0060","K09903","COG0528F","uridylate kinase","[EC:2.7.4.22]"
+"CEG0061","K00134","COG0057G","glyceraldehyde 3-phosphate dehydrogenase","[EC:1.2.1.12]"
+"CEG0062","K00287","COG0262H","dihydrofolate reductase","[EC:1.5.1.3]"
+"CEG0063","K00604","COG0223J","methionyl-tRNA formyltransferase","[EC:2.1.2.9]"
+"CEG0064","K00927","COG0126G","phosphoglycerate kinase","[EC:2.7.2.3]"
+"CEG0065","K00939","COG0563F","adenylate kinase","[EC:2.7.4.3]"
+"CEG0066","K00948","COG0462FE","ribose-phosphate pyrophosphokinase","[EC:2.7.6.1]"
+"CEG0067","K00981","COG0575I","phosphatidate cytidylyltransferase","[EC:2.7.7.41]"
+"CEG0068","K01265","COG0024J","methionyl aminopeptidase","[EC:3.4.11.18]"
+"CEG0069","K01689","COG0148G","enolase","[EC:4.2.1.11]"
+"CEG0070","K01867","COG0180J","tryptophanyl-tRNA synthetase","[EC:6.1.1.2]"
+"CEG0071","K01870","COG0060J","isoleucyl-tRNA synthetase","[EC:6.1.1.5]"
+"CEG0072","K01874","COG0143J","methionyl-tRNA synthetase","[EC:6.1.1.10]"
+"CEG0073","K01892","COG0124J","histidyl-tRNA synthetase","[EC:6.1.1.21]"
+"CEG0074","K01921","COG1181M","D-alanine-D-alanine ligase","[EC:6.3.2.4]"
+"CEG0075","K01924","COG0773M","UDP-N-acetylmuramate--alanine ligase","[EC:6.3.2.8]"
+"CEG0076","K01929","COG0770M","UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase","[EC:6.3.2.10]"
+"CEG0077","K01962","COG0825I","acetyl-CoA carboxylase carboxyl transferase subunit alpha","[EC:6.4.1.2]"
+"CEG0078","K02078","COG0236IQ","acyl carrier protein","---"
+"CEG0079","K02313","COG0593L","chromosomal replication initiator protein","---"
+"CEG0080","K02314","COG0305L","replicative DNA helicase","[EC:3.6.4.12]"
+"CEG0081","K02340","COG1466L","DNA polymerase III subunit delta","[EC:2.7.7.7]"
+"CEG0082","K02341","COG0470L","DNA polymerase III subunit delta'","[EC:2.7.7.7]"
+"CEG0083","K02355","COG0480J","elongation factor EF-G","[EC:3.6.5.3]"
+"CEG0084","K02357","COG0264J","elongation factor EF-Ts","---"
+"CEG0085","K02563","COG0707M","UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase","[EC:2.4.1.227]"
+"CEG0086","K02867","COG0080J","large subunit ribosomal protein L11","---"
+"CEG0087","K02881","COG0256J","large subunit ribosomal protein L18","---"
+"CEG0088","K02886","COG0090J","large subunit ribosomal protein L2","---"
+"CEG0089","K02899","COG0211J","large subunit ribosomal protein L27","---"
+"CEG0090","K02906","COG0087J","large subunit ribosomal protein L3","---"
+"CEG0091","K02907","COG1841J","large subunit ribosomal protein L30","---"
+"CEG0092","K02916","COG0291J","large subunit ribosomal protein L35","---"
+"CEG0093","K02946","COG0051J","small subunit ribosomal protein S10","---"
+"CEG0094","K02950","COG0048J","small subunit ribosomal protein S12","---"
+"CEG0095","K02956","COG0184J","small subunit ribosomal protein S15","---"
+"CEG0096","K02959","COG0228J","small subunit ribosomal protein S16","---"
+"CEG0097","K02986","COG0522J","small subunit ribosomal protein S4","---"
+"CEG0098","K03046","COG0086K","DNA-directed RNA polymerase subunit beta'","[EC:2.7.7.6]"
+"CEG0099","K03217","COG0706U","preprotein translocase subunit YidC","---"
+"CEG0100","K03536","COG0594J","ribonuclease P protein component","[EC:3.1.26.5]"
+"CEG0101","K03595","COG1159R","GTP-binding protein Era","---"
+"CEG0102","K04075","COG0037D","tRNA(Ile)-lysidine synthase","[EC:6.3.4.-]"
+"CEG0103","K09808","COG4591M","lipoprotein-releasing system permease protein","---"
+"CEG0104","K00566","COG0482J","tRNA-specific 2-thiouridylase","[EC:2.8.1.-]"
+"CEG0105","K00655","COG0204I","1-acyl-sn-glycerol-3-phosphate acyltransferase","[EC:2.3.1.51]"
+"CEG0106","K00790","COG0766M","UDP-N-acetylglucosamine 1-carboxyvinyltransferase","[EC:2.5.1.7]"
+"CEG0107","K00942","COG0194F","guanylate kinase","[EC:2.7.4.8]"
+"CEG0108","K00943","COG0125F","dTMP kinase","[EC:2.7.4.9]"
+"CEG0109","K01462","COG0242J","peptide deformylase","[EC:3.5.1.88]"
+"CEG0110","K01491","COG0190H","methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase","[EC:1.5.1.5 3.5.4.9]"
+"CEG0111","K01507","COG1227C,COG0221C","inorganic pyrophosphatase","[EC:3.6.1.1]"
+"CEG0112","K01624","COG0191G","fructose-bisphosphate aldolase, class II","[EC:4.1.2.13]"
+"CEG0113","K01869","COG0495J","leucyl-tRNA synthetase","[EC:6.1.1.4]"
+"CEG0114","K01876","COG0173J","aspartyl-tRNA synthetase","[EC:6.1.1.12]"
+"CEG0115","K01925","COG0771M","UDP-N-acetylmuramoylalanine--D-glutamate ligase","[EC:6.3.2.9]"
+"CEG0116","K01937","COG0504F","CTP synthase","[EC:6.3.4.2]"
+"CEG0117","K02109","COG0711C","F-type H+-transporting ATPase subunit b","[EC:3.6.3.14]"
+"CEG0118","K02316","COG0358L","DNA primase","[EC:2.7.7.-]"
+"CEG0119","K02343","COG2812L","DNA polymerase III subunit gamma/tau","[EC:2.7.7.7]"
+"CEG0120","K02434","COG0064J","aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit B","[EC:6.3.5.6 6.3.5.7]"
+"CEG0121","K02469","COG0188L","DNA gyrase subunit A","[EC:5.99.1.3]"
+"CEG0122","K02860","COG0806J","16S rRNA processing protein RimM","---"
+"CEG0123","K02884","COG0335J","large subunit ribosomal protein L19","---"
+"CEG0124","K02888","COG0261J","large subunit ribosomal protein L21","---"
+"CEG0125","K02892","COG0089J","large subunit ribosomal protein L23","---"
+"CEG0126","K02902","COG0227J","large subunit ribosomal protein L28","---"
+"CEG0127","K02914","COG0230J","large subunit ribosomal protein L34","---"
+"CEG0128","K02919","COG0257J","large subunit ribosomal protein L36","---"
+"CEG0129","K02952","COG0099J","small subunit ribosomal protein S13","---"
+"CEG0130","K02963","COG0238J","small subunit ribosomal protein S18","---"
+"CEG0131","K02990","COG0360J","small subunit ribosomal protein S6","---"
+"CEG0132","K02994","COG0096J","small subunit ribosomal protein S8","---"
+"CEG0133","K02996","COG0103J","small subunit ribosomal protein S9","---"
+"CEG0134","K03106","COG0541U","signal recognition particle subunit SRP54","---"
+"CEG0135","K03590","COG0849D","cell division protein FtsA","---"
+"CEG0136","K03687","COG0576O","molecular chaperone GrpE","---"
+"CEG0137","K03798","COG0465O","cell division protease FtsH","[EC:3.4.24.-]"
+"CEG0138","K03979","COG0536R","GTP-binding protein","---"
+"CEG0139","K04077","COG0459O","chaperonin GroEL","---"
+"CEG0140","K04078","COG0234O","chaperonin GroES","---"
+"CEG0141","K06925","COG0802R","UPF0079 ATP-binding protein","---"
+"CEG0142","K00382","COG1249C","dihydrolipoamide dehydrogenase","[EC:1.8.1.4]"
+"CEG0143","K00526","COG0208F","ribonucleoside-diphosphate reductase beta chain","[EC:1.17.4.1]"
+"CEG0144","K00645","COG0331I","[acyl-carrier-protein] S-malonyltransferase","EC:2.3.1.39]"
+"CEG0145","K00858","COG0061G","NAD+ kinase","[EC:2.7.1.23]"
+"CEG0146","K00859","COG0237H","dephospho-CoA kinase","[EC:2.7.1.24]"
+"CEG0147","K01000","COG0472M","phospho-N-acetylmuramoyl-pentapeptide-transferase","[EC:2.7.8.13]"
+"CEG0148","K01662","COG1154HI","1-deoxy-D-xylulose-5-phosphate synthase","[EC:2.2.1.7]"
+"CEG0149","K01772","COG0276H","ferrochelatase","[EC:4.99.1.1]"
+"CEG0150","K01803","COG0149G","triosephosphate isomerase (TIM)","[EC:5.3.1.1]"
+"CEG0151","K01885","COG0008J","glutamyl-tRNA synthetase","[EC:6.1.1.17]"
+"CEG0152","K01887","COG0018J","arginyl-tRNA synthetase","[EC:6.1.1.19]"
+"CEG0153","K01963","COG0777I","acetyl-CoA carboxylase carboxyl transferase subunit beta","[EC:6.4.1.2]"
+"CEG0154","K02111","COG0056C","F-type H+-transporting ATPase subunit alpha","[EC:3.6.3.14]"
+"CEG0155","K02338","COG0592L","DNA polymerase III subunit beta","[EC:2.7.7.7]"
+"CEG0156","K02621","COG0188L","topoisomerase IV subunit A","[EC:5.99.1.-]"
+"CEG0157","K02864","COG0244J","large subunit ribosomal protein L10","---"
+"CEG0158","K02968","COG0268J","small subunit ribosomal protein S20","---"
+"CEG0159","K03073","COG0690U","preprotein translocase subunit SecE","---"
+"CEG0160","K03168","COG0551L,COG0550L","DNA topoisomerase I","[EC:5.99.1.2]"
+"CEG0161","K03588","COG0772D","cell division protein FtsW","---"
+"CEG0162","K04042","COG1207M","bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase","[EC:2.7.7.23 2.3.1.157]"
+"CEG0163","K07042","COG0319R","probable rRNA maturation factor","---"
+"CEG0164","K11753","COG0196H","riboflavin kinase / FMN adenylyltransferase","[EC:2.7.1.26 2.7.7.2]"
+"CEG0165","K13038","COG0452H","phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase","[EC:4.1.1.36 6.3.2.5]"
+"CEG0166","K00075","COG0812M","UDP-N-acetylmuramate dehydrogenase","[EC:1.1.1.158]"
+"CEG0167","K00215","COG0289E","dihydrodipicolinate reductase","[EC:1.3.1.26]"
+"CEG0168","K00560","COG0207F","thymidylate synthase","[EC:2.1.1.45]"
+"CEG0169","K00600","COG0112E","glycine hydroxymethyltransferase","[EC:2.1.2.1]"
+"CEG0170","K00954","COG0669H","pantetheine-phosphate adenylyltransferase","[EC:2.7.7.3]"
+"CEG0171","K00991","COG1211I","2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase","[EC:2.7.7.60]"
+"CEG0172","K01776","COG0796M","glutamate racemase","[EC:5.1.1.3]"
+"CEG0173","K01893","COG0017J","asparaginyl-tRNA synthetase","[EC:6.1.1.22]"
+"CEG0174","K01961","COG0439I","acetyl-CoA carboxylase, biotin carboxylase subunit","[EC:6.4.1.2 6.3.4.14]"
+"CEG0175","K02006","COG1122P","cobalt/nickel transport system ATP-binding protein","---"
+"CEG0176","K02112","COG0055C","F-type H+-transporting ATPase subunit beta","[EC:3.6.3.14]"
+"CEG0177","K02160","COG0511I","acetyl-CoA carboxylase biotin carboxyl carrier protein","---"
+"CEG0178","K02356","COG0231J","elongation factor EF-P","---"
+"CEG0179","K02358","COG0050J","elongation factor EF-Tu","[EC:3.6.5.3]"
+"CEG0180","K02372","COG0764I","3R-hydroxymyristoyl ACP dehydrase","[EC:4.2.1.-]"
+"CEG0181","K02601","COG0250K","transcriptional antiterminator NusG","---"
+"CEG0182","K02836","COG1186J","peptide chain release factor RF-2","---"
+"CEG0183","K02909","COG0254J","large subunit ribosomal protein L31","---"
+"CEG0184","K02911","COG0333J","large subunit ribosomal protein L32","---"
+"CEG0185","K03100","COG0681U","signal peptidase I","[EC:3.4.21.89]"
+"CEG0186","K03183","COG2226H","ubiquinone/menaquinone biosynthesis methyltransferase","[EC:2.1.1.-]"
+"CEG0187","K03431","COG1109G","phosphoglucosamine mutase","[EC:5.4.2.10]"
+"CEG0188","K03589","COG1589M","cell division protein FtsQ","---"
+"CEG0189","K03657","COG0210L","DNA helicase II / ATP-dependent DNA helicase PcrA","[EC:3.6.4.12]"
+"CEG0190","K04043","COG0443O","molecular chaperone DnaK","---"
+"CEG0191","K04487","COG1104E","cysteine desulfurase","[EC:2.8.1.7]"
+"CEG0192","K07447","COG0816L","putative holliday junction resolvase","[EC:3.1.-.-]"
+"CEG0193","K00133","COG0136E","aspartate-semialdehyde dehydrogenase","[EC:1.2.1.11]"
+"CEG0194","K00208","COG0623I","enoyl-[acyl-carrier protein] reductase I","[EC:1.3.1.9]"
+"CEG0195","K00615","COG0021G","transketolase","[EC:2.2.1.1]"
+"CEG0196","K00806","COG0020I","undecaprenyl diphosphate synthase","[EC:2.5.1.31]"
+"CEG0197","K00820","COG0449M","glucosamine--fructose-6-phosphate aminotransferase (isomerizing)","[EC:2.6.1.16]"
+"CEG0198","K00919","COG1947I","4-diphosphocytidyl-2-C-methyl-D-erythritol kinase","[EC:2.7.1.148]"
+"CEG0199","K00969","COG1057H","nicotinate-nucleotide adenylyltransferase","[EC:2.7.7.18]"
+"CEG0200","K00974","COG0617J","tRNA nucleotidyltransferase (CCA-adding enzyme)","[EC:2.7.7.72 3.1.3.- 3.1.4.-]"
+"CEG0201","K00997","COG0736I","holo-[acyl-carrier protein] synthase","[EC:2.7.8.7]"
+"CEG0202","K01633","COG1539H","dihydroneopterin aldolase","[EC:4.1.2.25]"
+"CEG0203","K01714","COG0329EM","dihydrodipicolinate synthase","[EC:4.2.1.52]"
+"CEG0204","K01770","COG0245I","2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase","[EC:4.6.1.12]"
+"CEG0205","K01834","COG0696G,COG0588G","phosphoglycerate mutase","[EC:5.4.2.1]"
+"CEG0206","K01878","COG0752J","glycyl-tRNA synthetase alpha chain","[EC:6.1.1.14]"
+"CEG0207","K01879","COG0751J","glycyl-tRNA synthetase beta chain","[EC:6.1.1.14]"
+"CEG0208","K01886","COG0008J","glutaminyl-tRNA synthetase","[EC:6.1.1.18]"
+"CEG0209","K01916","COG0171H","NAD+ synthase","[EC:6.3.1.5]"
+"CEG0210","K01928","COG0769M","UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase","[EC:6.3.2.13]"
+"CEG0211","K02115","COG0224C","F-type H+-transporting ATPase subunit gamma","[EC:3.6.3.14]"
+"CEG0212","K02433","COG0154J","aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit A","[EC:6.3.5.6 6.3.5.7]"
+"CEG0213","K02527","COG1519M","3-deoxy-D-manno-octulosonic-acid transferase","[EC:2.-.-.-]"
+"CEG0214","K02834","COG0858J","ribosome-binding factor A","---"
+"CEG0215","K02863","COG0081J","large subunit ribosomal protein L1","---"
+"CEG0216","K02970","COG0828J","small subunit ribosomal protein S21","---"
+"CEG0217","K03101","COG0597MU","signal peptidase II","[EC:3.4.23.36]"
+"CEG0218","K03524","COG0340H","BirA family transcriptional regulator, biotin operon repressor / biotin-acetyl-CoA-carboxylase] ligase","[EC:6.3.4.15]"
+"CEG0219","K03621","COG0416I","glycerol-3-phosphate acyltransferase PlsX","[EC:2.3.1.15]"
+"CEG0220","K03634","COG2834M","outer membrane lipoprotein carrier protein","---"
+"CEG0221","K04488","COG0822C","nitrogen fixation protein NifU and related proteins","---"
+"CEG0222","K07024","COG0561R","---","---"
+"CEG0223","K07497","COG2801L","putative transposase","---"
+"CEG0224","K08591","COG0344S","glycerol-3-phosphate acyltransferase PlsY","[EC:2.3.1.15]"
+"CEG0225","K12574","COG0595R","ribonuclease J","[EC:3.1.-.-]"
+"CEG0226","K13292","COG0682M","phosphatidylglycerol:prolipoprotein diacylglycerol transferase","[EC:2.-.-.-]"
+"CEG0227","K14540","COG1161R","ribosome biogenesis GTPase A","---"
+"CEG0228","K00099","COG0743I","1-deoxy-D-xylulose-5-phosphate reductoisomerase","[EC:1.1.1.267]"
+"CEG0229","K00384","COG0492O","thioredoxin reductase (NADPH)","[EC:1.8.1.9]"
+"CEG0230","K00627","COG0508C","pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase)","[EC:2.3.1.12]"
+"CEG0231","K00674","COG2171E","2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase","[EC:2.3.1.117]"
+"CEG0232","K00677","COG1043M","UDP-N-acetylglucosamine acyltransferase","[EC:2.3.1.129]"
+"CEG0233","K00850","COG0205G","6-phosphofructokinase","[EC:2.7.1.11]"
+"CEG0234","K00873","COG0469G","pyruvate kinase","[EC:2.7.1.40]"
+"CEG0235","K00891","COG0703E","shikimate kinase","[EC:2.7.1.71]"
+"CEG0236","K00912","COG1663M","tetraacyldisaccharide 4'-kinase","[EC:2.7.1.130]"
+"CEG0237","K00979","COG1212M","3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase)","[EC:2.7.7.38]"
+"CEG0238","K01495","COG0302H","GTP cyclohydrolase I","[EC:3.5.4.16]"
+"CEG0239","K01599","COG0407H","uroporphyrinogen decarboxylase","[EC:4.1.1.37]"
+"CEG0240","K01749","COG0181H","hydroxymethylbilane synthase","[EC:2.5.1.61]"
+"CEG0241","K01756","COG0015F","adenylosuccinate lyase","[EC:4.3.2.2]"
+"CEG0242","K01783","COG0036G","ribulose-phosphate 3-epimerase","[EC:5.1.3.1]"
+"CEG0243","K01810","COG0166G","glucose-6-phosphate isomerase","[EC:5.3.1.9]"
+"CEG0244","K01951","COG0518F,COG0519F","GMP synthase (glutamine-hydrolysing)","[EC:6.3.5.2]"
+"CEG0245","K02110","COG0636C","F-type H+-transporting ATPase subunit c","[EC:3.6.3.14]"
+"CEG0246","K02335","COG0258L,COG0749L","DNA polymerase I","[EC:2.7.7.7]"
+"CEG0247","K02494","COG3017M","outer membrane lipoprotein LolB","---"
+"CEG0248","K02523","COG0142H","octaprenyl diphosphate synthase","[EC:2.5.1.-]"
+"CEG0249","K02536","COG1044M","UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase","[EC:2.3.1.-]"
+"CEG0250","K03074","COG0341U","preprotein translocase subunit SecF","---"
+"CEG0251","K03269","COG2908S","UDP-2,3-diacylglucosamine hydrolase","[EC:3.6.1.-]"
+"CEG0252","K03438","COG0275M","S-adenosyl-methyltransferase","[EC:2.1.1.-]"
+"CEG0253","K03526","COG0821I","(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase","[EC:1.17.7.1]"
+"CEG0254","K03530","COG0776L","DNA-binding protein HU-beta","---"
+"CEG0255","K06148","COG4987CO,COG4988CO,COG1132V,COG2274V","ATP-binding cassette, subfamily C, bacterial","---"
+"CEG0256","K07277","COG4775M","outer membrane protein","---"
+"CEG0257","K07566","COG0009J","putative translation factor","---"
+"CEG0258","K08884","COG0515RTKL","serine/threonine protein kinase, bacterial","[EC:2.7.11.1]"
+"CEG0259","K09810","COG1136V","lipoprotein-releasing system ATP-binding protein","[EC:3.6.3.-]"
+"CEG0260","K11085","COG1132V","ATP-binding cassette, subfamily B, bacterial MsbA","[EC:3.6.3.-]"
+"CEG0261","K11720","COG0795R","lipopolysaccharide export system permease protein","---"
+"CEG0262","K11754","COG0285H","dihydrofolate synthase / folylpolyglutamate synthase","[EC:6.3.2.12 6.3.2.17]"
+"CEG0263","K14742","COG1214O","hypothetical protease","[EC:3.4.-.-]"
+"CEG0264","---","COG0500QR","yafE/yecP/cmoB/HI0912/tehB/HP0388/Rv3030/metW",
+"CEG0265","---","COG1396K","ydcN/dicA/ydfB/Rv2515c/PA14_40150/PA14_40210",
+"CEG0266","K00057","COG0240C","glycerol-3-phosphate dehydrogenase (NAD(P)+)","[EC:1.1.1.94]"
+"CEG0267","K00088","COG0516F","IMP dehydrogenase","[EC:1.1.1.205]"
+"CEG0268","K00568","COG2227H","3-demethylubiquinone-9 3-methyltransferase","[EC:2.1.1.- 2.1.1.64]"
+"CEG0269","K00648","COG0332I","3-oxoacyl-[acyl-carrier-protein] synthase III","[EC:2.3.1.180]"
+"CEG0270","K00658","COG0508C","2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase)","[EC:2.3.1.61]"
+"CEG0271","K00748","COG0763M","lipid-A-disaccharide synthase","[EC:2.4.1.182]"
+"CEG0272","K00759","COG0503F","adenine phosphoribosyltransferase","[EC:2.4.2.7]"
+"CEG0273","K00791","COG0324J","tRNA dimethylallyltransferase","[EC:2.5.1.75]"
+"CEG0274","K00796","COG0294H","dihydropteroate synthase","[EC:2.5.1.15]"
+"CEG0275","K00946","COG0611H","thiamine-monophosphate kinase","[EC:2.7.4.16]"
+"CEG0276","K00998","COG1502I,COG1183I","phosphatidylserine synthase","[EC:2.7.8.8]"
+"CEG0277","K01439","COG0624E","succinyl-diaminopimelate desuccinylase","[EC:3.5.1.18]"
+"CEG0278","K01497","COG0807H","GTP cyclohydrolase II","[EC:3.5.4.25]"
+"CEG0279","K01520","COG0756F","dUTP pyrophosphatase","[EC:3.6.1.23]"
+"CEG0280","K01613","COG0688I","phosphatidylserine decarboxylase","[EC:4.1.1.65]"
+"CEG0281","K01719","COG1587H","uroporphyrinogen-III synthase","[EC:4.2.1.75]"
+"CEG0282","K01775","COG0787M","alanine racemase","[EC:5.1.1.1]"
+"CEG0283","K01778","COG0253E","diaminopimelate epimerase","[EC:5.1.1.7]"
+"CEG0284","K01807","COG0120G","ribose 5-phosphate isomerase A","[EC:5.3.1.6]"
+"CEG0285","K01915","COG0174E","glutamine synthetase","[EC:6.3.1.2]"
+"CEG0286","K02003","COG1136V,COG4181Q","---","---"
+"CEG0287","K02031","COG0444EP","peptide/nickel transport system ATP-binding protein","---"
+"CEG0288","K02034","COG1173EP","peptide/nickel transport system permease protein","---"
+"CEG0289","K02113","COG0712C,COG0711C","F-type H+-transporting ATPase subunit delta","[EC:3.6.3.14]"
+"CEG0290","K02114","COG0355C","F-type H+-transporting ATPase subunit epsilon","[EC:3.6.3.14]"
+"CEG0291","K02435","COG0721J","aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit C","[EC:6.3.5.6 6.3.5.7]"
+"CEG0292","K02492","COG0373H","glutamyl-tRNA reductase","[EC:1.2.1.70]"
+"CEG0293","K02897","COG1825J","large subunit ribosomal protein L25","---"
+"CEG0294","K02945","COG0539J","small subunit ribosomal protein S1","---"
+"CEG0295","K03088","COG1595K","RNA polymerase sigma-70 factor, ECF subfamily","---"
+"CEG0296","K03527","COG0761IM","4-hydroxy-3-methylbut-2-enyl diphosphate reductase","[EC:1.17.1.2]"
+"CEG0297","K03586","COG3116D","cell division protein FtsL","---"
+"CEG0298","K03587","COG0768M","cell division protein FtsI (penicillin-binding protein 3)","[EC:2.4.1.129]"
+"CEG0299","K03624","COG0782K","transcription elongation factor GreA","---"
+"CEG0300","K03647","COG1780F","protein involved in ribonucleotide reduction","---"
+"CEG0301","K03671","COG0526OC,COG3118O","thioredoxin 1","---"
+"CEG0302","K03685","COG0571K","ribonuclease III","[EC:3.1.26.3]"
+"CEG0303","K03686","COG0484O","molecular chaperone DnaJ","---"
+"CEG0304","K03980","COG0728R","virulence factor","---"
+"CEG0305","K04066","COG1198L","primosomal protein N' (replication factor Y) (superfamily II helicase)","[EC:3.6.4.-]"
+"CEG0306","K04744","COG1452M","LPS-assembly protein","---"
+"CEG0307","K08300","COG1530J","ribonuclease E","[EC:3.1.26.12]"
+"CEG0308","K11717","COG0520E","cysteine desulfurase / selenocysteine lyase","[EC:2.8.1.7 4.4.1.16]"
+"CEG0309","K11752","COG0117H,COG1985H","diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase","[EC:3.5.4.26 1.1.1.193]"
+"CEG0310","K13288","COG1949A","oligoribonuclease","[EC:3.1.-.-]"
+"CEG0311","---","COG0477GEPR","ydeE/yfaV/efpA/ydiN/STM1543/ACIAD2535",
+"CEG0312","---","COG1028IQR","yciK/HI0048/Rv1714/FTN_0892/FTN_1125/PA14_13680",
+"CEG0313","---","---","PPE FAMILY PROTEIN",
+"CEG0314","K00058","COG0111HE","D-3-phosphoglycerate dehydrogenase","[EC:1.1.1.95]"
+"CEG0315","K00793","COG0307H","riboflavin synthase alpha chain","[EC:2.5.1.9]"
+"CEG0316","K00795","COG0142H","farnesyl diphosphate synthase","[EC:2.5.1.1 2.5.1.10]"
+"CEG0317","K00867","COG1072H","type I pantothenate kinase","[EC:2.7.1.33]"
+"CEG0318","K00925","COG0282C","acetate kinase","[EC:2.7.2.1]"
+"CEG0319","K00963","COG1210M","UTP--glucose-1-phosphate uridylyltransferase","[EC:2.7.7.9]"
+"CEG0320","K01696","COG0133E","tryptophan synthase beta chain","[EC:4.2.1.20]"
+"CEG0321","K01698","COG0113H","porphobilinogen synthase","[EC:4.2.1.24]"
+"CEG0322","K01716","COG0764I","3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase","[EC:4.2.1.60]"
+"CEG0323","K01784","COG1087M,COG0451MG","UDP-glucose 4-epimerase","[EC:5.1.3.2]"
+"CEG0324","K01845","COG0001H","glutamate-1-semialdehyde 2,1-aminomutase","[EC:5.4.3.8]"
+"CEG0325","K02008","COG0619P","cobalt/nickel transport system permease protein","---"
+"CEG0326","K02108","COG0356C","F-type H+-transporting ATPase subunit a","[EC:3.6.3.14]"
+"CEG0327","K02342","COG0847L","DNA polymerase III subunit epsilon","[EC:2.7.7.7]"
+"CEG0328","K02493","COG2890J","methyltransferase","[EC:2.1.1.-]"
+"CEG0329","K02535","COG0774M","UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase","[EC:3.5.1.-]"
+"CEG0330","K02913","COG0267J","large subunit ribosomal protein L33","---"
+"CEG0331","K02939","COG0359J","large subunit ribosomal protein L9","---"
+"CEG0332","K03089","COG0568K","RNA polymerase sigma-32 factor","---"
+"CEG0333","K03179","COG0382H","4-hydroxybenzoate octaprenyltransferase","[EC:2.5.1.-]"
+"CEG0334","K03424","COG0084L","TatD DNase family protein","[EC:3.1.21.-]"
+"CEG0335","K03495","COG0445D","glucose inhibited division protein A","---"
+"CEG0336","K03551","COG2255L","holliday junction DNA helicase RuvB","---"
+"CEG0337","K03571","COG2891M","rod shape-determining protein MreD","---"
+"CEG0338","K03625","COG0781K","N utilization substance protein B","---"
+"CEG0339","K03628","COG1158K","transcription termination factor Rho","---"
+"CEG0340","K03643","COG2980M","LPS-assembly lipoprotein","---"
+"CEG0341","K03650","COG0486R","tRNA modification GTPase","---"
+"CEG0342","K03656","COG0210L","ATP-dependent DNA helicase Rep","[EC:3.6.4.12]"
+"CEG0343","K03664","COG0691O","SsrA-binding protein","---"
+"CEG0344","K03690","COG3165S","hypothetical protein","---"
+"CEG0345","K03763","COG2176L","DNA polymerase III subunit alpha, Gram-positive type","[EC:2.7.7.7]"
+"CEG0346","K03801","COG0321H","lipoyl(octanoyl) transferase","[EC:2.3.1.181]"
+"CEG0347","K03839","COG0716C","flavodoxin I","---"
+"CEG0348","K04082","COG1076O","molecular chaperone HscB","---"
+"CEG0349","K04085","COG0425O","tRNA 2-thiouridine synthesizing protein A","[EC:2.8.1.-]"
+"CEG0350","K05589","COG2919D","cell division protein FtsB","---"
+"CEG0351","K06180","COG0564J","ribosomal large subunit pseudouridine synthase D","[EC:5.4.99.12]"
+"CEG0352","K06861","COG1137R","lipopolysaccharide export system ATP-binding protein","[EC:3.6.3.-]"
+"CEG0353","K06980","COG0354R","---","---"
+"CEG0354","K07091","COG0795R","lipopolysaccharide export system permease protein","---"
+"CEG0355","K07236","COG2923P","tRNA 2-thiouridine synthesizing protein C","---"
+"CEG0356","K07483","COG2963L","transposase","---"
+"CEG0357","K09013","COG0396O","Fe-S cluster assembly ATP-binding protein","---"
+"CEG0358","K09811","COG2177D","cell division transport system permease protein","---"
+"CEG0359","K09812","COG2884D,COG1136V","cell division transport system ATP-binding protein","---"
+"CEG0360","K11179","COG2920P","tRNA 2-thiouridine synthesizing protein E","[EC:2.8.1.-]"
+"CEG0361","K11189","COG1925G","phosphocarrier protein","---"
+"CEG0362","---","COG0204I","yhdO/VC1937/VCA0921/plsC/PA14_31750",
+"CEG0363","---","COG0316S","VC0627/yadR/erpA/ACIAD0010/PA14_08510/yadR",
+"CEG0364","---","COG0463M","HI0868/HI1695/HI1696/spr0091/ACIAD0074",
+"CEG0365","---","COG0488R","SA0675/uup-A/uup-B/Rv2477c/MYPU_6900",
+"CEG0366","---","COG0513LKJ","SA1885/VCA0061/MG_308/deaD/rheB",
+"CEG0367","---","COG0526OC","resA/purL/trx/trxA/Rv0526/trxA",
+"CEG0368","---","COG0583K","HI1364/ACIAD0461/ACIAD0746/ACIAD2511/PA14_37910",
+"CEG0369","---","COG0596R","MG_310/MG_327/MG_344/Rv3177/PA14_48550",
+"CEG0370","---","COG1214O","ydiC/MG_208/spr0129/MYPU_1190/SAOUHSC_0227",
+"CEG0371","---","COG2244R","HI0867/HI1700/SP_1529/spr1150/SAOUHSC_01871",
+"CEG0372","K00014","COG0169E","shikimate dehydrogenase","[EC:1.1.1.25]"
+"CEG0373","K00161","COG1071C","pyruvate dehydrogenase E1 component subunit alpha","[EC:1.2.4.1]"
+"CEG0374","K00164","COG0567C","2-oxoglutarate dehydrogenase E1 component","[EC:1.2.4.2]"
+"CEG0375","K00275","COG0259H","pyridoxamine 5'-phosphate oxidase","EC:1.4.3.5]"
+"CEG0376","K00558","COG0270L","DNA (cytosine-5-)-methyltransferase","[EC:2.1.1.37]"
+"CEG0377","K00606","COG0413H","3-methyl-2-oxobutanoate hydroxymethyltransferase","[EC:2.1.2.11]"
+"CEG0378","K00625","COG0280C","phosphate acetyltransferase","[EC:2.3.1.8]"
+"CEG0379","K00631","COG2937I","glycerol-3-phosphate O-acyltransferase","[EC:2.3.1.15]"
+"CEG0380","K00647","COG0304IQ","3-oxoacyl-[acyl-carrier-protein] synthase I","[EC:2.3.1.41]"
+"CEG0381","K00760","COG0634F","hypoxanthine phosphoribosyltransferase","[EC:2.4.2.8]"
+"CEG0382","K00763","COG1488H","nicotinate phosphoribosyltransferase","[EC:2.4.2.11]"
+"CEG0383","K00794","COG0054H","riboflavin synthase beta chain","[EC:2.5.1.-]"
+"CEG0384","K00831","COG1932HE","phosphoserine aminotransferase","[EC:2.6.1.52]"
+"CEG0385","K00951","COG0317TK","GTP pyrophosphokinase","[EC:2.7.6.5]"
+"CEG0386","K01095","COG1267I","phosphatidylglycerophosphatase A","[EC:3.1.3.27]"
+"CEG0387","K01356","COG1974KT","repressor LexA","[EC:3.4.21.88]"
+"CEG0388","K01465","COG0044F,COG0418F","dihydroorotase","[EC:3.5.2.3]"
+"CEG0389","K01591","COG0284F","orotidine-5'-phosphate decarboxylase","[EC:4.1.1.23]"
+"CEG0390","K01627","COG2877M","2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase)","[EC:2.5.1.55]"
+"CEG0391","K01673","COG0288P","carbonic anhydrase","[EC:4.2.1.1]"
+"CEG0392","K01736","COG0082E","chorismate synthase","[EC:4.2.3.5]"
+"CEG0393","K01840","COG1109G","phosphomannomutase","[EC:5.4.2.8]"
+"CEG0394","K01880","COG0423J","glycyl-tRNA synthetase","[EC:6.1.1.14]"
+"CEG0395","K01911","COG0318IQ","O-succinylbenzoic acid--CoA ligase","[EC:6.2.1.26]"
+"CEG0396","K01918","COG0414H","pantoate--beta-alanine ligase","[EC:6.3.2.1]"
+"CEG0397","K01923","COG0152F","phosphoribosylaminoimidazole-succinocarboxamide synthase","[EC:6.3.2.6]"
+"CEG0398","K02004","COG4603R","---","---"
+"CEG0399","K02686","COG2965L","primosomal replication protein N","---"
+"CEG0400","K03060","COG1758K","DNA-directed RNA polymerase subunit omega","[EC:2.7.7.6]"
+"CEG0401","K03072","COG0342U","preprotein translocase subunit SecD","---"
+"CEG0402","K03118","COG0805U","sec-independent protein translocase protein TatC","---"
+"CEG0403","K03185","COG0654HC","2-octaprenyl-6-methoxyphenol hydroxylase","[EC:1.14.13.-]"
+"CEG0404","K03271","COG0279G","phosphoheptose isomerase","[EC:5.-.-.-]"
+"CEG0405","K03346","COG3611L","replication initiation and membrane attachment protein","---"
+"CEG0406","K03466","COG1674D","DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family","---"
+"CEG0407","K03496","COG1192D","chromosome partitioning protein","---"
+"CEG0408","K03497","COG1475K","chromosome partitioning protein, ParB family","---"
+"CEG0409","K03499","COG0569P","trk system potassium uptake protein TrkA","---"
+"CEG0410","K03528","COG3115D","cell division protein ZipA","---"
+"CEG0411","K03563","COG1551T","carbon storage regulator","---"
+"CEG0412","K03569","COG1077D","rod shape-determining protein MreB and related proteins","---"
+"CEG0413","K03644","COG0320H","lipoic acid synthetase","[EC:2.8.1.8]"
+"CEG0414","K03683","COG0847L","ribonuclease T","[EC:3.1.13.-]"
+"CEG0415","K03688","COG0661R","ubiquinone biosynthesis protein","---"
+"CEG0416","K03695","COG0542O","ATP-dependent Clp protease ATP-binding subunit ClpB","---"
+"CEG0417","K03704","COG1278K","cold shock protein (beta-ribbon, CspA family)","---"
+"CEG0418","K03771","COG0760O,COG0652O","peptidyl-prolyl cis-trans isomerase SurA","[EC:5.2.1.8]"
+"CEG0419","K03786","COG0757E","3-dehydroquinate dehydratase II","[EC:4.2.1.10]"
+"CEG0420","K03820","COG0815M","apolipoprotein N-acyltransferase","[EC:2.3.1.-]"
+"CEG0421","K03841","COG0158G","fructose-1,6-bisphosphatase I","[EC:3.1.3.11]"
+"CEG0422","K03925","COG2001S","MraZ protein","---"
+"CEG0423","K04568","COG2269J","lysyl-tRNA synthetase, class II","[EC:6.1.1.6]"
+"CEG0424","K05515","COG0768M","penicillin-binding protein 2","---"
+"CEG0425","K05524","COG1146C,COG0761IM","ferredoxin","---"
+"CEG0426","K05807","COG4105R","putative lipoprotein","---"
+"CEG0427","K05837","COG0772D","rod shape determining protein RodA","---"
+"CEG0428","K06023","COG1493T","HPr kinase/phosphorylase","[EC:2.7.11.- 2.7.4.-]"
+"CEG0429","K06881","COG0618R","---","---"
+"CEG0430","K06942","COG0012J","---","---"
+"CEG0431","K06997","COG0325R","---","---"
+"CEG0432","K07040","COG1399R","uncharacterized protein","---"
+"CEG0433","K07235","COG1553P","tRNA 2-thiouridine synthesizing protein D","[EC:2.8.1.-]"
+"CEG0434","K08992","COG3771S","putative membrane protein","---"
+"CEG0435","K09014","COG0719O","Fe-S cluster assembly protein SufB","---"
+"CEG0436","K09015","COG0719O","Fe-S cluster assembly protein SufD","---"
+"CEG0437","K09458","COG0304IQ","3-oxoacyl-[acyl-carrier-protein] synthase II","[EC:2.3.1.179]"
+"CEG0438","K09698","COG0008J","nondiscriminating glutamyl-tRNA synthetase","[EC:6.1.1.24]"
+"CEG0439","K09747","COG0718S","hypothetical protein","---"
+"CEG0440","K09748","COG0779S","hypothetical protein","---"
+"CEG0441","K09791","COG2835S","hypothetical protein","---"
+"CEG0442","K11069","COG0687E","spermidine/putrescine transport system substrate-binding protein","---"
+"CEG0443","K13628","COG0316S","iron-sulfur cluster assembly protein","---"
+"CEG0444","K11749","COG0750M","regulator of sigma E protease","[EC:3.4.24.-]"
+"CEG0445","---","COG0009J","MG_259/Rv1301/MYPU_6130/SAOUHSC_0235",
+"CEG0446","---","COG0628R","HI0338/SP_0873/Rv0205/ACIAD3504",
+"CEG0447","---","COG0778C","ydjA/HI1278/HI1542/ACIAD2608",
+"CEG0448","---","COG1216R","HI0869/wbbL/wbbL1/rfbE/glfT",
+"CEG0449","---","COG1307S","MG_326/MG_450/MYPU_3590/MYPU_7660",
+"CEG0450","---","COG1309K","uidR/yjgJ/HI0570/mce3R",
+"CEG0451","---","COG1393P","yffB/HI0103/MG_127/arsC/spxA",
+"CEG0452","---","COG1670J","VC1889/VCA0316/VCA0505/Rv1347c",
+"CEG0453","---","COG1680V","lpqK/Rv1730c/PA14_34700/SAOUHSC_00998",
+"CEG0454","---","COG1960I","ydiO/fadE19/PA14_34580",
+"CEG0455","---","COG2050Q","ydiI/HI1161/PA14_43600/SAOUHSC_00881",
+"CEG0456","---","COG2161D","VCA0477/VCA0488/yefM/SAOUHSC_02757",
+"CEG0457","---","COG2932K","HI1476/PA14_52530/cI",
+"CEG0458","---","COG2963L","insE1/insE/insE5/insE/insE3/insE/insE4/insE",
+"CEG0459","---","COG3599D","wag31/Rv2927c/MYPU_3050/SAOUHSC_01462",
+"CEG0460","---","COG3668R","VCA0311/VCA0348/VCA0385/VCA0503",
+"CEG0461","---","COG0520E","HP0405/Rv3778c/csd",
+"CEG0462","---","COG0534V","MG_447/MYPU_2930/MYPU_7380",
+"CEG0463","---","COG0589T","Rv2026c/Rv2319c/TB31.7",
+"CEG0464","---","COG0654HC","VC2474/ubiF",
+"CEG0465","---","COG0861P","HI0056/yoaE/SAOUHSC_0095",
+"CEG0466","---","COG1063ER","SP_1270/ybdR/SAOUHSC_0022",
+"CEG0467","---","COG1280E","VC1421/HI1307/PA14_43570",
+"CEG0468","---","COG1476K","VC1455/VC1464/SAOUHSC_01979",
+"CEG0469","---","COG1538MU","HI1462/HP0605/spi4_c",
+"CEG0470","---","COG1887M","tagB/SAOUHSC_00227/SAOUHSC_00643",
+"CEG0471","---","COG1937S","yaiN/frmR/yohL/rcnR/PA14_47420",
+"CEG0472","---","COG2207K","VC0513/ACIAD2986/PA14_43580",
+"CEG0473","---","COG2508TQ","Rv1186c/Rv1194c/Rv2242",
+"CEG0474","---","COG2610GE","HI0092/gntP/STM2913",
+"CEG0475","---","COG2956G","VC1912/HI1223/t1621",
+"CEG0476","---","COG3007S","VC1738/VC1739/PA14_25900",
+"CEG0477","---","COG3093R","VCA0392/ybaQ/yddM",
+"CEG0478","---","COG3677L","insA",
+"CEG0479","---","COG3887T","VCA0190/MYPU_5170/SAOUHSC_00015",
+"CEG0480","K00031","COG0538C","isocitrate dehydrogenase","[EC:1.1.1.42]"
+"CEG0481","K00052","COG0473CE","3-isopropylmalate dehydrogenase","[EC:1.1.1.85]"
+"CEG0482","K00145","COG0002E","N-acetyl-gamma-glutamyl-phosphate/N-acetyl-gamma-aminoadipyl-phosphate reductase","[EC:1.2.1.38 1.2.1.-]"
+"CEG0483","K00228","COG0408H","coproporphyrinogen III oxidase","[EC:1.3.3.3]"
+"CEG0484","K00230","COG4635CH","protoporphyrinogen oxidase","[EC:1.3.3.4]"
+"CEG0485","K00242","COG2142C","succinate dehydrogenase hydrophobic membrane anchor protein","---"
+"CEG0486","K00286","COG0345E","pyrroline-5-carboxylate reductase","[EC:1.5.1.2]"
+"CEG0487","K00383","COG1249C","glutathione reductase (NADPH)","[EC:1.8.1.7]"
+"CEG0488","K00425","COG1271C","cytochrome bd-I oxidase subunit I","[EC:1.10.3.-]"
+"CEG0489","K00426","COG1294C","cytochrome bd-I oxidase subunit II","[EC:1.10.3.-]"
+"CEG0490","K00640","COG1045E","serine O-acetyltransferase","[EC:2.3.1.30]"
+"CEG0491","K00680","COG1835I","---","---"
+"CEG0492","K00754","COG0463M","---","---"
+"CEG0493","K00761","COG0035F","uracil phosphoribosyltransferase","[EC:2.4.2.9]"
+"CEG0494","K00764","COG0034F","amidophosphoribosyltransferase","[EC:2.4.2.14]"
+"CEG0495","K00765","COG0040E","ATP phosphoribosyltransferase","[EC:2.4.2.17]"
+"CEG0496","K00766","COG0547E","anthranilate phosphoribosyltransferase","[EC:2.4.2.18]"
+"CEG0497","K00784","COG1234R","ribonuclease Z","[EC:3.1.26.11]"
+"CEG0498","K00805","COG0142H,COG2226","heptaprenyl diphosphate synthase","[EC:2.5.1.30]"
+"CEG0499","K00817","COG0079E","histidinol-phosphate aminotransferase","[EC:2.6.1.9]"
+"CEG0500","K00857","COG1435F","thymidine kinase","[EC:2.7.1.21]"
+"CEG0501","K00868","COG2240H,COG0351H","pyridoxine kinase","[EC:2.7.1.35]"
+"CEG0502","K00928","COG0527E","aspartate kinase","[EC:2.7.2.4]"
+"CEG0503","K00940","COG0105F","nucleoside-diphosphate kinase","[EC:2.7.4.6]"
+"CEG0504","K00941","COG0351H","hydroxymethylpyrimidine/phosphomethylpyrimidine kinase","[EC:2.7.1.49 2.7.4.7]"
+"CEG0505","K00950","COG0801H","2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase","[EC:2.7.6.3]"
+"CEG0506","K00962","COG1185J","polyribonucleotide nucleotidyltransferase","[EC:2.7.7.8]"
+"CEG0507","K01012","COG0502H","biotin synthetase","[EC:2.8.1.6]"
+"CEG0508","K01090","COG0631T","protein phosphatase","[EC:3.1.3.16]"
+"CEG0509","K01104","COG0394T,COG4464GM","protein-tyrosine phosphatase","[EC:3.1.3.48]"
+"CEG0510","K01118","COG1182I","FMN-dependent NADH-azoreductase","[EC:1.7.-.-]"
+"CEG0511","K01255","---","leucyl aminopeptidase","[EC:3.4.11.1]"
+"CEG0512","K01338","COG0466O","ATP-dependent Lon protease","[EC:3.4.21.53]"
+"CEG0513","K01358","COG0740OU","ATP-dependent Clp protease, protease subunit","[EC:3.4.21.92]"
+"CEG0514","K01433","COG0788F","formyltetrahydrofolate deformylase","[EC:3.5.1.10]"
+"CEG0515","K01489","COG0295F","cytidine deaminase","[EC:3.5.4.5]"
+"CEG0516","K01529","COG0474P,COG0003P","---","---"
+"CEG0517","K01586","COG0019E","diaminopimelate decarboxylase","[EC:4.1.1.20]"
+"CEG0518","K01619","COG0274F","deoxyribose-phosphate aldolase","[EC:4.1.2.4]"
+"CEG0519","K01649","COG0119E","2-isopropylmalate synthase","[EC:2.3.3.13]"
+"CEG0520","K01661","COG0447H","naphthoate synthase","[EC:4.1.3.36]"
+"CEG0521","K01665","COG0147EH","para-aminobenzoate synthetase component I","[EC:2.6.1.85]"
+"CEG0522","K01695","COG0159E","tryptophan synthase alpha chain","[EC:4.2.1.20]"
+"CEG0523","K01704","COG0066E","3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit","[EC:4.2.1.33 4.2.1.35]"
+"CEG0524","K01733","COG0498E","threonine synthase","[EC:4.2.3.1]"
+"CEG0525","K01735","COG0337E","3-dehydroquinate synthase","[EC:4.2.3.4]"
+"CEG0526","K01755","COG0165E","argininosuccinate lyase","[EC:4.3.2.1]"
+"CEG0527","K01808","COG0698G","ribose 5-phosphate isomerase B","[EC:5.3.1.6]"
+"CEG0528","K01939","COG0104F","adenylosuccinate synthase","[EC:6.3.4.4]"
+"CEG0529","K01945","COG0151F","phosphoribosylamine--glycine ligase","[EC:6.3.4.13]"
+"CEG0530","K01952","COG0047F,COG0046F","phosphoribosylformylglycinamidine synthase","[EC:6.3.5.3]"
+"CEG0531","K02010","COG3842E","iron(III) transport system ATP-binding protein","[EC:3.6.3.30]"
+"CEG0532","K02013","COG1120PH","iron complex transport system ATP-binding protein","[EC:3.6.3.34]"
+"CEG0533","K02014","COG4772P,COG1629P","iron complex outermembrane recepter protein","---"
+"CEG0534","K02015","COG0609P,COG4779P","iron complex transport system permease protein","---"
+"CEG0535","K02025","COG1175G,COG4209G","multiple sugar transport system permease protein","---"
+"CEG0536","K02027","COG1525L,COG1653G","multiple sugar transport system substrate-binding protein","---"
+"CEG0537","K02032","COG1123R,COG4608E","peptide/nickel transport system ATP-binding protein","---"
+"CEG0538","K02033","COG0601EP","peptide/nickel transport system permease protein","---"
+"CEG0539","K02086","COG3935L","DNA replication protein","---"
+"CEG0540","K02169","COG2226H,COG0500QR","biotin synthesis protein BioC","---"
+"CEG0541","K02237","COG1555L","competence protein ComEA","---"
+"CEG0542","K02315","COG1484L","DNA replication protein DnaC","---"
+"CEG0543","K02426","COG2166R","cysteine desulfuration protein SufE","---"
+"CEG0544","K02517","COG1560M","lipid A biosynthesis lauroyl acyltransferase","[EC:2.3.1.-]"
+"CEG0545","K02551","COG1165H","2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase","[EC:2.2.1.9]"
+"CEG0546","K02806","COG1762GT","PTS system, nitrogen regulatory IIA component","[EC:2.7.1.69]"
+"CEG0547","K02841","COG0859M","heptosyltransferase I","[EC:2.4.-.-]"
+"CEG0548","K03075","COG1314U","preprotein translocase subunit SecG","---"
+"CEG0549","K03117","COG1826U","sec-independent protein translocase protein TatB","---"
+"CEG0550","K03182","COG0043H","3-octaprenyl-4-hydroxybenzoate carboxy-lyase UbiD","[EC:4.1.1.-]"
+"CEG0551","K03210","COG1862U","preprotein translocase subunit YajC","---"
+"CEG0552","K03272","COG2870M","D-beta-D-heptose 7-phosphate kinase / D-beta-D-heptose 1-phosphate adenosyltransferase","[EC:2.7.1.- 2.7.7.-]"
+"CEG0553","K03439","COG0220R","tRNA (guanine-N7-)-methyltransferase","[EC:2.1.1.33]"
+"CEG0554","K03469","COG0328L","ribonuclease HI","[EC:3.1.26.4]"
+"CEG0555","K03470","COG0164L","ribonuclease HII","[EC:3.1.26.4]"
+"CEG0556","K03521","COG2086C","electron transfer flavoprotein beta subunit","---"
+"CEG0557","K03529","COG1196D","chromosome segregation protein","---"
+"CEG0558","K03544","COG1219O","ATP-dependent Clp protease ATP-binding subunit ClpX","---"
+"CEG0559","K03550","COG0632L","holliday junction DNA helicase RuvA","---"
+"CEG0560","K03553","COG0468L","recombination protein RecA","---"
+"CEG0561","K03559","COG0848U","biopolymer transport protein ExbD","---"
+"CEG0562","K03570","COG1792M","rod shape-determining protein MreC","---"
+"CEG0563","K03593","COG0489D","ATP-binding protein involved in chromosome partitioning","---"
+"CEG0564","K03600","COG2969R","stringent starvation protein B","---"
+"CEG0565","K03608","COG0851D","cell division topological specificity factor","---"
+"CEG0566","K03616","COG2878C","electron transport complex protein RnfB","---"
+"CEG0567","K03632","COG3096D","chromosome partition protein MukB","---"
+"CEG0568","K03633","COG3006D","chromosome partition protein MukF","---"
+"CEG0569","K03641","COG0823U","TolB protein","---"
+"CEG0570","K03642","COG0797M","rare lipoprotein A","---"
+"CEG0571","K03645","COG3057L","negative modulator of initiation of replication","---"
+"CEG0572","K03668","COG3187O","heat shock protein HslJ","---"
+"CEG0573","K03702","COG0556L","excinuclease ABC subunit B","---"
+"CEG0574","K03703","COG0322L","excinuclease ABC subunit C","---"
+"CEG0575","K03768","COG0652O","peptidyl-prolyl cis-trans isomerase B (cyclophilin B)","[EC:5.2.1.8]"
+"CEG0576","K03800","COG0095H","lipoate-protein ligase A","[EC:2.7.7.63]"
+"CEG0577","K03832","COG0810M","periplasmic protein TonB","---"
+"CEG0578","K04044","COG0443O","molecular chaperone HscA","---"
+"CEG0579","K04564","COG0605P","superoxide dismutase, Fe-Mn family","[EC:1.15.1.1]"
+"CEG0580","K04691","COG0265O","serine protease DegS","[EC:3.4.21.-]"
+"CEG0581","K04755","COG0633C","ferredoxin, 2Fe-2S","---"
+"CEG0582","K05337","COG1141C","ferredoxin","---"
+"CEG0583","K06134","COG2941H","ubiquinone biosynthesis monooxygenase Coq7","[EC:1.14.13.-]"
+"CEG0584","K06173","COG0101J","tRNA pseudouridine synthase A","[EC:5.4.99.12]"
+"CEG0585","K06177","COG0564J","ribosomal large subunit pseudouridine synthase A","[EC:5.4.99.12]"
+"CEG0586","K06186","COG2913J","small protein A","---"
+"CEG0587","K06190","COG2917D","intracellular septation protein","---"
+"CEG0588","K06948","COG1161R","---","---"
+"CEG0589","K06949","COG1162R","ribosome biogenesis GTPase","[EC:3.6.1.-]"
+"CEG0590","K06950","COG1418R","uncharacterized protein","---"
+"CEG0591","K07009","COG3442R","---","---"
+"CEG0592","K07015","COG2179R","---","---"
+"CEG0593","K07021","COG0595R","---","---"
+"CEG0594","K07056","COG0313R","---","---"
+"CEG0595","K07237","COG2168P","tRNA 2-thiouridine synthesizing protein B","---"
+"CEG0596","K07305","---","peptide-methionine (R)-S-oxide reductase","[EC:1.8.4.12]"
+"CEG0597","K07461","COG2827L","putative endonuclease","---"
+"CEG0598","K07668","COG0745TK","two-component system, OmpR family, response regulator VicR","---"
+"CEG0599","K08483","COG1080G","phosphotransferase system, enzyme I, PtsI","[EC:2.7.3.9]"
+"CEG0600","K08973","COG1981S","putative membrane protein","---"
+"CEG0601","K09159","COG2938S","hypothetical protein","---"
+"CEG0602","K09774","COG1934S","lipopolysaccharide export system protein LptA","---"
+"CEG0603","K09900","COG3097S","hypothetical protein","---"
+"CEG0604","K09976","COG3763S","hypothetical protein","---"
+"CEG0605","K11070","COG1177E","spermidine/putrescine transport system permease protein","---"
+"CEG0606","K11072","COG3842E","spermidine/putrescine transport system ATP-binding protein","[EC:3.6.3.31]"
+"CEG0607","K11144","COG1484L","primosomal protein DnaI","---"
+"CEG0608","K11175","COG0299F","phosphoribosylglycinamide formyltransferase 1","[EC:2.1.2.2]"
+"CEG0609","K11719","COG3117S","lipopolysaccharide export system protein LptC","---"
+"CEG0610","K11991","COG0590FJ","tRNA-specific adenosine deaminase","[EC:3.5.4.-]"
+"CEG0611","K12257","COG0341U","SecD/SecF fusion protein","---"
+"CEG0612","K12573","COG0557K","ribonuclease R","[EC:3.1.-.-]"
+"CEG0613","---","---","PE FAMILY PROTEIN",
+"CEG0614","K00009","COG0246G","mannitol-1-phosphate 5-dehydrogenase","[EC:1.1.1.17]"
+"CEG0615","K00012","COG1004M","UDPglucose 6-dehydrogenase","[EC:1.1.1.22]"
+"CEG0616","K00013","COG0141E","histidinol dehydrogenase","[EC:1.1.1.23]"
+"CEG0617","K00024","COG0039C","malate dehydrogenase","[EC:1.1.1.37]"
+"CEG0618","K00033","COG1023G,COG0362G","6-phosphogluconate dehydrogenase","[EC:1.1.1.44]"
+"CEG0619","K00036","COG0364G","glucose-6-phosphate 1-dehydrogenase","[EC:1.1.1.49]"
+"CEG0620","K00053","COG0059EH","ketol-acid reductoisomerase","[EC:1.1.1.86]"
+"CEG0621","K00054","COG1257I","hydroxymethylglutaryl-CoA reductase","[EC:1.1.1.88]"
+"CEG0622","K00097","COG1995H","4-hydroxythreonine-4-phosphate dehydrogenase","[EC:1.1.1.262]"
+"CEG0623","K00162","COG0022C","pyruvate dehydrogenase E1 component subunit beta","[EC:1.2.4.1]"
+"CEG0624","K00239","COG1053C","succinate dehydrogenase flavoprotein subunit","[EC:1.3.99.1]"
+"CEG0625","K00240","COG0479C","succinate dehydrogenase iron-sulfur protein","[EC:1.3.99.1]"
+"CEG0626","K00241","COG2009C","succinate dehydrogenase cytochrome b-556 subunit","---"
+"CEG0627","K00249","COG1960I","acyl-CoA dehydrogenase","[EC:1.3.99.3]"
+"CEG0628","K00257","COG1960I","---","---"
+"CEG0629","K00265","COG0067E,COG0070E","glutamate synthase (NADPH/NADH) large chain","[EC:1.4.1.13 1.4.1.14]"
+"CEG0630","K00266","COG0493ER","glutamate synthase (NADPH/NADH) small chain","[EC:1.4.1.13 1.4.1.14]"
+"CEG0631","K00278","COG0029H","L-aspartate oxidase","[EC:1.4.3.16]"
+"CEG0632","K00331","COG0377C","NADH dehydrogenase I subunit B","[EC:1.6.5.3]"
+"CEG0633","K00334","COG1905C","NADH dehydrogenase I subunit E","[EC:1.6.5.3]"
+"CEG0634","K00335","COG1894C","NADH dehydrogenase I subunit F","[EC:1.6.5.3]"
+"CEG0635","K00336","COG1034C","NADH dehydrogenase I subunit G","[EC:1.6.5.3]"
+"CEG0636","K00338","COG1143C","NADH dehydrogenase I subunit I","[EC:1.6.5.3]"
+"CEG0637","K00340","COG0713C","NADH dehydrogenase I subunit K","[EC:1.6.5.3]"
+"CEG0638","K00407","COG4736O","cb-type cytochrome c oxidase subunit IV","[EC:1.9.3.1]"
+"CEG0639","K00528","COG1018C","ferredoxin--NADP+ reductase","[EC:1.18.1.2]"
+"CEG0640","K00537","COG1393P","arsenate reductase","[EC:1.20.4.1]"
+"CEG0641","K00549","COG0620E","5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase","[EC:2.1.1.14]"
+"CEG0642","K00599","COG2265J,COG0500QR","---","---"
+"CEG0643","K00602","COG0138F","phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase","[EC:2.1.2.3 3.5.4.10]"
+"CEG0644","K00609","COG0540F","aspartate carbamoyltransferase catalytic subunit","[EC:2.1.3.2]"
+"CEG0645","K00620","COG1364E","glutamate N-acetyltransferase / amino-acid N-acetyltransferase","[EC:2.3.1.35 2.3.1.1]"
+"CEG0646","K00641","COG2021E","homoserine O-acetyltransferase","[EC:2.3.1.31]"
+"CEG0647","K00652","COG0156H","8-amino-7-oxononanoate synthase","[EC:2.3.1.47]"
+"CEG0648","K00700","COG0296G","1,4-alpha-glucan branching enzyme","[EC:2.4.1.18]"
+"CEG0649","K00788","COG0352H","thiamine-phosphate pyrophosphorylase","[EC:2.5.1.3]"
+"CEG0650","K00826","COG0115EH","branched-chain amino acid aminotransferase","[EC:2.6.1.42]"
+"CEG0651","K00833","COG0161H","adenosylmethionine-8-amino-7-oxononanoate aminotransferase","[EC:2.6.1.62]"
+"CEG0652","K00864","COG0554C","glycerol kinase","[EC:2.7.1.30]"
+"CEG0653","K00869","COG1577I","mevalonate kinase","[EC:2.7.1.36]"
+"CEG0654","K00876","COG0572F","uridine kinase","[EC:2.7.1.48]"
+"CEG0655","K00879","COG1070G","L-fuculokinase","[EC:2.7.1.51]"
+"CEG0656","K00901","---","diacylglycerol kinase","[EC:2.7.1.107]"
+"CEG0657","K00930","COG0548E","acetylglutamate/acetylaminoadipate kinase","[EC:2.7.2.8 2.7.2.-]"
+"CEG0658","K00931","COG0263E","glutamate 5-kinase","[EC:2.7.2.11]"
+"CEG0659","K00957","COG0175EH","sulfate adenylyltransferase subunit 2","[EC:2.7.7.4]"
+"CEG0660","K00973","COG1209M","glucose-1-phosphate thymidylyltransferase","[EC:2.7.7.24]"
+"CEG0661","K00980","COG0615MI","glycerol-3-phosphate cytidylyltransferase","[EC:2.7.7.39]"
+"CEG0662","K01043","COG0463M,COG0438M","---","---"
+"CEG0663","K01079","COG0560E","phosphoserine phosphatase","[EC:3.1.3.3]"
+"CEG0664","K01092","COG0483G","myo-inositol-1(or 4)-monophosphatase","[EC:3.1.3.25]"
+"CEG0665","K01112","COG0546R,COG0483G","---","---"
+"CEG0666","K01139","COG0317TK","guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase","[EC:3.1.7.2]"
+"CEG0667","K01147","COG4776K","exoribonuclease II","[EC:3.1.13.1]"
+"CEG0668","K01151","COG0648L","deoxyribonuclease IV","[EC:3.1.21.2]"
+"CEG0669","K01182","---","oligo-1,6-glucosidase","[EC:3.2.1.10]"
+"CEG0670","K01243","COG0775F","S-adenosylhomocysteine/5'-methylthioadenosine nucleosidase","[EC:3.2.2.9]"
+"CEG0671","K01262","COG0006E","Xaa-Pro aminopeptidase","[EC:3.4.11.9]"
+"CEG0672","K01423","COG0006E,COG0612R","---","---"
+"CEG0673","K01428","COG0804E","urease subunit alpha","[EC:3.5.1.5]"
+"CEG0674","K01443","COG1820G","N-acetylglucosamine-6-phosphate deacetylase","[EC:3.5.1.25]"
+"CEG0675","K01448","COG0860M","N-acetylmuramoyl-L-alanine amidase","[EC:3.5.1.28]"
+"CEG0676","K01573","COG3630C","oxaloacetate decarboxylase, gamma subunit","[EC:4.1.1.3]"
+"CEG0677","K01609","COG0134E","indole-3-glycerol phosphate synthase","[EC:4.1.1.48]"
+"CEG0678","K01626","COG0722E,COG3200E","3-deoxy-7-phosphoheptulonate synthase","[EC:2.5.1.54]"
+"CEG0679","K01641","COG3425I","hydroxymethylglutaryl-CoA synthase","[EC:2.3.3.10]"
+"CEG0680","K01644","COG2301G","citrate lyase subunit beta / citryl-CoA lyase","[EC:4.1.3.6 4.1.3.34]"
+"CEG0681","K01653","COG0440E","acetolactate synthase I/III small subunit","[EC:2.2.1.6]"
+"CEG0682","K01657","COG0147EH","anthranilate synthase component I","[EC:4.1.3.27]"
+"CEG0683","K01658","COG0512EH","anthranilate synthase component II","[EC:4.1.3.27]"
+"CEG0684","K01679","COG0114C","fumarate hydratase, class II","[EC:4.2.1.2]"
+"CEG0685","K01681","COG1048C","aconitate hydratase 1","[EC:4.2.1.3]"
+"CEG0686","K01693","COG0131E","imidazoleglycerol-phosphate dehydratase","[EC:4.2.1.19]"
+"CEG0687","K01703","---","3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit","[EC:4.2.1.33 4.2.1.35]"
+"CEG0688","K01710","COG1088M","dTDP-glucose 4,6-dehydratase","[EC:4.2.1.46]"
+"CEG0689","K01734","COG1803G","methylglyoxal synthase","[EC:4.2.3.3]"
+"CEG0690","K01737","COG0720H","6-pyruvoyl tetrahydrobiopterin synthase","[EC:4.2.3.12]"
+"CEG0691","K01745","COG2986E","histidine ammonia-lyase","[EC:4.3.1.3]"
+"CEG0692","K01766","COG0520E","cysteine sulfinate desulfinase","[EC:4.4.1.-]"
+"CEG0693","K01802","COG0545O,COG0760O","peptidylprolyl isomerase","[EC:5.2.1.8]"
+"CEG0694","K01809","COG1482G","mannose-6-phosphate isomerase","[EC:5.3.1.8]"
+"CEG0695","K01814","COG0106E","phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase","[EC:5.3.1.16]"
+"CEG0696","K01817","COG0106E,COG0135E","phosphoribosylanthranilate isomerase","[EC:5.3.1.24]"
+"CEG0697","K01839","COG1015G","phosphopentomutase","[EC:5.4.2.7]"
+"CEG0698","K01903","COG0045C","succinyl-CoA synthetase beta subunit","[EC:6.2.1.5]"
+"CEG0699","K01934","---","5-formyltetrahydrofolate cyclo-ligase","[EC:6.3.3.2]"
+"CEG0700","K01935","COG0132H","dethiobiotin synthetase","[EC:6.3.3.3]"
+"CEG0701","K01940","COG0137E","argininosuccinate synthase","[EC:6.3.4.5]"
+"CEG0702","K01950","COG0171H,COG0388R","NAD+ synthase (glutamine-hydrolysing)","[EC:6.3.5.1]"
+"CEG0703","K01956","COG0505EF","carbamoyl-phosphate synthase small subunit","[EC:6.3.5.5]"
+"CEG0704","K01966","COG4799I","propionyl-CoA carboxylase beta chain","[EC:6.4.1.3]"
+"CEG0705","K02011","COG1178P","iron(III) transport system permease protein","---"
+"CEG0706","K02016","COG4592P","iron complex transport system substrate-binding protein","---"
+"CEG0707","K02023","COG3839G","multiple sugar transport system ATP-binding protein","---"
+"CEG0708","K02035","COG0747E,COG4166E","peptide/nickel transport system substrate-binding protein","---"
+"CEG0709","K02039","COG0704P","phosphate transport system protein","---"
+"CEG0710","K02047","COG4208P","sulfate transport system permease protein","---"
+"CEG0711","K02056","COG1129G,COG3845R","simple sugar transport system ATP-binding protein","[EC:3.6.3.17]"
+"CEG0712","K02066","COG0767Q","putative ABC transport system permease protein","---"
+"CEG0713","K02073","COG1464P","D-methionine transport system substrate-binding protein","---"
+"CEG0714","K02197","COG2332O","cytochrome c-type biogenesis protein CcmE","---"
+"CEG0715","K02198","COG1138O,COG1333O","cytochrome c-type biogenesis protein CcmF","---"
+"CEG0716","K02200","COG3088O","cytochrome c-type biogenesis protein CcmH","---"
+"CEG0717","K02221","COG0762S","YggT family protein","---"
+"CEG0718","K02242","COG1040R","competence protein ComFC","---"
+"CEG0719","K02300","COG3125C","cytochrome o ubiquinol oxidase operon protein cyoD","---"
+"CEG0720","K02317","COG5529R","DNA replication protein DnaT","---"
+"CEG0721","K02339","COG2927L","DNA polymerase III subunit chi","[EC:2.7.7.7]"
+"CEG0722","K02344","COG3050L","DNA polymerase III subunit psi","[EC:2.7.7.7]"
+"CEG0723","K02362","COG2977Q","enterobactin synthetase component D","[EC:2.7.8.-]"
+"CEG0724","K02415","COG1580N","flagellar FliL protein","---"
+"CEG0725","K02417","COG1886NU","flagellar motor switch protein FliN/FliY","---"
+"CEG0726","K02427","COG0293J","ribosomal RNA large subunit methyltransferase E","[EC:2.1.1.-]"
+"CEG0727","K02500","COG0107E","cyclase","[EC:4.1.3.-]"
+"CEG0728","K02501","COG0118E","glutamine amidotransferase","[EC:2.4.2.-]"
+"CEG0729","K02503","COG0537FGR","Hit-like protein involved in cell-cycle regulation","---"
+"CEG0730","K02528","COG0030J","16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase","[EC:2.1.1.182]"
+"CEG0731","K02529","COG1609K","LacI family transcriptional regulator","---"
+"CEG0732","K02548","COG1575H","1,4-dihydroxy-2-naphthoate octaprenyltransferase","[EC:2.5.1.74]"
+"CEG0733","K02549","COG4948MR","O-succinylbenzoate synthase","[EC:4.2.1.113]"
+"CEG0734","K02574","COG0348C","ferredoxin-type protein NapH","---"
+"CEG0735","K02616","COG3327K","phenylacetic acid degradation operon negative regulatory protein","---"
+"CEG0736","K02760","COG1440G","PTS system, cellobiose-specific IIB component","[EC:2.7.1.69]"
+"CEG0737","K02773","COG1762GT","PTS system, galactitol-specific IIA component","[EC:2.7.1.69]"
+"CEG0738","K02779","COG1263G","PTS system, glucose-specific IIC component","---"
+"CEG0739","K02837","COG4108J","peptide chain release factor RF-3","---"
+"CEG0740","K02843","COG0859M","heptosyltransferase II","[EC:2.4.-.-]"
+"CEG0741","K02853","---","4-alpha-L-fucosyltransferase","[EC:2.4.1.-]"
+"CEG0742","K02858","COG0108H","3,4-dihydroxy 2-butanone 4-phosphate synthase","[EC:4.1.99.12]"
+"CEG0743","K03116","COG1826U","sec-independent protein translocase protein TatA","---"
+"CEG0744","K03147","COG0422H","thiamine biosynthesis protein ThiC","---"
+"CEG0745","K03149","COG2022H","thiamine biosynthesis ThiG","---"
+"CEG0746","K03151","COG0301H","thiamine biosynthesis protein ThiI","---"
+"CEG0747","K03154","COG2104H","sulfur carrier protein","---"
+"CEG0748","K03184","COG0654HC","2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase","[EC:1.14.13.-]"
+"CEG0749","K03186","COG0163H","3-octaprenyl-4-hydroxybenzoate carboxy-lyase UbiX","[EC:4.1.1.-]"
+"CEG0750","K03273","COG0241E","D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase","[EC:3.1.3.-]"
+"CEG0751","K03293","COG0833E","amino acid transporter, AAT family","---"
+"CEG0752","K03306","COG0306P","inorganic phosphate transporter, PiT family","---"
+"CEG0753","K03310","COG1115E","alanine or glycine:cation symporter, AGCS family","---"
+"CEG0754","K03315","COG1757C","Na+:H+ antiporter, NhaC family","---"
+"CEG0755","K03317","COG1972F","concentrative nucleoside transporter, CNT family","---"
+"CEG0756","K03406","COG0840NT","methyl-accepting chemotaxis protein","---"
+"CEG0757","K03413","COG0784T","two-component system, chemotaxis family, response regulator CheY","---"
+"CEG0758","K03474","COG0854H","pyridoxine 5-phosphate synthase","[EC:2.6.99.2]"
+"CEG0759","K03498","COG0168P","trk system potassium uptake protein TrkH","---"
+"CEG0760","K03517","COG0379H","quinolinate synthase","[EC:2.5.1.72]"
+"CEG0761","K03522","COG2025C","electron transfer flavoprotein alpha subunit","---"
+"CEG0762","K03525","COG1521K","type III pantothenate kinase","[EC:2.7.1.33]"
+"CEG0763","K03555","COG0249L","DNA mismatch repair protein MutS","---"
+"CEG0764","K03557","COG2901KL","Fis family transcriptional regulator, factor for inversion stimulation protein","---"
+"CEG0765","K03560","COG0848U","biopolymer transport protein TolR","---"
+"CEG0766","K03561","COG0811U","biopolymer transport protein ExbB","---"
+"CEG0767","K03562","COG0811U","biopolymer transport protein TolQ","---"
+"CEG0768","K03574","COG1051F,COG0494LR","7,8-dihydro-8-oxoguanine triphosphatase","[EC:3.6.1.-]"
+"CEG0769","K03596","COG0481M","GTP-binding protein LepA","---"
+"CEG0770","K03602","COG1722L","exodeoxyribonuclease VII small subunit","[EC:3.1.11.6]"
+"CEG0771","K03612","COG4659C","electron transport complex protein RnfG","---"
+"CEG0772","K03613","COG4660C","electron transport complex protein RnfE","---"
+"CEG0773","K03629","COG1195L","DNA replication and repair protein RecF","---"
+"CEG0774","K03637","COG0315H","molybdenum cofactor biosynthesis protein C","---"
+"CEG0775","K03646","COG3064M,COG0810M","colicin import membrane protein","---"
+"CEG0776","K03648","COG0692L","uracil-DNA glycosylase","[EC:3.2.2.-]"
+"CEG0777","K03651","COG1409R","Icc protein","---"
+"CEG0778","K03665","COG2262R","GTP-binding protein HflX","---"
+"CEG0779","K03666","COG1923R","host factor-I protein","---"
+"CEG0780","K03672","COG3118O,COG0526OC","thioredoxin 2","[EC:1.8.1.8]"
+"CEG0781","K03696","COG0542O","ATP-dependent Clp protease ATP-binding subunit ClpC","---"
+"CEG0782","K03700","COG3331R","recombination protein U","---"
+"CEG0783","K03701","COG0178L","excinuclease ABC subunit A","---"
+"CEG0784","K03705","COG1420K","heat-inducible transcriptional repressor","---"
+"CEG0785","K03746","COG2916R","DNA-binding protein H-NS","---"
+"CEG0786","K03774","COG1047O","FKBP-type peptidyl-prolyl cis-trans isomerase SlpA","[EC:5.2.1.8]"
+"CEG0787","K03784","COG0813F","purine-nucleoside phosphorylase","[EC:2.4.2.1]"
+"CEG0788","K03789","COG0456R","ribosomal-protein-alanine N-acetyltransferase","[EC:2.3.1.128]"
+"CEG0789","K03804","COG3095D","chromosome partition protein MukE","---"
+"CEG0790","K03828","COG1246E,COG0454KR","putative acetyltransferase","[EC:2.3.1.-]"
+"CEG0791","K03831","COG0521H","molybdopterin adenylyltransferase","---"
+"CEG0792","K03973","COG1983KT","phage shock protein C","---"
+"CEG0793","K04047","COG0783P","starvation-inducible DNA-binding protein","---"
+"CEG0794","K04095","COG2184D","cell filamentation protein","---"
+"CEG0795","K04754","COG0797M","lipoprotein","---"
+"CEG0796","K04764","COG0776L","integration host factor subunit alpha","---"
+"CEG0797","K05362","COG0769M","UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase","[EC:6.3.2.7]"
+"CEG0798","K05786","COG2962R","chloramphenicol-sensitive protein RarD","---"
+"CEG0799","K05896","COG1354S","segregation and condensation protein A","---"
+"CEG0800","K05946","COG1922M","N-acetylglucosaminyldiphosphoundecaprenol","[EC:2.4.1.187]"
+"CEG0801","K05952","COG2991S","hypothetical protein","---"
+"CEG0802","K05985","COG1658L","ribonuclease M5","[EC:3.1.26.8]"
+"CEG0803","K06024","---","segregation and condensation protein B","---"
+"CEG0804","K06133","COG2091H","4'-phosphopantetheinyl transferase","[EC:2.7.8.-]"
+"CEG0805","K06142","COG2825M","outer membrane protein","---"
+"CEG0806","K06147","COG1132V","ATP-binding cassette, subfamily B, bacterial","---"
+"CEG0807","K06153","COG1968V","undecaprenyl-diphosphatase","[EC:3.6.1.27]"
+"CEG0808","K06178","COG1187J","ribosomal large subunit pseudouridine synthase B","[EC:5.4.99.12]"
+"CEG0809","K06191","COG0695O","glutaredoxin-like protein NrdH","---"
+"CEG0810","K06196","COG0785O","cytochrome c-type biogenesis protein","---"
+"CEG0811","K06223","COG0338L","DNA adenine methylase","[EC:2.1.1.72]"
+"CEG0812","K06286","COG4477D","septation ring formation regulator","---"
+"CEG0813","K06346","COG1847R","spoIIIJ-associated protein","---"
+"CEG0814","K06878","COG0073R","---","---"
+"CEG0815","K06885","COG1078R,COG1418R","---","---"
+"CEG0816","K06890","COG0670R","---","---"
+"CEG0817","K06891","COG2127S","ATP-dependent Clp protease adaptor protein ClpS","---"
+"CEG0818","K06901","COG2252R","putative MFS transporter, AGZA family, xanthine/uracil permease","---"
+"CEG0819","K06938","COG3313R","---","---"
+"CEG0820","K06960","COG1837R","---","---"
+"CEG0821","K06967","COG2384R","---","---"
+"CEG0822","K06996","COG3324R","---","---"
+"CEG0823","K07007","COG2081R","---","---"
+"CEG0824","K07027","COG0392S","---","---"
+"CEG0825","K07029","COG1597IR","---","---"
+"CEG0826","K07030","COG1461R","---","---"
+"CEG0827","K07090","COG0730R","---","---"
+"CEG0828","K07107","COG0824R","acyl-CoA thioester hydrolase","[EC:3.1.2.-]"
+"CEG0829","K07126","COG0790R","---","---"
+"CEG0830","K07220","COG1392P","hypothetical protein","---"
+"CEG0831","K07259","COG2027M","D-alanyl-D-alanine carboxypeptidase / D-alanyl-D-alanine-endopeptidase (penicillin-binding protein 4)","[EC:3.4.16.4 3.4.99.-]"
+"CEG0832","K07320","COG2890J","putative adenine-specific DNA-methyltransferase","[EC:2.1.1.72]"
+"CEG0833","K07390","COG0278O","monothiol glutaredoxin","---"
+"CEG0834","K07391","COG0606O","magnesium chelatase family protein","---"
+"CEG0835","K07397","COG1765O","putative redox protein","---"
+"CEG0836","K07399","COG1333O","cytochrome c biogenesis protein","---"
+"CEG0837","K07552","COG0477GEPR","MFS transporter, DHA1 family, bicyclomycin/chloramphenicol resistance protein","---"
+"CEG0838","K07574","---","putative RNA-binding protein containing KH domain","---"
+"CEG0839","K07652","COG5002T","two-component system, OmpR family, sensor histidine kinase VicK","[EC:2.7.13.3]"
+"CEG0840","K07733","COG3311K","prophage regulatory protein","---"
+"CEG0841","K07742","COG2740K","hypothetical protein","---"
+"CEG0842","K08316","COG0742L","ribosomal RNA small subunit methyltransferase D","[EC:2.1.1.171]"
+"CEG0843","K08602","COG1164E","oligoendopeptidase F","[EC:3.4.24.-]"
+"CEG0844","K08990","COG3768S","putative membrane protein","---"
+"CEG0845","K09158","COG2921S","hypothetical protein","---"
+"CEG0846","K09457","COG0780R","7-cyano-7-deazaguanine reductase","[EC:1.7.1.13]"
+"CEG0847","K09692","COG1682GM","teichoic acid transport system permease protein","---"
+"CEG0848","K09693","COG1134GM","teichoic acid transport system ATP-binding protein","[EC:3.6.3.40]"
+"CEG0849","K09769","COG1692S","hypothetical protein","---"
+"CEG0850","K09801","COG2914S","hypothetical protein","---"
+"CEG0851","K09809","COG1887M","CDP-glycerol glycerophosphotransferase","[EC:2.7.8.12]"
+"CEG0852","K09815","COG0803P","zinc transport system substrate-binding protein","---"
+"CEG0853","K09889","---","hypothetical protein","---"
+"CEG0854","K09892","COG3074S","hypothetical protein","---"
+"CEG0855","K09908","COG3105S","hypothetical protein","---"
+"CEG0856","K09911","COG3120S","hypothetical protein","---"
+"CEG0857","K09913","COG3123S","hypothetical protein","---"
+"CEG0858","K10540","COG1879G","methyl-galactoside transport system substrate-binding protein","---"
+"CEG0859","K10763","COG0593L","DnaA-homolog protein","---"
+"CEG0860","K10806","COG1607I","acyl-CoA thioesterase YciA","[EC:3.1.2.-]"
+"CEG0861","K11071","COG1176E","spermidine/putrescine transport system permease protein","---"
+"CEG0862","K11609","COG0304IQ","beta-ketoacyl ACP synthase","[EC:2.3.1.-]"
+"CEG0863","K11755","COG0139E,COG0140E","phosphoribosyl-ATP pyrophosphohydrolase / phosphoribosyl-AMP cyclohydrolase","[EC:3.6.1.31 3.5.4.19]"
+"CEG0864","K11996","COG0476H","adenylyltransferase and sulfurtransferase","---"
+"CEG0865","K12524","COG0527E,COG0460E","bifunctional aspartokinase / homoserine dehydrogenase 1","[EC:2.7.2.4 1.1.1.3]"
+"CEG0866","K13052","COG2919D","cell division protein DivIC","---"
+"CEG0867","K13685","COG0472M","UDP-N-acetylglucosamine:undecaprenyl-P N-acetylglucosaminyl 1-P transferase","[EC:2.7.8.-]"
+"CEG0868","K14170","COG0077E,COG1605E","chorismate mutase / prephenate dehydratase","[EC:5.4.99.5 4.2.1.51]"
+"CEG0869","K14652","COG0108H,COG0807H","3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II","[EC:4.1.99.12 3.5.4.25]"
+"CEG0870","---","COG0110R","spr0965/PA14_14160",
+"CEG0871","---","COG0168P","MG_322/ktrB",
+"CEG0872","---","COG0251J","yoaB/HI1627",
+"CEG0873","---","COG0317TK","relA/spoT",
+"CEG0874","---","COG0346E","VCA0347/VCA0476",
+"CEG0875","---","COG0438M","HI1698/Rv3032",
+"CEG0876","---","COG0451MG","ybjS/STM0932",
+"CEG0877","---","COG0454KR","SA1252/PA14_35200",
+"CEG0878","---","COG0456R","VCA0382/VCA0470",
+"CEG0879","---","COG0515RTKL","PA14_66090/PA14_66190",
+"CEG0880","---","COG0531E","MG_225/yeeF",
+"CEG0881","---","COG0558I","pgsA/VC1667",
+"CEG0882","---","COG0586S","yqjA/HI1629",
+"CEG0883","---","COG0590FJ","HI0906/PA14_15680",
+"CEG0884","---","COG0607P","VC2654/ygaP",
+"CEG0885","---","COG0639T","HI0762/yebW",
+"CEG0886","---","COG0667C","STM2406/PA14_66010",
+"CEG0887","---","COG0671I","HP0851/HP1580",
+"CEG0888","---","COG0702MG","yraR/ACIAD1390",
+"CEG0889","---","COG0721J","MG_098/gatC",
+"CEG0890","---","COG0739M","HP0750/HP1054",
+"CEG0891","---","COG0755O","resC/ccsB/ccsA",
+"CEG0892","---","COG0769M","Rv3712/SAOUHSC_0210",
+"CEG0893","---","COG0789K","spr1671/Rv1828",
+"CEG0894","---","COG0811U","exbB/exbB_1/PA14_39630",
+"CEG0895","---","COG1196D","smc/hmw2",
+"CEG0896","---","COG1234R","Rv1339",
+"CEG0897","---","COG1253R","MG_146/MYPU_5140",
+"CEG0898","---","COG1284S","MG_432/MG_443",
+"CEG0899","---","COG1296E","HI1738/spr0145",
+"CEG0900","---","COG1316K","Rv3267/SAOUHSC_0136",
+"CEG0901","---","COG1335Q","SA0181/ycaC",
+"CEG0902","---","COG1357S","sopA/PA14_38880",
+"CEG0903","---","COG1359S","VCA0636/PA14_38020",
+"CEG0904","---","COG1368M","HI1246/SAOUHSC_00728",
+"CEG0905","---","COG1502I","HP0190/nuc",
+"CEG0906","---","COG1638G","HI0146/HI1028",
+"CEG0907","---","COG1720S","VC0876/HI0510",
+"CEG0908","---","COG1738S","yqgD/yrfF",
+"CEG0909","---","COG1914P","SA0732/HI1728",
+"CEG0910","---","COG2020O","HI0149/Rv2437",
+"CEG0911","---","COG2030I","Rv0636/ufaA2",
+"CEG0912","---","COG2110R","Rv0060/mig-3",
+"CEG0913","---","COG2186K","yhcK/nanR/yhcK",
+"CEG0914","---","COG2353S","VCA0539/yceI",
+"CEG0915","---","COG2840S","ydaL/HI1202",
+"CEG0916","---","COG2867I","yfjG/t2641",
+"CEG0917","---","COG2946L","VC1463/ACIAD1858",
+"CEG0918","---","COG3094S","VC2177/ychQ",
+"CEG0919","---","COG3121NU","ybgP/yehC",
+"CEG0920","---","COG3189S","SA0230/yeaO",
+"CEG0921","---","COG3197P","VC1436/fixS",
+"CEG0922","---","COG3381R","VC1515/HI1044",
+"CEG0923","---","COG3395S","ygbK/HI1011",
+"CEG0924","---","COG4123R","HI0423/HP1504",
+"CEG0925","---","COG4313C","ACIAD0919/ACIAD1814",
+"CEG0926","---","COG4472S","SA1445/SAOUHSC_01721",
+"CEG0927","---","COG5562R","ybcV/ycgX",
+"CEG0928","---","COG5567N","lppL",
+"CEG0929","---","COG5662K","yhdL/Rv0736",
+"CEG0930","---","---","phage replication protein Cri",
+"CEG0931","---","---","yaiY",
+"CEG1275","K00003","COG0460E","homoserine dehydrogenase","[EC:1.1.1.3]"
+"CEG0933","K00016","COG0039C","L-lactate dehydrogenase","[EC:1.1.1.27]"
+"CEG0934","K00018","COG1052CHR","glycerate dehydrogenase","[EC:1.1.1.29]"
+"CEG0935","K00027","COG0281C","malate dehydrogenase (oxaloacetate-decarboxylating)","[EC:1.1.1.38]"
+"CEG0936","K00029","COG0280C","malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)","[EC:1.1.1.40]"
+"CEG0937","K00074","COG1250I","3-hydroxybutyryl-CoA dehydrogenase","[EC:1.1.1.157]"
+"CEG0938","K00094","COG1063ER","galactitol-1-phosphate 5-dehydrogenase","[EC:1.1.1.251]"
+"CEG0939","K00111","COG0578C","glycerol-3-phosphate dehydrogenase","[EC:1.1.5.3]"
+"CEG0940","K00112","COG3075E","glycerol-3-phosphate dehydrogenase subunit B","[EC:1.1.5.3]"
+"CEG0941","K00117","COG4993G","quinoprotein glucose dehydrogenase","[EC:1.1.5.2]"
+"CEG0942","K00121","COG1062C","S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase","[EC:1.1.1.284 1.1.1.1]"
+"CEG0943","K00130","COG1012C","betaine-aldehyde dehydrogenase","[EC:1.2.1.8]"
+"CEG0944","K00147","COG0014E","glutamate-5-semialdehyde dehydrogenase","[EC:1.2.1.41]"
+"CEG0945","K00155","COG1012C","---","---"
+"CEG0946","K00163","COG2609C","pyruvate dehydrogenase E1 component","[EC:1.2.4.1]"
+"CEG0947","K00166","COG1071C","2-oxoisovalerate dehydrogenase E1 component, alpha subunit","[EC:1.2.4.4]"
+"CEG0948","K00167","COG0022C","2-oxoisovalerate dehydrogenase E1 component, beta subunit","[EC:1.2.4.4]"
+"CEG0949","K00172","COG1014C","pyruvate ferredoxin oxidoreductase, gamma subunit","[EC:1.2.7.1]"
+"CEG0950","K00174","COG0674C","2-oxoglutarate ferredoxin oxidoreductase subunit alpha","[EC:1.2.7.3]"
+"CEG0951","K00175","COG1013C","2-oxoglutarate ferredoxin oxidoreductase subunit beta","[EC:1.2.7.3]"
+"CEG0952","K00177","COG1014C","2-oxoglutarate ferredoxin oxidoreductase subunit gamma","[EC:1.2.7.3]"
+"CEG0953","K00226","COG0167F","dihydroorotate oxidase","[EC:1.3.3.1]"
+"CEG0954","K00247","---","fumarate reductase subunit D","---"
+"CEG0955","K00252","COG1960I","glutaryl-CoA dehydrogenase","[EC:1.3.99.7]"
+"CEG0956","K00281","COG0403E","glycine dehydrogenase","[EC:1.4.4.2]"
+"CEG0957","K00285","COG0665E","D-amino-acid dehydrogenase","[EC:1.4.99.1]"
+"CEG0958","K00294","COG1012C","1-pyrroline-5-carboxylate dehydrogenase","[EC:1.5.1.12]"
+"CEG0959","K00299","COG0431R","FMN reductase","[EC:1.5.1.29]"
+"CEG0960","K00311","COG0644C","electron-transferring-flavoprotein dehydrogenase","[EC:1.5.5.1]"
+"CEG0961","K00318","COG0506E","proline dehydrogenase","[EC:1.5.99.8]"
+"CEG0962","K00330","COG0838C","NADH dehydrogenase I subunit A","[EC:1.6.5.3]"
+"CEG0963","K00332","COG0852C","NADH dehydrogenase I subunit C","[EC:1.6.5.3]"
+"CEG0964","K00333","COG0649C","NADH dehydrogenase I subunit D","[EC:1.6.5.3]"
+"CEG0965","K00337","COG1005C","NADH dehydrogenase I subunit H","[EC:1.6.5.3]"
+"CEG0966","K00339","COG0839C","NADH dehydrogenase I subunit J","[EC:1.6.5.3]"
+"CEG0967","K00341","COG1009CP","NADH dehydrogenase I subunit L","[EC:1.6.5.3]"
+"CEG0968","K00342","COG1008C","NADH dehydrogenase I subunit M","[EC:1.6.5.3]"
+"CEG0969","K00349","COG1347C","Na+-transporting NADH:ubiquinone oxidoreductase subunit D","[EC:1.6.5.-]"
+"CEG0970","K00356","COG0446R","NADH dehydrogenase","[EC:1.6.99.3]"
+"CEG0971","K00364","COG0516F","GMP reductase","[EC:1.7.1.7]"
+"CEG0972","K00366","COG0155P","ferredoxin-nitrite reductase","[EC:1.7.7.1]"
+"CEG0973","K00370","COG5013C","nitrate reductase 1, alpha subunit","[EC:1.7.99.4]"
+"CEG0974","K00371","COG1140C","nitrate reductase 1, beta subunit","[EC:1.7.99.4]"
+"CEG0975","K00390","COG0175EH","phosphoadenosine phosphosulfate reductase","[EC:1.8.4.8]"
+"CEG0976","K00392","COG0155P","sulfite reductase (ferredoxin)","[EC:1.8.7.1]"
+"CEG0977","K00406","COG2010C","cb-type cytochrome c oxidase subunit III","[EC:1.9.3.1]"
+"CEG0978","K00412","COG1290C","ubiquinol-cytochrome c reductase cytochrome b subunit","[EC:1.10.2.2]"
+"CEG0979","K00432","COG0386O","glutathione peroxidase","[EC:1.11.1.9]"
+"CEG0980","K00459","COG2070R","nitronate monooxygenase","[EC:1.13.12.16]"
+"CEG0981","K00507","---","stearoyl-CoA desaturase (delta-9 desaturase)","[EC:1.14.19.1]"
+"CEG0982","K00517","COG2124Q","---","---"
+"CEG0983","K00540","COG1028IQR","---","---"
+"CEG0984","K00571","---","site-specific DNA-methyltransferase (adenine-specific)","[EC:2.1.1.72]"
+"CEG0985","K00573","COG2518O","protein-L-isoaspartate(D-aspartate) O-methyltransferase","[EC:2.1.1.77]"
+"CEG0986","K00575","COG1352NT","chemotaxis protein methyltransferase CheR","[EC:2.1.1.80]"
+"CEG0987","K00605","COG0404E","aminomethyltransferase","[EC:2.1.2.10]"
+"CEG0988","K00610","COG1781F","aspartate carbamoyltransferase regulatory subunit","---"
+"CEG0989","K00611","COG0078E","ornithine carbamoyltransferase","[EC:2.1.3.3]"
+"CEG0990","K00616","COG0176G","transaldolase","[EC:2.2.1.2]"
+"CEG0991","K00619","COG1246E","amino-acid N-acetyltransferase","[EC:2.3.1.1]"
+"CEG0992","K00626","COG0183I","acetyl-CoA C-acetyltransferase","[EC:2.3.1.9]"
+"CEG0993","K00635","---","diacylglycerol O-acyltransferase","[EC:2.3.1.20]"
+"CEG0994","K00651","COG1897E","homoserine O-succinyltransferase","[EC:2.3.1.46]"
+"CEG0995","K00656","COG1882C","formate C-acetyltransferase","[EC:2.3.1.54]"
+"CEG0996","K00673","COG3138E","arginine N-succinyltransferase","[EC:2.3.1.109]"
+"CEG0997","K00675","COG2162Q","N-hydroxyarylamine O-acetyltransferase","[EC:2.3.1.118]"
+"CEG0998","K00684","COG2360O","leucyl/phenylalanyl-tRNA--protein transferase","[EC:2.3.2.6]"
+"CEG0999","K00697","COG0380G","alpha,alpha-trehalose-phosphate synthase (UDP-forming)","[EC:2.4.1.15]"
+"CEG1000","K00705","---","4-alpha-glucanotransferase","[EC:2.4.1.25]"
+"CEG1001","K00757","COG2820F","uridine phosphorylase","[EC:2.4.2.3]"
+"CEG1002","K00762","COG0461F","orotate phosphoribosyltransferase","[EC:2.4.2.10]"
+"CEG1003","K00767","COG0157H","nicotinate-nucleotide pyrophosphorylase (carboxylating)","[EC:2.4.2.19]"
+"CEG1004","K00769","COG0503F","xanthine phosphoribosyltransferase","[EC:2.4.2.22]"
+"CEG1005","K00773","COG0343J","queuine tRNA-ribosyltransferase","[EC:2.4.2.29]"
+"CEG1006","K00783","COG1576S","hypothetical protein","---"
+"CEG1007","K00798","COG2109H","cob(I)alamin adenosyltransferase","[EC:2.5.1.17]"
+"CEG1008","K00803","COG0277C","alkyldihydroxyacetonephosphate synthase","[EC:2.5.1.26]"
+"CEG1009","K00813","COG1448E","aspartate aminotransferase","[EC:2.6.1.1]"
+"CEG1010","K00818","COG4992E","acetylornithine aminotransferase","[EC:2.6.1.11]"
+"CEG1011","K00819","COG4992E","ornithine--oxo-acid transaminase","[EC:2.6.1.13]"
+"CEG1012","K00832","COG1448E","aromatic-amino-acid transaminase","[EC:2.6.1.57]"
+"CEG1013","K00839","COG0075E","aminotransferase","[EC:2.6.1.-]"
+"CEG1014","K00851","COG1070G","gluconokinase","[EC:2.7.1.12]"
+"CEG1015","K00865","---","glycerate kinase","[EC:2.7.1.31]"
+"CEG1016","K00872","COG0083E","homoserine kinase","[EC:2.7.1.39]"
+"CEG1017","K00874","COG0524G","2-dehydro-3-deoxygluconokinase","[EC:2.7.1.45]"
+"CEG1018","K00880","COG1070G","L-xylulokinase","[EC:2.7.1.53]"
+"CEG1019","K00881","COG1940KG","allose kinase","[EC:2.7.1.55]"
+"CEG1020","K00882","COG1105G","1-phosphofructokinase","[EC:2.7.1.56]"
+"CEG1021","K00884","COG1940KG","N-acetylglucosamine kinase","[EC:2.7.1.59]"
+"CEG1022","K00886","COG1940KG","polyphosphate glucokinase","[EC:2.7.1.63]"
+"CEG1023","K00924","COG0510M","---","---"
+"CEG1024","K00926","COG0549E","carbamate kinase","[EC:2.7.2.2]"
+"CEG1025","K00938","COG1577I","phosphomevalonate kinase","[EC:2.7.4.2]"
+"CEG1026","K00949","---","thiamine pyrophosphokinase","[EC:2.7.6.2]"
+"CEG1027","K00955","COG0529P","bifunctional enzyme CysN/CysC","[EC:2.7.7.4 2.7.1.25]"
+"CEG1028","K00956","COG2895P","sulfate adenylyltransferase subunit 1","[EC:2.7.7.4]"
+"CEG1029","K00965","COG1085C","UDPglucose--hexose-1-phosphate uridylyltransferase","[EC:2.7.7.12]"
+"CEG1030","K00966","COG1208MJ","mannose-1-phosphate guanylyltransferase","[EC:2.7.7.13]"
+"CEG1031","K00970","COG0617J","poly(A) polymerase","[EC:2.7.7.19]"
+"CEG1032","K00975","COG0448G","glucose-1-phosphate adenylyltransferase","[EC:2.7.7.27]"
+"CEG1033","K00982","COG1391OT","glutamate-ammonia-ligase adenylyltransferase","[EC:2.7.7.42]"
+"CEG1034","K00986","COG3344L","RNA-directed DNA polymerase","[EC:2.7.7.49]"
+"CEG1035","K00989","COG0689J","ribonuclease PH","[EC:2.7.7.56]"
+"CEG1036","K00990","COG2844O","[protein-PII] uridylyltransferase","[EC:2.7.7.59]"
+"CEG1037","K01005","COG2977Q","---","---"
+"CEG1038","K01008","COG0709E","selenide, water dikinase","[EC:2.7.9.3]"
+"CEG1039","K01034","COG1788I","acetate CoA-transferase alpha subunit","[EC:2.8.3.8]"
+"CEG1040","K01035","COG2057I","acetate CoA-transferase beta subunit","[EC:2.8.3.8]"
+"CEG1041","K01048","COG2267I","lysophospholipase","[EC:3.1.1.5]"
+"CEG1042","K01057","COG0363G","6-phosphogluconolactonase","[EC:3.1.1.31]"
+"CEG1043","K01087","COG0637R","trehalose-phosphatase","[EC:3.1.3.12]"
+"CEG1044","K01089","COG0241E","imidazoleglycerol-phosphate dehydratase / histidinol-phosphatase","[EC:4.2.1.19 3.1.3.15]"
+"CEG1045","K01096","COG0671I","phosphatidylglycerophosphatase B","[EC:3.1.3.27]"
+"CEG1046","K01141","COG2925L","exodeoxyribonuclease I","[EC:3.1.11.1]"
+"CEG1047","K01142","COG0708L","exodeoxyribonuclease III","[EC:3.1.11.2]"
+"CEG1048","K01153","COG0610V","type I restriction enzyme, R subunit","[EC:3.1.21.3]"
+"CEG1049","K01156","COG3421S","type III restriction enzyme","[EC:3.1.21.5]"
+"CEG1050","K01159","COG0817L","crossover junction endodeoxyribonuclease RuvC","[EC:3.1.22.4]"
+"CEG1051","K01160","COG4570L","crossover junction endodeoxyribonuclease RusA","[EC:3.1.22.4]"
+"CEG1052","K01175","COG0596R","---","---"
+"CEG1053","K01193","---","beta-fructofuranosidase","[EC:3.2.1.26]"
+"CEG1054","K01198","COG3507G","xylan 1,4-beta-xylosidase","[EC:3.2.1.37]"
+"CEG1055","K01226","COG0366G","trehalose-6-phosphate hydrolase","[EC:3.2.1.93]"
+"CEG1056","K01238","COG0366G","---","---"
+"CEG1057","K01246","---","DNA-3-methyladenine glycosylase I","[EC:3.2.2.20]"
+"CEG1058","K01251","COG0499H","adenosylhomocysteinase","[EC:3.3.1.1]"
+"CEG1059","K01256","COG0308E","aminopeptidase N","[EC:3.4.11.2]"
+"CEG1060","K01258","COG2195E","tripeptide aminopeptidase","[EC:3.4.11.4]"
+"CEG1061","K01259","COG0596R","proline iminopeptidase","[EC:3.4.11.5]"
+"CEG1062","K01269","COG2309E","aminopeptidase","[EC:3.4.11.-]"
+"CEG1063","K01270","COG2195E","aminoacylhistidine dipeptidase","[EC:3.4.13.3]"
+"CEG1064","K01354","COG1770E","oligopeptidase B","[EC:3.4.21.83]"
+"CEG1065","K01362","COG0265O","---","---"
+"CEG1066","K01417","COG0750M","---","---"
+"CEG1067","K01424","COG0252EJ","L-asparaginase","[EC:3.5.1.1]"
+"CEG1068","K01429","COG0832E","urease subunit beta","[EC:3.5.1.5]"
+"CEG1069","K01430","COG0831E","urease subunit gamma","[EC:3.5.1.5]"
+"CEG1070","K01447","COG3023V","N-acetylmuramoyl-L-alanine amidase","[EC:3.5.1.28]"
+"CEG1071","K01483","COG3194F","ureidoglycolate hydrolase","[EC:3.5.3.19]"
+"CEG1072","K01484","COG3724E","succinylarginine dihydrolase","[EC:3.5.3.23]"
+"CEG1073","K01496","COG0139E","phosphoribosyl-AMP cyclohydrolase","[EC:3.5.4.19]"
+"CEG1074","K01500","COG0590FJ","---","---"
+"CEG1075","K01514","COG0248FP","exopolyphosphatase","[EC:3.6.1.11]"
+"CEG1076","K01516","COG0127F","nucleoside-triphosphatase","[EC:3.6.1.15]"
+"CEG1077","K01523","COG0140E","phosphoribosyl-ATP pyrophosphohydrolase","[EC:3.6.1.31]"
+"CEG1078","K01533","COG2217P","Cu2+-exporting ATPase","[EC:3.6.3.4]"
+"CEG1079","K01534","COG2217P","Cd2+/Zn2+-exporting ATPase","[EC:3.6.3.3 3.6.3.5]"
+"CEG1080","K01537","COG0474P","Ca2+-transporting ATPase","[EC:3.6.3.8]"
+"CEG1081","K01546","COG2060P","K+-transporting ATPase ATPase A chain","[EC:3.6.3.12]"
+"CEG1082","K01552","COG0474P","---","---"
+"CEG1083","K01567","COG0560E","---","---"
+"CEG1084","K01577","COG0028EH","oxalyl-CoA decarboxylase","[EC:4.1.1.8]"
+"CEG1085","K01579","---","aspartate 1-decarboxylase","[EC:4.1.1.11]"
+"CEG1086","K01588","COG0041F","5-(carboxyamino)imidazole ribonucleotide mutase","[EC:5.4.99.18]"
+"CEG1087","K01589","COG0026F","5-(carboxyamino)imidazole ribonucleotide synthase","[EC:6.3.4.18]"
+"CEG1088","K01595","COG2352C","phosphoenolpyruvate carboxylase","[EC:4.1.1.31]"
+"CEG1089","K01596","COG1274C","phosphoenolpyruvate carboxykinase (GTP)","[EC:4.1.1.32]"
+"CEG1090","K01597","COG3407I","diphosphomevalonate decarboxylase","[EC:4.1.1.33]"
+"CEG1091","K01598","COG0452H","phosphopantothenoylcysteine decarboxylase","[EC:4.1.1.36]"
+"CEG1092","K01616","COG0567C","2-oxoglutarate decarboxylase","[EC:4.1.1.71]"
+"CEG1093","K01629","COG0235G","rhamnulose-1-phosphate aldolase","[EC:4.1.2.19]"
+"CEG1094","K01643","COG3051C","citrate lyase subunit alpha / citrate CoA-transferase","[EC:4.1.3.6 2.8.3.10]"
+"CEG1095","K01646","COG3052C","citrate lyase subunit gamma","[EC:4.1.3.6]"
+"CEG1096","K01647","COG0372C","citrate synthase","[EC:2.3.3.1]"
+"CEG1097","K01652","COG0028EH","acetolactate synthase I/II/III large subunit","[EC:2.2.1.6]"
+"CEG1098","K01664","COG0512EH","para-aminobenzoate synthetase component II","[EC:2.6.1.85]"
+"CEG1099","K01669","COG0415L","deoxyribodipyrimidine photo-lyase","[EC:4.1.99.3]"
+"CEG1100","K01687","COG0129EG","dihydroxy-acid dehydratase","[EC:4.2.1.9]"
+"CEG1101","K01692","COG1024I","enoyl-CoA hydratase","[EC:4.2.1.17]"
+"CEG1102","K01697","---","cystathionine beta-synthase","[EC:4.2.1.22]"
+"CEG1103","K01711","COG0451MG","GDPmannose 4,6-dehydratase","[EC:4.2.1.47]"
+"CEG1104","K01718","COG0564J","pseudouridylate synthase","[EC:4.2.1.70]"
+"CEG1105","K01724","COG2154H","4a-hydroxytetrahydrobiopterin dehydratase","[EC:4.2.1.96]"
+"CEG1106","K01725","COG1513P","cyanate lyase","[EC:4.2.1.104]"
+"CEG1107","K01739","COG0626E","cystathionine gamma-synthase","[EC:2.5.1.48]"
+"CEG1108","K01744","COG1027E","aspartate ammonia-lyase","[EC:4.3.1.1]"
+"CEG1109","K01752","COG1760E","L-serine dehydratase","[EC:4.3.1.17]"
+"CEG1110","K01754","COG1171E","threonine dehydratase","[EC:4.3.1.19]"
+"CEG1111","K01760","COG0626E","cystathionine beta-lyase","[EC:4.4.1.8]"
+"CEG1112","K01788","COG3010G","N-acylglucosamine-6-phosphate 2-epimerase","[EC:5.1.3.9]"
+"CEG1113","K01790","COG1898M","dTDP-4-dehydrorhamnose 3,5-epimerase","[EC:5.1.3.13]"
+"CEG1114","K01791","COG0381M","UDP-N-acetylglucosamine 2-epimerase","[EC:5.1.3.14]"
+"CEG1115","K01792","COG0676G","glucose-6-phosphate 1-epimerase","[EC:5.1.3.15]"
+"CEG1116","K01816","COG3622G","hydroxypyruvate isomerase","[EC:5.3.1.22]"
+"CEG1117","K01818","COG2407G","L-fucose isomerase","[EC:5.3.1.25]"
+"CEG1118","K01819","COG0698G","galactose-6-phosphate isomerase","[EC:5.3.1.26]"
+"CEG1119","K01821","COG1942R","4-oxalocrotonate tautomerase","[EC:5.3.2.-]"
+"CEG1120","K01823","COG1304C","isopentenyl-diphosphate delta-isomerase","[EC:5.3.3.2]"
+"CEG1121","K01826","COG3232E","5-carboxymethyl-2-hydroxymuconate isomerase","[EC:5.3.3.10]"
+"CEG1122","K01835","COG0033G","phosphoglucomutase","[EC:5.4.2.2]"
+"CEG1123","K01842","COG1109G","---","---"
+"CEG1124","K01854","COG0562M","UDP-galactopyranose mutase","[EC:5.4.99.9]"
+"CEG1125","K01895","COG0365I","acetyl-CoA synthetase","[EC:6.2.1.1]"
+"CEG1126","K01902","COG0074C","succinyl-CoA synthetase alpha subunit","[EC:6.2.1.5]"
+"CEG1127","K01914","COG2502E","aspartate--ammonia ligase","[EC:6.3.1.1]"
+"CEG1128","K01919","COG3572H","glutamate--cysteine ligase","[EC:6.3.2.2]"
+"CEG1129","K01920","COG0189HJ","glutathione synthase","[EC:6.3.2.3]"
+"CEG1130","K01933","COG0150F","phosphoribosylformylglycinamidine cyclo-ligase","[EC:6.3.3.1]"
+"CEG1131","K01953","COG0367E","asparagine synthase (glutamine-hydrolysing)","[EC:6.3.5.4]"
+"CEG1132","K01955","COG0458EF","carbamoyl-phosphate synthase large subunit","[EC:6.3.5.5]"
+"CEG1133","K01958","COG1038C","pyruvate carboxylase","[EC:6.4.1.1]"
+"CEG1134","K01965","COG0439I","propionyl-CoA carboxylase alpha chain","[EC:6.4.1.3]"
+"CEG1135","K01990","COG1131V","ABC-2 type transport system ATP-binding protein","---"
+"CEG1136","K01992","---","ABC-2 type transport system permease protein","---"
+"CEG1137","K02007","COG0310P","cobalt/nickel transport system permease protein","---"
+"CEG1138","K02012","COG1840P","iron(III) transport system substrate-binding protein","---"
+"CEG1139","K02017","COG4148P","molybdate transport system ATP-binding protein","[EC:3.6.3.29]"
+"CEG1140","K02018","COG4149P","molybdate transport system permease protein","---"
+"CEG1141","K02026","---","multiple sugar transport system permease protein","---"
+"CEG1142","K02030","COG0834ET","polar amino acid transport system substrate-binding protein","---"
+"CEG1143","K02040","COG0226P","phosphate transport system substrate-binding protein","---"
+"CEG1144","K02041","COG3638P","phosphonate transport system ATP-binding protein","---"
+"CEG1145","K02044","---","phosphonate transport system substrate-binding protein","---"
+"CEG1146","K02045","COG1118P","sulfate transport system ATP-binding protein","[EC:3.6.3.25]"
+"CEG1147","K02046","COG0555O","sulfate transport system permease protein","---"
+"CEG1148","K02048","COG1613P","sulfate transport system substrate-binding protein","---"
+"CEG1149","K02049","COG1116P","sulfonate/nitrate/taurine transport system ATP-binding protein","---"
+"CEG1150","K02050","COG0600P","sulfonate/nitrate/taurine transport system permease protein","---"
+"CEG1151","K02052","COG3842E","putative spermidine/putrescine transport system ATP-binding protein","---"
+"CEG1152","K02053","COG1177E","putative spermidine/putrescine transport system permease protein","---"
+"CEG1153","K02054","COG1176E","putative spermidine/putrescine transport system permease protein","---"
+"CEG1154","K02055","COG0687E","putative spermidine/putrescine transport system substrate-binding protein","---"
+"CEG1155","K02057","COG4603R","simple sugar transport system permease protein","---"
+"CEG1156","K02062","COG3840H","thiamine transport system ATP-binding protein","---"
+"CEG1157","K02063","COG1178P","thiamine transport system permease protein","---"
+"CEG1158","K02065","COG1127Q","putative ABC transport system ATP-binding protein","---"
+"CEG1159","K02106","COG2031I","short-chain fatty acids transporter","---"
+"CEG1160","K02116","COG3312C","ATP synthase protein I","---"
+"CEG1161","K02170","---","biotin biosynthesis protein BioH","---"
+"CEG1162","K02189","COG2073H","cobalamin biosynthesis protein CbiG","---"
+"CEG1163","K02192","COG2906P","bacterioferritin-associated ferredoxin","---"
+"CEG1164","K02193","COG4133O","heme exporter protein A","[EC:3.6.3.41]"
+"CEG1165","K02195","COG0755O","heme exporter protein C","---"
+"CEG1166","K02196","COG3114U","heme exporter protein D","---"
+"CEG1167","K02238","COG0658R","competence protein ComEC","---"
+"CEG1168","K02240","COG4098L","competence protein ComFA","---"
+"CEG1169","K02259","COG1612O","cytochrome c oxidase subunit XV assembly protein","---"
+"CEG1170","K02274","COG0843C","cytochrome c oxidase subunit I","[EC:1.9.3.1]"
+"CEG1171","K02275","COG1622C","cytochrome c oxidase subunit II","[EC:1.9.3.1]"
+"CEG1172","K02276","COG1845C","cytochrome c oxidase subunit III","[EC:1.9.3.1]"
+"CEG1173","K02302","COG0007H","uroporphyrin-III C-methyltransferase / precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase","[EC:2.1.1.107 1.3.1.76 4.99.1.4]"
+"CEG1174","K02334","COG1573L","DNA polymerase bacteriophage-type","[EC:2.7.7.7]"
+"CEG1175","K02348","COG2153R","ElaA protein","---"
+"CEG1176","K02371","COG2070R","enoyl-[acyl carrier protein] reductase II","[EC:1.3.1.-]"
+"CEG1177","K02380","---","FdhE protein","---"
+"CEG1178","K02397","COG1344N","flagellar hook-associated protein 3 FlgL","---"
+"CEG1179","K02413","COG2882NUO","flagellar FliJ protein","---"
+"CEG1180","K02418","COG3190N","flagellar protein FliO/FliZ","---"
+"CEG1181","K02428","COG1694R","nucleoside-triphosphate pyrophosphatase","[EC:3.6.1.19]"
+"CEG1182","K02430","COG1349KG","DeoR family transcriptional regulator, L-fucose operon activator","---"
+"CEG1183","K02431","COG4154G","L-fucose mutarotase","[EC:5.1.3.-]"
+"CEG1184","K02439","COG0607P","thiosulfate sulfurtransferase","[EC:2.8.1.1]"
+"CEG1185","K02441","COG0705R","GlpG protein","---"
+"CEG1186","K02443","COG1954K","glycerol uptake operon antiterminator","---"
+"CEG1187","K02446","COG0191G","fructose-1,6-bisphosphatase II","[EC:3.1.3.11]"
+"CEG1188","K02484","COG0642T","two-component system, OmpR family, sensor kinase","[EC:2.7.13.3]"
+"CEG1189","K02485","COG0784T","two-component system, unclassified family, response regulator","---"
+"CEG1190","K02502","COG3705E","ATP phosphoribosyltransferase regulatory subunit","---"
+"CEG1191","K02505","COG1459NU","protein transport protein HofC","---"
+"CEG1192","K02521","COG0583K","LysR family transcriptional regulator, positive regulator for ilvC","---"
+"CEG1193","K02533","COG0565J","tRNA/rRNA methyltransferase","[EC:2.1.1.-]"
+"CEG1194","K02552","COG1169HQ","menaquinone-specific isochorismate synthase","[EC:5.4.4.2]"
+"CEG1195","K02556","COG1291N","chemotaxis protein MotA","---"
+"CEG1196","K02557","COG1360N","chemotaxis protein MotB","---"
+"CEG1197","K02558","COG0773M","UDP-N-acetylmuramate: L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase","[EC:6.3.2.-]"
+"CEG1198","K02560","COG1560M","lipid A biosynthesis (KDO)2-(lauroyl)-lipid iva acyltransferase","[EC:2.3.1.-]"
+"CEG1199","K02564","COG0363G","glucosamine-6-phosphate deaminase","[EC:3.5.99.6]"
+"CEG1200","K02571","COG4459C","periplasmic nitrate reductase NapE","---"
+"CEG1201","K02573","COG1145C","ferredoxin-type protein NapG","---"
+"CEG1202","K02611","COG3396S","phenylacetic acid degradation protein","---"
+"CEG1203","K02614","COG2050Q","phenylacetic acid degradation protein","---"
+"CEG1204","K02617","COG0663R","phenylacetic acid degradation protein","---"
+"CEG1205","K02619","COG0115EH","4-amino-4-deoxychorismate lyase","[EC:4.1.3.38]"
+"CEG1206","K02624","COG1414K","IclR family transcriptional regulator, pca regulon regulatory protein","---"
+"CEG1207","K02647","COG3835KT","carbohydrate diacid regulator","---"
+"CEG1208","K02652","COG2804NU","type IV pilus assembly protein PilB","---"
+"CEG1209","K02654","COG1989NOU","leader peptidase (prepilin peptidase) / N-methyltransferase","[EC:3.4.23.43 2.1.1.-]"
+"CEG1210","K02656","COG3063NU","type IV pilus assembly protein PilF","---"
+"CEG1211","K02687","COG2264J","ribosomal protein L11 methyltransferase","[EC:2.1.1.-]"
+"CEG1212","K02742","---","SprT protein","---"
+"CEG1213","K02745","COG3444G","PTS system, N-acetylgalactosamine-specific IIB component","[EC:2.7.1.69]"
+"CEG1214","K02759","COG1447G","PTS system, cellobiose-specific IIA component","[EC:2.7.1.69]"
+"CEG1215","K02765","COG1263G","PTS system, D-glucosamine-specific IIC component","---"
+"CEG1216","K02770","COG1299G","PTS system, fructose-specific IIC component","---"
+"CEG1217","K02774","COG3414G","PTS system, galactitol-specific IIB component","[EC:2.7.1.69]"
+"CEG1218","K02777","COG2190G","PTS system, glucose-specific IIA component","[EC:2.7.1.69]"
+"CEG1219","K02784","COG1925G","phosphocarrier protein HPr","---"
+"CEG1220","K02795","COG1299G","PTS system, mannose-specific IIC component","---"
+"CEG1221","K02798","COG4668G","PTS system, mannitol-specific IIA component","[EC:2.7.1.69]"
+"CEG1222","K02800","COG2213G","PTS system, mannitol-specific IIC component","---"
+"CEG1223","K02804","COG1263G","PTS system, N-acetylglucosamine-specific IIC component","---"
+"CEG1224","K02821","COG2893G","PTS system, ascorbate-specific IIA component","[EC:2.7.1.69]"
+"CEG1225","K02827","COG0843C","quinol oxidase polypeptide I","[EC:1.9.3.-]"
+"CEG1226","K02840","COG0438M","UDP-D-galactose:(glucosyl)LPS alpha-1,6-D-galactosyltransferase","[EC:2.4.1.-]"
+"CEG1227","K02844","COG0438M","UDP-glucose:(heptosyl)LPS alpha-1,3-glucosyltransferase","[EC:2.4.1.-]"
+"CEG1228","K02847","---","O-antigen ligase","[EC:6.-.-.-]"
+"CEG1229","K03048","COG3343K","DNA-directed RNA polymerase subunit delta","[EC:2.7.7.6]"
+"CEG1230","K03071","COG1952U","preprotein translocase subunit SecB","---"
+"CEG1231","K03087","COG0568K","RNA polymerase nonessential primary-like sigma factor","---"
+"CEG1232","K03092","COG1508K","RNA polymerase sigma-54 factor","---"
+"CEG1233","K03113","COG0023J","translation initiation factor eIF-1","---"
+"CEG1234","K03119","COG2175Q","taurine dioxygenase","[EC:1.14.11.17]"
+"CEG1235","K03152","COG0693R","4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis","---"
+"CEG1236","K03153","COG0665E","glycine oxidase","[EC:1.4.3.19]"
+"CEG1237","K03169","COG0550L","DNA topoisomerase III","[EC:5.99.1.2]"
+"CEG1238","K03177","COG0130J","tRNA pseudouridine synthase B","[EC:5.4.99.12]"
+"CEG1239","K03196","COG0630NU","type IV secretion system protein VirB11","---"
+"CEG1240","K03203","COG3736U","type IV secretion system protein VirB8","---"
+"CEG1241","K03214","COG0566J","RNA methyltransferase, TrmH family","[EC:2.1.1.-]"
+"CEG1242","K03216","COG0219J","RNA methyltransferase, TrmH family, group 2","[EC:2.1.1.-]"
+"CEG1243","K03218","COG0566J","RNA methyltransferase, TrmH family","[EC:2.1.1.-]"
+"CEG1244","K03270","COG1778R","3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase)","[EC:3.1.3.45]"
+"CEG1245","K03274","COG0451MG","ADP-L-glycero-D-manno-heptose 6-epimerase","[EC:5.1.3.20]"
+"CEG1246","K03277","COG0859M","heptosyltransferase IV","[EC:2.4.-.-]"
+"CEG1247","K03282","COG1970M","large conductance mechanosensitive channel","---"
+"CEG1248","K03284","COG0598P","metal ion transporter, MIT family","---"
+"CEG1249","K03296","COG0841V","hydrophobic/amphiphilic exporter-1 (mainly G- bacteria), HAE1 family","---"
+"CEG1250","K03303","COG1620C","lactate transporter, LctP family","---"
+"CEG1251","K03305","COG3104E","proton-dependent oligopeptide transporter, POT family","---"
+"CEG1252","K03307","COG0591ER","solute:Na+ symporter, SSS family","---"
+"CEG1253","K03308","COG0733R","neurotransmitter:Na+ symporter, NSS family","---"
+"CEG1254","K03313","COG1757C","Na+:H+ antiporter, NhaA family","---"
+"CEG1255","K03319","COG0471P","divalent anion:Na+ symporter, DASS family","---"
+"CEG1256","K03322","COG1914P","manganese transport protein","---"
+"CEG1257","K03327","COG0534V","multidrug resistance protein, MATE family","---"
+"CEG1258","K03328","COG2244R","polysaccharide transporter, PST family","---"
+"CEG1259","K03367","COG1020Q","D-alanine--poly(phosphoribitol) ligase subunit 1","[EC:6.1.1.13]"
+"CEG1260","K03380","---","phenol 2-monooxygenase","[EC:1.14.13.7]"
+"CEG1261","K03385","---","formate-dependent nitrite reductase, periplasmic cytochrome c552 subunit","[EC:1.7.2.2]"
+"CEG1262","K03402","COG1438K","transcriptional regulator of arginine metabolism","---"
+"CEG1263","K03407","COG0643NT","two-component system, chemotaxis family, sensor kinase CheA","[EC:2.7.13.3]"
+"CEG1264","K03408","COG0835NT","purine-binding chemotaxis protein CheW","---"
+"CEG1265","K03427","COG0286V","type I restriction enzyme M protein","[EC:2.1.1.72]"
+"CEG1266","K03429","COG0438M","1,2-diacylglycerol 3-glucosyltransferase","[EC:2.4.1.157]"
+"CEG1267","K03430","COG0075E","2-aminoethylphosphonate-pyruvate transaminase","[EC:2.6.1.37]"
+"CEG1268","K03432","COG0638O","proteasome alpha subunit","[EC:3.4.25.1]"
+"CEG1269","K03433","COG0638O","proteasome beta subunit","[EC:3.4.25.1]"
+"CEG1270","K03445","COG2814G","MFS transporter, DHA1 family, purine ribonucleoside efflux pump","---"
+"CEG1271","K03446","---","MFS transporter, DHA2 family, multidrug resistance protein B","---"
+"CEG1272","K03449","COG2807P","MFS transporter, CP family, cyanate transporter","---"
+"CEG1273","K03458","COG2233F","nucleobase:cation symporter-2, NCS2 family","---"
+"CEG1274","K03465","COG1351F","thymidylate synthase (FAD)","[EC:2.1.1.148]"
+"CEG0932","K03471","COG1039L","ribonuclease HIII","[EC:3.1.26.4]"
+"CEG1276","K03473","COG0111HE","erythronate-4-phosphate dehydrogenase","[EC:1.1.1.290]"
+"CEG1277","K03475","COG3037S","PTS system, ascorbate-specific IIC component","---"
+"CEG1278","K03480","COG3711K","transcriptional antiterminator","---"
+"CEG1279","K03482","COG2188K","GntR family transcriptional regulator, glv operon transcriptional regulator","---"
+"CEG1280","K03501","COG0357M","glucose inhibited division protein B","[EC:2.1.-.-]"
+"CEG1281","K03533","COG3381R","TorA specific chaperone","---"
+"CEG1282","K03535","COG0477GEPR","MFS transporter, ACS family, glucarate transporter","---"
+"CEG1283","K03554","---","recombination associated protein RdgC","---"
+"CEG1284","K03558","COG1286R","membrane protein required for colicin V production","---"
+"CEG1285","K03565","---","regulatory protein","---"
+"CEG1286","K03566","COG0583K","LysR family transcriptional regulator, glycine cleavage system transcriptional activator","---"
+"CEG1287","K03567","COG2716E","glycine cleavage system transcriptional repressor","---"
+"CEG1288","K03568","COG0312R","TldD protein","---"
+"CEG1289","K03572","COG0323L","DNA mismatch repair protein MutL","---"
+"CEG1290","K03576","COG0583K","LysR family transcriptional regulator, regulator for metE and metH","---"
+"CEG1291","K03578","COG1643L","ATP-dependent helicase HrpA","[EC:3.6.4.13]"
+"CEG1292","K03581","COG0507L","exodeoxyribonuclease V alpha subunit","[EC:3.1.11.5]"
+"CEG1293","K03582","COG1074L","exodeoxyribonuclease V beta subunit","[EC:3.1.11.5]"
+"CEG1294","K03583","COG1330L","exodeoxyribonuclease V gamma subunit","[EC:3.1.11.5]"
+"CEG1295","K03591","COG3087D","cell division protein FtsN","---"
+"CEG1296","K03592","COG0312R","PmbA protein","---"
+"CEG1297","K03597","COG3073T","sigma-E factor negative regulatory protein RseA","---"
+"CEG1298","K03599","---","stringent starvation protein A","---"
+"CEG1299","K03604","COG1609K","LacI family transcriptional regulator, purine nucleotide synthesis repressor","---"
+"CEG1300","K03605","COG0680C","hydrogenase 1 maturation protease","[EC:3.4.24.-]"
+"CEG1301","K03609","COG2894D","septum site-determining protein MinD","---"
+"CEG1302","K03610","---","septum site-determining protein MinC","---"
+"CEG1303","K03614","COG4658C","electron transport complex protein RnfD","---"
+"CEG1304","K03620","COG1969C","Ni/Fe-hydrogenase 1 B-type cytochrome subunit","---"
+"CEG1305","K03623","COG2732K","ribonuclease inhibitor","---"
+"CEG1306","K03630","COG2003L","DNA repair protein RadC","---"
+"CEG1307","K03635","COG0314H","molybdopterin synthase catalytic subunit","[EC:2.-.-.-]"
+"CEG1308","K03636","COG1977H","molybdopterin synthase sulfur carrier subunit","---"
+"CEG1309","K03639","COG2896H","molybdenum cofactor biosynthesis protein","---"
+"CEG1310","K03640","COG2885M","peptidoglycan-associated lipoprotein","---"
+"CEG1311","K03654","COG0514L","ATP-dependent DNA helicase RecQ","[EC:3.6.4.12]"
+"CEG1312","K03655","COG1200LK","ATP-dependent DNA helicase RecG","[EC:3.6.4.12]"
+"CEG1313","K03673","COG0526OC","thiol:disulfide interchange protein DsbA","---"
+"CEG1314","K03676","---","glutaredoxin 3","---"
+"CEG1315","K03706","---","transcriptional pleiotropic repressor","---"
+"CEG1316","K03711","COG0735P","Fur family transcriptional regulator, ferric uptake regulator","---"
+"CEG1317","K03713","COG0789K","MerR family transcriptional regulator, glutamine synthetase repressor","---"
+"CEG1318","K03719","COG1522K","Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein","---"
+"CEG1319","K03720","COG2973K","TrpR family transcriptional regulator, trp operon repressor","---"
+"CEG1320","K03721","COG3283KE","transcriptional regulator of aroF, aroG, tyrA and aromatic amino acid transport","---"
+"CEG1321","K03722","COG1199KL","ATP-dependent DNA helicase DinG","[EC:3.6.4.12]"
+"CEG1322","K03723","COG1197LK","transcription-repair coupling factor (superfamily II helicase)","[EC:3.6.4.-]"
+"CEG1323","K03732","COG0513LKJ","ATP-dependent RNA helicase RhlB","[EC:3.6.4.13]"
+"CEG1324","K03733","COG4973L","integrase/recombinase XerC","---"
+"CEG1325","K03734","COG0797M","thiamine biosynthesis lipoprotein","---"
+"CEG1326","K03739","COG1696M","membrane protein involved in D-alanine export","---"
+"CEG1327","K03740","COG3966M","D-alanine transfer protein","---"
+"CEG1328","K03741","COG0394T","arsenate reductase","[EC:1.20.4.1]"
+"CEG1329","K03745","COG2900S","SlyX protein","---"
+"CEG1330","K03750","COG0303H","molybdopterin biosynthesis protein MoeA","---"
+"CEG1331","K03753","COG1763H","molybdopterin-guanine dinucleotide biosynthesis protein B","---"
+"CEG1332","K03775","COG1047O","FKBP-type peptidyl-prolyl cis-trans isomerase SlyD","[EC:5.2.1.8]"
+"CEG1333","K03778","COG1052CHR","D-lactate dehydrogenase","[EC:1.1.1.28]"
+"CEG1334","K03782","COG0376P","catalase/peroxidase","[EC:1.11.1.6 1.11.1.7]"
+"CEG1335","K03791","COG3179R","putative chitinase","---"
+"CEG1336","K03797","COG0793M","carboxyl-terminal processing protease","[EC:3.4.21.102]"
+"CEG1337","K03799","COG0501O","heat shock protein HtpX","[EC:3.4.24.-]"
+"CEG1338","K03811","COG3201H","nicotinamide mononucleotide transporter","---"
+"CEG1339","K03812","COG3130J","ribosome modulation factor","---"
+"CEG1340","K03814","COG0744M","monofunctional biosynthetic peptidoglycan transglycosylase","[EC:2.4.1.-]"
+"CEG1341","K03817","COG1670J","ribosomal-protein-serine acetyltransferase","[EC:2.3.1.-]"
+"CEG1342","K03818","COG0110R","putative colanic acid biosynthesis acetyltransferase WcaF","[EC:2.3.1.-]"
+"CEG1343","K03822","COG0318IQ","putative long chain acyl-CoA synthase","[EC:6.2.1.-]"
+"CEG1344","K03823","COG1247M","phosphinothricin acetyltransferase","[EC:2.3.1.183]"
+"CEG1345","K03824","COG3153R","putative acetyltransferase","[EC:2.3.1.-]"
+"CEG1346","K03833","COG3276J","selenocysteine-specific elongation factor","---"
+"CEG1347","K03834","COG0814E","tyrosine-specific transport protein","---"
+"CEG1348","K03836","COG0814E","low affinity tryptophan permease","---"
+"CEG1349","K03885","COG0446R","NADH dehydrogenase","[EC:1.6.99.3]"
+"CEG1350","K03889","COG2010C","ubiquinol-cytochrome c reductase cytochrome c subunit","---"
+"CEG1351","K03890","COG0723C","ubiquinol-cytochrome c reductase iron-sulfur subunit","---"
+"CEG1352","K03891","COG1290C","ubiquinol-cytochrome c reductase cytochrome b subunit","---"
+"CEG1353","K03921","---","acyl-[acyl-carrier-protein] desaturase","[EC:1.14.19.2]"
+"CEG1354","K03922","---","acyl-[acyl-carrier-protein] desaturase","[EC:1.14.19.2]"
+"CEG1355","K03924","COG0714R","MoxR-like ATPase","[EC:3.6.3.-]"
+"CEG1356","K03969","COG1842KT","phage shock protein A","---"
+"CEG1357","K03972","COG0607P","phage shock protein E","---"
+"CEG1358","K03981","COG1651O","thiol:disulfide interchange protein DsbC","[EC:5.3.4.1]"
+"CEG1359","K04013","---","formate-dependent nitrite reductase, penta-haeme cytochrome c","---"
+"CEG1360","K04014","COG0437C","formate-dependent nitrite reductase, Fe-S protein","---"
+"CEG1361","K04026","COG4816E","ethanolamine utilization protein EutL","---"
+"CEG1362","K04028","COG4576QC","ethanolamine utilization protein EutN","---"
+"CEG1363","K04051","---","type III secretion protein SctG","---"
+"CEG1364","K04052","---","type III secretion protein SctH","---"
+"CEG1365","K04056","---","type III secretion protein SctO","---"
+"CEG1366","K04067","COG3923L","primosomal replication protein N","---"
+"CEG1367","K04069","COG1180O","pyruvate formate lyase activating enzyme","[EC:1.97.1.4]"
+"CEG1368","K04072","COG1012C","acetaldehyde dehydrogenase / alcohol dehydrogenase","[EC:1.2.1.10 1.1.1.1]"
+"CEG1369","K04074","COG3599D","cell division initiation protein","---"
+"CEG1370","K04083","---","molecular chaperone Hsp33","---"
+"CEG1371","K04086","COG0542O","ATP-dependent Clp protease ATP-binding subunit ClpL","---"
+"CEG1372","K04088","COG0330O","membrane protease subunit HflK","[EC:3.4.-.-]"
+"CEG1373","K04094","COG1206J","glucose inhibited division protein Gid","---"
+"CEG1374","K04096","COG0758LU","DNA processing protein","---"
+"CEG1375","K04334","COG1012C","major curlin subunit","---"
+"CEG1376","K04337","COG4670I","curli production assembly/transport component CsgE","---"
+"CEG1377","K04477","COG1387ER","putative hydrolase","---"
+"CEG1378","K04485","COG1066O","DNA repair protein RadA/Sms","---"
+"CEG1379","K04562","COG0455D","flagellar biosynthesis protein FlhG","---"
+"CEG1380","K04653","COG0298O","hydrogenase expression/formation protein HypC","---"
+"CEG1381","K04751","COG0347E","nitrogen regulatory protein P-II 1","---"
+"CEG1382","K04752","COG0347E","nitrogen regulatory protein P-II 2","---"
+"CEG1383","K04753","COG2132Q","suppressor of ftsI","---"
+"CEG1384","K04758","COG1918P","ferrous iron transport protein A","---"
+"CEG1385","K04760","COG0782K","transcription elongation factor GreB","---"
+"CEG1386","K04761","---","LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator","---"
+"CEG1387","K04763","COG4974L","integrase/recombinase XerD","---"
+"CEG1388","K04770","COG1067O","Lon-like ATP-dependent protease","[EC:3.4.21.-]"
+"CEG1389","K04771","COG0265O","serine protease Do","[EC:3.4.21.107]"
+"CEG1390","K04772","COG0265O","serine protease DegQ","[EC:3.4.21.-]"
+"CEG1391","K04774","COG0616OU","serine protease SohB","[EC:3.4.21.-]"
+"CEG1392","K04781","COG0147EH","salicylate synthetase","[EC:5.4.4.2 4.1.3.-]"
+"CEG1393","K04790","COG3321Q","mycobactin polyketide synthetase MbtC","---"
+"CEG1394","K04793","COG3486Q","mycobactin lysine-N-oxygenase","---"
+"CEG1395","K05365","COG0744M","penicillin-binding protein 1B","[EC:2.4.1.129 3.4.-.-]"
+"CEG1396","K05366","COG0744M","penicillin-binding protein 1A","[EC:2.4.1.- 3.4.-.-]"
+"CEG1397","K05527","COG0271T","BolA protein","---"
+"CEG1398","K05539","COG0042J","tRNA-dihydrouridine synthase A","[EC:1.-.-.-]"
+"CEG1399","K05559","COG2111P","multicomponent K+:H+ antiporter subunit A","---"
+"CEG1400","K05560","---","multicomponent K+:H+ antiporter subunit C","---"
+"CEG1401","K05561","COG0651CP","multicomponent K+:H+ antiporter subunit D","---"
+"CEG1402","K05562","COG1863P","multicomponent K+:H+ antiporter subunit E","---"
+"CEG1403","K05563","COG2212P","multicomponent K+:H+ antiporter subunit F","---"
+"CEG1404","K05564","COG1320P","multicomponent K+:H+ antiporter subunit G","---"
+"CEG1405","K05565","COG1757C","multicomponent Na+:H+ antiporter subunit A","---"
+"CEG1406","K05566","COG2111P","multicomponent Na+:H+ antiporter subunit B","---"
+"CEG1407","K05590","COG0513LKJ","ATP-dependent RNA helicase SrmB","[EC:2.7.7.-]"
+"CEG1408","K05709","COG5517Q","small terminal subunit of phenylpropionate dioxygenase","[EC:1.14.12.19]"
+"CEG1409","K05710","COG2146PR","ferredoxin subunit of phenylpropionate dioxygenase","---"
+"CEG1410","K05772","COG2998H","putative tungstate transport system substrate-binding protein","---"
+"CEG1411","K05779","COG4136R","putative thiamine transport system ATP-binding protein","---"
+"CEG1412","K05795","COG2310T","tellurium resistance protein TerD","---"
+"CEG1413","K05808","---","putative sigma-54 modulation protein","---"
+"CEG1414","K05810","COG1496S","conserved hypothetical protein","---"
+"CEG1415","K05813","COG1653G","sn-glycerol 3-phosphate transport system substrate-binding protein","---"
+"CEG1416","K05816","COG3839G","sn-glycerol 3-phosphate transport system ATP-binding protein","[EC:3.6.3.20]"
+"CEG1417","K05823","COG1473R","N-acetyldiaminopimelate deacetylase","[EC:3.5.1.47]"
+"CEG1418","K05834","COG1280E","homoserine/homoserine lactone efflux protein","---"
+"CEG1419","K05844","COG0189HJ","ribosomal protein S6 modification protein","---"
+"CEG1420","K05847","COG1125E","osmoprotectant transport system ATP-binding protein","---"
+"CEG1421","K05851","---","adenylate cyclase, class 1","[EC:4.6.1.1]"
+"CEG1422","K05876","COG0840NT","methyl-accepting chemotaxis protein III, ribose and galactose sensor receptor","---"
+"CEG1423","K05879","COG2376G","dihydroxyacetone kinase, C-terminal domain","[EC:2.7.1.-]"
+"CEG1424","K05984","COG0322L","excinuclease Cho","[EC:3.1.25.-]"
+"CEG1425","K05997","COG0316S","Fe-S cluster assembly protein SufA","---"
+"CEG1426","K06044","COG3280G","(1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase","[EC:5.4.99.15]"
+"CEG1427","K06076","COG2067I","long-chain fatty acid transport protein","---"
+"CEG1428","K06131","COG1502I","cardiolipin synthase","[EC:2.7.8.-]"
+"CEG1429","K06140","COG0782K","regulator of nucleoside diphosphate kinase","---"
+"CEG1430","K06158","COG0488R","ATP-binding cassette, sub-family F, member 3","---"
+"CEG1431","K06168","COG0621J","bifunctional enzyme involved in thiolation and methylation of tRNA","---"
+"CEG1432","K06169","COG4445FJ","tRNA-(ms[2]io[6]A)-hydroxylase","[EC:1.-.-.-]"
+"CEG1433","K06176","COG0585S","tRNA pseudouridine synthase D","[EC:5.4.99.12]"
+"CEG1434","K06179","COG0564J","ribosomal large subunit pseudouridine synthase C","[EC:5.4.99.12]"
+"CEG1435","K06183","COG1187J","ribosomal small subunit pseudouridine synthase A","[EC:5.4.99.12]"
+"CEG1436","K06189","COG4535P","magnesium and cobalt transporter","---"
+"CEG1437","K06193","COG2824P","phosphonoacetate hydrolase","[EC:3.11.1.2]"
+"CEG1438","K06197","---","cation transport regulator","---"
+"CEG1439","K06198","COG4469R","competence protein CoiA","---"
+"CEG1440","K06199","COG0239D","CrcB protein","---"
+"CEG1441","K06200","COG1966T","carbon starvation protein","---"
+"CEG1442","K06201","COG3142P","copper homeostasis protein","---"
+"CEG1443","K06202","---","CyaY protein","---"
+"CEG1444","K06203","COG2981E","CysZ protein","---"
+"CEG1445","K06204","COG1734T","DnaK suppressor protein","---"
+"CEG1446","K06207","COG1217T","GTP-binding protein","---"
+"CEG1447","K06211","COG1056H","HipB family transcriptional regulator, involved in the regulation of NAD biosynthesis","---"
+"CEG1448","K06212","COG2116P","formate transporter","---"
+"CEG1449","K06213","COG2239P","magnesium transporter","---"
+"CEG1450","K06217","COG1702T","phosphate starvation-inducible protein PhoH and related proteins","---"
+"CEG1451","K06218","COG2026JD","RelE protein","---"
+"CEG1452","K06282","COG1740C","hydrogenase small subunit","[EC:1.12.99.6]"
+"CEG1453","K06287","COG0424D","septum formation protein","---"
+"CEG1454","K06442","COG1189J","putative hemolysin","---"
+"CEG1455","K06518","COG1380R","holin-like protein","---"
+"CEG1456","K06866","COG3445R","autonomous glycyl radical cofactor","---"
+"CEG1457","K06879","COG0780R","7-cyano-7-deazaguanine reductase","[EC:1.7.1.13]"
+"CEG1458","K06882","COG3401R","---","---"
+"CEG1459","K06884","COG3729R","---","---"
+"CEG1460","K06895","COG1279R","L-lysine exporter family protein LysE/ArgO","---"
+"CEG1461","K06896","COG3568R","---","---"
+"CEG1462","K06909","COG1783R","---","---"
+"CEG1463","K06910","COG1881R","---","---"
+"CEG1464","K06915","COG0433R","---","---"
+"CEG1465","K06918","---","---","---"
+"CEG1466","K06924","COG3044R","---","---"
+"CEG1467","K06929","COG1832R","---","---"
+"CEG1468","K06934","COG1661R","---","---"
+"CEG1469","K06957","COG1444R","tRNA(Met) cytidine acetyltransferase","[EC:2.3.1.-]"
+"CEG1470","K06958","COG1660R","UPF0042 nucleotide-binding protein","---"
+"CEG1471","K06959","COG2183K","uncharacterized protein","---"
+"CEG1472","K06973","COG2738R","---","---"
+"CEG1473","K06978","COG2936R","---","---"
+"CEG1474","K06994","COG2409R","putative drug exporter of the RND superfamily","---"
+"CEG1475","K06995","---","---","---"
+"CEG1476","K06998","COG0384R","---","---"
+"CEG1477","K07000","COG3150R","---","---"
+"CEG1478","K07001","COG1752R","---","---"
+"CEG1479","K07008","COG0121R","glutamine amidotransferase","---"
+"CEG1480","K07011","COG1216R","---","---"
+"CEG1481","K07014","COG3083R","---","---"
+"CEG1482","K07053","COG0613R","---","---"
+"CEG1483","K07058","COG1295S","membrane protein","---"
+"CEG1484","K07062","COG1487R","---","---"
+"CEG1485","K07071","COG1090R","---","---"
+"CEG1486","K07076","---","---","---"
+"CEG1487","K07082","COG0115EH","UPF0755 protein","---"
+"CEG1488","K07085","COG2985R","putative transport protein","---"
+"CEG1489","K07109","---","---","---"
+"CEG1490","K07112","COG2391R","---","---"
+"CEG1491","K07118","COG2910R","---","---"
+"CEG1492","K07121","COG3107R","---","---"
+"CEG1493","K07122","COG3113R","---","---"
+"CEG1494","K07127","COG2351R","5-hydroxyisourate hydrolase","[EC:3.5.2.17]"
+"CEG1495","K07130","COG1878R","---","---"
+"CEG1496","K07133","COG1373R","---","---"
+"CEG1497","K07149","COG2364S","---","---"
+"CEG1498","K07154","COG3550R","---","---"
+"CEG1499","K07164","COG1579R","---","---"
+"CEG1500","K07170","COG1956T","GAF domain-containing protein","---"
+"CEG1501","K07172","COG2336T","---","---"
+"CEG1502","K07183","COG3707T","response regulator NasT","---"
+"CEG1503","K07184","COG3103T","SH3 domain protein","---"
+"CEG1504","K07213","COG2608P","---","---"
+"CEG1505","K07214","COG2382P","enterochelin esterase and related enzymes","---"
+"CEG1506","K07241","COG3376P","high-affinity nickel-transport protein","---"
+"CEG1507","K07245","COG3336S","putative copper resistance protein D","---"
+"CEG1508","K07254","COG1418R","hypothetical protein","---"
+"CEG1509","K07263","COG0612R","zinc protease","[EC:3.4.99.-]"
+"CEG1510","K07270","COG3306M","glycosyl transferase, family 25","---"
+"CEG1511","K07278","COG0729M","outer membrane protein","---"
+"CEG1512","K07283","COG3137M","putative salt-induced outer membrane protein","---"
+"CEG1513","K07285","COG3065M","outer membrane lipoprotein","---"
+"CEG1514","K07306","COG0243C","anaerobic dimethyl sulfoxide reductase subunit A","[EC:1.8.99.-]"
+"CEG1515","K07307","COG0437C","anaerobic dimethyl sulfoxide reductase subunit B (DMSO reductase iron- sulfur subunit)","---"
+"CEG1516","K07308","COG3302R","anaerobic dimethyl sulfoxide reductase subunit C (DMSO reductase anchor subunit)","---"
+"CEG1517","K07311","COG0437C","Tat-targeted selenate reductase subunit YnfG","---"
+"CEG1518","K07313","COG0639T","serine/threonine protein phosphatase 1","[EC:3.1.3.16]"
+"CEG1519","K07319","COG0863L","putative adenine-specific DNA-methyltransferase","[EC:2.1.1.72]"
+"CEG1520","K07322","COG2846D","regulator of cell morphogenesis and NO signaling","---"
+"CEG1521","K07341","COG3654R","death on curing protein","---"
+"CEG1522","K07343","COG3070K","DNA transformation protein and related proteins","---"
+"CEG1523","K07347","COG3188NU","outer membrane usher protein","---"
+"CEG1524","K07387","COG0501O","putative metalloprotease","[EC:3.4.24.-]"
+"CEG1525","K07389","COG2994O","cytolysin-activating lysine-acyltransferase","[EC:2.3.1.-]"
+"CEG1526","K07402","COG1975O","xanthine dehydrogenase accessory factor","---"
+"CEG1527","K07444","COG0116L","putative N6-adenine-specific DNA methylase","[EC:2.1.1.-]"
+"CEG1528","K07456","COG1193L","DNA mismatch repair protein MutS2","---"
+"CEG1529","K07467","COG2946L","phage replication initiation protein","---"
+"CEG1530","K07470","COG3449L","DNA gyrase inhibitor","---"
+"CEG1531","K07479","COG0551L","putative DNA topoisomerase","---"
+"CEG1532","K07480","COG1662L","insertion element IS1 protein InsB","---"
+"CEG1533","K07481","COG3039L","transposase, IS5 family","---"
+"CEG1534","K07486","COG3547L","transposase","---"
+"CEG1535","K07490","---","ferrous iron transport protein C","---"
+"CEG1536","K07507","COG1285S","putative Mg2+ transporter-C (MgtC) family protein","---"
+"CEG1537","K07533","COG0760O","foldase protein PrsA","[EC:5.2.1.8]"
+"CEG1538","K07560","COG1490J","D-tyrosyl-tRNA(Tyr) deacylase","[EC:3.1.-.-]"
+"CEG1539","K07567","COG0251J","TdcF protein","---"
+"CEG1540","K07584","COG2868J","hypothetical protein","---"
+"CEG1541","K07591","---","threonine dehydratase operon activator protein","---"
+"CEG1542","K07636","COG0642T","two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR","[EC:2.7.13.3]"
+"CEG1543","K07638","COG0642T","two-component system, OmpR family, osmolarity sensor histidine kinase EnvZ","[EC:2.7.13.3]"
+"CEG1544","K07639","COG0642T","two-component system, OmpR family, sensor histidine kinase RstB","[EC:2.7.13.3]"
+"CEG1545","K07653","COG0642T","two-component system, OmpR family, sensor histidine kinase MprB","[EC:2.7.13.3]"
+"CEG1546","K07654","COG0642T","two-component system, OmpR family, sensor histidine kinase MtrB","[EC:2.7.13.3]"
+"CEG1547","K07657","COG0745TK","two-component system, OmpR family, phosphate regulon response regulator PhoB","---"
+"CEG1548","K07659","COG0745TK","two-component system, OmpR family, phosphate regulon response regulator OmpR","---"
+"CEG1549","K07666","COG0745TK","two-component system, OmpR family, response regulator QseB","---"
+"CEG1550","K07667","COG0745TK","two-component system, OmpR family, KDP operon response regulator KdpE","---"
+"CEG1551","K07681","COG4585T","two-component system, NarL family, vancomycin resistance sensor histidine kinase VraS","[EC:2.7.13.3]"
+"CEG1552","K07682","COG2203T","two-component system, NarL family, sensor histidine kinase DevS","[EC:2.7.13.3]"
+"CEG1553","K07685","COG2197TK","two-component system, NarL family, nitrate/nitrite response regulator NarP","---"
+"CEG1554","K07722","COG0864K","CopG family transcriptional regulator, nickel-responsive regulator","---"
+"CEG1555","K07726","COG2944K","putative transcriptional regulator","---"
+"CEG1556","K07727","---","putative transcriptional regulator","---"
+"CEG1557","K07729","COG1476K","putative transcriptional regulator","---"
+"CEG1558","K07735","COG1678K","putative transcriptional regulator","---"
+"CEG1559","K07738","COG1327K","transcriptional repressor NrdR","---"
+"CEG1560","K07740","COG3160K","regulator of sigma D","---"
+"CEG1561","K07741","COG3561K","anti-repressor protein","---"
+"CEG1562","K07772","COG0745TK","two-component system, OmpR family, torCAD operon response regulator TorR","---"
+"CEG1563","K07780","COG2207K","AraC family transcriptional regulator, transcriptional regulator required for anaerobic and stationary phase induction of genes","---"
+"CEG1564","K07803","COG3678UNTP","zinc resistance-associated protein","---"
+"CEG1565","K07816","COG2357S","putative GTP pyrophosphokinase","[EC:2.7.6.5]"
+"CEG1566","K08077","---","UDP-sugar diphosphatase","[EC:3.6.1.45]"
+"CEG1567","K08092","---","3-dehydro-L-gulonate 2-dehydrogenase","[EC:1.1.1.130]"
+"CEG1568","K08167","COG0477GEPR","MFS transporter, DHA2 family, methyl viologen resistance protein SmvA","---"
+"CEG1569","K08304","COG2821M","membrane-bound lytic murein transglycosylase A","[EC:3.2.1.-]"
+"CEG1570","K08309","COG0741M","soluble lytic murein transglycosylase","[EC:3.2.1.-]"
+"CEG1571","K08310","COG0494LR","dATP pyrophosphohydrolase","[EC:3.6.1.-]"
+"CEG1572","K08311","COG0494LR","putative (di)nucleoside polyphosphate hydrolase","[EC:3.6.1.-]"
+"CEG1573","K08315","COG0680C","hydrogenase 3 maturation protease","[EC:3.4.-.-]"
+"CEG1574","K08319","COG2084I","putative dehydrogenase","[EC:1.1.-.-]"
+"CEG1575","K08324","COG1012C","aldehyde dehydrogenase family protein","[EC:1.2.1.-]"
+"CEG1576","K08346","COG1140C","nitrate reductase 2, beta subunit","[EC:1.7.99.4]"
+"CEG1577","K08363","---","mercuric ion transport protein","---"
+"CEG1578","K08485","COG1925G","phosphocarrier protein NPr","---"
+"CEG1579","K08567","COG0680C","hydrogenase 2 maturation protease","[EC:3.4.24.-]"
+"CEG1580","K08598","---","YopJ protease family","---"
+"CEG1581","K08680","COG0596R","2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase","[EC:4.2.99.20]"
+"CEG1582","K08693","COG0737F","3'-nucleotidase","[EC:3.1.3.6]"
+"CEG1583","K08984","COG3647S","putative membrane protein","---"
+"CEG1584","K08993","COG3776S","putative membrane protein","---"
+"CEG1585","K09001","COG2377O","anhydro-N-acetylmuramic acid kinase","[EC:2.7.1.-]"
+"CEG1586","K09007","COG1469S","hypothetical protein","---"
+"CEG1587","K09009","COG1507S","hypothetical protein","---"
+"CEG1588","K09020","COG1335Q","putative isochorismatase family protein RutB","[EC:3.-.-.-]"
+"CEG1589","K09021","COG0251J","UPF0076 protein RutC","---"
+"CEG1590","K09022","COG0251J","UPF0076 protein YjgF","---"
+"CEG1591","K09117","COG1610S","hypothetical protein","---"
+"CEG1592","K09125","COG1738S","hypothetical protein","---"
+"CEG1593","K09160","COG2983S","hypothetical protein","---"
+"CEG1594","K09680","COG5146H","type II pantothenate kinase","[EC:2.7.1.33]"
+"CEG1595","K09686","COG0842V","antibiotic transport system permease protein","---"
+"CEG1596","K09687","COG1131V","antibiotic transport system ATP-binding protein","---"
+"CEG1597","K09691","COG1134GM","lipopolysaccharide transport system ATP-binding protein","---"
+"CEG1598","K09699","COG0508C","2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase)","[EC:2.3.1.168]"
+"CEG1599","K09710","---","hypothetical protein","---"
+"CEG1600","K09761","COG1385S","ribosomal RNA small subunit methyltransferase E","[EC:2.1.1.-]"
+"CEG1601","K09762","COG1481S","hypothetical protein","---"
+"CEG1602","K09771","COG1742S","hypothetical protein","---"
+"CEG1603","K09772","COG1799S","cell division inhibitor SepF","---"
+"CEG1604","K09787","COG2739S","hypothetical protein","---"
+"CEG1605","K09789","---","hypothetical protein","---"
+"CEG1606","K09790","COG2832S","hypothetical protein","---"
+"CEG1607","K09799","---","hypothetical protein","---"
+"CEG1608","K09800","COG2911S","hypothetical protein","---"
+"CEG1609","K09803","COG2929S","hypothetical protein","---"
+"CEG1610","K09804","COG2952S","hypothetical protein","---"
+"CEG1611","K09805","COG2958S","hypothetical protein","---"
+"CEG1612","K09806","---","hypothetical protein","---"
+"CEG1613","K09820","COG1121P","manganese/iron transport system ATP-binding protein","---"
+"CEG1614","K09824","---","hypothetical protein","---"
+"CEG1615","K09861","COG3022S","hypothetical protein","---"
+"CEG1616","K09895","COG3079S","hypothetical protein","---"
+"CEG1617","K09897","COG3085S","hypothetical protein","---"
+"CEG1618","K09899","---","hypothetical protein","---"
+"CEG1619","K09901","---","hypothetical protein","---"
+"CEG1620","K09904","COG3082S","hypothetical protein","---"
+"CEG1621","K09917","COG3140S","hypothetical protein","---"
+"CEG1622","K09918","COG3141S","hypothetical protein","---"
+"CEG1623","K09920","COG3151S","hypothetical protein","---"
+"CEG1624","K09923","COG3171S","hypothetical protein","---"
+"CEG1625","K09931","COG3222S","hypothetical protein","---"
+"CEG1626","K09933","COG3228S","hypothetical protein","---"
+"CEG1627","K09935","COG3236S","hypothetical protein","---"
+"CEG1628","K09936","COG3238S","hypothetical protein","---"
+"CEG1629","K09937","COG3242S","hypothetical protein","---"
+"CEG1630","K09940","COG3296S","hypothetical protein","---"
+"CEG1631","K09946","COG3422S","hypothetical protein","---"
+"CEG1632","K09956","COG3553S","hypothetical protein","---"
+"CEG1633","K09961","COG3567S","hypothetical protein","---"
+"CEG1634","K09973","COG3735S","hypothetical protein","---"
+"CEG1635","K09975","COG3758S","hypothetical protein","---"
+"CEG1636","K09979","COG3787S","hypothetical protein","---"
+"CEG1637","K09997","COG0834ET","arginine transport system substrate-binding protein","---"
+"CEG1638","K10000","COG4161E","arginine transport system ATP-binding protein","[EC:3.6.3.-]"
+"CEG1639","K10002","COG0765E","glutamate/aspartate transport system permease protein","---"
+"CEG1640","K10004","COG1126E","glutamate/aspartate transport system ATP-binding protein","[EC:3.6.3.-]"
+"CEG1641","K10009","COG0765E","cystine transport system permease protein","---"
+"CEG1642","K10015","COG4160E","histidine transport system permease protein","---"
+"CEG1643","K10037","COG0765E","glutamine transport system permease protein","---"
+"CEG1644","K10040","COG0765E","putative glutamine transport system permease protein","---"
+"CEG1645","K10112","COG3839G","maltose/maltodextrin transport system ATP-binding protein","---"
+"CEG1646","K10230","COG3839G","sorbitol/mannitol transport system ATP-binding protein","---"
+"CEG1647","K10253","COG3805Q","DOPA 4,5-dioxygenase","[EC:1.14.99.-]"
+"CEG1648","K10537","COG1879G","L-arabinose transport system substrate-binding protein","---"
+"CEG1649","K10539","COG1129G","L-arabinose transport system ATP-binding protein","[EC:3.6.3.17]"
+"CEG1650","K10563","COG0266L","formamidopyrimidine-DNA glycosylase","[EC:3.2.2.23 4.2.99.18]"
+"CEG1651","K10710","COG0524G","fructoselysine 6-kinase","[EC:2.7.1.-]"
+"CEG1652","K10748","---","DNA replication terminus site-binding protein","---"
+"CEG1653","K10764","COG0626E","O-succinylhomoserine sulfhydrylase","[EC:2.5.1.-]"
+"CEG1654","K10773","COG0177L","endonuclease III","[EC:4.2.99.18]"
+"CEG1655","K10915","COG0156H","CAI-1 autoinducer synthase","[EC:2.3.-.-]"
+"CEG1656","K10921","COG3710K","cholera toxin transcriptional activator","---"
+"CEG1657","K10929","---","cholera enterotoxin subunit B","---"
+"CEG1658","K10934","COG1459NU","toxin co-regulated pilus biosynthesis protein E","---"
+"CEG1659","K10935","---","toxin co-regulated pilus biosynthesis protein F","---"
+"CEG1660","K10964","---","toxin co-regulated pilus biosynthesis protein S","---"
+"CEG1661","K11039","---","delta-hemolysin","---"
+"CEG1662","K11065","COG2077O","thiol peroxidase, atypical 2-Cys peroxiredoxin","[EC:1.11.1.15]"
+"CEG1663","K11066","COG3023V","N-acetylmuramoyl-L-alanine amidase","[EC:3.5.1.28]"
+"CEG1664","K11103","COG1301C","aerobic C4-dicarboxylate transport protein","---"
+"CEG1665","K11178","COG1319C","xanthine dehydrogenase YagS FAD-binding subunit","[EC:1.17.1.4]"
+"CEG1666","K11202","COG1445G","PTS system, fructose-specific IIB-like component","[EC:2.7.1.69]"
+"CEG1667","K11209","COG0625O","GST-like protein","---"
+"CEG1668","K11211","COG3642T","3-deoxy-D-manno-octulosonic acid kinase","[EC:2.7.1.-]"
+"CEG1669","K11263","COG4770I","acetyl-/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein","[EC:6.3.4.14]"
+"CEG1670","K11386","---","arabinosyltransferase B","[EC:2.4.2.-]"
+"CEG1671","K11387","---","arabinosyltransferase C","[EC:2.4.2.-]"
+"CEG1672","K11533","COG0304IQ","fatty acid synthase, bacteria type","[EC:2.3.1.-]"
+"CEG1673","K11631","COG1136V","bacitracin transport system ATP-binding protein","---"
+"CEG1674","K11693","COG2348V","peptidoglycan pentaglycine glycine transferase (the first glycine)","[EC:2.3.2.-]"
+"CEG1675","K11694","COG2348V","peptidoglycan pentaglycine glycine transferase (the second and third glycine)","[EC:2.3.2.-]"
+"CEG1676","K11695","COG2348V","peptidoglycan pentaglycine glycine transferase (the fourth and fifth glycine)","[EC:2.3.2.-]"
+"CEG1677","K11742","COG2076P","spermidine export protein MdtI","---"
+"CEG1678","K11747","COG0475P","glutathione-regulated potassium-efflux system protein KefB","---"
+"CEG1679","K11896","COG3519S","type VI secretion system protein ImpG","---"
+"CEG1680","K11903","COG3157S","type VI secretion system secreted protein Hcp","---"
+"CEG1681","K11924","COG1321K","DtxR family transcriptional regulator, manganese transport regulator","---"
+"CEG1682","K12050","---","ComB8 competence protein","---"
+"CEG1683","K12140","COG4237C","hydrogenase-4 component E","[EC:1.-.-.-]"
+"CEG1684","K12141","COG0651CP","hydrogenase-4 component F","[EC:1.-.-.-]"
+"CEG1685","K12147","---","acidic protein MsyB","---"
+"CEG1686","K12262","---","cytochrome b561","---"
+"CEG1687","K12371","COG0444EP","dipeptide transport system ATP-binding protein","---"
+"CEG1688","K12372","COG4608E","dipeptide transport system ATP-binding protein","---"
+"CEG1689","K12428","COG0318IQ","fatty acid CoA ligase FadD32","---"
+"CEG1690","K12429","COG0318IQ","fatty acid CoA ligase FadD36","---"
+"CEG1691","K12434","COG3321Q","polyketide synthase 7","---"
+"CEG1692","K12435","COG3321Q","polyketide synthase 8","---"
+"CEG1693","K12437","COG3319Q","polyketide synthase 13","---"
+"CEG1694","K12439","COG3321Q","polyketide synthase 17","---"
+"CEG1695","K12529","COG1319C","putative selenate reductase FAD-binding subunit","---"
+"CEG1696","K12552","COG0768M","penicillin-binding protein 1","[EC:3.4.-.-]"
+"CEG1697","K12556","COG0768M","penicillin-binding protein 2X","[EC:2.3.2.-]"
+"CEG1698","K12583","COG0438M","phosphatidylinositol alpha 1,6-mannosyltransferase","[EC:2.4.1.-]"
+"CEG1699","K12661","COG4948MR","L-rhamnonate dehydratase","[EC:4.2.1.90]"
+"CEG1700","K12972","COG0111HE","gyoxylate/hydroxypyruvate reductase A","[EC:1.1.1.79 1.1.1.81]"
+"CEG1701","K12978","---","lipid A 4'-phosphatase","[EC:3.1.3.-]"
+"CEG1702","K13005","COG0463M","abequosyltransferase","[EC:2.4.1.-]"
+"CEG1703","K13256","COG3223S","protein PsiE","---"
+"CEG1704","K13301","---","secretion monitor","---"
+"CEG1705","K13483","COG2080C","xanthine dehydrogenase YagT iron-sulfur-binding subunit","---"
+"CEG1706","K13542","COG0007H","uroporphyrinogen III methyltransferase / synthase","[EC:2.1.1.107 4.2.1.75]"
+"CEG1707","K13570","---","prokaryotic ubiquitin-like protein Pup","---"
+"CEG1708","K13620","COG2148M","putative colanic acid polymerase","---"
+"CEG1709","K13632","COG2207K","AraC family transcriptional regulator, multiple antibiotic resistance protein MarA","---"
+"CEG1710","K13638","COG0789K","MerR family transcriptional regulator, Zn(II)-responsive regulator of zntA","---"
+"CEG1711","K13639","COG0789K","MerR family transcriptional regulator, redox-sensitive transcriptional activator SoxR","---"
+"CEG1712","K13655","COG1396K","HTH-type transcriptional regulator / antitoxin for MqsR toxin","---"
+"CEG1713","K13668","COG0438M","phosphatidylinositol alpha-1,6-mannosyltransferase","[EC:2.4.1.-]"
+"CEG1714","K13686","---","arabinofuranosyltransferase","[EC:2.4.2.-]"
+"CEG1715","K13687","---","arabinofuranosyltransferase","[EC:2.4.2.-]"
+"CEG1716","K13693","COG0463M","glucosyl-3-phosphoglycerate synthase","[EC:2.4.1.-]"
+"CEG1717","K13695","COG0791M","probable lipoprotein NlpC","---"
+"CEG1718","K13787","COG0142H","geranylgeranyl diphosphate synthase, type I","[EC:2.5.1.1 2.5.1.10 2.5.1.29]"
+"CEG1719","K13794","COG0583K","LysR family transcriptional regulator, regulatory protein for tcuABC","---"
+"CEG1720","K13819","COG1251C","NifU-like protein","---"
+"CEG1721","K13889","COG0747E","glutathione transport system substrate-binding protein","---"
+"CEG1722","K13895","COG4239R","microcin C transport system permease protein","---"
+"CEG1723","K13940","COG0801H","dihydroneopterin aldolase / 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase","[EC:4.1.2.25 2.7.6.3]"
+"CEG1724","K13941","COG0801H","2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase / dihydropteroate synthase","[EC:2.7.6.3 2.5.1.15]"
+"CEG1725","K13953","COG1064R","alcohol dehydrogenase, propanol-preferring","[EC:1.1.1.1]"
+"CEG1726","K14058","COG0037D","tRNA 2-thiocytidine biosynthesis protein TtcA","---"
+"CEG1727","K14062","COG3203M","outer membrane protein N","---"
+"CEG1728","K14064","COG0589T","universal stress protein C","---"
+"CEG1729","K14136","COG0382H","phosphoribose diphosphate:decaprenyl-phosphate phosphoribosyltransferase","---"
+"CEG1730","K14159","COG0328L","ribonuclease HI / DNA polymerase III subunit epsilon","[EC:3.1.26.4 2.7.7.7]"
+"CEG1731","K14188","COG0236IQ","D-alanine--poly(phosphoribitol) ligase subunit 2","[EC:6.1.1.13]"
+"CEG1732","K14205","COG2898S","phosphatidylglycerol lysyltransferase","[EC:2.3.2.3]"
+"CEG1733","K14215","COG0020I","trans,polycis-decaprenyl diphosphate synthase","[EC:2.5.1.86]"
+"CEG1734","K14260","COG0436E","alanine-synthesizing transaminase","[EC:2.6.1.66 2.6.1.2]"
+"CEG1735","K14337","---","alpha-1,6-mannosyltransferase","[EC:2.4.1.-]"
+"CEG1736","K14339","---","alpha-1,6-mannosyltransferase","[EC:2.4.1.-]"
+"CEG1737","K14392","COG4145H","sodium/pantothenate symporter","---"
+"CEG1738","K14441","COG0621J","ribosomal protein S12 methylthiotransferase","[EC:2.-.-.-]"
+"CEG1739","K14698","COG1132V","ATP-binding cassette, subfamily B, bacterial IrtA","[EC:3.6.3.-]"
+"CEG1740","K14699","COG1132V","ATP-binding cassette, subfamily B, bacterial IrtB","[EC:3.6.3.-]"
+"CEG1741","K14743","COG1404O","membrane-anchored mycosin MYCP","[EC:3.4.21.-]"
+"CEG1742","---","---","ACIAD0645",
+"CEG1743","---","---","ACIAD0941",
+"CEG1744","---","---","ACIAD1000",
+"CEG1745","---","---","ACIAD1223",
+"CEG1746","---","---","ACIAD1233",
+"CEG1747","---","---","ACIAD1326",
+"CEG1748","---","---","ACIAD1848",
+"CEG1749","---","---","ACIAD1857",
+"CEG1750","---","---","ACIAD1859",
+"CEG1751","---","---","ACIAD1893",
+"CEG1752","---","---","ACIAD1894",
+"CEG1753","---","---","ACIAD1965",
+"CEG1754","---","---","ACIAD2107",
+"CEG1755","---","---","ACIAD2139",
+"CEG1756","---","---","ACIAD2143",
+"CEG1757","---","---","ACIAD2190",
+"CEG1758","---","---","ACIAD2481",
+"CEG1759","---","---","ACIAD2482",
+"CEG1760","---","---","ACIAD2483",
+"CEG1761","---","---","ACIAD2711",
+"CEG1762","---","---","ACIAD2851",
+"CEG1763","---","---","ACIAD2981",
+"CEG1764","---","---","ACIAD3020",
+"CEG1765","---","---","ACIAD3394",
+"CEG1766","---","---","ACIAD3524",
+"CEG1767","---","---","addB",
+"CEG1768","---","---","b1472",
+"CEG1769","---","---","b1578",
+"CEG1770","---","---","b2854",
+"CEG1771","---","---","bA0001",
+"CEG1772","---","---","bA0002",
+"CEG1773","---","---","bcsB",
+"CEG1774","---","---","bgl-truncati",
+"CEG1775","---","COG0028EH","essQ",
+"CEG1776","---","COG0036G","SP_1616",
+"CEG1777","---","COG0038P","HI0633",
+"CEG1778","---","COG0042J","SA0085",
+"CEG1779","---","COG0048J","rpsL",
+"CEG1780","---","COG0049J","rpsG",
+"CEG1781","---","COG0053P","spr1411",
+"CEG1782","---","COG0060J","ileS",
+"CEG1783","---","COG0069E","ACIAD2525",
+"CEG1784","---","COG0074C","yahF",
+"CEG1785","---","COG0078E","argF",
+"CEG1786","---","COG0079E","cobC",
+"CEG1787","---","COG0081J","rplA",
+"CEG1788","---","COG0085K","rpoB",
+"CEG1789","---","COG0086K","rpoC",
+"CEG1790","---","COG0089J","rplW",
+"CEG1791","---","COG0090J","rplB",
+"CEG1792","---","COG0092J","rpsC",
+"CEG1793","---","COG0095H","SAOUHSC_0057",
+"CEG1794","---","COG0096J","rpsH",
+"CEG1795","---","COG0099J","rpsM",
+"CEG1796","---","COG0102J","rplM",
+"CEG1797","---","COG0111HE","serA",
+"CEG1798","---","COG0113H","ydhR",
+"CEG1799","---","COG0125F","tmk/tdk",
+"CEG1800","---","COG0142H","yqiD",
+"CEG1801","---","COG0172J","Rv2827c",
+"CEG1802","---","COG0174E","ybjP",
+"CEG1803","---","COG0179Q","ycgM",
+"CEG1804","---","COG0188L","parC",
+"CEG1805","---","COG0206D","ftsZ",
+"CEG1806","---","COG0217S","yebC",
+"CEG1807","---","COG0219J","cspR",
+"CEG1808","---","COG0244J","rplJ",
+"CEG1809","---","COG0247C","Rv0338c",
+"CEG1810","---","COG0248FP","Rv1026",
+"CEG1811","---","COG0256J","rplR",
+"CEG1812","---","COG0267J","rpmGA/rpmG",
+"CEG1813","---","COG0268J","rpsT",
+"CEG1814","---","COG0277C","Rv3790",
+"CEG1815","---","COG0294H","folP-B/folP-",
+"CEG1816","---","COG0296G","STM1560",
+"CEG1817","---","COG0305L","dnaC",
+"CEG1818","---","COG0318IQ","fadD30",
+"CEG1819","---","COG0319R","FTN_0749",
+"CEG1820","---","COG0327S","HP0959",
+"CEG1821","---","COG0358L","dnaG",
+"CEG1822","---","COG0360J","rpsF",
+"CEG1823","---","COG0388R","HP1481",
+"CEG1824","---","COG0391S","SAOUHSC_0078",
+"CEG1825","---","COG0392S","MYPU_4840",
+"CEG1826","---","COG0393S","ybjQ",
+"CEG1827","---","COG0395G","MYPU_0280",
+"CEG1828","---","COG0399M","SP_1837",
+"CEG1829","---","COG0402FR","HI0842",
+"CEG1830","---","COG0406G","Rv0525",
+"CEG1831","---","COG0419L","Rv1278",
+"CEG1832","---","COG0424D","yceF/maf",
+"CEG1833","---","COG0431R","MG_342",
+"CEG1834","---","COG0437C","ydhX",
+"CEG1835","---","COG0439I","accC",
+"CEG1836","---","COG0443O","Rv0312",
+"CEG1837","---","COG0458EF","STM1552",
+"CEG1838","---","COG0460E","hom",
+"CEG1839","---","COG0464O","Rv0282",
+"CEG1840","---","COG0472M","mraY",
+"CEG1841","---","COG0476H","moeW",
+"CEG1842","---","COG0480J","fusA",
+"CEG1843","---","COG0482J","trmU",
+"CEG1844","---","COG0484O","MG_200",
+"CEG1845","---","COG0491R","Rv2260",
+"CEG1846","---","COG0492O","yumC",
+"CEG1847","---","COG0494LR","ACIAD3237",
+"CEG1848","---","COG0508C","odhB",
+"CEG1849","---","COG0510M","SAOUHSC_0186",
+"CEG1850","---","COG0518F","PA14_42180",
+"CEG1851","---","COG0525J","valS",
+"CEG1852","---","COG0527E","HI1632",
+"CEG1853","---","COG0536R","obg/obgE",
+"CEG1854","---","COG0537FGR","Rv2613c",
+"CEG1855","---","COG0568K","sigA",
+"CEG1856","---","COG0578C","PA14_66000",
+"CEG1857","---","COG0593L","yfgE/hda",
+"CEG1858","---","COG0599S","HI1053",
+"CEG1859","---","COG0602O","HI1189",
+"CEG1860","---","COG0604CR","PA14_32420",
+"CEG1861","---","COG0618R","mgpA/mgpB",
+"CEG1862","---","COG0642T","VCA0565",
+"CEG1863","---","COG0651CP","mrpD",
+"CEG1864","---","COG0653U","VCA0628",
+"CEG1865","---","COG0656R","Rv2971",
+"CEG1866","---","COG0659P","ychM",
+"CEG1867","---","COG0664T","yeiL",
+"CEG1868","---","COG0665E","HI1535",
+"CEG1869","---","COG0673R","STM1133",
+"CEG1870","---","COG0682M","lgt",
+"CEG1871","---","COG0693R","MG_029",
+"CEG1872","---","COG0695O","VC1616",
+"CEG1873","---","COG0707M","murG",
+"CEG1874","---","COG0725P","HI1469",
+"CEG1875","---","COG0728R","FTN_0645",
+"CEG1876","---","COG0729M","ACIAD2403",
+"CEG1877","---","COG0735P","MG_236",
+"CEG1878","---","COG0743I","dxr",
+"CEG1879","---","COG0744M","PBP-1A",
+"CEG1880","---","COG0745TK","VCA0566",
+"CEG1881","---","COG0747E","lpqW",
+"CEG1882","---","COG0751J","glyS",
+"CEG1883","---","COG0760O","ybfN",
+"CEG1884","---","COG0761IM","yqfP/ispH",
+"CEG1885","---","COG0768M","pbpB",
+"CEG1886","---","COG0772D","rodA",
+"CEG1887","---","COG0777I","accD",
+"CEG1888","---","COG0779S","yhbC",
+"CEG1889","---","COG0780R","HI1340",
+"CEG1890","---","COG0781K","nusB",
+"CEG1891","---","COG0790R","yibG",
+"CEG1892","---","COG0791M","Rv1477",
+"CEG1893","---","COG0796M","racE",
+"CEG1894","---","COG0821I","lytB",
+"CEG1895","---","COG0822C","MG_337",
+"CEG1896","---","COG0826O","yhbV",
+"CEG1897","---","COG0843C","ybhQ",
+"CEG1898","---","COG0849D","ftsA",
+"CEG1899","---","COG0860M","cwlM",
+"CEG1900","---","COG1006P","mrpC",
+"CEG1901","---","COG1020Q","papA3",
+"CEG1903","---","COG1051F","VCA0097",
+"CEG1904","---","COG1056H","ACIAD2606",
+"CEG1905","---","COG1060HR","HP0656",
+"CEG1906","---","COG1074L","pcrA",
+"CEG1907","---","COG1077D","mreB",
+"CEG1908","---","COG1098J","SAOUHSC_0089",
+"CEG1909","---","COG1109G","yhxB",
+"CEG1910","---","COG1136V","MG_467",
+"CEG1911","---","COG1143C","hycF",
+"CEG1912","---","COG1145C","napF",
+"CEG1913","---","COG1146C","fdxC",
+"CEG1914","---","COG1167KE","Rv3722c",
+"CEG1915","---","COG1179H","HI0118",
+"CEG1916","---","COG1182I","MG_333",
+"CEG1917","---","COG1188J","SA0464",
+"CEG1918","---","COG1192D","VCA1115",
+"CEG1919","---","COG1230P","ACIAD3600",
+"CEG1920","---","COG1235R","SA0021",
+"CEG1921","---","COG1262S","ACIAD3113",
+"CEG1922","---","COG1297S","HI0561",
+"CEG1923","---","COG1358J","SAOUHSC_0124",
+"CEG1924","---","COG1366T","PA14_57830",
+"CEG1925","---","COG1385S","PA14_66990",
+"CEG1926","---","COG1413C","yibA",
+"CEG1927","---","COG1418R","ymdA",
+"CEG1928","---","COG1426S","HI0367",
+"CEG1929","---","COG1434S","HI1701",
+"CEG1930","---","COG1454C","adh2",
+"CEG1931","---","COG1484L","Rv3427c",
+"CEG1932","---","COG1488H","MG_037",
+"CEG1933","---","COG1509E","HI0329",
+"CEG1934","---","COG1511S","SA0272",
+"CEG1935","---","COG1518L","Rv2817c",
+"CEG1936","---","COG1543S","Rv3031",
+"CEG1937","---","COG1564H","SAOUHSC_0119",
+"CEG1938","---","COG1593G","HI1029",
+"CEG1939","---","COG1598S","ydcQ",
+"CEG1940","---","COG1609K","STM3012",
+"CEG1941","---","COG1624S","SAOUHSC_02407",
+"CEG1942","---","COG1629P","tbpA/tbp1",
+"CEG1943","---","COG1651O","Rv2969c",
+"CEG1944","---","COG1652S","ygaU",
+"CEG1945","---","COG1659S","cfp29",
+"CEG1946","---","COG1674D","Rv0284",
+"CEG1947","---","COG1687E","HI1737",
+"CEG1948","---","COG1721R","Rv1480",
+"CEG1949","---","COG1734T","PA14_07970",
+"CEG1950","---","COG1739S","SA0703",
+"CEG1951","---","COG1757C","VC1131",
+"CEG1952","---","COG1764O","VCA1006",
+"CEG1953","---","COG1792M","mreC",
+"CEG1954","---","COG1802K","PA14_44780",
+"CEG1955","---","COG1819GC","Rv2739c",
+"CEG1956","---","COG1835I","HI0391",
+"CEG1957","---","COG1846K","VC1278",
+"CEG1958","---","COG1878R","ACIAD1812",
+"CEG1959","---","COG1928O","Rv1002c",
+"CEG1960","---","COG1940KG","spr1950",
+"CEG1961","---","COG1974KT","ymfK",
+"CEG1962","---","COG2010C","nirC",
+"CEG1963","---","COG2025C","ydiR",
+"CEG1964","---","COG2067I","ACIAD2788",
+"CEG1965","---","COG2105S","ytfP",
+"CEG1966","---","COG2120S","yaiS",
+"CEG1967","---","COG2128S","ynjA",
+"CEG1968","---","COG2148M","SP_1838",
+"CEG1969","---","COG2151R","Rv1466",
+"CEG1970","---","COG2171E","ykuQ",
+"CEG1971","---","COG2188K","VCA0600",
+"CEG1972","---","COG2197TK","PA14_33920",
+"CEG1973","---","COG2199T","SAOUHSC_0076",
+"CEG1974","---","COG2208TK","ACIAD3019",
+"CEG1975","---","COG2211G","yagG",
+"CEG1976","---","COG2212P","mrpF",
+"CEG1977","---","COG2215R","HI1248",
+"CEG1978","---","COG2239P","Rv1232c",
+"CEG1979","---","COG2303E","Rv0697",
+"CEG1980","---","COG2318S","ACIAD2653",
+"CEG1981","---","COG2336T","chpS",
+"CEG1982","---","COG2348V","fmhA",
+"CEG1983","---","COG2363S","VC0897",
+"CEG1984","---","COG2367V","lpqF",
+"CEG1985","---","COG2440C","ydiT",
+"CEG1986","---","COG2453T","VC1070",
+"CEG1987","---","COG2501S","SAOUHSC_00003",
+"CEG1988","---","COG2606S","PA14_46740",
+"CEG1989","---","COG2812L","dnaX",
+"CEG1990","---","COG2823R","HI1658",
+"CEG1991","---","COG2850S","ycfD",
+"CEG1992","---","COG2862S","yqhA",
+"CEG1993","---","COG2866E","ycjI/mpaA",
+"CEG1994","---","COG2868J","MG_233",
+"CEG1995","---","COG2919D","Rv1024",
+"CEG1996","---","COG2924CO","VC0451",
+"CEG1997","---","COG2937I","PA14_61360",
+"CEG1998","---","COG2949S","ygjQ",
+"CEG1999","---","COG2964S","HI0575",
+"CEG2000","---","COG2966S","HI0108",
+"CEG2001","---","COG2979S","yebE",
+"CEG2002","---","COG3021S","yafD",
+"CEG2003","---","COG3038C","STM1253",
+"CEG2004","---","COG3041S","HI0711",
+"CEG2005","---","COG3055S","HI0148",
+"CEG2006","---","COG3059S","VC1587",
+"CEG2007","---","COG3063NU","VCA1106",
+"CEG2008","---","COG3087D","VC2676",
+"CEG2009","---","COG3090G","HI1030",
+"CEG2010","---","COG3095D","mukE",
+"CEG2011","---","COG3098S","VC0887",
+"CEG2012","---","COG3108S","ycbK",
+"CEG2013","---","COG3110S","VC1853",
+"CEG2014","---","COG3116D","ftsL",
+"CEG2015","---","COG3145L","VCA0961",
+"CEG2016","---","COG3209M","rhsE",
+"CEG2017","---","COG3212S","VC1637",
+"CEG2018","---","COG3226S","ybjK",
+"CEG2019","---","COG3237S","SA0772",
+"CEG2020","---","COG3267U","Rv2813",
+"CEG2021","---","COG3281G","Rv0127",
+"CEG2022","---","COG3307M","HI0874",
+"CEG2023","---","COG3309S","vapD",
+"CEG2024","---","COG3311K","VC1809",
+"CEG2025","---","COG3323S","ACIAD2609",
+"CEG2026","---","COG3346S","Rv2235",
+"CEG2027","---","COG3391S","yncE",
+"CEG2028","---","COG3421S","HI1054",
+"CEG2029","---","COG3429G","opcA",
+"CEG2030","---","COG3434T","VC0515",
+"CEG2031","---","COG3539NU","yehD",
+"CEG2032","---","COG3585H","PA14_19590",
+"CEG2033","---","COG3586S","HI1375",
+"CEG2034","---","COG3617K","HI1418",
+"CEG2035","---","COG3637M","HI1457",
+"CEG2036","---","COG3657S","HI1419",
+"CEG2037","---","COG3692S","HI0080",
+"CEG2038","---","COG3712PT","PA14_37420",
+"CEG2039","---","COG3756S","ydaU",
+"CEG2040","---","COG3765M","HI0109",
+"CEG2041","---","COG3778S","HI1521",
+"CEG2042","---","COG3893L","HP1089",
+"CEG2043","---","COG3903R","Rv0894",
+"CEG2044","---","COG3942R","SAOUHSC_02571",
+"CEG2045","---","COG3950R","VC2386",
+"CEG2046","---","COG3955M","HI1244",
+"CEG2047","---","COG4112R","SAOUHSC_01782",
+"CEG2048","---","COG4118D","Rv2830c",
+"CEG2049","---","COG4121S","HI1534",
+"CEG2050","---","COG4197S","ydaS",
+"CEG2051","---","COG4224S","SA1176",
+"CEG2052","---","COG4243S","Rv2968c",
+"CEG2053","---","COG4245R","yegL",
+"CEG2054","---","COG4293S","Rv2828c",
+"CEG2055","---","COG4327S","VC2704",
+"CEG2056","---","COG4338S","VC1389",
+"CEG2057","---","COG4386R","HI1511",
+"CEG2058","---","COG4397R","HI1505",
+"CEG2059","---","COG4398S","Rv0628c",
+"CEG2060","---","COG4399S","ACIAD1103",
+"CEG2061","---","COG4453S","VCA0482",
+"CEG2062","---","COG4454P","VCA0261",
+"CEG2063","---","COG4481S","SAOUHSC_00345",
+"CEG2064","---","COG4487S","MG_148",
+"CEG2065","---","COG4519S","VC2149",
+"CEG2066","---","COG4533R","VCA0578",
+"CEG2067","---","COG4536P","yfjD",
+"CEG2068","---","COG4568K","VCA0948",
+"CEG2069","---","COG4608E","MYPU_2560",
+"CEG2070","---","COG4623M","t1378",
+"CEG2071","---","COG4635CH","hemG",
+"CEG2072","---","COG4679S","HI0660",
+"CEG2073","---","COG4701S","HI0907",
+"CEG2074","---","COG4718S","PA14_08250",
+"CEG2075","---","COG4825S","Rv1697",
+"CEG2076","---","COG4839D","SAOUHSC_01144",
+"CEG2077","---","COG4856S","SA1966",
+"CEG2078","---","COG4886S","sspH2",
+"CEG2079","---","COG4942D","HI0756",
+"CEG2080","---","COG4947S","spr0788",
+"CEG2081","---","COG4948MR","STM2273",
+"CEG2082","---","COG5001T","ACIAD3099",
+"CEG2083","---","COG5005R","HI1568",
+"CEG2084","---","COG5266P","HI1427",
+"CEG2085","---","COG5271R","SAOUHSC_01501",
+"CEG2086","---","COG5305S","STM1637",
+"CEG2087","---","COG5339S","ydgA",
+"CEG2088","---","COG5413S","HI0120",
+"CEG2089","---","COG5453S","VCA0562",
+"CEG2090","---","COG5464S","yfaD",
+"CEG2091","---","COG5503S","SAOUHSC_01036",
+"CEG2092","---","COG5507S","ybaA",
+"CEG2093","---","COG5557C","hybB",
+"CEG2094","---","COG5651N","HP0289",
+"CEG2095","---","---","comA",
+"CEG2096","---","---","comB",
+"CEG2097","---","---","comC",
+"CEG2098","---","---","comD",
+"CEG2099","---","---","elbA/iraM",
+"CEG2100","---","---","fimV",
+"CEG2101","---","---","FTN_0026",
+"CEG2102","---","---","FTN_0134",
+"CEG2103","---","---","FTN_0160",
+"CEG2104","---","---","FTN_0314",
+"CEG2105","---","---","FTN_0324",
+"CEG2106","---","---","FTN_0356",
+"CEG2107","---","---","FTN_0370",
+"CEG2108","---","---","FTN_0371",
+"CEG2109","---","---","FTN_0381",
+"CEG2110","---","---","FTN_0450",
+"CEG2111","---","---","FTN_0478",
+"CEG2112","---","---","FTN_0480",
+"CEG2113","---","---","FTN_0491",
+"CEG2114","---","---","FTN_0510",
+"CEG2115","---","---","FTN_0521",
+"CEG2116","---","---","FTN_0547",
+"CEG2117","---","---","FTN_0575",
+"CEG2118","---","---","FTN_0610",
+"CEG2119","---","---","FTN_0719",
+"CEG2120","---","---","FTN_0724",
+"CEG2121","---","---","FTN_0775",
+"CEG2122","---","---","FTN_0783",
+"CEG2123","---","---","FTN_0837",
+"CEG2124","---","---","FTN_0864",
+"CEG2125","---","---","FTN_0886",
+"CEG2126","---","---","FTN_0890",
+"CEG2127","---","---","FTN_0903",
+"CEG2128","---","---","FTN_0924",
+"CEG2129","---","---","FTN_0941",
+"CEG2130","---","---","FTN_0942",
+"CEG2131","---","---","FTN_0944",
+"CEG2132","---","---","FTN_1037",
+"CEG2133","---","---","FTN_1122",
+"CEG2134","---","---","FTN_1163",
+"CEG2135","---","---","FTN_1167",
+"CEG2136","---","---","FTN_1183",
+"CEG2137","---","---","FTN_1184",
+"CEG2138","---","---","FTN_1193",
+"CEG2139","---","---","FTN_1244",
+"CEG2140","---","---","FTN_1269",
+"CEG2141","---","---","FTN_1297",
+"CEG2142","---","---","FTN_1301",
+"CEG2143","---","---","FTN_1369",
+"CEG2144","---","---","FTN_1495",
+"CEG2145","---","---","FTN_1747",
+"CEG2146","---","---","FTN_1751",
+"CEG2147","---","---","FTN_A0001",
+"CEG2148","---","---","FTN_A0002",
+"CEG2149","---","---","HI0040",
+"CEG2150","---","---","HI0077",
+"CEG2151","---","---","HI0096",
+"CEG2152","---","---","HI0134",
+"CEG2153","---","---","HI0205",
+"CEG2154","---","---","HI0352",
+"CEG2155","---","---","HI0400",
+"CEG2156","---","---","HI0418",
+"CEG2157","---","---","HI0467",
+"CEG2158","---","---","HI0650",
+"CEG2159","---","---","HI0677",
+"CEG2160","---","---","HI0687",
+"CEG2161","---","---","HI0688",
+"CEG2162","---","---","HI0825",
+"CEG2163","---","---","HI0849m",
+"CEG2164","---","---","HI0855",
+"CEG2165","---","---","HI0858",
+"CEG2166","---","---","HI0870",
+"CEG2167","---","---","HI0976",
+"CEG2168","---","---","HI1249",
+"CEG2169","---","---","HI1298",
+"CEG2170","---","---","HI1386",
+"CEG2171","---","---","HI1399",
+"CEG2172","---","---","HI1413",
+"CEG2173","---","---","HI1414",
+"CEG2174","---","---","HI1436",
+"CEG2175","---","---","HI1456",
+"CEG2176","---","---","HI1480",
+"CEG2177","---","---","HI1487",
+"CEG2178","---","---","HI1626",
+"CEG2179","---","---","HI1631",
+"CEG2180","---","---","HI1643",
+"CEG2181","---","---","HI1651",
+"CEG2182","---","---","HI1718",
+"CEG2183","---","---","HI1731",
+"CEG2184","---","---","hmw1",
+"CEG2185","---","---","hmw3",
+"CEG2186","---","---","HP0007",
+"CEG2187","---","---","HP0024",
+"CEG2188","---","---","HP0028",
+"CEG2189","---","---","HP0061",
+"CEG2190","---","---","HP0065",
+"CEG2191","---","---","HP0095",
+"CEG2192","---","---","HP0122",
+"CEG2193","---","---","HP0148",
+"CEG2194","---","---","HP0188",
+"CEG2195","---","---","HP0222",
+"CEG2196","---","---","HP0242",
+"CEG2197","---","---","HP0268",
+"CEG2198","---","---","HP0272",
+"CEG2199","---","---","HP0276",
+"CEG2200","---","---","HP0288",
+"CEG2201","---","---","HP0359",
+"CEG2202","---","---","HP0386",
+"CEG2203","---","---","HP0408",
+"CEG2204","---","---","HP0419",
+"CEG2205","---","---","HP0445",
+"CEG2206","---","---","HP0456",
+"CEG2207","---","---","HP0466",
+"CEG2208","---","---","HP0469",
+"CEG2209","---","---","HP0488",
+"CEG2210","---","---","HP0489",
+"CEG2211","---","---","HP0505",
+"CEG2212","---","---","HP0554",
+"CEG2213","---","---","HP0573",
+"CEG2214","---","---","HP0583",
+"CEG2215","---","---","HP0586",
+"CEG2216","---","---","HP0614",
+"CEG2217","---","---","HP0641",
+"CEG2218","---","---","HP0647",
+"CEG2219","---","---","HP0664",
+"CEG2220","---","---","HP0708",
+"CEG2221","---","---","HP0729",
+"CEG2222","---","---","HP0767",
+"CEG2223","---","---","HP0811",
+"CEG2224","---","---","HP0820",
+"CEG2225","---","---","HP0849",
+"CEG2226","---","---","HP0868",
+"CEG2227","---","---","HP0880",
+"CEG2228","---","---","HP0931",
+"CEG2229","---","---","HP0932",
+"CEG2230","---","---","HP0935",
+"CEG2231","---","---","HP0963",
+"CEG2232","---","---","HP0973",
+"CEG2233","---","---","HP0984",
+"CEG2234","---","---","HP0993",
+"CEG2235","---","---","HP1055",
+"CEG2236","---","---","HP1056",
+"CEG2237","---","---","HP1057",
+"CEG2238","---","---","HP1065",
+"CEG2239","---","---","HP1070",
+"CEG2240","---","---","HP1076",
+"CEG2241","---","---","HP1085",
+"CEG2242","---","---","HP1093",
+"CEG2243","---","---","HP1127",
+"CEG2244","---","---","HP1217",
+"CEG2245","---","---","HP1219",
+"CEG2246","---","---","HP1230",
+"CEG2247","---","---","HP1234",
+"CEG2248","---","---","HP1239",
+"CEG2249","---","---","HP1289",
+"CEG2250","---","---","HP1349",
+"CEG2251","---","---","HP1359",
+"CEG2252","---","---","HP1384",
+"CEG2253","---","---","HP1388",
+"CEG2254","---","---","HP1405",
+"CEG2255","---","---","HP1436",
+"CEG2256","---","---","HP1439",
+"CEG2257","---","---","HP1449",
+"CEG2258","---","---","HP1493",
+"CEG2259","---","---","HP1518",
+"CEG2260","---","---","HP1524",
+"CEG2261","---","---","HP1531",
+"CEG2262","---","---","HP1536",
+"CEG2263","---","---","HP1546",
+"CEG2264","---","---","HP1548",
+"CEG2265","---","---","HP1566",
+"CEG2266","---","---","HP1569",
+"CEG2267","---","---","Hypothetical protein yccD",
+"CEG2268","---","---","Hypothetical protein ymcD",
+"CEG2269","---","---","lifO",
+"CEG2270","---","---","lpp20",
+"CEG2271","---","---","lppY",
+"CEG2272","---","---","lpqB",
+"CEG2273","---","---","lprB",
+"CEG2274","---","---","lsr2",
+"CEG2275","---","---","MG_028",
+"CEG2276","---","---","MG_068",
+"CEG2277","---","---","MG_074",
+"CEG2278","---","---","MG_075",
+"CEG2279","---","---","MG_076",
+"CEG2280","---","---","MG_095",
+"CEG2281","---","---","MG_101",
+"CEG2282","---","---","MG_105",
+"CEG2283","---","---","MG_117",
+"CEG2284","---","---","MG_123",
+"CEG2285","---","---","MG_129",
+"CEG2286","---","---","MG_133",
+"CEG2287","---","---","MG_135",
+"CEG2288","---","---","MG_144",
+"CEG2289","---","---","MG_147",
+"CEG2290","---","---","MG_202",
+"CEG2291","---","---","MG_211",
+"CEG2292","---","---","MG_217",
+"CEG2293","---","---","MG_219",
+"CEG2294","---","---","MG_223",
+"CEG2295","---","---","MG_241",
+"CEG2296","---","---","MG_242",
+"CEG2297","---","---","MG_243",
+"CEG2298","---","---","MG_267",
+"CEG2299","---","---","MG_296",
+"CEG2300","---","---","MG_307",
+"CEG2301","---","---","MG_309",
+"CEG2302","---","---","MG_313",
+"CEG2303","---","---","MG_314",
+"CEG2304","---","---","MG_319",
+"CEG2305","---","---","MG_320",
+"CEG2306","---","---","MG_321",
+"CEG2307","---","---","MG_331",
+"CEG2308","---","---","MG_332",
+"CEG2309","---","---","MG_338),",
+"CEG2310","---","---","MG_348",
+"CEG2311","---","---","MG_350",
+"CEG2312","---","---","MG_354",
+"CEG2313","---","---","MG_364",
+"CEG2314","---","---","MG_366",
+"CEG2315","---","---","MG_373",
+"CEG2316","---","---","MG_374",
+"CEG2317","---","---","MG_376",
+"CEG2318","---","---","MG_377",
+"CEG2319","---","---","MG_381",
+"CEG2320","---","---","MG_389",
+"CEG2321","---","---","MG_395",
+"CEG2322","---","---","MG_406",
+"CEG2323","---","---","MG_422",
+"CEG2324","---","---","MG_427",
+"CEG2325","---","---","MG_439",
+"CEG2326","---","---","MG_440",
+"CEG2327","---","---","MG_441",
+"CEG2328","---","---","MG_459",
+"CEG2329","---","---","MG055.2/MG_474",
+"CEG2330","---","---","MG141.1/MG_4",
+"CEG2331","---","---","MG210.1/MG_4",
+"CEG2332","---","---","MG218.1/MG_4",
+"CEG2333","---","---","MG323.1/MG_5",
+"CEG2334","---","---","MG350.1/MG_5",
+"CEG2335","---","---","MG384.1/MG_5",
+"CEG2336","---","---","mihF",
+"CEG2337","---","---","MYPU_0060",
+"CEG2338","---","---","MYPU_0070",
+"CEG2339","---","---","MYPU_0110",
+"CEG2340","---","---","MYPU_0240",
+"CEG2341","---","---","MYPU_1330",
+"CEG2342","---","---","MYPU_1490",
+"CEG2343","---","---","MYPU_1580",
+"CEG2344","---","---","MYPU_1760",
+"CEG2345","---","---","MYPU_2310",
+"CEG2346","---","---","MYPU_2330",
+"CEG2347","---","---","MYPU_2510",
+"CEG2348","---","---","MYPU_2820",
+"CEG2349","---","---","MYPU_3130",
+"CEG2350","---","---","MYPU_3230",
+"CEG2351","---","---","MYPU_3740",
+"CEG2352","---","---","MYPU_4070",
+"CEG2353","---","---","MYPU_4210",
+"CEG2354","---","---","MYPU_4440",
+"CEG2355","---","---","MYPU_4480",
+"CEG2356","---","---","MYPU_4760",
+"CEG2357","---","---","MYPU_4770",
+"CEG2358","---","---","MYPU_4920",
+"CEG2359","---","---","MYPU_6690",
+"CEG2360","---","---","MYPU_6700",
+"CEG2361","---","---","MYPU_7090",
+"CEG2362","---","---","MYPU_7170",
+"CEG2363","---","---","MYPU_7240",
+"CEG2364","---","---","MYPU_7430",
+"CEG2365","---","---","MYPU_7670",
+"CEG2366","---","---","MYPU_7700",
+"CEG2367","---","---","nhaD",
+"CEG2368","---","---","p110/mgpC",
+"CEG2369","---","---","p200",
+"CEG2370","---","---","p32",
+"CEG2371","---","---","PA14_00630",
+"CEG2372","---","---","PA14_06580",
+"CEG2373","---","---","PA14_06860",
+"CEG2374","---","---","PA14_08190",
+"CEG2375","---","---","PA14_14250",
+"CEG2376","---","---","PA14_15110",
+"CEG2377","---","---","PA14_20460",
+"CEG2378","---","---","PA14_27170",
+"CEG2379","---","---","PA14_28500",
+"CEG2380","---","---","PA14_29190",
+"CEG2381","---","---","PA14_29750",
+"CEG2382","---","---","PA14_31360",
+"CEG2383","---","---","PA14_34740",
+"CEG2384","---","---","PA14_35000",
+"CEG2385","---","---","PA14_35040",
+"CEG2386","---","---","PA14_36530",
+"CEG2387","---","---","PA14_36560",
+"CEG2388","---","---","PA14_36770",
+"CEG2389","---","---","PA14_36850",
+"CEG2390","---","---","PA14_38270",
+"CEG2391","---","---","PA14_41960",
+"CEG2392","---","---","PA14_42540",
+"CEG2393","---","---","PA14_43230",
+"CEG2394","---","---","PA14_44170",
+"CEG2395","---","---","PA14_46390",
+"CEG2396","---","---","PA14_47010",
+"CEG2397","---","---","PA14_48620",
+"CEG2398","---","---","PA14_50510",
+"CEG2399","---","---","PA14_52500",
+"CEG2400","---","---","PA14_53690",
+"CEG2401","---","---","PA14_56910",
+"CEG2402","---","---","PA14_57250",
+"CEG2403","---","---","PA14_58860",
+"CEG2404","---","---","PA14_61890",
+"CEG2405","---","---","PA14_63820",
+"CEG2406","---","---","PA14_67700",
+"CEG2407","---","---","PA14_71370",
+"CEG2408","---","---","PA14_71380",
+"CEG2409","---","---","PA14_72070",
+"CEG2410","---","---","pheM",
+"CEG2411","---","---","pks14",
+"CEG2412","---","---","putative DNA-binding protein",
+"CEG2413","---","---","racR",
+"CEG2414","---","---","relB protein",
+"CEG2415","---","---","RNA regulation",
+"CEG2416","---","---","rubA",
+"CEG2417","---","---","Rv0226c",
+"CEG2418","---","---","Rv0227c",
+"CEG2419","---","---","Rv0236c",
+"CEG2420","---","---","Rv0283",
+"CEG2421","---","---","Rv0289",
+"CEG2422","---","---","Rv0290",
+"CEG2423","---","---","Rv0292",
+"CEG2424","---","---","Rv0311",
+"CEG2425","---","---","Rv0347",
+"CEG2426","---","---","Rv0383c",
+"CEG2427","---","---","Rv0412c",
+"CEG2428","---","---","Rv0430",
+"CEG2429","---","---","Rv0479c",
+"CEG2430","---","---","Rv0541c",
+"CEG2431","---","---","Rv0556",
+"CEG2432","---","---","Rv0607",
+"CEG2433","---","---","Rv0635",
+"CEG2434","---","---","Rv0666",
+"CEG2435","---","---","Rv0744c",
+"CEG2436","---","---","Rv0817c",
+"CEG2437","---","---","Rv0875c",
+"CEG2438","---","---","Rv0883c",
+"CEG2439","---","---","Rv0900",
+"CEG2440","---","---","Rv0955",
+"CEG2441","---","---","Rv1126c",
+"CEG2442","---","---","Rv1128c",
+"CEG2443","---","---","Rv1303",
+"CEG2444","---","---","Rv1382",
+"CEG2445","---","---","Rv1476",
+"CEG2446","---","---","Rv1490",
+"CEG2447","---","---","Rv1610",
+"CEG2448","---","---","Rv1738",
+"CEG2449","---","---","Rv2050",
+"CEG2450","---","---","Rv2164c",
+"CEG2451","---","---","Rv2179c",
+"CEG2452","---","---","Rv2219",
+"CEG2453","---","---","Rv2283",
+"CEG2454","---","---","Rv2365c",
+"CEG2455","---","---","Rv2418c",
+"CEG2456","---","---","Rv2507",
+"CEG2457","---","---","Rv2516c",
+"CEG2458","---","---","Rv2673",
+"CEG2459","---","---","Rv2698",
+"CEG2460","---","---","Rv2700",
+"CEG2461","---","---","Rv3131",
+"CEG2462","---","---","Rv3243c",
+"CEG2463","---","---","Rv3271c",
+"CEG2464","---","---","Rv3281",
+"CEG2465","---","---","Rv3604c",
+"CEG2466","---","---","Rv3611",
+"CEG2467","---","---","Rv3635",
+"CEG2468","---","---","Rv3658c",
+"CEG2469","---","---","Rv3660c",
+"CEG2470","---","---","Rv3669",
+"CEG2471","---","---","Rv3802c",
+"CEG2472","---","---","SAOUHSC_00793",
+"CEG2473","---","---","SAOUHSC_00868",
+"CEG2474","---","---","SAOUHSC_00922",
+"CEG2475","---","---","SAOUHSC_01050",
+"CEG2476","---","---","SAOUHSC_01119",
+"CEG2477","---","---","SAOUHSC_01627",
+"CEG2478","---","---","SAOUHSC_01770",
+"CEG2479","---","---","SAOUHSC_01908",
+"CEG2480","---","---","SAOUHSC_01928",
+"CEG2481","---","---","SAOUHSC_01930",
+"CEG2482","---","---","SAOUHSC_02572",
+"CEG2483","---","---","SAOUHSC_02720",
+"CEG2484","---","---","SAOUHSC_02805",
+"CEG2485","---","---","SAOUHSC_A01041",
+"CEG2486","---","---","sinI",
+"CEG2487","---","---","SP_0122",
+"CEG2488","---","---","SP_0192",
+"CEG2489","---","---","SP_0580",
+"CEG2490","---","---","SP_1545",
+"CEG2491","---","---","spr0003",
+"CEG2492","---","---","spr0328",
+"CEG2493","---","---","spr0972",
+"CEG2494","---","---","spr1282",
+"CEG2495","---","---","spr1419",
+"CEG2496","---","---","spr1535",
+"CEG2497","---","---","spr1642",
+"CEG2498","---","---","spr1856",
+"CEG2499","---","---","spr1914",
+"CEG2500","---","---","spr1987",
+"CEG2501","---","---","STM0345",
+"CEG2502","---","---","STM0557",
+"CEG2503","---","---","STM1008.S",
+"CEG2504","---","---","STM2619",
+"CEG2505","---","---","STM2633.S",
+"CEG2506","---","---","STM2844",
+"CEG2507","---","---","t0535",
+"CEG2508","---","---","t0694",
+"CEG2509","---","---","t2621",
+"CEG2510","---","---","t3157",
+"CEG2511","---","---","t3166",
+"CEG2512","---","---","t3415",
+"CEG2513","---","---","t4531",
+"CEG2514","---","---","VC0101",
+"CEG2515","---","---","VC0102",
+"CEG2516","---","---","VC0104",
+"CEG2517","---","---","VC0109",
+"CEG2518","---","---","VC0110",
+"CEG2519","---","---","VC0138",
+"CEG2520","---","---","VC0143",
+"CEG2521","---","---","VC0176",
+"CEG2522","---","---","VC0189",
+"CEG2523","---","---","VC0193",
+"CEG2524","---","---","VC0205",
+"CEG2525","---","---","VC0255",
+"CEG2526","---","---","VC0261",
+"CEG2527","---","---","VC0292",
+"CEG2528","---","---","VC0294",
+"CEG2529","---","---","VC0313",
+"CEG2530","---","---","VC0314",
+"CEG2531","---","---","VC0375",
+"CEG2532","---","---","VC0380",
+"CEG2533","---","---","VC0387",
+"CEG2534","---","---","VC0388",
+"CEG2535","---","---","VC0479",
+"CEG2536","---","---","VC0484",
+"CEG2537","---","---","VC0491",
+"CEG2538","---","---","VC0507",
+"CEG2539","---","---","VC0555",
+"CEG2540","---","---","VC0569",
+"CEG2541","---","---","VC0572",
+"CEG2542","---","---","VC0598",
+"CEG2543","---","---","VC0621",
+"CEG2544","---","---","VC0625",
+"CEG2545","---","---","VC0669",
+"CEG2546","---","---","VC0686",
+"CEG2547","---","---","VC0707",
+"CEG2548","---","---","VC0712",
+"CEG2549","---","---","VC0713",
+"CEG2550","---","---","VC0733",
+"CEG2551","---","---","VC0735",
+"CEG2552","---","---","VC0789",
+"CEG2553","---","---","VC0871",
+"CEG2554","---","---","VC0872",
+"CEG2555","---","---","VC0877",
+"CEG2556","---","---","VC0883",
+"CEG2557","---","---","VC0885",
+"CEG2558","---","---","VC0912",
+"CEG2559","---","---","VC0933",
+"CEG2560","---","---","VC0967",
+"CEG2561","---","---","VC1007",
+"CEG2562","---","---","VC1020",
+"CEG2563","---","---","VC1030",
+"CEG2564","---","---","VC1032",
+"CEG2565","---","---","VC1072",
+"CEG2566","---","---","VC1124",
+"CEG2567","---","---","VC1175",
+"CEG2568","---","---","VC1176",
+"CEG2569","---","---","VC1187",
+"CEG2570","---","---","VC1192",
+"CEG2571","---","---","VC1221",
+"CEG2572","---","---","VC1227",
+"CEG2573","---","---","VC1246",
+"CEG2574","---","---","VC1247",
+"CEG2575","---","---","VC1262",
+"CEG2576","---","---","VC1292",
+"CEG2577","---","---","VC1310",
+"CEG2578","---","---","VC1331",
+"CEG2579","---","---","VC1351",
+"CEG2580","---","---","VC1352",
+"CEG2581","---","---","VC1357",
+"CEG2582","---","---","VC1381",
+"CEG2583","---","---","VC1383",
+"CEG2584","---","---","VC1385",
+"CEG2585","---","---","VC1387",
+"CEG2586","---","---","VC1396",
+"CEG2587","---","---","VC1404",
+"CEG2588","---","---","VC1419",
+"CEG2589","---","---","VC1449",
+"CEG2590","---","---","VC1452",
+"CEG2591","---","---","VC1468",
+"CEG2592","---","---","VC1474",
+"CEG2593","---","---","VC1479",
+"CEG2594","---","---","VC1485",
+"CEG2595","---","---","VC1489",
+"CEG2596","---","---","VC1490",
+"CEG2597","---","---","VC1506",
+"CEG2598","---","---","VC1514",
+"CEG2599","---","---","VC1518",
+"CEG2600","---","---","VC1531",
+"CEG2601","---","---","VC1538",
+"CEG2602","---","---","VC1569",
+"CEG2603","---","---","VC1586",
+"CEG2604","---","---","VC1613",
+"CEG2605","---","---","VC1642",
+"CEG2606","---","---","VC1644",
+"CEG2607","---","---","VC1648",
+"CEG2608","---","---","VC1657",
+"CEG2609","---","---","VC1705",
+"CEG2610","---","---","VC1724",
+"CEG2611","---","---","VC1728",
+"CEG2612","---","---","VC1742",
+"CEG2613","---","---","VC1801",
+"CEG2614","---","---","VC1802",
+"CEG2615","---","---","VC1803",
+"CEG2616","---","---","VC1813",
+"CEG2617","---","---","VC1830",
+"CEG2618","---","---","VC1858",
+"CEG2619","---","---","VC1881",
+"CEG2620","---","---","VC1891",
+"CEG2621","---","---","VC1908",
+"CEG2622","---","---","VC1930",
+"CEG2623","---","---","VC1943",
+"CEG2624","---","---","VC1946",
+"CEG2625","---","---","VC1948",
+"CEG2626","---","---","VC1954",
+"CEG2627","---","---","VC1969",
+"CEG2628","---","---","VC1982",
+"CEG2629","---","---","VC1988",
+"CEG2630","---","---","VC2029",
+"CEG2631","---","---","VC2034",
+"CEG2632","---","---","VC2071",
+"CEG2633","---","---","VC2102",
+"CEG2634","---","---","VC2112",
+"CEG2635","---","---","VC2147",
+"CEG2636","---","---","VC2148",
+"CEG2637","---","---","VC2151",
+"CEG2638","---","---","VC2154",
+"CEG2639","---","---","VC2158",
+"CEG2640","---","---","VC2169",
+"CEG2641","---","---","VC2170",
+"CEG2642","---","---","VC2173",
+"CEG2643","---","---","VC2189",
+"CEG2644","---","---","VC2218",
+"CEG2645","---","---","VC2219",
+"CEG2646","---","---","VC2228",
+"CEG2647","---","---","VC2313",
+"CEG2648","---","---","VC2315",
+"CEG2649","---","---","VC2317",
+"CEG2650","---","---","VC2318",
+"CEG2651","---","---","VC2321",
+"CEG2652","---","---","VC2328",
+"CEG2653","---","---","VC2331",
+"CEG2654","---","---","VC2372",
+"CEG2655","---","---","VC2375",
+"CEG2656","---","---","VC2387",
+"CEG2657","---","---","VC2410",
+"CEG2658","---","---","VC2411",
+"CEG2659","---","---","VC2449",
+"CEG2660","---","---","VC2496",
+"CEG2661","---","---","VC2509",
+"CEG2662","---","---","VC2611",
+"CEG2663","---","---","VC2639",
+"CEG2664","---","---","VC2648",
+"CEG2665","---","---","VC2680",
+"CEG2666","---","---","VC2707",
+"CEG2667","---","---","VC2752",
+"CEG2668","---","---","VC2753",
+"CEG2669","---","---","VC2754",
+"CEG2670","---","---","VCA0002",
+"CEG2671","---","---","VCA0004",
+"CEG2672","---","---","VCA0012",
+"CEG2673","---","---","VCA0015",
+"CEG2674","---","---","VCA0028",
+"CEG2675","---","---","VCA0060",
+"CEG2676","---","---","VCA0086",
+"CEG2677","---","---","VCA0089",
+"CEG2678","---","---","VCA0093",
+"CEG2679","---","---","VCA0125",
+"CEG2680","---","---","VCA0139",
+"CEG2681","---","---","VCA0143",
+"CEG2682","---","---","VCA0145",
+"CEG2683","---","---","VCA0149",
+"CEG2684","---","---","VCA0162",
+"CEG2685","---","---","VCA0186",
+"CEG2686","---","---","VCA0201",
+"CEG2687","---","---","VCA0215",
+"CEG2688","---","---","VCA0272",
+"CEG2689","---","---","VCA0273",
+"CEG2690","---","---","VCA0283",
+"CEG2691","---","---","VCA0292",
+"CEG2692","---","---","VCA0295",
+"CEG2693","---","---","VCA0296",
+"CEG2694","---","---","VCA0298",
+"CEG2695","---","---","VCA0302",
+"CEG2696","---","---","VCA0303",
+"CEG2697","---","---","VCA0304",
+"CEG2698","---","---","VCA0305",
+"CEG2699","---","---","VCA0306",
+"CEG2700","---","---","VCA0312",
+"CEG2701","---","---","VCA0315",
+"CEG2702","---","---","VCA0320",
+"CEG2703","---","---","VCA0321",
+"CEG2704","---","---","VCA0322",
+"CEG2705","---","---","VCA0329",
+"CEG2706","---","---","VCA0333",
+"CEG2707","---","---","VCA0335",
+"CEG2708","---","---","VCA0336",
+"CEG2709","---","---","VCA0339",
+"CEG2710","---","---","VCA0342",
+"CEG2711","---","---","VCA0346",
+"CEG2712","---","---","VCA0352",
+"CEG2713","---","---","VCA0353",
+"CEG2714","---","---","VCA0357",
+"CEG2715","---","---","VCA0360",
+"CEG2716","---","---","VCA0363",
+"CEG2717","---","---","VCA0364",
+"CEG2718","---","---","VCA0365",
+"CEG2719","---","---","VCA0373",
+"CEG2720","---","---","VCA0377",
+"CEG2721","---","---","VCA0381",
+"CEG2722","---","---","VCA0383",
+"CEG2723","---","---","VCA0384",
+"CEG2724","---","---","VCA0386",
+"CEG2725","---","---","VCA0390",
+"CEG2726","---","---","VCA0403",
+"CEG2727","---","---","VCA0404",
+"CEG2728","---","---","VCA0405",
+"CEG2729","---","---","VCA0407",
+"CEG2730","---","---","VCA0409",
+"CEG2731","---","---","VCA0411",
+"CEG2732","---","---","VCA0412",
+"CEG2733","---","---","VCA0418",
+"CEG2734","---","---","VCA0428",
+"CEG2735","---","---","VCA0429",
+"CEG2736","---","---","VCA0430",
+"CEG2737","---","---","VCA0433",
+"CEG2738","---","---","VCA0434",
+"CEG2739","---","---","VCA0435",
+"CEG2740","---","---","VCA0437",
+"CEG2741","---","---","VCA0438",
+"CEG2742","---","---","VCA0441",
+"CEG2743","---","---","VCA0446",
+"CEG2744","---","---","VCA0452",
+"CEG2745","---","---","VCA0453",
+"CEG2746","---","---","VCA0456",
+"CEG2747","---","---","VCA0457",
+"CEG2748","---","---","VCA0461",
+"CEG2749","---","---","VCA0462",
+"CEG2750","---","---","VCA0464",
+"CEG2751","---","---","VCA0466",
+"CEG2752","---","---","VCA0480",
+"CEG2753","---","---","VCA0486",
+"CEG2754","---","---","VCA0499",
+"CEG2755","---","---","VCA0502",
+"CEG2756","---","---","VCA0509",
+"CEG2757","---","---","VCA0515",
+"CEG2758","---","---","VCA0525",
+"CEG2759","---","---","VCA0541",
+"CEG2760","---","---","VCA0547",
+"CEG2761","---","---","VCA0548",
+"CEG2762","---","---","VCA0555",
+"CEG2763","---","---","VCA0571",
+"CEG2764","---","---","VCA0577",
+"CEG2765","---","---","VCA0598",
+"CEG2766","---","---","VCA0613",
+"CEG2767","---","---","VCA0622",
+"CEG2768","---","---","VCA0626",
+"CEG2769","---","---","VCA0652",
+"CEG2770","---","---","VCA0660",
+"CEG2771","---","---","VCA0664",
+"CEG2772","---","---","VCA0668",
+"CEG2773","---","---","VCA0672",
+"CEG2774","---","---","VCA0696",
+"CEG2775","---","---","VCA0698",
+"CEG2776","---","---","VCA0701",
+"CEG2777","---","---","VCA0713",
+"CEG2778","---","---","VCA0720",
+"CEG2779","---","---","VCA0722",
+"CEG2780","---","---","VCA0770",
+"CEG2781","---","---","VCA0771",
+"CEG2782","---","---","VCA0775",
+"CEG2783","---","---","VCA0787",
+"CEG2784","---","---","VCA0796",
+"CEG2785","---","---","VCA0797",
+"CEG2786","---","---","VCA0810",
+"CEG2787","---","---","VCA0826",
+"CEG2788","---","---","VCA0831",
+"CEG2789","---","---","VCA0841",
+"CEG2790","---","---","VCA0842",
+"CEG2791","---","---","VCA0857",
+"CEG2792","---","---","VCA0861",
+"CEG2793","---","---","VCA0874",
+"CEG2794","---","---","VCA0879",
+"CEG2795","---","---","VCA0899",
+"CEG2796","---","---","VCA0918",
+"CEG2797","---","---","VCA0932",
+"CEG2798","---","---","VCA0934",
+"CEG2799","---","---","VCA0942",
+"CEG2800","---","---","VCA0959",
+"CEG2801","---","---","VCA0971",
+"CEG2802","---","---","VCA0973",
+"CEG2803","---","---","VCA0995",
+"CEG2804","---","---","VCA1014",
+"CEG2805","---","---","VCA1022",
+"CEG2806","---","---","VCA1030",
+"CEG2807","---","---","VCA1061",
+"CEG2808","---","---","VCA1065",
+"CEG2809","---","---","VCA1076",
+"CEG2810","---","---","VCA1103",
+"CEG2811","---","---","yabQ",
+"CEG2812","---","---","yacC",
+"CEG2813","---","---","yafF",
+"CEG2814","---","---","yagV",
+"CEG2815","---","---","yahH",
+"CEG2816","---","---","ybbC",
+"CEG2817","---","---","ybcN",
+"CEG2818","---","---","ybcO",
+"CEG2819","---","---","ybfB",
+"CEG2820","---","---","ybfC",
+"CEG2821","---","---","ybjC",
+"CEG2822","---","---","ybjO",
+"CEG2823","---","---","yccJ",
+"CEG2824","---","---","ycdZ",
+"CEG2825","---","---","yceQ",
+"CEG2826","---","---","ychH",
+"CEG2827","---","---","ychS",
+"CEG2828","---","---","ydaT",
+"CEG2829","---","---","yddK",
+"CEG2830","---","---","ydfR",
+"CEG2831","---","---","ydfV",
+"CEG2832","---","---","ydiL",
+"CEG2833","---","---","ydiZ",
+"CEG2834","---","---","yebY",
+"CEG2835","---","---","yeeV",
+"CEG2836","---","---","yfdX",
+"CEG2837","---","---","yffM",
+"CEG2838","---","---","yffO",
+"CEG2839","---","---","yffS",
+"CEG2840","---","---","ygbA",
+"CEG2841","---","---","ygiZ",
+"CEG2842","---","---","yhcF",
+"CEG2843","---","---","yhhM",
+"CEG2844","---","---","yibJ",
+"CEG2845","---","---","yjbL",
+"CEG2846","---","---","yjbM",
+"CEG2847","---","---","yjbO/pspG",
+"CEG2848","---","---","yjbS",
+"CEG2849","---","---","yjeO",
+"CEG2850","---","---","yjjY",
+"CEG2851","---","---","ykfI",
+"CEG2852","---","---","ylaN",
+"CEG2853","---","---","ylbF",
+"CEG2854","---","---","ymfI",
+"CEG2855","---","---","ymfJ",
+"CEG2856","---","---","ymfT",
+"CEG2857","---","---","ynaJ",
+"CEG2858","---","---","yneG",
+"CEG2859","---","---","ynfD",
+"CEG2860","---","---","ypjF",
+"CEG2861","---","---","yqjB",
+"CEG1902","---","---","ytfI",

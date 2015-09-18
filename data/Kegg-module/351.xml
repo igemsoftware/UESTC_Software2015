@@ -1,0 +1,28 @@
+ENTRY       M00351            Complex   Module
+NAME        Spliceosome, U1-snRNP
+DEFINITION  K11086+K11087+K11096+K11088+K11097+K11098+K11099+K11093+K11091+K11095
+ORTHOLOGY   K11086  SNRPB; small nuclear ribonucleoprotein B and B'
+            K11087  SNRPD1; small nuclear ribonucleoprotein D1
+            K11096  SNRPD2; small nuclear ribonucleoprotein D2
+            K11088  SNRPD3; small nuclear ribonucleoprotein D3
+            K11097  SNRPE; small nuclear ribonucleoprotein E
+            K11098  SNRPF; small nuclear ribonucleoprotein F
+            K11099  SNRPG; small nuclear ribonucleoprotein G
+            K11093  SNRP70; U1 small nuclear ribonucleoprotein 70kDa
+            K11091  SNRPA; U1 small nuclear ribonucleoprotein A
+            K11095  SNRPC; U1 small nuclear ribonucleoprotein C
+CLASS       Structural complex; Genetic information processing; Spliceosome
+PATHWAY     map03040  Spliceosome
+BRITE       ko03041  Spliceosome
+COMMENT     Both U1-70K and U1-A have the capacity to directly bind U1-snRNA as individual molecules.
+            containing  Sm core complex [MD:M00736]
+DBLINKS     BSID: 890598
+REFERENCE   PMID:19239890
+  AUTHORS   Wahl MC, Will CL, Luhrmann R
+  TITLE     The spliceosome: design principles of a dynamic RNP machine.
+  JOURNAL   Cell 136:701-18 (2009)
+REFERENCE   PMID:19325628
+  AUTHORS   Pomeranz Krummel DA, Oubridge C, Leung AK, Li J, Nagai K
+  TITLE     Crystal structure of human spliceosomal U1 snRNP at 5.5 A resolution.
+  JOURNAL   Nature 458:475-80 (2009)
+///

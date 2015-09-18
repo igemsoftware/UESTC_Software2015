@@ -1,0 +1,38 @@
+ENTRY       M00388            Complex   Module
+NAME        ECS complex
+DEFINITION  K10611+K10612+K03872+K03873+(K04701,K04694,K04695,K04696,K04697,K04698,K10322,K04699)
+ORTHOLOGY   K10611  RBX2; RING-box protein 2
+            K10612  CUL5; cullin 5
+            K03872  TCEB1; transcription elongation factor B, polypeptide 1
+            K03873  TCEB2; transcription elongation factor B, polypeptide 2
+            K04701  CISH; cytokine inducible SH2-containing protein
+            K04694  SOCS1; suppressor of cytokine signaling 1
+            K04695  SOCS2; suppressor of cytokine signaling 2
+            K04696  SOCS3; suppressor of cytokine signaling 3
+            K04697  SOCS4; suppressor of cytokine signaling 4
+            K04698  SOCS5; suppressor of cytokine signaling 5
+            K10322  SOCS6; suppressor of cytokine signaling 6
+            K04699  SOCS7; suppressor of cytokine signaling 7
+CLASS       Structural complex; Genetic information processing; Ubiquitin system
+PATHWAY     map04120  Ubiquitin mediated proteolysis
+BRITE       ko04121  Ubiquitin system
+COMMENT     Substrate: TEL-JACK2, VAV, IRS1/2/4, EGFR
+            HIV virion infectivity factor (Vif) causes the proteasome-mediated destruction of human antiviral protein APOBEC3G by tethering it to ECV complex.
+DBLINKS     BSID: 468394
+REFERENCE   PMID:15601820
+  AUTHORS   Kamura T, Maenaka K, Kotoshiba S, Matsumoto M, Kohda D, Conaway RC, Conaway JW, Nakayama KI.
+  TITLE     VHL-box and SOCS-box domains determine binding specificity for Cul2-Rbx1 and Cul5-Rbx2 modules of ubiquitin ligases.
+  JOURNAL   Genes Dev 18:3055-65 (2004)
+REFERENCE   PMID:18562529
+  AUTHORS   Stanley BJ, Ehrlich ES, Short L, Yu Y, Xiao Z, Yu XF, Xiong Y
+  TITLE     Structural insight into the human immunodeficiency virus Vif SOCS box and its role in human E3 ubiquitin ligase assembly.
+  JOURNAL   J Virol 82:8656-63 (2008)
+REFERENCE   PMID:16322747
+  AUTHORS   Liu YC, Penninger J, Karin M
+  TITLE     Immunity by ubiquitylation: a reversible process of modification.
+  JOURNAL   Nat Rev Immunol 5:941-52 (2005)
+REFERENCE   PMID:17997974
+  AUTHORS   Bullock AN, Rodriguez MC, Debreczeni JE, Songyang Z, Knapp S
+  TITLE     Structure of the SOCS4-ElonginB/C complex reveals a distinct SOCS box interface and the molecular basis for SOCS-dependent EGFR degradation.
+  JOURNAL   Structure 15:1493-504 (2007)
+///

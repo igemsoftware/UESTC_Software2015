@@ -1,0 +1,23 @@
+ENTRY       M00239            Complex   Module
+NAME        Peptides/nickel transport system
+DEFINITION  K02035+K02033+K02034+K02031+K02032
+ORTHOLOGY   K02035  ABC.PE.S; peptide/nickel transport system substrate-binding protein
+            K02033  ABC.PE.P; peptide/nickel transport system permease protein
+            K02034  ABC.PE.P1; peptide/nickel transport system permease protein
+            K02031  ABC.PE.A; peptide/nickel transport system ATP-binding protein
+            K02032  ABC.PE.A1; peptide/nickel transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Peptide and nickel transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:1:1
+            Substrate: Peptide [CPD:C00012], Nickel [CPD:C00291]
+DBLINKS     BSID: 890505
+REFERENCE   PMID:7934931 (nickel)
+  AUTHORS   Navarro C, Wu LF, Mandrand-Berthelot MA
+  TITLE     The nik operon of Escherichia coli encodes a periplasmic binding-protein-dependent transport system for nickel.
+  JOURNAL   Mol Microbiol 9:1181-91 (1993)
+REFERENCE   PMID:2821267 (oligopeptide)
+  AUTHORS   Hiles ID, Gallagher MP, Jamieson DJ, Higgins CF.
+  TITLE     Molecular characterization of the oligopeptide permease of Salmonella typhimurium.
+  JOURNAL   J Mol Biol 195:125-42 (1987)
+///

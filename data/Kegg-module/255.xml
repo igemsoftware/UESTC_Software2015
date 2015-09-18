@@ -1,0 +1,11 @@
+ENTRY       M00255            Complex   Module
+NAME        Lipoprotein-releasing system
+DEFINITION  K09808+K09810
+ORTHOLOGY   K09808  ABC.LPT.P; lipoprotein-releasing system permease protein
+            K09810  ABC.LPT.A; lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Lipoprotein [CPD:C01834]
+DBLINKS     BSID: 890519
+///

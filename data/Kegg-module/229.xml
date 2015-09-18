@@ -1,0 +1,27 @@
+ENTRY       M00229            Complex   Module
+NAME        Arginine transport system
+DEFINITION  (K09996,K09997)+K09998+K09999+K10000
+ORTHOLOGY   K09996  artJ; arginine transport system substrate-binding protein
+            K09997  artI; arginine transport system substrate-binding protein
+            K09998  artM; arginine transport system permease protein
+            K09999  artQ; arginine transport system permease protein
+            K10000  artP; arginine transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: L-Arginine [CPD:C00062]
+DBLINKS     BSID: 468374
+REFERENCE   PMID:11421273
+  AUTHORS   Hosie AH, Poole PS.
+  TITLE     Bacterial ABC transporters of amino acids.
+  JOURNAL   Res Microbiol 152:259-70 (2001)
+REFERENCE   PMID:8801422 (L-arginine)
+  AUTHORS   Wissenbach U, Six S, Bongaerts J, Ternes D, Steinwachs S, Unden G
+  TITLE     A third periplasmic transport system for L-arginine in Escherichia coli: molecular characterization of the artPIQMJ genes, arginine binding and transport.
+  JOURNAL   Mol Microbiol 17:675-86 (1995)
+REFERENCE   PMID:9315727
+  AUTHORS   Walshaw DL, Lowthorpe S, East A, Poole PS.
+  TITLE     Distribution of a sub-class of bacterial ABC polar amino acid transporter and identification of an N-terminal region involved in solute specificity.
+  JOURNAL   FEBS Lett 414:397-401 (1997)
+///

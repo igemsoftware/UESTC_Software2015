@@ -1,0 +1,30 @@
+ENTRY       M00180            Complex   Module
+NAME        RNA polymerase II, eukaryotes
+DEFINITION  K03006+K03010+K03011+K03008+K03012+K03015+K03017+K03013+K03014+K03016+K03009+K03007
+ORTHOLOGY   K03006  RPB1; DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
+            K03010  RPB2; DNA-directed RNA polymerase II subunit RPB2 [EC:2.7.7.6]
+            K03011  RPB3; DNA-directed RNA polymerase II subunit RPB3
+            K03008  RPB11; DNA-directed RNA polymerase II subunit RPB11
+            K03012  RPB4; DNA-directed RNA polymerase II subunit RPB4
+            K03015  RPB7; DNA-directed RNA polymerase II subunit RPB7
+            K03017  RPB9; DNA-directed RNA polymerase II subunit RPB9
+            K03013  RPB5; DNA-directed RNA polymerases I, II, and III subunit RPABC1
+            K03014  RPB6; DNA-directed RNA polymerases I, II, and III subunit RPABC2
+            K03016  RPB8; DNA-directed RNA polymerases I, II, and III subunit RPABC3
+            K03009  RPB12; DNA-directed RNA polymerases I, II, and III subunit RPABC4
+            K03007  RPB10; DNA-directed RNA polymerases I, II, and III subunit RPABC5
+CLASS       Structural complex; Genetic information processing; RNA polymerase
+PATHWAY     map03020  RNA polymerase
+            map05016  Huntington's disease
+BRITE       ko03021  Transcription machinery
+            ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 890456
+REFERENCE   PMID:15196470
+  AUTHORS   Cramer P
+  TITLE     RNA polymerase II structure: from core to functional complexes.
+  JOURNAL   Curr Opin Genet Dev 14:218-26 (2004)
+REFERENCE   PMID:10784442
+  AUTHORS   Cramer P, Bushnell DA, Fu J, Gnatt AL, Maier-Davis B, Thompson NE, Burgess RR, Edwards AM, David PR, Kornberg RD.
+  TITLE     Architecture of RNA polymerase II and implications for the transcription mechanism.
+  JOURNAL   Science 288:640-649 (2000)
+///

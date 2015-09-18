@@ -1,0 +1,22 @@
+ENTRY       M00507            FuncSet   Module
+NAME        ChpA-ChpB/PilGH (chemosensory) two-component regulatory system
+DEFINITION  K06596 K02487 K02657 K02658 K06597
+ORTHOLOGY   K06596  chpA; chemosensory pili system protein, sensor histidine kinase/response regulator
+            K02487  pilL; type IV pili sensor histidine kinase/response regulator
+            K02657  pilG; twitching motility two-component system response regulator
+            K02658  pilH; twitching motility two-component system response regulator
+            K06597  chpB; chemosensory pili system, putative protein-glutamate methylesterase
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+            ko02035  Bacterial motility proteins
+DBLINKS     BSID: 565960
+REFERENCE   PMID:20008072
+  AUTHORS   Bertrand JJ, West JT, Engel JN
+  TITLE     Genetic analysis of the regulation of type IV pilus function by the Chp chemosensory system of Pseudomonas aeruginosa.
+  JOURNAL   J Bacteriol 192:994-1010 (2010)
+REFERENCE   PMID:15101991
+  AUTHORS   Whitchurch CB, Leech AJ, Young MD, Kennedy D, Sargent JL, Bertrand JJ, Semmler AB, Mellick AS, Martin PR, Alm RA, Hobbs M, Beatson SA, Huang B, Nguyen L, Commolli JC, Engel JN, Darzins A, Mattick JS.
+  TITLE     Characterization of a complex chemosensory signal transduction system which controls twitching motility in Pseudomonas aeruginosa.
+  JOURNAL   Mol Microbiol 52:873-93 (2004)
+///

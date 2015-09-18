@@ -1,0 +1,25 @@
+ENTRY       M00215            Complex   Module
+NAME        D-Xylose transport system
+DEFINITION  K10543+K10544+K10545
+ORTHOLOGY   K10543  xylF; D-xylose transport system substrate-binding protein
+            K10544  xylH; D-xylose transport system permease protein
+            K10545  xylG; D-xylose transport system ATP-binding protein [EC:3.6.3.17]
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:1
+            Substrate: D-Xylose [CPD:C00181], D-Ribose [CPD:C00121]
+DBLINKS     BSID: 890482
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:8581399 (D-xylose)
+  AUTHORS   Sumiya M, Davis EO, Packman LC, McDonald TP, Henderson PJ.
+  TITLE     Molecular genetics of a receptor protein for D-xylose, encoded by the gene xylF, in Escherichia coli.
+  JOURNAL   Receptors Channels 3:117-28 (1995)
+REFERENCE   PMID:9673030 (D-xylose, D-ribose)
+  AUTHORS   Song S, Park C.
+  TITLE     Utilization of D-ribose through D-xylose transporter.
+  JOURNAL   FEMS Microbiol Lett 163:255-61 (1998)
+///

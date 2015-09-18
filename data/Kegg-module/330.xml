@@ -1,0 +1,15 @@
+ENTRY       M00330            Complex   Module
+NAME        Adhesin protein transport system
+DEFINITION  K12541+K12542+K12543
+ORTHOLOGY   K12541  lapB; ATP-binding cassette, subfamily C, bacterial LapB
+            K12542  lapC; membrane fusion protein LapC
+            K12543  lapE; outer membrane protein LapE
+CLASS       Structural complex; Environmental information processing; Bacterial secretion system
+BRITE       ko02044  Secretion system
+COMMENT     Substrate: LapA [KO:K12549]
+DBLINKS     BSID: 890584
+REFERENCE   PMID:12890017
+  AUTHORS   Hinsa SM, Espinosa-Urgel M, Ramos JL, O'Toole GA
+  TITLE     Transition from reversible to irreversible attachment during biofilm formation by Pseudomonas fluorescens WCS365 requires an ABC transporter and a large secreted protein.
+  JOURNAL   Mol Microbiol 49:905-18 (2003)
+///

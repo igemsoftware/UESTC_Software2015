@@ -1,0 +1,14 @@
+ENTRY       M00503            FuncSet   Module
+NAME        PgtB-PgtA (phosphoglycerate transport) two-component regulatory system
+DEFINITION  K08475 K08476
+ORTHOLOGY   K08475  pgtB; NtrC family, nitrogen regulation sensor histidine kinase
+            K08476  pgtA; NtrC family, nitrogen regulation response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565956
+REFERENCE   PMID:7635815
+  AUTHORS   Niu S, Jiang SQ, Hong J
+  TITLE     Salmonella typhimurium pgtB mutants conferring constitutive expression of phosphoglycerate transporter pgtP independent of pgtC.
+  JOURNAL   J Bacteriol 177:4297-302 (1995)
+///

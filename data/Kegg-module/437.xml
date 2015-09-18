@@ -1,0 +1,17 @@
+ENTRY       M00437            Complex   Module
+NAME        Phthalate transport system
+DEFINITION  K15556+K15557+K15558
+ORTHOLOGY   K15556  ophF; phthalate transport system substrate-binding protein
+            K15557  ophG; phthalate transport system permease protein
+            K15558  ophH; phthalate transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Phthalate [CPD:C01606]
+DBLINKS     BSID: 890641
+REFERENCE   PMID:19429613 (Phthalate)
+  AUTHORS   Chang HK, Dennis JJ, Zylstra GJ
+  TITLE     Involvement of two transport systems and a specific porin in the uptake of phthalate by Burkholderia spp.
+  JOURNAL   J Bacteriol 191:4671-3 (2009)
+///

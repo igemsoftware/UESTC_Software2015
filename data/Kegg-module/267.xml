@@ -1,0 +1,12 @@
+ENTRY       M00267            Complex   Module
+NAME        PTS system, N-acetylglucosamine-specific II component
+DEFINITION  K02802+K02803+K02804
+ORTHOLOGY   K02802  PTS-Nag-EIIA; PTS system, N-acetylglucosamine-specific IIA component [EC:2.7.1.69]
+            K02803  PTS-Nag-EIIB; PTS system, N-acetylglucosamine-specific IIB component [EC:2.7.1.69]
+            K02804  PTS-Nag-EIIC; PTS system, N-acetylglucosamine-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00520  Amino sugar and nucleotide sugar metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890530
+///

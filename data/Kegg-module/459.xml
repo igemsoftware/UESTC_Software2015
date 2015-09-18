@@ -1,0 +1,22 @@
+ENTRY       M00459            FuncSet   Module
+NAME        VicK-VicR (cell wall metabolism) two-component regulatory system
+DEFINITION  K07652 K07668
+ORTHOLOGY   K07652  vicK; OmpR family, sensor histidine kinase
+            K07668  vicR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565913
+REFERENCE   PMID:17581128
+  AUTHORS   Bisicchia P, Noone D, Lioliou E, Howell A, Quigley S, Jensen T, Jarmer H, Devine KM
+  TITLE     The essential YycFG two-component system controls cell wall metabolism in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 65:180-200 (2007)
+REFERENCE   PMID:17586705
+  AUTHORS   Deng DM, Liu MJ, ten Cate JM, Crielaard W
+  TITLE     The VicRK system of Streptococcus mutans responds to oxidative stress.
+  JOURNAL   J Dent Res 86:606-10 (2007)
+REFERENCE   PMID:19019149
+  AUTHORS   Dubrac S, Bisicchia P, Devine KM, Msadek T
+  TITLE     A matter of life and death: cell wall homeostasis and the WalKR (YycGF) essential signal transduction pathway.
+  JOURNAL   Mol Microbiol 70:1307-22 (2008)
+///

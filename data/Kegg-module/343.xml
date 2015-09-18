@@ -1,0 +1,17 @@
+ENTRY       M00343            Complex   Module
+NAME        Archaeal proteasome
+DEFINITION  K03432+K03433+K03420
+ORTHOLOGY   K03432  psmA; proteasome alpha subunit [EC:3.4.25.1]
+            K03433  psmB; proteasome beta subunit [EC:3.4.25.1]
+            K03420  psmR; proteasome regulatory subunit
+CLASS       Structural complex; Genetic information processing; Proteasome
+PATHWAY     map03050  Proteasome
+BRITE       ko03051  Proteasome
+COMMENT     Core particles consist of two rings of seven alpha-subunits and two rings of seven beta-subunits.
+            Regulatory particles consist of homo-hexamers of AAA ATPases.
+DBLINKS     BSID: 890595
+REFERENCE   PMID:19483713
+  AUTHORS   Darwin KH
+  TITLE     Prokaryotic ubiquitin-like protein (Pup), proteasomes and pathogenesis.
+  JOURNAL   Nat Rev Microbiol 7:485-91 (2009)
+///

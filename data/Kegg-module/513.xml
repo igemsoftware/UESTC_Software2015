@@ -1,0 +1,26 @@
+ENTRY       M00513            FuncSet   Module
+NAME        LuxQN/CqsS-LuxU-LuxO (quorum sensing) two-component regulatory system
+DEFINITION  K10909 K10916 K10911 K10912
+ORTHOLOGY   K10909  luxQ; autoinducer 2 sensor kinase/phosphatase
+            K10916  cqsS; CAI-1 autoinducer sensor kinase/phosphatase
+            K10911  luxU; phosphorelay protein
+            K10912  luxO; repressor protein
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+            map05111  Vibrio cholerae pathogenic cycle
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Autoinducer [CPD:C16421 C16640 C11842]
+DBLINKS     BSID: 565966
+REFERENCE   PMID:16487746 (Vibrio)
+  AUTHORS   Milton DL
+  TITLE     Quorum sensing in vibrios: complexity for diversification.
+  JOURNAL   Int J Med Microbiol 296:61-71 (2006)
+REFERENCE   PMID:16212498
+  AUTHORS   Waters CM, Bassler BL
+  TITLE     Quorum sensing: cell-to-cell communication in bacteria.
+  JOURNAL   Annu Rev Cell Dev Biol 21:319-46 (2005)
+REFERENCE   PMID:15466044 (V.harveyi, V.cholerae)
+  AUTHORS   Henke JM, Bassler BL
+  TITLE     Three parallel quorum-sensing systems regulate gene expression in Vibrio harveyi.
+  JOURNAL   J Bacteriol 186:6902-14 (2004)
+///

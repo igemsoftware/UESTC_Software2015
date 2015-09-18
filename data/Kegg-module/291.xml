@@ -1,0 +1,16 @@
+ENTRY       M00291            Complex   Module
+NAME        MRN complex
+DEFINITION  K10865+K10866+K10867
+ORTHOLOGY   K10865  MRE11; double-strand break repair protein MRE11
+            K10866  RAD50; DNA repair protein RAD50
+            K10867  NBN, NBS1; nijmegen breakage syndrome protein 1
+CLASS       Structural complex; Genetic information processing; Repair system
+PATHWAY     map03440  Homologous recombination
+BRITE       ko03032  DNA replication proteins
+            ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 890552
+REFERENCE   PMID:17713585
+  AUTHORS   Williams RS, Williams JS, Tainer JA.
+  TITLE     Mre11-Rad50-Nbs1 is a keystone complex connecting DNA repair machinery, double-strand break signaling, and the chromatin template.
+  JOURNAL   Biochem Cell Biol 85:509-20 (2007)
+///

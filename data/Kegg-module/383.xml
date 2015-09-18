@@ -1,0 +1,24 @@
+ENTRY       M00383            Complex   Module
+NAME        ECV complex
+DEFINITION  K03868+K03870+K03872+K03873+K03871
+ORTHOLOGY   K03868  RBX1; RING-box protein 1
+            K03870  CUL2; cullin 2
+            K03872  TCEB1; transcription elongation factor B, polypeptide 1
+            K03873  TCEB2; transcription elongation factor B, polypeptide 2
+            K03871  VHL; von Hippel-Lindau disease tumor supressor
+CLASS       Structural complex; Genetic information processing; Ubiquitin system
+PATHWAY     map04120  Ubiquitin mediated proteolysis
+            map05211  Renal cell carcinoma
+BRITE       ko04121  Ubiquitin system
+COMMENT     Substrate: HIF1/2, VDU1/2,  PKC
+            NEDD8 increases the activity of ECV to ubiquitylate HIF.
+DBLINKS     BSID: 890606
+REFERENCE   PMID:17132228
+  AUTHORS   Sufan RI, Ohh M
+  TITLE     Role of the NEDD8 modification of Cul2 in the sequential activation of ECV complex.
+  JOURNAL   Neoplasia 8:956-63 (2006)
+REFERENCE   PMID:10205047
+  AUTHORS   Stebbins CE, Kaelin WG Jr, Pavletich NP
+  TITLE     Structure of the VHL-ElonginC-ElonginB complex: implications for VHL tumor suppressor function.
+  JOURNAL   Science 284:455-61 (1999)
+///

@@ -1,0 +1,25 @@
+ENTRY       M00318            Complex   Module
+NAME        Iron/zinc/copper transport system
+DEFINITION  K11704+K11705+K11706
+ORTHOLOGY   K11704  mtsA; iron/zinc/copper transport system substrate-binding protein
+            K11705  mtsB; iron/zinc/copper transport system permease protein
+            K11706  mtsC; iron/zinc/copper transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Metallic cation, iron-siderophore and vitamin B12 transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Fe2+ [CPD:C14818], Manganese [CPD:C00034], Fe3+ [CPD:C14819], Zinc [CPD:C00038]
+DBLINKS     BSID: 890572
+REFERENCE   PMID:18364240 (ferrous iron)
+  AUTHORS   Sun X, Ge R, Chiu JF, Sun H, He QY
+  TITLE     Lipoprotein MtsA of MtsABC in Streptococcus pyogenes primarily binds ferrous ion with bicarbonate as a synergistic anion.
+  JOURNAL   FEBS Lett 582:1351-4 (2008)
+REFERENCE   PMID:12704140 (ferric iron, manganese)
+  AUTHORS   Janulczyk R, Ricci S, Bjorck L
+  TITLE     MtsABC is important for manganese and iron transport, oxidative stress resistance, and virulence of Streptococcus pyogenes.
+  JOURNAL   Infect Immun 71:2656-64 (2003)
+REFERENCE   PMID:10564500 (ferric iron, zinc)
+  AUTHORS   Janulczyk R, Pallon J, Bjorck L
+  TITLE     Identification and characterization of a Streptococcus pyogenes ABC transporter with multiple specificity for metal cations.
+  JOURNAL   Mol Microbiol 34:596-606 (1999)
+///

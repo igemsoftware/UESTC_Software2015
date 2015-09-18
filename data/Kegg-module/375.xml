@@ -1,0 +1,69 @@
+ENTRY       M00375            Pathway   Module
+NAME        Hydroxypropionate-hydroxybutylate cycle
+DEFINITION  (K02160+K01961+K01962+K01963,K01964+K15037+K15036) (K14468,K15017 K15039) (K14469,K15018 K15019 K15020) (K01965+K01966,K15052,K01964+K15037+K15036) K05606  (K01847,K01848+K01849,K11942) (K15038,K15017) K14465 (K14466,K14467) K14534 (K15016,K01715 (K01782,K01825,K07516)) K00626
+ORTHOLOGY   K01961+K01962+K01963  acetyl-CoA carboxylase carboxyl transferase [EC:6.4.1.2] [RN:R00742]
+            K02160  acetyl-CoA carboxylase biotin carboxyl carrier protein [RN:R00742]
+            K01964,K15036  acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3] [RN:R00742 R01859]
+            K15037  biotin carboxyl carrier protein [RN:R00742 R01859]
+            K14468  malonyl-CoA reductase / 3-hydroxypropionate dehydrogenase (NADP+) [EC:1.2.1.75 1.1.1.298] [RN:R00740 R09289] 
+            K15017  malonyl-CoA reductase (NADPH) [EC:1.2.1.75] [RN:R00740]
+            K15039  3-hydroxypropionate dehydrogenase (NADP+) [EC:1.1.1.298] [RN:R09289]
+            K14469  acrylyl-CoA reductase (NADPH) / 3-hydroxypropionyl-CoA dehydratase / 3-hydroxypropionyl-CoA synthetase [EC:1.3.1.84 4.2.1.116 6.2.1.36] [RN:R09286 R03045 R00919] 
+            K15018  3-hydroxypropionyl-coenzyme A synthetase [EC:6.2.1.36] [RN:R09286]
+            K15019  3-hydroxypropionyl-coenzyme A dehydratase [EC:4.2.1.116] [RN:R03045]
+            K15020  acryloyl-coenzyme A reductase [EC:1.3.1.84] [RN:R00919]
+            K01965+K01966  propionyl-CoA carboxylase [EC:6.4.1.3] [RN:R01859]
+            K15052  propionyl-CoA carboxylase [EC:6.4.1.3] [RN:R01859] 
+            K05606  methylmalonyl-CoA epimerase [EC:5.1.99.1] [RN:R02765]
+            K01847,K01848+K01849,K11942  methylmalonyl-CoA mutase [EC:5.4.99.2] [RN:R00833]
+            K15038,K15017  succinyl-coA reductase [EC:1.2.1.76] [RN:R09280]
+            K14465  succinate semialdehyde reductase (NADPH) [EC:1.1.1.-] [RN:R09281]
+            K14466,K14467  4-hydroxybutyryl-CoA synthetase (4-hydroxybutyrate-CoA ligase, AMP-forming) [EC:6.2.1.-] [RN:R09279]
+            K14534  4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3] [RN:R05337 R03031]  
+            K01715  3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.17] [RN:R03026]
+            K15016  3-hydroxybutyryl-CoA dehydratase / 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35] [RN:R03026 R01975]
+            K01782,K01825,K07516  3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35] [RN:R01975] 
+            K00626  acetyl-CoA C-acetyltransferase [EC:2.3.1.9] [RN:R00238]
+CLASS       Pathway module; Energy metabolism; Carbon fixation
+PATHWAY     map01200  Carbon metabolism
+            map00720  Carbon fixation pathways in prokaryotes
+REACTION    R00742  C00024 -> C00083
+            R00740  C00083 -> C00222
+            R09289  C00222 -> C01013
+            R09286  C01013 -> C05668
+            R03045  C05668 -> C00894
+            R00919  C00894 -> C00100
+            R01859  C00100 -> C00683
+            R02765  C00683 -> C01213
+            R00833  C01213 -> C00091
+            R09280  C00091 -> C00232
+            R09281  C00232 -> C00989
+            R09279  C00989 -> C11062
+            R05337  C11062 -> C02331
+            R03031  C02331 -> C00877
+            R03026  C00877 -> C01144
+            R01975  C01144 -> C00332
+            R00238  C00332 -> C00024
+COMPOUND    C00024  Acetyl-CoA
+            C00083  Malonyl-CoA
+            C00222  3-Oxopropanoate
+            C01013  3-Hydroxypropanoate
+            C05668  3-Hydroxypropionyl-CoA
+            C00894  Propenoyl-CoA
+            C00100  Propanoyl-CoA
+            C00683  (S)-Methylmalonyl-CoA
+            C01213  (R)-Methylmalonyl-CoA
+            C00091  Succinyl-CoA
+            C00232  Succinate semialdehyde
+            C00989  4-Hydroxybutanoic acid
+            C11062  4-Hydroxybutyryl-CoA
+            C02331  Vinylacetyl-CoA
+            C00877  Crotonoyl-CoA
+            C01144  (S)-3-Hydroxybutanoyl-CoA
+            C00332  Acetoacetyl-CoA
+DBLINKS     BSID: 468248
+REFERENCE   PMID:19429610
+  AUTHORS   Teufel R, Kung JW, Kockelkorn D, Alber BE, Fuchs G
+  TITLE     3-hydroxypropionyl-coenzyme A dehydratase and acryloyl-coenzyme A reductase, enzymes of the autotrophic 3-hydroxypropionate/4-hydroxybutyrate cycle in the Sulfolobales.
+  JOURNAL   J Bacteriol 191:4572-81 (2009)
+///

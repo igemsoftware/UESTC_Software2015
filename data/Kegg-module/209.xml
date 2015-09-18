@@ -1,0 +1,25 @@
+ENTRY       M00209            Complex   Module
+NAME        Osmoprotectant transport system
+DEFINITION  K05845+K05846+K05847
+ORTHOLOGY   K05845  ABC.BCP1.S; osmoprotectant transport system substrate-binding protein
+            K05846  ABC.BCP1.P; osmoprotectant transport system permease protein
+            K05847  ABC.BCP1.A; osmoprotectant transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Glycine [CPD:C00037], Betaine [CPD:C00719], L-Proline [CPD:C00148], Choline [CPD:C00114], Choline sulfate [CPD:C00919], Carnitine [CPD:C00487], Crotono-betaine [CPD:C11458], Butyro-betaine [CPD:C11459]
+DBLINKS     BSID: 890476
+REFERENCE   PMID:7592481 (glycine, betaine, L-proline)
+  AUTHORS   Lin Y, Hansen JN.
+  TITLE     Characterization of a chimeric proU operon in a subtilin-producing mutant of Bacillus subtilis 168.
+  JOURNAL   J Bacteriol 177:6874-80 (1995)
+REFERENCE   PMID:8752321 (carnitine, crotono-betaine, butyro-betaine)
+  AUTHORS   Kappes RM, Kempf B, Bremer E.
+  TITLE     Three transport systems for the osmoprotectant glycine betaine operate in Bacillus subtilis: characterization of OpuD.
+  JOURNAL   J Bacteriol 178:5071-9 (1996)
+REFERENCE   PMID:10216873 (glycine, betaine, choline)
+  AUTHORS   Kappes RM, Kempf B, Kneip S, Boch J, Gade J, Meier-Wagner J, Bremer E.
+  TITLE     Two evolutionarily closely related ABC transporters mediate the uptake of choline for synthesis of the osmoprotectant glycine betaine in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 32:203-16 (1999)
+///

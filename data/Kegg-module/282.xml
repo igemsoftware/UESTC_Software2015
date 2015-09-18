@@ -1,0 +1,12 @@
+ENTRY       M00282            Complex   Module
+NAME        PTS system, D-glucosamine-specific II component
+DEFINITION  K02763+K02764+K02765
+ORTHOLOGY   K02763  PTS-Dgl-EIIA; PTS system, D-glucosamine-specific IIA component [EC:2.7.1.69]
+            K02764  PTS-Dgl-EIIB; PTS system, D-glucosamine-specific IIB component [EC:2.7.1.69]
+            K02765  PTS-Dgl-EIIC; PTS system, D-glucosamine-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00520  Amino sugar and nucleotide sugar metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890544
+///

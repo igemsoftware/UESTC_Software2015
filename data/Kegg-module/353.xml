@@ -1,0 +1,25 @@
+ENTRY       M00353            Complex   Module
+NAME        Spliceosome, Prp19/CDC5L complex
+DEFINITION  K10599+K12860+K12861+K12862+K12863+K12864+K03283+K12865+K12866
+ORTHOLOGY   K10599  PRPF19; pre-mRNA-processing factor 19 [EC:6.3.2.19]
+            K12860  CDC5L; pre-mRNA-splicing factor CDC5/CEF1
+            K12861  BCAS2; pre-mRNA-splicing factor SPF27
+            K12862  PLRG1; pleiotropic regulator 1
+            K12863  CWC15; protein CWC15
+            K12864  CTNNBL1; beta-catenin-like protein 1
+            K03283  HSPA1_8; heat shock 70kDa protein 1/8
+            K12865  PQBP1; polyglutamine-binding protein 1
+            K12866  WBP11; WW domain-binding protein 11
+CLASS       Structural complex; Genetic information processing; Spliceosome
+PATHWAY     map03040  Spliceosome
+BRITE       ko03041  Spliceosome
+DBLINKS     BSID: 890600
+REFERENCE   PMID:19239890
+  AUTHORS   Wahl MC, Will CL, Luhrmann R
+  TITLE     The spliceosome: design principles of a dynamic RNP machine.
+  JOURNAL   Cell 136:701-18 (2009)
+REFERENCE   PMID:20176811
+  AUTHORS   Grote M, Wolf E, Will CL, Lemm I, Agafonov DE, Schomburg A, Fischle W, Urlaub H, Luhrmann R
+  TITLE     Molecular architecture of the human Prp19/CDC5L complex.
+  JOURNAL   Mol Cell Biol 30:2105-19 (2010)
+///

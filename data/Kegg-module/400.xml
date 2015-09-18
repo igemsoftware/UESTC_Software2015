@@ -1,0 +1,14 @@
+ENTRY       M00400            Complex   Module
+NAME        p97-Ufd1-Npl4 complex
+DEFINITION  K13525+K14016+K14015
+ORTHOLOGY   K13525  VCP; transitional endoplasmic reticulum ATPase
+            K14016  UFD1; ubiquitin fusion degradation protein 1
+            K14015  NPLOC4; nuclear protein localization protein 4 homolog
+CLASS       Structural complex; Genetic information processing; Protein processing
+PATHWAY     map04141  Protein processing in endoplasmic reticulum
+DBLINKS     BSID: 890616
+REFERENCE   PMID:17202270
+  AUTHORS   Pye VE, Beuron F, Keetch CA, McKeown C, Robinson CV, Meyer HH, Zhang X, Freemont PS
+  TITLE     Structural insights into the p97-Ufd1-Npl4 complex.
+  JOURNAL   Proc Natl Acad Sci U S A 104:467-72 (2007)
+///

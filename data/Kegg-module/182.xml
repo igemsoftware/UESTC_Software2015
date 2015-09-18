@@ -1,0 +1,30 @@
+ENTRY       M00182            Complex   Module
+NAME        RNA polymerase I, eukaryotes
+DEFINITION  K02999+K03002+K03027+K03020+K03000-K03001-K03003+K03004+K03005+K03013+K03014+K03016+K03009+K03007
+ORTHOLOGY   K02999  RPA1; DNA-directed RNA polymerase I subunit RPA1 [EC:2.7.7.6]
+            K03002  RPA2; DNA-directed RNA polymerase I subunit RPA2 [EC:2.7.7.6]
+            K03027  RPC40; DNA-directed RNA polymerases I and III subunit RPAC1
+            K03020  RPC19; DNA-directed RNA polymerases I and III subunit RPAC2
+            K03000  RPA12; DNA-directed RNA polymerase I subunit RPA12
+            K03001  RPA14; DNA-directed RNA polymerase I subunit RPA14
+            K03003  RPA34; DNA-directed RNA polymerase I subunit RPA34
+            K03004  RPA43; DNA-directed RNA polymerase I subunit RPA43
+            K03005  RPA49; DNA-directed RNA polymerase I subunit RPA49
+            K03013  RPB5; DNA-directed RNA polymerases I, II, and III subunit RPABC1
+            K03014  RPB6; DNA-directed RNA polymerases I, II, and III subunit RPABC2
+            K03016  RPB8; DNA-directed RNA polymerases I, II, and III subunit RPABC3
+            K03009  RPB12; DNA-directed RNA polymerases I, II, and III subunit RPABC4
+            K03007  RPB10; DNA-directed RNA polymerases I, II, and III subunit RPABC5
+CLASS       Structural complex; Genetic information processing; RNA polymerase
+PATHWAY     map03020  RNA polymerase
+BRITE       ko03021  Transcription machinery
+DBLINKS     BSID: 890458
+REFERENCE   PMID:19896367
+  AUTHORS   Werner M, Thuriaux P, Soutourina J
+  TITLE     Structure-function analysis of RNA polymerases I and III.
+  JOURNAL   Curr Opin Struct Biol 19:740-5 (2009)
+REFERENCE   PMID:20055700
+  AUTHORS   Drygin D, Rice WG, Grummt I
+  TITLE     The RNA polymerase I transcription machinery: an emerging target for the treatment of cancer.
+  JOURNAL   Annu Rev Pharmacol Toxicol 50:131-56 (2010)
+///

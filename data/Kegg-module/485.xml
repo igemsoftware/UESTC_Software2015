@@ -1,0 +1,28 @@
+ENTRY       M00485            FuncSet   Module
+NAME        KinABCDE-Spo0FA (sporulation control) two-component regulatory system
+DEFINITION  K02491 K07697 K07698 K13532 K13533 K02490 K07699
+ORTHOLOGY   K02491  kinA; sporulation sensor kinase A
+            K07697  kinB; sporulation sensor kinase B
+            K07698  kinC; sporulation sensor kinase C
+            K13532  kinD; sporulation sensor kinase D
+            K13533  kinE; sporulation sensor kinase E
+            K02490  spo0F; response regulator, stage 0 sporulation protein F
+            K07699  spo0A; response regulator, stage 0 sporulation protein A
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Impaired DNA replication or DNA damage (KinA), energy potential or the redox status (KinA), cell density (Spo0F)
+DBLINKS     BSID: 565939
+REFERENCE   PMID:15556029
+  AUTHORS   Piggot PJ, Hilbert DW
+  TITLE     Sporulation of Bacillus subtilis.
+  JOURNAL   Curr Opin Microbiol 7:579-86 (2004)
+REFERENCE   PMID:21097618
+  AUTHORS   McLoon AL, Kolodkin-Gal I, Rubinstein SM, Kolter R, Losick R
+  TITLE     Spatial regulation of histidine kinases governing biofilm formation in Bacillus subtilis.
+  JOURNAL   J Bacteriol 193:679-85 (2011)
+REFERENCE   PMID:10966457 (name)
+  AUTHORS   Stock AM, Robinson VL, Goudreau PN
+  TITLE     Two-component signal transduction.
+  JOURNAL   Annu Rev Biochem 69:183-215 (2000)
+///

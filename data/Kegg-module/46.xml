@@ -1,0 +1,33 @@
+ENTRY       M00046            Pathway   Module
+NAME        Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate
+DEFINITION  K00207 K01464 K01431
+ORTHOLOGY   K00207  dihydropyrimidine dehydrogenase (NADP+) [EC:1.3.1.2] [RN:R00978 R01415]
+            K01464  dihydropyrimidinase [EC:3.5.2.2] [RN:R02269 R03055]
+            K01431  beta-ureidopropionase [EC:3.5.1.6] [RN:R00905 R04666]
+CLASS       Pathway module; Nucleotide and amino acid metabolism; Pyrimidine metabolism
+PATHWAY     map00240  Pyrimidine metabolism
+REACTION    R00978  C00106 -> C00429
+            R02269  C00429 -> C02642
+            R00905  C02642 -> C00099
+            R01415  C00178 -> C00906
+            R03055  C00906 -> C05100
+            R04666  C05100 -> C05145
+COMPOUND    C00106  Uracil
+            C00429  5,6-Dihydrouracil
+            C02642  3-Ureidopropionate
+            C00099  beta-Alanine
+            C00178  Thymine
+            C00906  5,6-Dihydrothymine
+            C05100  3-Ureidoisobutyrate
+            C05145  3-Aminoisobutyric acid
+RMODULE     RM024  Pyrimidine degradation
+DBLINKS     BSID: 468239
+REFERENCE   PMID:14705962
+  AUTHORS   Van Kuilenburg AB, Stroomer AE, Van Lenthe H, Abeling NG, Van Gennip AH
+  TITLE     New insights in dihydropyrimidine dehydrogenase deficiency: a pivotal role for beta-aminoisobutyric acid?
+  JOURNAL   Biochem J 379:119-24 (2004)
+REFERENCE   PMID:16176880
+  AUTHORS   Nyhan WL
+  TITLE     Disorders of purine and pyrimidine metabolism.
+  JOURNAL   Mol Genet Metab 86:25-33 (2005)
+///

@@ -1,0 +1,17 @@
+ENTRY       M00566            Complex   Module
+NAME        Dipeptide transport system, Firmicutes
+DEFINITION  K16199+K16200+K16201+K16202
+ORTHOLOGY   K16199  dppE; dipeptide transport system substrate-binding protein
+            K16200  dppB1; dipeptide transport system permease protein
+            K16201  dppC1; dipeptide transport system permease protein
+            K16202  dppD1; dipeptide transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Peptide and nickel transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Dipeptide [CPD:C00107]
+DBLINKS     BSID: 890646
+REFERENCE   PMID:1766370
+  AUTHORS   Mathiopoulos C, Mueller JP, Slack FJ, Murphy CG, Patankar S, Bukusoglu G, Sonenshein AL
+  TITLE     A Bacillus subtilis dipeptide transport system expressed early during sporulation.
+  JOURNAL   Mol Microbiol 5:1903-13 (1991)
+///

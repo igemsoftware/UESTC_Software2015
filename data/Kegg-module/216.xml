@@ -1,0 +1,25 @@
+ENTRY       M00216            Complex   Module
+NAME        Multiple sugar transport system
+DEFINITION  K10546+K10547+K10548
+ORTHOLOGY   K10546  ABC.GGU.S; putative multiple sugar transport system substrate-binding protein
+            K10547  ABC.GGU.P; putative multiple sugar transport system permease protein
+            K10548  ABC.GGU.A; putative multiple sugar transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:1
+            Substrate: D-Galactose [CPD:C00124], D-Xylose [CPD:C00181], L-Arabinose [CPD:C00259], D-Glucose [CPD:C00031], D-Mannose [CPD:C00159]
+DBLINKS     BSID: 890483
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:11514518 (D-galactose, D-xylose, L-arabinose, D-glucose, D-mannose)
+  AUTHORS   Alvarez-Martinez MT, Machold J, Weise C, Schmidt-Eisenlohr H, Baron C, Rouot B.
+  TITLE     The Brucella suis homologue of the Agrobacterium tumefaciens chromosomal virulence operon chvE is essential for sugar utilization but not for survival in macrophages.
+  JOURNAL   J Bacteriol 183:5343-51 (2001)
+REFERENCE   PMID:2614377 (D-galactose, D-xylose, D-glucose)
+  AUTHORS   Cornish A, Greenwood JA, Jones CW.
+  TITLE     Binding-protein-dependent sugar transport by Agrobacterium radiobacter and A. tumefaciens grown in continuous culture.
+  JOURNAL   J Gen Microbiol 135:3001-13 (1989)
+///

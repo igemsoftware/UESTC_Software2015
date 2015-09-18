@@ -1,0 +1,21 @@
+ENTRY       M00191            Complex   Module
+NAME        Thiamine transport system
+DEFINITION  K02064+K02063+K02062
+ORTHOLOGY   K02064  ABC.VB1.S; thiamine transport system substrate-binding protein
+            K02063  ABC.VB1.P; thiamine transport system permease protein
+            K02062  ABC.VB1.A; thiamine transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Thiamin [CPD:C01081 C00068]
+DBLINKS     BSID: 890464
+REFERENCE   PMID:18177053 (TbpA-ligand binding)
+  AUTHORS   Soriano EV, Rajashankar KR, Hanes JW, Bale S, Begley TP, Ealick SE
+  TITLE     Structural similarities between thiamin-binding protein and thiaminase-I suggest  a common ancestor.
+  JOURNAL   Biochemistry 47:1346-57 (2008)
+REFERENCE   PMID:9535878 (thiamine monophosphate, thiamine pyrophosphate)
+  AUTHORS   Webb E, Claas K, Downs D
+  TITLE     thiBPQ encodes an ABC transporter required for transport of thiamine and thiamine pyrophosphate in Salmonella typhimurium.
+  JOURNAL   J Biol Chem 273:8946-50 (1998)
+///

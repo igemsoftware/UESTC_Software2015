@@ -1,0 +1,13 @@
+ENTRY       M00266            Complex   Module
+NAME        PTS system, maltose and glucose-specific II component
+DEFINITION  K02777+K02790+K02791
+ORTHOLOGY   K02777  PTS-Glc-EIIA; PTS system, glucose-specific IIA component [EC:2.7.1.69]
+            K02790  PTS-Mal-EIIB; PTS system, maltose and glucose-specific IIB component [EC:2.7.1.69]
+            K02791  PTS-Mal-EIIC; PTS system, maltose and glucose-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00010  Glycolysis / Gluconeogenesis
+            map00500  Starch and sucrose metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890529
+///

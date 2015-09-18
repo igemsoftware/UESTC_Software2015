@@ -1,0 +1,19 @@
+ENTRY       M00250            Complex   Module
+NAME        Lipopolysaccharide transport system
+DEFINITION  K09690+K09691
+ORTHOLOGY   K09690  ABC-2.LPSE.P; lipopolysaccharide transport system permease protein
+            K09691  ABC-2.LPSE.A; lipopolysaccharide transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Lipopolysaccharide [CPD:C00338]
+DBLINKS     BSID: 890514
+REFERENCE   PMID:9274022
+  AUTHORS   Paulsen IT, Beness AM, Saier MH Jr.
+  TITLE     Computer-based analyses of the protein constituents of transport systems catalysing export of complex carbohydrates in bacteria.
+  JOURNAL   Microbiology 143 ( Pt 8):2685-99 (1997)
+REFERENCE   PMID:9506471
+  AUTHORS   Saier MH Jr, Paulsen IT, Sliwinski MK, Pao SS, Skurray RA, Nikaido H.
+  TITLE     Evolutionary origins of multidrug and drug-specific efflux pumps in bacteria.
+  JOURNAL   FASEB J 12:265-74 (1998)
+///

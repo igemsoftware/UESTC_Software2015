@@ -1,0 +1,19 @@
+ENTRY       M00428            Complex   Module
+NAME        eIF4F complex
+DEFINITION  K03259+K03260+K03257
+ORTHOLOGY   K03259  EIF4E; translation initiation factor 4E
+            K03260  EIF4G; translation initiation factor 4G
+            K03257  EIF4A; translation initiation factor 4A
+CLASS       Structural complex; Genetic information processing; RNA processing
+PATHWAY     map03013  RNA transport
+BRITE       ko03012  Translation factors
+DBLINKS     BSID: 890637
+REFERENCE   PMID:10872469
+  AUTHORS   Gingras AC, Raught B, Sonenberg N
+  TITLE     eIF4 initiation factors: effectors of mRNA recruitment to ribosomes and regulators of translation.
+  JOURNAL   Annu Rev Biochem 68:913-63 (1999)
+REFERENCE   PMID:21498638
+  AUTHORS   Zindy P, Berge Y, Allal B, Filleron T, Pierredon S, Cammas A, Beck S, Mhamdi L, Fan L, Favre G, Delord JP, Roche H, Dalenc F, Lacroix-Triki M, Vagner S
+  TITLE     Formation of the eIF4F translation-initiation complex determines sensitivity to anticancer drugs targeting the EGFR and HER2 receptors.
+  JOURNAL   Cancer Res 71:4068-73 (2011)
+///

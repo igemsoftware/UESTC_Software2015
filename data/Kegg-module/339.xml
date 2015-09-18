@@ -1,0 +1,15 @@
+ENTRY       M00339            Complex   Module
+NAME        RaxAB-RaxC type I secretion system
+DEFINITION  K13408+K13409+K12340
+ORTHOLOGY   K13408 raxA; membrane fusion protein RaxA
+            K13409 raxB, cvaB; ATP-binding cassette, subfamily B, bacterial RaxB
+            K12340 tolC; outer membrane channel protein
+CLASS       Structural complex; Environmental information processing; Bacterial secretion system
+PATHWAY     map04626  Plant-pathogen interaction
+BRITE       ko02044  Secretion system
+DBLINKS     BSID: 890591
+REFERENCE   PMID:15195942
+  AUTHORS   da Silva FG, Shen Y, Dardick C, Burdman S, Yadav RC, de Leon AL, Ronald PC
+  TITLE     Bacterial genes involved in type I secretion and sulfation are required to elicit the rice Xa21-mediated innate immune response.
+  JOURNAL   Mol Plant Microbe Interact 17:593-601 (2004)
+///

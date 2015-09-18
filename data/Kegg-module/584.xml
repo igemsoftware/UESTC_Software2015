@@ -1,0 +1,17 @@
+ENTRY       M00584            Complex   Module
+NAME        Acetoin utilization transport system
+DEFINITION  K16918+K16919+K16920+K16921
+ORTHOLOGY   K16918  ytrF; acetoin utilization transport system permease protein
+            K16919  ytrC_D; acetoin utilization transport system permease protein
+            K16920  ytrE; acetoin utilization transport system ATP-binding protein
+            K16921  ytrB; acetoin utilization transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:1:1
+DBLINKS     BSID: 890650
+REFERENCE   PMID:10986249
+  AUTHORS   Yoshida KI, Fujita Y, Ehrlich SD
+  TITLE     An operon for a putative ATP-binding cassette transport system involved in acetoin utilization of Bacillus subtilis.
+  JOURNAL   J Bacteriol 182:5454-61 (2000)
+///

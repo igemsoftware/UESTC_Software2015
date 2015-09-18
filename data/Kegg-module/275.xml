@@ -1,0 +1,11 @@
+ENTRY       M00275            Complex   Module
+NAME        PTS system, cellobiose-specific II component
+DEFINITION  K02759+K02760+K02761
+ORTHOLOGY   K02759  PTS-Cel-EIIA; PTS system, cellobiose-specific IIA component [EC:2.7.1.69]
+            K02760  PTS-Cel-EIIB; PTS system, cellobiose-specific IIB component [EC:2.7.1.69]
+            K02761  PTS-Cel-EIIC; PTS system, cellobiose-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890537
+///

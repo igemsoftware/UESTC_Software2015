@@ -1,0 +1,16 @@
+ENTRY       M00326            Complex   Module
+NAME        RTX toxin transport system
+DEFINITION  K12530+K12531+K12532+K12340
+ORTHOLOGY   K12530  rtxB; ATP-binding cassette, subfamily B, bacterial RtxB
+            K12531  rtxE; ATP-binding cassette, subfamily B, bacterial RtxE
+            K12532  rtxD; RTX toxin transporter
+            K12340  tolC; outer membrane channel protein TolC
+CLASS       Structural complex; Environmental information processing; Bacterial secretion system
+BRITE       ko02044  Secretion system
+COMMENT     Substrate: RtxA [KO:K10953]
+DBLINKS     BSID: 890580
+REFERENCE   PMID:15547287
+  AUTHORS   Boardman BK, Satchell KJ
+  TITLE     Vibrio cholerae strains with mutations in an atypical type I secretion system accumulate RTX toxin intracellularly.
+  JOURNAL   J Bacteriol 186:8137-43 (2004)
+///

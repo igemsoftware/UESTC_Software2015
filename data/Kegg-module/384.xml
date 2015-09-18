@@ -1,0 +1,16 @@
+ENTRY       M00384            Complex   Module
+NAME        Cul3-SPOP complex
+DEFINITION  K03868+K03869+K10523
+ORTHOLOGY   K03868  RBX1; RING-box protein 1
+            K03869  CUL3; cullin 3
+            K10523  SPOP; speckle-type POZ protein
+CLASS       Structural complex; Genetic information processing; Ubiquitin system
+PATHWAY     map04120  Ubiquitin mediated proteolysis
+BRITE       ko04121  Ubiquitin system
+COMMENT     Substrate: Daxx
+DBLINKS     BSID: 890607
+REFERENCE   PMID:19818708
+  AUTHORS   Zhuang M, Calabrese MF, Liu J, Waddell MB, Nourse A, Hammel M, Miller DJ, Walden H, Duda DM, Seyedin SN, Hoggard T, Harper JW, White KP, Schulman BA
+  TITLE     Structures of SPOP-substrate complexes: insights into molecular architectures of  BTB-Cul3 ubiquitin ligases.
+  JOURNAL   Mol Cell 36:39-50 (2009)
+///

@@ -1,0 +1,13 @@
+ENTRY       M00276            Complex   Module
+NAME        PTS system, mannose-specific II component
+DEFINITION  K02793+K02794+K02795+K02796
+ORTHOLOGY   K02793  PTS-Man-EIIA; PTS system, mannose-specific IIA component [EC:2.7.1.69]
+            K02794  PTS-Man-EIIB; PTS system, mannose-specific IIB component [EC:2.7.1.69]
+            K02795  PTS-Man-EIIC; PTS system, mannose-specific IIC component
+            K02796  PTS-Man-EIID; PTS system, mannose-specific IID component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00051  Fructose and mannose metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890538
+///

@@ -1,0 +1,48 @@
+ENTRY       M00354            Complex   Module
+NAME        Spliceosome, U4/U6.U5 tri-snRNP
+DEFINITION  K11086+K11087+K11096+K11088+K11097+K11098+K11099+K12621+K12622+K12623+K12624+K12625+K12626+K12627+K12843+K12662+K09567+K12844+K12845+K12852-K12853+K12855+K12856+K12857+K12854+K12858+K12859+K13099+K11984+K12847+K12846
+ORTHOLOGY   K11086  SNRPB; small nuclear ribonucleoprotein B and B'
+            K11087  SNRPD1; small nuclear ribonucleoprotein D1
+            K11096  SNRPD2; small nuclear ribonucleoprotein D2
+            K11088  SNRPD3; small nuclear ribonucleoprotein D3
+            K11097  SNRPE; small nuclear ribonucleoprotein E
+            K11098  SNRPF; small nuclear ribonucleoprotein F
+            K11099  SNRPG; small nuclear ribonucleoprotein G
+            K12621  LSM2; U6 snRNA-associated Sm-like protein LSm2
+            K12622  LSM3; U6 snRNA-associated Sm-like protein LSm3
+            K12623  LSM4; U6 snRNA-associated Sm-like protein LSm4
+            K12624  LSM5; U6 snRNA-associated Sm-like protein LSm5
+            K12625  LSM6; U6 snRNA-associated Sm-like protein LSm6
+            K12626  LSM7; U6 snRNA-associated Sm-like protein LSm7
+            K12627  LSM8; U6 snRNA-associated Sm-like protein LSm8
+            K12843  PRPF3; U4/U6 small nuclear ribonucleoprotein PRP3
+            K12662  PRPF4; U4/U6 small nuclear ribonucleoprotein PRP4
+            K09567  PPIH; peptidyl-prolyl isomerase H (cyclophilin H) [EC:5.2.1.8]
+            K12844  PRPF31; U4/U6 small nuclear ribonucleoprotein PRP31
+            K12845  SNU13; U4/U6 small nuclear ribonucleoprotein SNU13
+            K12852  EFTUD2; 116 kDa U5 small nuclear ribonucleoprotein component
+            K12853  SNU114; 114 kDa U5 small nuclear ribonucleoprotein component
+            K12855  PRPF6; pre-mRNA-processing factor 6
+            K12856  PRPF8; pre-mRNA-processing factor 8
+            K12857  SNRNP40; Prp8 binding protein
+            K12854  SNRNP200; pre-mRNA-splicing helicase BRR2 [EC:3.6.1.-]
+            K12858  DDX23; ATP-dependent RNA helicase DDX23/PRP28 [EC:3.6.4.13]
+            K12859  TXNL4A; U5 snRNP protein, DIM1 family
+            K13099  CD2BP2; CD2 antigen cytoplasmic tail-binding protein 2
+            K11984  SART1; U4/U6.U5 tri-snRNP-associated protein 1
+            K12847  USP39; U4/U6.U5 tri-snRNP-associated protein 2
+            K12846  SNRNP27; U4/U6.U5 tri-snRNP-associated protein 3
+CLASS       Structural complex; Genetic information processing; Spliceosome
+PATHWAY     map03040  Spliceosome
+BRITE       ko03041  Spliceosome
+COMMENT     containing  Sm core complex [MD:M00736], and Lsm 2-8 complex [MD:M00704]
+DBLINKS     BSID: 890601
+REFERENCE   PMID:19239890
+  AUTHORS   Wahl MC, Will CL, Luhrmann R
+  TITLE     The spliceosome: design principles of a dynamic RNP machine.
+  JOURNAL   Cell 136:701-18 (2009)
+REFERENCE   PMID:16723661
+  AUTHORS   Liu S, Rauhut R, Vornlocher HP, Luhrmann R
+  TITLE     The network of protein-protein interactions within the human U4/U6.U5 tri-snRNP.
+  JOURNAL   RNA 12:1418-30 (2006)
+///

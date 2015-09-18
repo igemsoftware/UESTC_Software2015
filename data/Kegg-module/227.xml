@@ -1,0 +1,25 @@
+ENTRY       M00227            Complex   Module
+NAME        Glutamine transport system
+DEFINITION  K10036+K10037+K10038
+ORTHOLOGY   K10036  glnH; glutamine transport system substrate-binding protein
+            K10037  glnP; glutamine transport system permease protein
+            K10038  glnQ; glutamine transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: L-Glutamine [CPD:C00064]
+DBLINKS     BSID: 890494
+REFERENCE   PMID:11421273
+  AUTHORS   Hosie AH, Poole PS.
+  TITLE     Bacterial ABC transporters of amino acids.
+  JOURNAL   Res Microbiol 152:259-70 (2001)
+REFERENCE   PMID:9315727
+  AUTHORS   Walshaw DL, Lowthorpe S, East A, Poole PS.
+  TITLE     Distribution of a sub-class of bacterial ABC polar amino acid transporter and identification of an N-terminal region involved in solute specificity.
+  JOURNAL   FEBS Lett 414:397-401 (1997)
+REFERENCE   PMID:3027504 (L-glutamine)
+  AUTHORS   Nohno T, Saito T, Hong JS.
+  TITLE     Cloning and complete nucleotide sequence of the Escherichia coli glutamine permease operon (glnHPQ).
+  JOURNAL   Mol Gen Genet 205:260-9 (1986)
+///

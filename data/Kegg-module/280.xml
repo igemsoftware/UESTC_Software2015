@@ -1,0 +1,12 @@
+ENTRY       M00280            Complex   Module
+NAME        PTS system, glucitol/sorbitol-specific II component
+DEFINITION  K02781+K02782+K02783
+ORTHOLOGY   K02781  PTS-Gut-EIIA; PTS system, glucitol/sorbitol-specific IIA component [EC:2.7.1.69]
+            K02782  PTS-Gut-EIIB; PTS system, glucitol/sorbitol-specific IIB component [EC:2.7.1.69]
+            K02783  PTS-Gut-EIIC; PTS system, glucitol/sorbitol-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00051  Fructose and mannose metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890542
+///

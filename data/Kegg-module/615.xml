@@ -1,0 +1,16 @@
+ENTRY       M00615            Signature Module
+NAME        Nitrate assimilation
+DEFINITION  (K02575,M00438) M00531
+ORTHOLOGY   K02575  NRT; MFS transporter, NNP family, nitrate/nitrite transporter
+            (M00438  Nitrate/nitrite transport system)
+            K15576  nrtA; nitrate/nitrite transport system substrate-binding protein
+            K15577  nrtB; nitrate/nitrite transport system permease protein
+            K15578+K15579  nrtCD; nitrate/nitrite transport system ATP-binding protein
+            (M00531  Assimilatory nitrate reduction, nitrate => ammonia)
+            K00367  narB; assimilatory nitrate reductase
+            K10534  NR; nitrate reductase (NAD(P)H)
+            K00372+K00360  nasAB; assimilatory nitrate reductase
+            K00366  nirA; assimilatory nitrite reductase
+CLASS       Signature module; Gene set; Metabolic capacity
+DBLINKS     BSID: 890435
+///

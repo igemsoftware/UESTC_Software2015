@@ -1,0 +1,23 @@
+ENTRY       M00445            FuncSet   Module
+NAME        EnvZ-OmpR (osmotic stress response) two-component regulatory system
+DEFINITION  K07638 K07659
+ORTHOLOGY   K07638  envZ; OmpR family, sensor histidine kinase
+            K07659  ompR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Osmotic upshift (K+) [CPD:C00238]
+DBLINKS     BSID: 565899
+REFERENCE   PMID:10754569
+  AUTHORS   Buckler DR, Anand GS, Stock AM
+  TITLE     Response-regulator phosphorylation and activation: a two-way street?
+  JOURNAL   Trends Microbiol 8:153-6 (2000)
+REFERENCE   PMID:8809744
+  AUTHORS   Pratt LA, Hsing W, Gibson KE, Silhavy TJ
+  TITLE     From acids to osmZ: multiple factors influence synthesis of the OmpF and OmpC porins in Escherichia coli.
+  JOURNAL   Mol Microbiol 20:911-7 (1996)
+REFERENCE   PMID:10966457 (name)
+  AUTHORS   Stock AM, Robinson VL, Goudreau PN
+  TITLE     Two-component signal transduction.
+  JOURNAL   Annu Rev Biochem 69:183-215 (2000)
+///

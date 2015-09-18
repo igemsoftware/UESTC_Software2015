@@ -1,0 +1,22 @@
+ENTRY       M00407            Complex   Module
+NAME        SCF-CDC4 complex
+DEFINITION  K03868+K03347+K03094+K03361
+ORTHOLOGY   K03868  RBX1; RING-box protein 1
+            K03347  CUL1; cullin 1
+            K03094  SKP1; S-phase kinase-associated protein 1
+            K03361  CDC4; F-box and WD-40 domain protein CDC4
+CLASS       Structural complex; Genetic information processing; Ubiquitin system
+PATHWAY     map04120  Ubiquitin mediated proteolysis
+            map04111  Cell cycle - yeast
+BRITE       ko04121  Ubiquitin system
+COMMENT     Substrate: Sic1, Cdc6, Far1, Gcn4
+DBLINKS     BSID: 890622
+REFERENCE   PMID:12553912
+  AUTHORS   Orlicky S, Tang X, Willems A, Tyers M, Sicheri F
+  TITLE     Structural basis for phosphodependent substrate selection and orientation by the  SCFCdc4 ubiquitin ligase.
+  JOURNAL   Cell 112:243-56 (2003)
+REFERENCE   PMID:20399186
+  AUTHORS   Mittag T, Marsh J, Grishaev A, Orlicky S, Lin H, Sicheri F, Tyers M, Forman-Kay JD
+  TITLE     Structure/function implications in a dynamic complex of the intrinsically disordered Sic1 with the Cdc4 subunit of an SCF ubiquitin ligase.
+  JOURNAL   Structure 18:494-506 (2010)
+///

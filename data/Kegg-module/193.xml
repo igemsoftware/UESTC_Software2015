@@ -1,0 +1,13 @@
+ENTRY       M00193            Complex   Module
+NAME        Putative spermidine/putrescine transport system
+DEFINITION  K02055+K02053+K02054+K02052
+ORTHOLOGY   K02055  ABC.SP.S; putative spermidine/putrescine transport system substrate-binding protein
+            K02053  ABC.SP.P; putative spermidine/putrescine transport system permease protein
+            K02054  ABC.SP.P1; putative spermidine/putrescine transport system permease protein
+            K02052  ABC.SP.A; putative spermidine/putrescine transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: Spermidine [CPD:C00315], Putrescine [CPD:C00134]
+DBLINKS     BSID: 890466
+///

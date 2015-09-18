@@ -1,0 +1,26 @@
+ENTRY       M00245            Complex   Module
+NAME        Cobalt/nickel transport system
+DEFINITION  K02009+K02008+K02007+K02006
+ORTHOLOGY   K02009  cbiN; cobalt transport protein
+            K02008  cbiQ; cobalt/nickel transport system permease protein
+            K02007  cbiM; cobalt/nickel transport system permease protein
+            K02006  cbiO; cobalt/nickel transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Metallic cation, iron-siderophore and vitamin B12 transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:1
+            Substrate: Cobalt [CPD:C00175], Nickel [CPD:C00291]
+DBLINKS     BSID: 890511
+REFERENCE   PMID:16352848 (cobalt)
+  AUTHORS   Rodionov DA, Hebbeln P, Gelfand MS, Eitinger T.
+  TITLE     Comparative and functional genomic analysis of prokaryotic nickel and cobalt uptake transporters: evidence for a novel group of ATP-binding cassette transporters.
+  JOURNAL   J Bacteriol 188:317-27 (2006)
+REFERENCE   PMID:18931129
+  AUTHORS   Rodionov DA, Hebbeln P, Eudes A, ter Beek J, Rodionova IA, Erkens GB, Slotboom DJ, Gelfand MS, Osterman AL, Hanson AD, Eitinger T
+  TITLE     A novel class of modular transporters for vitamins in prokaryotes.
+  JOURNAL   J Bacteriol 191:42-51 (2009)
+REFERENCE   PMID:8501034 (cobalt)
+  AUTHORS   Roth JR, Lawrence JG, Rubenfield M, Kieffer-Higgins S, Church GM.
+  TITLE     Characterization of the cobalamin (vitamin B12) biosynthetic genes of Salmonella typhimurium.
+  JOURNAL   J Bacteriol 175:3303-16 (1993)
+///

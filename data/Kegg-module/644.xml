@@ -1,0 +1,19 @@
+ENTRY       M00644            Signature Module
+NAME        Multidrug resistance, efflux pump MexHI-OprD
+DEFINITION  K18304 K18099 K18306+K18307-K18308
+ORTHOLOGY   K18304  lasR; LuxR family transcriptional regulator, quorum-sensing transcription factor LasR
+            K18099  rhlR; LuxR family transcriptional regulator, transcriptional activator of rhlAB and lasB
+            K18306  mexH; membrane fusion protein
+            K18307  mexI; multidrug efflux pump
+            K18308  opmD; outer membrane protein
+CLASS       Signature module; Gene set; Drug resistance
+BRITE       ko02000  Transporters
+REFERENCE   PMID:22390972
+  AUTHORS   Jimenez PN, Koch G, Thompson JA, Xavier KB, Cool RH, Quax WJ
+  TITLE     The multiple signaling systems regulating virulence in Pseudomonas aeruginosa.
+  JOURNAL   Microbiol Mol Biol Rev 76:46-65 (2012)
+REFERENCE   PMID:12177331
+  AUTHORS   Aendekerk S, Ghysels B, Cornelis P, Baysse C
+  TITLE     Characterization of a new efflux pump, MexGHI-OpmD, from Pseudomonas aeruginosa that confers resistance to vanadium.
+  JOURNAL   Microbiology 148:2371-81 (2002)
+///

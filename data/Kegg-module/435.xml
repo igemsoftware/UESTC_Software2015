@@ -1,0 +1,21 @@
+ENTRY       M00435            Complex   Module
+NAME        Taurine transport system
+DEFINITION  K15551+K15552+K10831
+ORTHOLOGY   K15551  tauA; taurine transport system substrate-binding protein
+            K15552  tauC; taurine transport system permease protein
+            K10831  tauB; taurine transport system ATP-binding protein [EC:3.6.3.36]
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Taurine [CPD:C00245]
+DBLINKS     BSID: 890639
+REFERENCE   PMID:1884995
+  AUTHORS   McLaggan D, Epstein W
+  TITLE     Escherichia coli accumulates the eukaryotic osmolyte taurine at high osmolarity.
+  JOURNAL   FEMS Microbiol Lett 65:209-13 (1991)
+REFERENCE   PMID:17203388
+  AUTHORS   Javaux C, Joris B, De Witte P
+  TITLE     Functional characteristics of TauA binding protein from TauABC Escherichia coli system.
+  JOURNAL   Protein J 26:231-8 (2007)
+///

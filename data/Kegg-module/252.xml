@@ -1,0 +1,24 @@
+ENTRY       M00252            Complex   Module
+NAME        Lipooligosaccharide transport system
+DEFINITION  K09694+K09695
+ORTHOLOGY   K09694  nodJ; lipooligosaccharide transport system permease protein
+            K09695  nodI; lipooligosaccharide transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 2:2
+            Substrate: Lipo-oligosaccharide [CPD:C06706]
+DBLINKS     BSID: 890516
+REFERENCE   PMID:10978546
+  AUTHORS   Braibant M, Gilot P, Content J.
+  TITLE     The ATP binding cassette (ABC) transport systems of Mycobacterium tuberculosis.
+  JOURNAL   FEMS Microbiol Rev 24:449-67 (2000)
+REFERENCE   PMID:9274022
+  AUTHORS   Paulsen IT, Beness AM, Saier MH Jr.
+  TITLE     Computer-based analyses of the protein constituents of transport systems catalysing export of complex carbohydrates in bacteria.
+  JOURNAL   Microbiology 143 ( Pt 8):2685-99 (1997)
+REFERENCE   PMID:9506471
+  AUTHORS   Saier MH Jr, Paulsen IT, Sliwinski MK, Pao SS, Skurray RA, Nikaido H.
+  TITLE     Evolutionary origins of multidrug and drug-specific efflux pumps in bacteria.
+  JOURNAL   FASEB J 12:265-74 (1998)
+///

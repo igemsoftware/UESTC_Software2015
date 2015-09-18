@@ -1,0 +1,22 @@
+ENTRY       M00206            Complex   Module
+NAME        Cellobiose transport system
+DEFINITION  K10240+K10241+K10242+K10112
+ORTHOLOGY   K10240  cebE; cellobiose transport system substrate-binding protein
+            K10241  cebF; cellobiose transport system permease protein
+            K10242  cebG; cellobiose transport system permease protein
+            K10112  msmX; multiple sugar transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: Cellobiose [CPD:C00185], Cellotriose [CPD:C06219]
+DBLINKS     BSID: 890474
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:10347054 (cellobiose, cellotriose)
+  AUTHORS   Schlosser A, Jantos J, Hackmann K, Schrempf H.
+  TITLE     Characterization of the binding protein-dependent cellobiose and cellotriose transport system of the cellulose degrader Streptomyces reticuli.
+  JOURNAL   Appl Environ Microbiol 65:2636-43 (1999)
+///

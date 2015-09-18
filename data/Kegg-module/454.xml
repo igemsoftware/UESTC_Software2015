@@ -1,0 +1,19 @@
+ENTRY       M00454            FuncSet   Module
+NAME        KdpD-KdpE (potassium transport) two-component regulatory system
+DEFINITION  K07646 K07667
+ORTHOLOGY   K07646  kdpD; OmpR family, sensor histidine kinase
+            K07667  kdpE; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: K+ limitation [CPD:C00238]
+DBLINKS     BSID: 565908
+REFERENCE   PMID:20146748
+  AUTHORS   Heermann R, Jung K
+  TITLE     The complexity of the 'simple' two-component system KdpD/KdpE in Escherichia coli.
+  JOURNAL   FEMS Microbiol Lett 304:97-106 (2010)
+REFERENCE   PMID:17536175
+  AUTHORS   Ballal A, Basu B, Apte SK
+  TITLE     The Kdp-ATPase system and its regulation.
+  JOURNAL   J Biosci 32:559-68 (2007)
+///

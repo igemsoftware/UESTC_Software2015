@@ -1,0 +1,26 @@
+ENTRY       M00317            Complex   Module
+NAME        Manganese/iron transport system
+DEFINITION  K11604+K11605+K11606+K11607
+ORTHOLOGY   K11604  sitA; manganese/iron transport system substrate-binding protein
+            K11605  sitC; manganese/iron transport system permease protein
+            K11606  sitD; manganese/iron transport system permease protein
+            K11607  sitB; manganese/iron transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Metallic cation, iron-siderophore and vitamin B12 transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: Manganese [CPD:C00034], Fe2+ [CPD:C14818]
+DBLINKS     BSID: 890571
+REFERENCE   PMID:12029031 (manganese, ferrous iron)
+  AUTHORS   Kehres DG, Janakiraman A, Slauch JM, Maguire ME.
+  TITLE     SitABCD is the alkaline Mn(2+) transporter of Salmonella enterica serovar Typhimurium.
+  JOURNAL   J Bacteriol 184:3159-66 (2002)
+REFERENCE   PMID:17172335 (manganese)
+  AUTHORS   Davies BW, Walker GC
+  TITLE     Disruption of sitA compromises Sinorhizobium meliloti for manganese uptake required for protection against oxidative stress.
+  JOURNAL   J Bacteriol 189:2101-9 (2007)
+REFERENCE   PMID:10231495 (ferric iron)
+  AUTHORS   Bearden SW, Perry RD.
+  TITLE     The Yfe system of Yersinia pestis transports iron and manganese and is required for full virulence of plague.
+  JOURNAL   Mol Microbiol 32:403-14 (1999)
+///

@@ -1,0 +1,20 @@
+ENTRY       M00549            Pathway   Module
+NAME        Nucleotide sugar biosynthesis, glucose => UDP-glucose
+DEFINITION  (K00844,K00845,K12407,K00886) K01835 (K00963,K00965)
+ORTHOLOGY   K00844  hexokinase [EC:2.7.1.1] [RN:R01786]
+            K00845,K12407  glucokinase [EC:2.7.1.2] [RN:R01786]
+            K00886  polyphosphate glucokinase [EC:2.7.1.63] [RN:R02189]
+            K01835  phosphoglucomutase [EC:5.4.2.2] [RN:R00959]
+            K00963  UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9] [RN:R00289]
+            K00965  UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12] [RN:R00955]
+CLASS       Pathway module; Carbohydrate and lipid metabolism; Sugar metabolism
+PATHWAY     map00520 Amino sugar and nucleotide sugar metabolism
+REACTION    R01786,R02189 C00267 -> C00668
+            R00959 C00668 -> C00103
+            R00289,R00955 C00103 -> C00029
+COMPOUND    C00267  alpha-D-Glucose
+            C00668  alpha-D-Glucose 6-phosphate
+            C00103  D-Glucose 1-phosphate
+            C00029  UDP-glucose
+DBLINKS     BSID: 672427
+///

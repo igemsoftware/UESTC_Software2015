@@ -1,0 +1,87 @@
+ENTRY       M00177            Complex   Module
+NAME        Ribosome, eukaryotes
+DEFINITION  K02981+K02985+K02984+K02987+K02989+K02991+K02993+K02995+K02997+K02947+K02949+K02951+K02953+K02955+K02958+K02957+K02960+K02962+K02964+K02966+K02969+K02971+K02973+K02974+K02975+K02976+K02978+K02977+K02979+K02980+K02983+K02998+K02925+K02930+K02932+K02934+K02937+K02936+K02938+K02940+K02866+K02865+K02868+K02870+K02873+K02872+K02875+K02877+K02880+K02883+K02882+K02885+K02889+K02891+K02894+K02893+K02896+K02898+K02901+K02900+K02903+K02905+K02908+K02910+K02912+K02915+K02918+K02917+K02920+K02922+K02921+K02923+K02924+K02927+K02928+K02929+K02941+K02942+K02943
+ORTHOLOGY   K02981  small subunit ribosomal protein S2e
+            K02985  small subunit ribosomal protein S3e
+            K02984  small subunit ribosomal protein S3Ae
+            K02987  small subunit ribosomal protein S4e
+            K02989  small subunit ribosomal protein S5e
+            K02991  small subunit ribosomal protein S6e
+            K02993  small subunit ribosomal protein S7e
+            K02995  small subunit ribosomal protein S8e
+            K02997  small subunit ribosomal protein S9e
+            K02947  small subunit ribosomal protein S10e
+            K02949  small subunit ribosomal protein S11e
+            K02951  small subunit ribosomal protein S12e
+            K02953  small subunit ribosomal protein S13e
+            K02955  small subunit ribosomal protein S14e
+            K02958  small subunit ribosomal protein S15e
+            K02957  small subunit ribosomal protein S15Ae
+            K02960  small subunit ribosomal protein S16e
+            K02962  small subunit ribosomal protein S17e
+            K02964  small subunit ribosomal protein S18e
+            K02966  small subunit ribosomal protein S19e
+            K02969  small subunit ribosomal protein S20e
+            K02971  small subunit ribosomal protein S21e
+            K02973  small subunit ribosomal protein S23e
+            K02974  small subunit ribosomal protein S24e
+            K02975  small subunit ribosomal protein S25e
+            K02976  small subunit ribosomal protein S26e
+            K02978  small subunit ribosomal protein S27e
+            K02977  small subunit ribosomal protein S27Ae
+            K02979  small subunit ribosomal protein S28e
+            K02980  small subunit ribosomal protein S29e
+            K02983  small subunit ribosomal protein S30e
+            K02998  small subunit ribosomal protein SAe
+            K02925  large subunit ribosomal protein L3e
+            K02930  large subunit ribosomal protein L4e
+            K02932  large subunit ribosomal protein L5e
+            K02934  large subunit ribosomal protein L6e
+            K02937  large subunit ribosomal protein L7e
+            K02936  large subunit ribosomal protein L7Ae
+            K02938  large subunit ribosomal protein L8e
+            K02940  large subunit ribosomal protein L9e
+            K02866  large subunit ribosomal protein L10e
+            K02865  large subunit ribosomal protein L10Ae
+            K02868  large subunit ribosomal protein L11e
+            K02870  large subunit ribosomal protein L12e
+            K02873  large subunit ribosomal protein L13e
+            K02872  large subunit ribosomal protein L13Ae
+            K02875  large subunit ribosomal protein L14e
+            K02877  large subunit ribosomal protein L15e
+            K02880  large subunit ribosomal protein L17e
+            K02883  large subunit ribosomal protein L18e
+            K02882  large subunit ribosomal protein L18Ae
+            K02885  large subunit ribosomal protein L19e
+            K02889  large subunit ribosomal protein L21e
+            K02891  large subunit ribosomal protein L22e
+            K02894  large subunit ribosomal protein L23e
+            K02893  large subunit ribosomal protein L23Ae
+            K02896  large subunit ribosomal protein L24e
+            K02898  large subunit ribosomal protein L26e
+            K02901  large subunit ribosomal protein L27e
+            K02900  large subunit ribosomal protein L27Ae
+            K02903  large subunit ribosomal protein L28e
+            K02905  large subunit ribosomal protein L29e
+            K02908  large subunit ribosomal protein L30e
+            K02910  large subunit ribosomal protein L31e
+            K02912  large subunit ribosomal protein L32e
+            K02915  large subunit ribosomal protein L34e
+            K02918  large subunit ribosomal protein L35e
+            K02917  large subunit ribosomal protein L35Ae
+            K02920  large subunit ribosomal protein L36e
+            K02922  large subunit ribosomal protein L37e
+            K02921  large subunit ribosomal protein L37Ae
+            K02923  large subunit ribosomal protein L38e
+            K02924  large subunit ribosomal protein L39e
+            K02927  large subunit ribosomal protein L40e
+            K02928  large subunit ribosomal protein L41e
+            K02929  large subunit ribosomal protein L44e
+            K02941  large subunit ribosomal protein LP0
+            K02942  large subunit ribosomal protein LP1
+            K02943  large subunit ribosomal protein LP2
+CLASS       Structural complex; Genetic information processing; Ribosome
+PATHWAY     map03010  Ribosome
+BRITE       ko03011  Ribosome
+DBLINKS     BSID: 890453
+///

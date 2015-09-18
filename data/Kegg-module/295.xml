@@ -1,0 +1,32 @@
+ENTRY       M00295            Complex   Module
+NAME        BRCA1-associated genome surveillance complex (BASC)
+DEFINITION  K10605+K08735+K08737+K08734+K10858+K10754+K10755+K10756+K04802+K10865+K10866+K10867+K10901+K04728
+ORTHOLOGY   K10605  BRCA1; breast cancer type 1 susceptibility protein
+            K08735  MSH2; DNA mismatch repair protein MSH2
+            K08737  MSH6; DNA mismatch repair protein MSH6
+            K08734  MLH1; DNA mismatch repair protein MLH1
+            K10858  PMS2; DNA mismatch repair protein PMS2
+            K10754  RFC1; replication factor C subunit 1
+            K10755  RFC2_4; replication factor C subunit 2/4 
+            K10756  RFC3_5; replication factor C subunit 3/5
+            K04802  PCNA; proliferating cell nuclear antigen
+            K10865  MRE11; double-strand break repair protein MRE11
+            K10866  RAD50; DNA repair protein RAD50
+            K10867  NBN, NBS1; nijmegen breakage syndrome protein 1
+            K10901  BLM, RECQL3, SGS1; bloom syndrome protein
+            K04728  ATM; ataxia telangectasia mutated family protein
+CLASS       Structural complex; Genetic information processing; Repair system
+PATHWAY     map03430  Mismatch repair
+            map03440  Homologous recombination
+            map03460  Fanconi anemia pathway
+BRITE       ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 890555
+REFERENCE   PMID:10783165
+  AUTHORS   Wang Y, Cortez D, Yazdi P, Neff N, Elledge SJ, Qin J.
+  TITLE     BASC, a super complex of BRCA1-associated proteins involved in the recognition and repair of aberrant DNA structures.
+  JOURNAL   Genes Dev 14:927-39 (2000)
+REFERENCE   PMID:14990344
+  AUTHORS   Wang W, Seki M, Otsuki M, Tada S, Takao N, Yamamoto K, Hayashi M, Honma M, Enomoto T.
+  TITLE     The absence of a functional relationship between ATM and BLM, the components of BASC, in DT40 cells.
+  JOURNAL   Biochim Biophys Acta 1688:137-44 (2004)
+///

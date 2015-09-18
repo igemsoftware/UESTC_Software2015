@@ -1,0 +1,21 @@
+ENTRY       M00190            Complex   Module
+NAME        Iron(III) transport system
+DEFINITION  K02012+K02011+K02010
+ORTHOLOGY   K02012  ABC.FE.S; iron(III) transport system substrate-binding protein
+            K02011  ABC.FE.P; iron(III) transport system permease protein
+            K02010  ABC.FE.A; iron(III) transport system ATP-binding protein [EC:3.6.3.30]
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Fe3+ [CPD:C14819]
+DBLINKS     BSID: 890463
+REFERENCE   PMID:7559648 (ferric iron)
+  AUTHORS   Adhikari P, Kirby SD, Nowalk AJ, Veraldi KL, Schryvers AB, Mietzner TA.
+  TITLE     Biochemical characterization of a Haemophilus influenzae periplasmic iron transport operon.
+  JOURNAL   J Biol Chem 270:25142-9 (1995)
+REFERENCE   PMID:12563288
+  AUTHORS   Faraldo-Gomez JD, Sansom MS.
+  TITLE     Acquisition of siderophores in gram-negative bacteria.
+  JOURNAL   Nat Rev Mol Cell Biol 4:105-16 (2003)
+///

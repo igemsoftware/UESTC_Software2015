@@ -1,0 +1,14 @@
+ENTRY       M00484            FuncSet   Module
+NAME        YdfH-YdfI two-component regulatory system
+DEFINITION  K11623 K11624
+ORTHOLOGY   K11623  ydfH; NarL family, sensor histidine kinase
+            K11624  ydfI; NarL family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565938
+REFERENCE   PMID:15941986
+  AUTHORS   Serizawa M, Sekiguchi J
+  TITLE     The Bacillus subtilis YdfHI two-component system regulates the transcription of ydfJ, a member of the RND superfamily.
+  JOURNAL   Microbiology 151:1769-78 (2005)
+///

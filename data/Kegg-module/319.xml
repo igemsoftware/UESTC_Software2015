@@ -1,0 +1,26 @@
+ENTRY       M00319            Complex   Module
+NAME        Manganese/zinc/iron transport system
+DEFINITION  K11707+K11708+K11709+K11710
+ORTHOLOGY   K11707  troA; manganese/zinc/iron transport system substrate-binding protein
+            K11708  troC; manganese/zinc/iron transport system permease protein
+            K11709  troD; manganese/zinc/iron transport system permease protein
+            K11710  troB; manganese/zinc/iron transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Metallic cation, iron-siderophore and vitamin B12 transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: Manganese [CPD:C00034], Zinc [CPD:C00038], Fe2+ [CPD:C14818]
+DBLINKS     BSID: 890573
+REFERENCE   PMID:12668673 (zinc, manganese)
+  AUTHORS   Hazlett KR, Rusnak F, Kehres DG, Bearden SW, La Vake CJ, La Vake ME, Maguire ME, Perry RD, Radolf JD.
+  TITLE     The Treponema pallidum tro operon encodes a multiple metal transporter, a zinc-dependent transcriptional repressor, and a semi-autonomously expressed phosphoglycerate mutase.
+  JOURNAL   J Biol Chem 278:20687-94 (2003)
+REFERENCE   PMID:17581125 (zinc, manganese, ferrous iron)
+  AUTHORS   Desrosiers DC, Sun YC, Zaidi AA, Eggers CH, Cox DL, Radolf JD
+  TITLE     The general transition metal (Tro) and Zn2+ (Znu) transporters in Treponema pallidum: analysis of metal specificities and expression profiles.
+  JOURNAL   Mol Microbiol 65:137-52 (2007)
+REFERENCE   PMID:10760146
+  AUTHORS   Que Q, Helmann JD
+  TITLE     Manganese homeostasis in Bacillus subtilis is regulated by MntR, a bifunctional regulator related to the diphtheria toxin repressor family of proteins.
+  JOURNAL   Mol Microbiol 35:1454-68 (2000)
+///

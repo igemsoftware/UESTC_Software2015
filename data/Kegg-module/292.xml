@@ -1,0 +1,16 @@
+ENTRY       M00292            Complex   Module
+NAME        MRX complex
+DEFINITION  K10865+K10866+K10868
+ORTHOLOGY   K10865  MRE11; double-strand break repair protein MRE11
+            K10866  RAD50; DNA repair protein RAD50
+            K10868  XRS2; DNA repair protein XRS2
+CLASS       Structural complex; Genetic information processing; Repair system
+PATHWAY     map03440  Homologous recombination
+            map03450  Non-homologous end-joining
+BRITE       ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 890553
+REFERENCE   PMID:15757898
+  AUTHORS   Clatworthy AE, Valencia-Burton MA, Haber JE, Oettinger MA
+  TITLE     The MRE11-RAD50-XRS2 complex, in addition to other non-homologous end-joining factors, is required for V(D)J joining in yeast.
+  JOURNAL   J Biol Chem 280:20247-52 (2005)
+///

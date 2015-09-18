@@ -1,0 +1,34 @@
+ENTRY       M00438            Complex   Module
+NAME        Nitrate/nitrite transport system
+DEFINITION  K15576+K15577+K15578-K15579
+ORTHOLOGY   K15576  nrtA; nitrate/nitrite transport system substrate-binding protein
+            K15577  nrtB; nitrate/nitrite transport system permease protein
+            K15578  nrtC; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+            K15579  nrtD; nitrate/nitrite transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+            Signature module; Gene set; Metabolic capacity; 
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Nitrate [CPD:C00244], Nitrite [CPD:C00088], Cyanate [CPD:C01417]
+DBLINKS     BSID: 890642
+REFERENCE   PMID:10542156
+  AUTHORS   Moreno-Vivian C, Cabello P, Martinez-Luque M, Blasco R, Castillo F
+  TITLE     Prokaryotic nitrate reduction: molecular properties and functional distinction among bacterial nitrate reductases.
+  JOURNAL   J Bacteriol 181:6573-84 (1999)
+REFERENCE   PMID:9006953
+  AUTHORS   Maeda S, Omata T
+  TITLE     Substrate-binding lipoprotein of the cyanobacterium Synechococcus sp. strain PCC  7942 involved in the transport of nitrate and nitrite.
+  JOURNAL   J Biol Chem 272:3036-41 (1997)
+REFERENCE   PMID:9495773
+  AUTHORS   Wu Q, Stewart V
+  TITLE     NasFED proteins mediate assimilatory nitrate and nitrite transport in Klebsiella  oxytoca (pneumoniae) M5al.
+  JOURNAL   J Bacteriol 180:1311-22 (1998)
+REFERENCE   PMID:17122352
+  AUTHORS   Espie GS, Jalali F, Tong T, Zacal NJ, So AK
+  TITLE     Involvement of the cynABDS operon and the CO2-concentrating mechanism in the light-dependent transport and metabolism of cyanate by cyanobacteria.
+  JOURNAL   J Bacteriol 189:1013-24 (2007)
+REFERENCE   PMID:19286804
+  AUTHORS   Maeda S, Omata T
+  TITLE     Nitrite transport activity of the ABC-type cyanate transporter of the cyanobacterium Synechococcus elongatus.
+  JOURNAL   J Bacteriol 191:3265-72 (2009)
+///

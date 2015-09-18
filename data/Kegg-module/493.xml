@@ -1,0 +1,23 @@
+ENTRY       M00493            FuncSet   Module
+NAME        AlgZ-AlgR (alginate production) two-component regulatory system
+DEFINITION  K08082 K08083
+ORTHOLOGY   K08082  algZ; LytT family, sensor histidine kinase
+            K08083  algR; LytT family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Surface contact or lowered oxygen tensions, microaerobic environment
+DBLINKS     BSID: 565946
+REFERENCE   PMID:17766417 (Signal)
+  AUTHORS   Morici LA, Carterson AJ, Wagner VE, Frisk A, Schurr JR, Honer zu Bentrup K, Hassett DJ, Iglewski BH, Sauer K, Schurr MJ
+  TITLE     Pseudomonas aeruginosa AlgR represses the Rhl quorum-sensing system in a biofilm-specific manner.
+  JOURNAL   J Bacteriol 189:7752-64 (2007)
+REFERENCE   PMID:19270096 (signal, regulation)
+  AUTHORS   Cody WL, Pritchett CL, Jones AK, Carterson AJ, Jackson D, Frisk A, Wolfgang MC, Schurr MJ
+  TITLE     Pseudomonas aeruginosa AlgR controls cyanide production in an AlgZ-dependent manner.
+  JOURNAL   J Bacteriol 191:2993-3002 (2009)
+REFERENCE   PMID:2556636 (name)
+  AUTHORS   Stock JB, Ninfa AJ, Stock AM
+  TITLE     Protein phosphorylation and regulation of adaptive responses in bacteria.
+  JOURNAL   Microbiol Rev 53:450-90 (1989)
+///

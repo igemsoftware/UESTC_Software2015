@@ -1,0 +1,20 @@
+ENTRY       M00512            FuncSet   Module
+NAME        CckA-CtrA/CpdR (cell cycle control) two-component regulatory system
+DEFINITION  K13587 K13584 K13589
+ORTHOLOGY   K13587  cckA; cell cycle sensor histidine kinase/response regulator
+            K13584  ctrA; cell cycle response regulator
+            K13589  cpdR; cell cycle response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+            map04112  Cell cycle - Caulobacter
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565965
+REFERENCE   PMID:19781638
+  AUTHORS   Jenal U
+  TITLE     The role of proteolysis in the Caulobacter crescentus cell cycle and development.
+  JOURNAL   Res Microbiol 160:687-95 (2009)
+REFERENCE   PMID:19246239
+  AUTHORS   Jenal U, Galperin MY
+  TITLE     Single domain response regulators: molecular switches with emerging roles in cell organization and dynamics.
+  JOURNAL   Curr Opin Microbiol 12:152-60 (2009)
+///

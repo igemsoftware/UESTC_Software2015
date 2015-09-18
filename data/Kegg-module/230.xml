@@ -1,0 +1,26 @@
+ENTRY       M00230            Complex   Module
+NAME        Glutamate/aspartate transport system
+DEFINITION  K10001+K10002+K10003+K10004
+ORTHOLOGY   K10001  gltI; glutamate/aspartate transport system substrate-binding protein
+            K10002  gltK; glutamate/aspartate transport system permease protein
+            K10003  gltJ; glutamate/aspartate transport system permease protein
+            K10004  gltL; glutamate/aspartate transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: L-Glutamate [CPD:C00025], L-Aspartate [CPD:C00049]
+DBLINKS     BSID: 890496
+REFERENCE   PMID:11421273
+  AUTHORS   Hosie AH, Poole PS.
+  TITLE     Bacterial ABC transporters of amino acids.
+  JOURNAL   Res Microbiol 152:259-70 (2001)
+REFERENCE   PMID:9315727
+  AUTHORS   Walshaw DL, Lowthorpe S, East A, Poole PS.
+  TITLE     Distribution of a sub-class of bacterial ABC polar amino acid transporter and identification of an N-terminal region involved in solute specificity.
+  JOURNAL   FEBS Lett 414:397-401 (1997)
+REFERENCE   PMID:1091635 (L-glutamate, L-aspartate)
+  AUTHORS   Willis RC, Furlong CE.
+  TITLE     Purification and properties of a periplasmic glutamate-aspartate binding protein from Escherichia coli K12 strain W3092.
+  JOURNAL   J Biol Chem 250:2574-80 (1975)
+///

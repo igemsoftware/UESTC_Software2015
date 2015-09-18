@@ -1,0 +1,15 @@
+ENTRY       M00444            FuncSet   Module
+NAME        PhoQ-PhoP (magnesium transport) two-component regulatory system
+DEFINITION  K07637 K07660
+ORTHOLOGY   K07637  phoQ; OmpR family, sensor histidine kinase
+            K07660  phoP; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Mg2+ starvation [CPD:C00305], Antimicrobial peptide [CPD:C11612]
+DBLINKS     BSID: 565898
+REFERENCE   PMID:7855434
+  AUTHORS   Garcia Vescovi E, Soncini FC, Groisman EA
+  TITLE     The role of the PhoP/PhoQ regulon in Salmonella virulence.
+  JOURNAL   Res Microbiol 145:473-80 (1994)
+///

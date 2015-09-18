@@ -1,0 +1,12 @@
+ENTRY       M00228            Complex   Module
+NAME        Putative glutamine transport system
+DEFINITION  K10039+K10040+K10041
+ORTHOLOGY   K10039  ABC.GLN1.S; putative glutamine transport system substrate-binding protein
+            K10040  ABC.GLN1.P; putative glutamine transport system permease protein
+            K10041  ABC.GLN1.A; putative glutamine transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+DBLINKS     BSID: 890495
+///

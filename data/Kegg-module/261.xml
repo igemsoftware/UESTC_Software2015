@@ -1,0 +1,16 @@
+ENTRY       M00261            Complex   Module
+NAME        DNA polymerase alpha / primase complex
+DEFINITION  K02320+K02321+K02685+K02684
+ORTHOLOGY   K02320  POLA1; DNA polymerase alpha, subunit A [EC:2.7.7.7]
+            K02321  POLA2; DNA polymerase alpha, subunit B [EC:2.7.7.7]
+            K02685  PRI2; DNA primase large subunit [EC:2.7.7.-]
+            K02684  PRI1; DNA primase small subunit [EC:2.7.7.-]
+CLASS       Structural complex; Genetic information processing; DNA polymerase
+PATHWAY     map03030  DNA replication
+BRITE       ko03032  DNA replication proteins
+DBLINKS     BSID: 890524
+REFERENCE   PMID:9759502
+  AUTHORS   Waga S, Stillman B.
+  TITLE     The DNA replication fork in eukaryotic cells.
+  JOURNAL   Annu Rev Biochem 67:721-51 (1998)
+///

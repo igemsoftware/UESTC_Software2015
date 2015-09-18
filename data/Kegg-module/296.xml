@@ -1,0 +1,24 @@
+ENTRY       M00296            Complex   Module
+NAME        BER complex
+DEFINITION  K10803+K10798+(K02330,K03512,K10981)+K10776+(K10771,K10772)
+ORTHOLOGY   K10803  XRCC1; DNA-repair protein
+            K10798  PARP; poly [ADP-ribose] polymerase
+            K02330  POLB; DNA polymerase beta subunit
+            K03512  POLL; DNA polymerase lambda subunit [EC:2.7.7.7 4.2.99.-]
+            K10981  POL4; DNA polymerase IV [EC:2.7.7.7]
+            K10776  LIG3; DNA ligase 3
+            K10771  APEX1; AP endonuclease 1
+            K10772  APEX1; AP endonuclease 2
+CLASS       Structural complex; Genetic information processing; Repair system
+PATHWAY     map03410  Base excision repair
+BRITE       ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 468377
+REFERENCE   PMID:14599767
+  AUTHORS   Izumi T, Wiederhold LR, Roy G, Roy R, Jaiswal A, Bhakat KK, Mitra S, Hazra TK
+  TITLE     Mammalian DNA base excision repair proteins: their interactions and role in repair of oxidative DNA damage.
+  JOURNAL   Toxicology 193:43-65 (2003)
+REFERENCE   PMID:16442856
+  AUTHORS   Petermann E, Keil C, Oei SL.
+  TITLE     Roles of DNA ligase III and XRCC1 in regulating the switch between short patch and long patch BER.
+  JOURNAL   DNA Repair (Amst) 5:544-55 (2006)
+///

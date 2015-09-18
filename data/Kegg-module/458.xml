@@ -1,0 +1,15 @@
+ENTRY       M00458            FuncSet   Module
+NAME        ResE-ResD (aerobic and anaerobic respiration) two-component regulatory system
+DEFINITION  K07651 K07775
+ORTHOLOGY   K07651  resE; OmpR family, sensor histidine kinase
+            K07775  resD; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Oxygen limitation [CPD:C00007]
+DBLINKS     BSID: 565912
+REFERENCE   PMID:8631715
+  AUTHORS   Sun G, Sharkova E, Chesnut R, Birkey S, Duggan MF, Sorokin A, Pujic P, Ehrlich SD, Hulett FM
+  TITLE     Regulators of aerobic and anaerobic respiration in Bacillus subtilis.
+  JOURNAL   J Bacteriol 178:1374-85 (1996)
+///

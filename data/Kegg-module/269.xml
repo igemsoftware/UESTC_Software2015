@@ -1,0 +1,12 @@
+ENTRY       M00269            Complex   Module
+NAME        PTS system, sucrose-specific II component
+DEFINITION  K02808+K02809+K02810
+ORTHOLOGY   K02808  PTS-Scr-EIIA; PTS system, sucrose-specific IIA component [EC:2.7.1.69]
+            K02809  PTS-Scr-EIIB; PTS system, sucrose-specific IIB component [EC:2.7.1.69]
+            K02810  PTS-Scr-EIIC; PTS system, sucrose-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00500  Starch and sucrose metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890532
+///

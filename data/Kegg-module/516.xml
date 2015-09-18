@@ -1,0 +1,26 @@
+ENTRY       M00516            FuncSet   Module
+NAME        SLN1-YPD1-SSK1/SKN7 (osmosensing) two-component regulatory system
+DEFINITION  K11231 K11232 K11233 K15859
+ORTHOLOGY   K11231  SLN1; sensor histidine kinase
+            K11232  YPD1; phosphorelay intermediate protein
+            K11233  SSK1; response regulator
+            K15859  SKN7; response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+            map04011  MAPK signaling pathway - yeast
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Hyperosmotic stress
+DBLINKS     BSID: 565969
+REFERENCE   PMID:9843501
+  AUTHORS   Li S, Ault A, Malone CL, Raitt D, Dean S, Johnston LH, Deschenes RJ, Fassler JS
+  TITLE     The yeast histidine protein kinase, Sln1p, mediates phosphotransfer to two response regulators, Ssk1p and Skn7p.
+  JOURNAL   EMBO J 17:6952-62 (1998)
+REFERENCE   PMID:11073911
+  AUTHORS   Janiak-Spens F, Sparling DP, West AH
+  TITLE     Novel role for an HPt domain in stabilizing the phosphorylated state of a response regulator domain.
+  JOURNAL   J Bacteriol 182:6673-8 (2000)
+REFERENCE   PMID:10500846 (name)
+  AUTHORS   Grebe TW, Stock JB
+  TITLE     The histidine protein kinase superfamily.
+  JOURNAL   Adv Microb Physiol 41:139-227 (1999)
+///

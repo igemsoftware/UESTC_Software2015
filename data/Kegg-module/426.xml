@@ -1,0 +1,33 @@
+ENTRY       M00426            Complex   Module
+NAME        Survival motor neuron (SMN) complex
+DEFINITION  K13129+K13130-K13131-K13132-K13133-K13134-K13135-K13136-K13137
+ORTHOLOGY   K13129  SMN; survival motor neuron protein
+            K13130  SIP1; survival of motor neuron protein-interacting protein 1
+            K13131  DDX20; ATP-dependent RNA helicase DDX20 [EC:3.6.4.13]
+            K13132  GEMIN4; gem associated protein 4
+            K13133  GEMIN5; gem associated protein 5
+            K13134  GEMIN6; gem associated protein 6
+            K13135  GEMIN7; gem associated protein 7
+            K13136  GEMIN8; gem associated protein 8
+            K13137  STRAP; serine-threonine kinase receptor-associated protein
+CLASS       Structural complex; Genetic information processing; RNA processing
+PATHWAY     map03013  RNA transport
+BRITE       ko03041  Spliceosome
+DBLINKS     BSID: 890635
+REFERENCE   PMID:15120993
+  AUTHORS   Gubitz AK, Feng W, Dreyfuss G
+  TITLE     The SMN complex.
+  JOURNAL   Exp Cell Res 296:51-6 (2004)
+REFERENCE   PMID:15848170
+  AUTHORS   Carissimi C, Baccon J, Straccia M, Chiarella P, Maiolica A, Sawyer A, Rappsilber J, Pellizzoni L
+  TITLE     Unrip is a component of SMN complexes active in snRNP assembly.
+  JOURNAL   FEBS Lett 579:2348-54 (2005)
+REFERENCE   PMID:17023415
+  AUTHORS   Carissimi C, Saieva L, Gabanella F, Pellizzoni L
+  TITLE     Gemin8 is required for the architecture and function of the survival motor neuron complex.
+  JOURNAL   J Biol Chem 281:37009-16 (2006)
+REFERENCE   PMID:18621711
+  AUTHORS   Kroiss M, Schultz J, Wiesner J, Chari A, Sickmann A, Fischer U
+  TITLE     Evolution of an RNP assembly system: a minimal SMN complex facilitates formation  of UsnRNPs in Drosophila melanogaster.
+  JOURNAL   Proc Natl Acad Sci U S A 105:10045-50 (2008)
+///

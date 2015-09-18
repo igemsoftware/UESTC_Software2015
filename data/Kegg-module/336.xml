@@ -1,0 +1,20 @@
+ENTRY       M00336            Complex   Module
+NAME        Twin-arginine translocation (Tat) system
+DEFINITION  K03116-K03117+K03118-K03425
+ORTHOLOGY   K03116  tatA; sec-independent protein translocase protein TatA
+            K03117  tatB; sec-independent protein translocase protein TatB
+            K03118  tatC; sec-independent protein translocase protein TatC
+            K03425  tatE; sec-independent protein translocase protein TatE
+CLASS       Structural complex; Environmental information processing; Bacterial secretion system
+PATHWAY     map03070  Bacterial secretion system
+BRITE       ko02044  Secretion system
+DBLINKS     BSID: 890589
+REFERENCE   PMID:17956229
+  AUTHORS   Sargent F
+  TITLE     The twin-arginine transport system: moving folded proteins across membranes.
+  JOURNAL   Biochem Soc Trans 35:835-47 (2007)
+REFERENCE   PMID:15546663
+  AUTHORS   Robinson C, Bolhuis A
+  TITLE     Tat-dependent protein targeting in prokaryotes and chloroplasts.
+  JOURNAL   Biochim Biophys Acta 1694:135-47 (2004)
+///

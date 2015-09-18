@@ -1,0 +1,17 @@
+ENTRY       M00300            Complex   Module
+NAME        Putrescine transport system
+DEFINITION  K11073+K11074+K11075+K11076
+ORTHOLOGY   K11073  potF; putrescine transport system substrate-binding protein
+            K11074  potI; putrescine transport system permease protein
+            K11075  potH; putrescine transport system permease protein
+            K11076  potG; putrescine transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Putrescine [CPD:C00134]
+DBLINKS     BSID: 890558
+REFERENCE   PMID:8416922
+  AUTHORS   Pistocchi R, Kashiwagi K, Miyamoto S, Nukui E, Sadakata Y, Kobayashi H, Igarashi K.
+  TITLE     Characteristics of the operon for a putrescine transport system that maps at 19 minutes on the Escherichia coli chromosome.
+  JOURNAL   J Biol Chem 268:146-52 (1993)
+///

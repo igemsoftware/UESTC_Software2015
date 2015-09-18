@@ -1,0 +1,17 @@
+ENTRY       M00399            Complex   Module
+NAME        Cap binding complex
+DEFINITION  K12882+K12883
+ORTHOLOGY   K12882  NCBP1; nuclear cap-binding protein subunit 1
+            K12883  NCBP2; nuclear cap-binding protein subunit 2
+CLASS       Structural complex; Genetic information processing; Spliceosome
+PATHWAY     map03013  RNA transport
+            map03015  mRNA surveillance pathway
+            map03040  Spliceosome
+            map03040  Spliceosome
+BRITE       ko03041  Spliceosome
+DBLINKS     BSID: 890615
+REFERENCE   PMID:19668212
+  AUTHORS   Dias SM, Wilson KF, Rojas KS, Ambrosio AL, Cerione RA
+  TITLE     The molecular basis for the regulation of the cap-binding complex by the importins.
+  JOURNAL   Nat Struct Mol Biol 16:930-7 (2009)
+///

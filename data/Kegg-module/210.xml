@@ -1,0 +1,10 @@
+ENTRY       M00210            Complex   Module
+NAME        Putative ABC transport system
+DEFINITION  K02067+K02066+K02065
+ORTHOLOGY   K02067  ABC.X1.S; putative ABC transport system substrate-binding protein
+            K02066  ABC.X1.P; putative ABC transport system permease protein
+            K02065  ABC.X1.A; putative ABC transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890477
+///

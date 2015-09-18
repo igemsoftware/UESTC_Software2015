@@ -1,0 +1,24 @@
+ENTRY       M00240            Complex   Module
+NAME        Iron complex transport system
+DEFINITION  K02016+K02015+K02013
+ORTHOLOGY   K02016  ABC.FEV.S; iron complex transport system substrate-binding protein
+            K02015  ABC.FEV.P; iron complex transport system permease protein
+            K02013  ABC.FEV.A; iron complex transport system ATP-binding protein [EC:3.6.3.34]
+CLASS       Structural complex; Environmental information processing; Metallic cation, iron-siderophore and vitamin B12 transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Ferrichrome [CPD:C06228], Fe(III)hydroxamate [CPD:C06227], Fe(III)dicitrate [CPD:C06229], Fe-enterobactin [CPD:C06230], Iron chelate [CPD:C06704]
+DBLINKS     BSID: 890506
+REFERENCE   PMID:11292796 (ferric iron)
+  AUTHORS   Katoh H, Hagino N, Grossman AR, Ogawa T.
+  TITLE     Genes essential to iron transport in the cyanobacterium Synechocystis sp. strain PCC 6803.
+  JOURNAL   J Bacteriol 183:2779-84 (2001)
+REFERENCE   PMID:8388528 (ferrichrome-iron)
+  AUTHORS   Schneider R, Hantke K.
+  TITLE     Iron-hydroxamate uptake systems in Bacillus subtilis: identification of a lipoprotein as part of a binding protein-dependent transport system.
+  JOURNAL   Mol Microbiol 8:111-21 (1993)
+REFERENCE   PMID:10850805 (antibiotic albomycin)
+  AUTHORS   Ferguson AD, Braun V, Fiedler HP, Coulton JW, Diederichs K, Welte W.
+  TITLE     Crystal structure of the antibiotic albomycin in complex with the outer membrane transporter FhuA.
+  JOURNAL   Protein Sci 9:956-63 (2000)
+///

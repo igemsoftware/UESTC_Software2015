@@ -1,0 +1,29 @@
+ENTRY       M00287            Complex   Module
+NAME        PTS system, galactosamine-specific II component
+DEFINITION  K02744+K10984+K10985+K10986
+ORTHOLOGY   K02744  PTS-Aga-EIIA; PTS system, N-acetylgalactosamine-specific IIA component [EC:2.7.1.69]
+            K10984  PTS-Gam-EIIB; PTS system, galactosamine-specific IIB component [EC:2.7.1.69]
+            K10985  PTS-Gam-EIIC; PTS system, galactosamine-specific IIC component
+            K10986  PTS-Gam-EIID; PTS system, galactosamine-specific IID component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00052  Galactose metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890549
+REFERENCE   PMID:18156259
+  AUTHORS   Mukherjee A, Mammel MK, LeClerc JE, Cebula TA.
+  TITLE     Altered utilization of N-acetyl-D-galactosamine by Escherichia coli O157:H7 from the 2006 spinach outbreak.
+  JOURNAL   J Bacteriol 190:1710-7 (2008)
+REFERENCE   PMID:10931310
+  AUTHORS   Brinkkotter A, Kloss H, Alpert C, Lengeler JW.
+  TITLE     Pathways for the utilization of N-acetyl-galactosamine and galactosamine in Escherichia coli.
+  JOURNAL   Mol Microbiol 37:125-35 (2000)
+REFERENCE   PMID:11361063
+  AUTHORS   Tchieu JH, Norris V, Edwards JS, Saier MH Jr.
+  TITLE     The complete phosphotranferase system in Escherichia coli.
+  JOURNAL   J Mol Microbiol Biotechnol 3:329-46 (2001)
+REFERENCE   PMID:16233138
+  AUTHORS   Kotrba P, Inui M, Yukawa H.
+  TITLE     Bacterial phosphotransferase system (PTS) in carbohydrate uptake and control of carbon metabolism.
+  JOURNAL   J Biosci Bioeng 92:502-17 (2001)
+///

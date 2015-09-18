@@ -1,0 +1,17 @@
+ENTRY       M00616            Signature Module
+NAME        Sulfate-sulfur assimilation
+DEFINITION  M00185 M00176
+ORTHOLOGY   (M00185  Sulfate transport system)
+            K02048  cysP; sulfate transport system substrate-binding protein
+            K02046  cysU; sulfate transport system permease protein
+            K02047  cysW; sulfate transport system permease protein
+            K02045  cysA; sulfate transport system ATP-binding protein
+            (M00176  Assimilatory sulfate reduction, sulfate => H2S)
+            K13811,K00958,K00955+K00957,K00956  sulfate adenylyltransferase
+            K13811,K00860,K00955  adenylylsulfate kinase
+            K00390  phosphoadenosine phosphosulfate reductase
+            K00380+K00381  sulfite reductase (NADPH)
+            K00392  sulfite reductase (ferredoxin)
+CLASS       Signature module; Gene set; Metabolic capacity
+DBLINKS     BSID: 890436
+///

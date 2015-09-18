@@ -1,0 +1,26 @@
+ENTRY       M00225            Complex   Module
+NAME        Lysine/arginine/ornithine transport system
+DEFINITION  K10013+K10015+K10016+K10017
+ORTHOLOGY   K10013  ABC.ARG.S; lysine/arginine/ornithine transport system substrate-binding protein
+            K10015  hisM; histidine transport system permease protein
+            K10016  hisQ; histidine transport system permease protein
+            K10017  hisP; histidine transport system ATP-binding protein [EC:3.6.3.21]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: L-Lysine [CPD:C00047], L-Arginine [CPD:C00062], L-Ornithine [CPD:C00077]
+DBLINKS     BSID: 890492
+REFERENCE   PMID:11421273
+  AUTHORS   Hosie AH, Poole PS.
+  TITLE     Bacterial ABC transporters of amino acids.
+  JOURNAL   Res Microbiol 152:259-70 (2001)
+REFERENCE   PMID:1400387 (L-lysine, L-arginine, L-ornithine)
+  AUTHORS   Nikaido K, Ames GF
+  TITLE     Purification and characterization of the periplasmic lysine-, arginine-, ornithine-binding protein (LAO) from Salmonella typhimurium.
+  JOURNAL   J Biol Chem 267:20706-12 (1992)
+REFERENCE   PMID:9315727
+  AUTHORS   Walshaw DL, Lowthorpe S, East A, Poole PS.
+  TITLE     Distribution of a sub-class of bacterial ABC polar amino acid transporter and identification of an N-terminal region involved in solute specificity.
+  JOURNAL   FEBS Lett 414:397-401 (1997)
+///

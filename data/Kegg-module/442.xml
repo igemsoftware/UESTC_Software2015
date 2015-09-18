@@ -1,0 +1,20 @@
+ENTRY       M00442            Complex   Module
+NAME        Putative hydroxymethylpyrimidine transport system
+DEFINITION  K15598+K15599+K15600
+ORTHOLOGY   K15598  thiY; putative hydroxymethylpyrimidine transport system substrate-binding protein
+            K15599  thiX; putative hydroxymethylpyrimidine transport system permease protein
+            K15600  thiZ; putative hydroxymethylpyrimidine transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: 4-Amino-5-hydroxymethyl-2-methylpyrimidine (HMP) [CPD:C01279], N-formyl-4-amino-5-aminomethyl-2-methylpyrimidine (FAMP) [CPD:C19872]
+DBLINKS     BSID: 890645
+REFERENCE   PMID:12376536
+  AUTHORS   Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS
+  TITLE     Comparative genomics of thiamin biosynthesis in procaryotes. New genes and regulatory mechanisms.
+  JOURNAL   J Biol Chem 277:48949-59 (2002)
+REFERENCE   PMID:20873853
+  AUTHORS   Bale S, Rajashankar KR, Perry K, Begley TP, Ealick SE
+  TITLE     HMP binding protein ThiY and HMP-P synthase THI5 are structural homologues.
+  JOURNAL   Biochemistry 49:8929-36 (2010)
+///

@@ -1,0 +1,23 @@
+ENTRY       M00495            FuncSet   Module
+NAME        AgrC-AgrA (exoprotein synthesis) two-component regulatory system
+DEFINITION  K07706 K07707
+ORTHOLOGY   K07706  agrC; AgrA family, sensor histidine kinase
+            K07707  agrA; AgrA family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Autoinducing peptide [KO:K07800]
+DBLINKS     BSID: 565948
+REFERENCE   PMID:12146974 (Signal)
+  AUTHORS   Lyon GJ, Wright JS, Muir TW, Novick RP
+  TITLE     Key determinants of receptor activation in the agr autoinducing peptides of Staphylococcus aureus.
+  JOURNAL   Biochemistry 41:10095-104 (2002)
+REFERENCE   PMID:9632266 (Signal)
+  AUTHORS   Lina G, Jarraud S, Ji G, Greenland T, Pedraza A, Etienne J, Novick RP, Vandenesch F
+  TITLE     Transmembrane topology and histidine protein kinase activity of AgrC, the agr signal receptor in Staphylococcus aureus.
+  JOURNAL   Mol Microbiol 28:655-62 (1998)
+REFERENCE   PMID:2556636 (name)
+  AUTHORS   Stock JB, Ninfa AJ, Stock AM
+  TITLE     Protein phosphorylation and regulation of adaptive responses in bacteria.
+  JOURNAL   Microbiol Rev 53:450-90 (1989)
+///

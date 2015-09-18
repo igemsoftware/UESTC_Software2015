@@ -1,0 +1,21 @@
+ENTRY       M00205            Complex   Module
+NAME        N-Acetylglucosamine transport system
+DEFINITION  K10200+K10201+K10202
+ORTHOLOGY   K10200  ABC.NGC.S; N-acetylglucosamine transport system substrate-binding protein
+            K10201  ABC.NGC.P; N-acetylglucosamine transport system permease protein
+            K10202  ABC.NGC.P1; N-acetylglucosamine transport system permease protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1
+            Substrate: N-Acetyl-D-glucosamine [CPD:C00140], Chitobiose [CPD:C01674]
+DBLINKS     BSID: 890473
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:12111550 (N-acetyl-D-glucosamine, chitobiose)
+  AUTHORS   Xiao X, Wang F, Saito A, Majka J, Schlosser A, Schrempf H.
+  TITLE     The novel Streptomyces olivaceoviridis ABC transporter Ngc mediates uptake of N-acetylglucosamine and N,N'-diacetylchitobiose.
+  JOURNAL   Mol Genet Genomics 267:429-39 (2002)
+///

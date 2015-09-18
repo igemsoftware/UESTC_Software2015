@@ -1,0 +1,19 @@
+ENTRY       M00490            FuncSet   Module
+NAME        MalK-MalR (malate transport) two-component regulatory system
+DEFINITION  K11614 K11615
+ORTHOLOGY   K11614  malK; CitB family, sensor histidine kinase
+            K11615  malR; CitB family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Malate [CPD:C00149]
+DBLINKS     BSID: 565944
+REFERENCE   PMID:12949160
+  AUTHORS   Doan T, Servant P, Tojo S, Yamaguchi H, Lerondel G, Yoshida K, Fujita Y, Aymerich S
+  TITLE     The Bacillus subtilis ywkA gene encodes a malic enzyme and its transcription is activated by the YufL/YufM two-component system in response to malate.
+  JOURNAL   Microbiology 149:2331-43 (2003)
+REFERENCE   PMID:12949159
+  AUTHORS   Tanaka K, Kobayashi K, Ogasawara N
+  TITLE     The Bacillus subtilis YufLM two-component system regulates the expression of the malate transporters MaeN (YufR) and YflS, and is essential for utilization of malate in minimal medium.
+  JOURNAL   Microbiology 149:2317-29 (2003)
+///

@@ -1,0 +1,26 @@
+ENTRY       M00235            Complex   Module
+NAME        Arginine/ornithine transport system
+DEFINITION  K10022+K10023+K10024+K10025
+ORTHOLOGY   K10022  aotJ; arginine/ornithine transport system substrate-binding protein
+            K10023  aotM; arginine/ornithine transport system permease protein
+            K10024  aotQ; arginine/ornithine transport system permease protein
+            K10025  aotP; arginine/ornithine transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: L-Arginine [CPD:C00062], L-Ornithine [CPD:C00077]
+DBLINKS     BSID: 890501
+REFERENCE   PMID:11421273
+  AUTHORS   Hosie AH, Poole PS.
+  TITLE     Bacterial ABC transporters of amino acids.
+  JOURNAL   Res Microbiol 152:259-70 (2001)
+REFERENCE   PMID:9791103 (L-arginine, L-ornithine)
+  AUTHORS   Nishijyo T, Park SM, Lu CD, Itoh Y, Abdelal AT.
+  TITLE     Molecular characterization and regulation of an operon encoding a system for transport of arginine and ornithine and the ArgR regulatory protein in Pseudomonas aeruginosa.
+  JOURNAL   J Bacteriol 180:5559-66 (1998)
+REFERENCE   PMID:9315727
+  AUTHORS   Walshaw DL, Lowthorpe S, East A, Poole PS.
+  TITLE     Distribution of a sub-class of bacterial ABC polar amino acid transporter and identification of an N-terminal region involved in solute specificity.
+  JOURNAL   FEBS Lett 414:397-401 (1997)
+///

@@ -1,0 +1,31 @@
+ENTRY       M00491            Complex   Module
+NAME        arabinogalactan oligomer/maltooligosaccharide transport system
+DEFINITION  K15770+K15771+K15772+(K10111,K10112)
+ORTHOLOGY   K15770  cycB; arabinogalactan oligomer/maltooligosaccharide transport system substrate-binding protein
+            K15771  ganP; arabinogalactan oligomer/maltooligosaccharide transport system permease protein
+            K15772  ganQ; arabinogalactan oligomer/maltooligosaccharide transport system permease protein
+            K10111  malK; maltose/maltodextrin transport system ATP-binding protein [EC:3.6.3.19]
+            K10112  msmX; multiple sugar transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: alpha, beta, gamma-Cyclodextrin [CPD:C00973], Maltotriose [CPD:C01835], Maltotetraose [GL:G00457], Maltodextrin [CPD:C01935]
+DBLINKS     BSID: 540986
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:11682178 (alpha, beta, gamma-cyclodextrin)
+  AUTHORS   Kamionka A, Dahl MK
+  TITLE     Bacillus subtilis contains a cyclodextrin-binding protein which is part of a putative ABC-transporter.
+  JOURNAL   FEMS Microbiol Lett 204:55-60 (2001)
+REFERENCE   PMID:17056685
+  AUTHORS   Shipkowski S, Brenchley JE
+  TITLE     Bioinformatic, genetic, and biochemical evidence that some glycoside hydrolase family 42 beta-galactosidases are arabinogalactan type I oligomer hydrolases.
+  JOURNAL   Appl Environ Microbiol 72:7730-8 (2006)
+REFERENCE   PMID:15803655 (maltotriose, maltotetraose, maltodextrin)
+  AUTHORS   Koning SM, Konings WN, Driessen AJ.
+  TITLE     Biochemical evidence for the presence of two alpha-glucoside ABC-transport systems in the hyperthermophilic archaeon Pyrococcus furiosus.
+  JOURNAL   Archaea 1:19-25 (2002)
+///

@@ -1,0 +1,23 @@
+ENTRY       M00386            Complex   Module
+NAME        Cul4-DDB1-CSA complex
+DEFINITION  K03868+K10609+K10610+K10570
+ORTHOLOGY   K03868  RBX1; RING-box protein 1
+            K10609  CUL4; cullin 4
+            K10610  DDB1; DNA damage-binding protein 1
+            K10570  ERCC8; DNA excision repair protein ERCC-8
+CLASS       Structural complex; Genetic information processing; Ubiquitin system
+PATHWAY     map04120  Ubiquitin mediated proteolysis
+            map03420  Nucleotide excision repair
+BRITE       ko04121  Ubiquitin system
+            ko03400  DNA repair and recombination proteins
+COMMENT     Substrate: CSB
+DBLINKS     BSID: 890609
+REFERENCE   PMID:12732143
+  AUTHORS   Groisman R, Polanowska J, Kuraoka I, Sawada J, Saijo M, Drapkin R, Kisselev AF, Tanaka K, Nakatani Y
+  TITLE     The ubiquitin ligase activity in the DDB2 and CSA complexes is differentially regulated by the COP9 signalosome in response to DNA damage.
+  JOURNAL   Cell 113:357-67 (2003)
+REFERENCE   PMID:17041588
+  AUTHORS   Higa LA, Wu M, Ye T, Kobayashi R, Sun H, Zhang H
+  TITLE     CUL4-DDB1 ubiquitin ligase interacts with multiple WD40-repeat proteins and regulates histone methylation.
+  JOURNAL   Nat Cell Biol 8:1277-83 (2006)
+///

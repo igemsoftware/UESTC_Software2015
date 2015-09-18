@@ -1,0 +1,17 @@
+ENTRY       M00299            Complex   Module
+NAME        Spermidine/putrescine transport system
+DEFINITION  K11069+K11070+K11071+K11072
+ORTHOLOGY   K11069  potD; spermidine/putrescine transport system substrate-binding protein
+            K11070  potC; spermidine/putrescine transport system permease protein
+            K11071  potB; spermidine/putrescine transport system permease protein
+            K11072  potA; spermidine/putrescine transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Spermidine [CPD:C00315], Putrescine [CPD:C00134]
+DBLINKS     BSID: 468346
+REFERENCE   PMID:1939142 (spermidine, putrescine)
+  AUTHORS   Furuchi T, Kashiwagi K, Kobayashi H, Igarashi K.
+  TITLE     Characteristics of the gene for a spermidine and putrescine transport system that maps at 15 min on the Escherichia coli chromosome.
+  JOURNAL   J Biol Chem 266:20928-33 (1991)
+///

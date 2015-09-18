@@ -1,0 +1,23 @@
+ENTRY       M00409            Complex   Module
+NAME        ESCRT-I complex
+DEFINITION  K12183+K12184+K12185+K12186
+ORTHOLOGY   K12183  TSG101; ESCRT-I complex subunit TSG101
+            K12184  VPS28; ESCRT-I complex subunit VPS28
+            K12185  VPS37; ESCRT-I complex subunit VPS37
+            K12186  FAM125; ESCRT-I complex subunit MVB12
+CLASS       Structural complex; Genetic information processing; Protein processing
+PATHWAY     map04144  Endocytosis
+DBLINKS     BSID: 890624
+REFERENCE   PMID:16615903
+  AUTHORS   Eathiraj S, Lambright DG
+  TITLE     ESCRT complexes assembled and GLUEd.
+  JOURNAL   Structure 14:631-2 (2006)
+REFERENCE   PMID:21070952
+  AUTHORS   Im YJ, Kuo L, Ren X, Burgos PV, Zhao XZ, Liu F, Burke TR Jr, Bonifacino JS, Freed EO, Hurley JH
+  TITLE     Crystallographic and functional analysis of the ESCRT-I /HIV-1 Gag PTAP interaction.
+  JOURNAL   Structure 18:1536-47 (2010)
+REFERENCE   PMID:19560911
+  AUTHORS   Hanson PI, Shim S, Merrill SA
+  TITLE     Cell biology of the ESCRT machinery.
+  JOURNAL   Curr Opin Cell Biol 21:568-74 (2009)
+///

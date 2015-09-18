@@ -1,0 +1,16 @@
+ENTRY       M00583            Complex   Module
+NAME        Putative peptide transport system
+DEFINITION  K16916+K16917
+ORTHOLOGY   K16916  yydJ; putative peptide transport system permease protein
+            K16917  yydI; putative peptide transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 2:2
+            Substrate: YydF peptide
+DBLINKS     BSID: 890649
+REFERENCE   PMID:17921301
+  AUTHORS   Butcher BG, Lin YP, Helmann JD
+  TITLE     The yydFGHIJ operon of Bacillus subtilis encodes a peptide that induces the LiaRS two-component system.
+  JOURNAL   J Bacteriol 189:8616-25 (2007)
+///

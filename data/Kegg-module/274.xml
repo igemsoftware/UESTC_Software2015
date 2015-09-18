@@ -1,0 +1,12 @@
+ENTRY       M00274            Complex   Module
+NAME        PTS system, mannitol-specific II component
+DEFINITION  K02798+K02799+K02800
+ORTHOLOGY   K02798  PTS-Mtl-EIIA; PTS system, mannitol-specific IIA component [EC:2.7.1.69]
+            K02799  PTS-Mtl-EIIB; PTS system, mannitol-specific IIB component [EC:2.7.1.69]
+            K02800  PTS-Mtl-EIIC; PTS system, mannitol-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00051  Fructose and mannose metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890536
+///

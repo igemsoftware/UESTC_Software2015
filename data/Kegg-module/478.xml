@@ -1,0 +1,18 @@
+ENTRY       M00478            FuncSet   Module
+NAME        DegS-DegU (multicellular behavior control) two-component regulatory system
+DEFINITION  K07777 K07692
+ORTHOLOGY   K07777  degS; NarL family, sensor histidine kinase
+            K07692  degU; NarL family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565932
+REFERENCE   PMID:19118340
+  AUTHORS   Murray EJ, Kiley TB, Stanley-Wall NR
+  TITLE     A pivotal role for the response regulator DegU in controlling multicellular behaviour.
+  JOURNAL   Microbiology 155:1-8 (2009)
+REFERENCE   PMID:12471443
+  AUTHORS   Mader U, Antelmann H, Buder T, Dahl MK, Hecker M, Homuth G
+  TITLE     Bacillus subtilis functional genomics: genome-wide analysis of the DegS-DegU regulon by transcriptomics and proteomics.
+  JOURNAL   Mol Genet Genomics 268:455-67 (2002)
+///

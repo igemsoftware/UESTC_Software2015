@@ -1,0 +1,23 @@
+ENTRY       M00397            Complex   Module
+NAME        Lsm 1-7 complex
+DEFINITION  K12620+K12621+K12622+K12623+K12624+K12625+K12626
+ORTHOLOGY   K12620  LSM1; U6 snRNA-associated Sm-like protein LSm1
+            K12621  LSM2; U6 snRNA-associated Sm-like protein LSm2
+            K12622  LSM3; U6 snRNA-associated Sm-like protein LSm3
+            K12623  LSM4; U6 snRNA-associated Sm-like protein LSm4
+            K12624  LSM5; U6 snRNA-associated Sm-like protein LSm5
+            K12625  LSM6; U6 snRNA-associated Sm-like protein LSm6
+            K12626  LSM7; U6 snRNA-associated Sm-like protein LSm7
+CLASS       Structural complex; Genetic information processing; Spliceosome
+PATHWAY     map03018  RNA degradation
+COMMENT     cytoplasmic localization
+DBLINKS     BSID: 890613
+REFERENCE   PMID:18029398
+  AUTHORS   Spiller MP, Reijns MA, Beggs JD
+  TITLE     Requirements for nuclear localization of the Lsm2-8p complex and competition between nuclear and cytoplasmic Lsm complexes.
+  JOURNAL   J Cell Sci 120:4310-20 (2007)
+REFERENCE   PMID:20181739
+  AUTHORS   Galao RP, Chari A, Alves-Rodrigues I, Lobao D, Mas A, Kambach C, Fischer U, Diez J
+  TITLE     LSm1-7 complexes bind to specific sites in viral RNA genomes and regulate their translation and replication.
+  JOURNAL   RNA 16:817-27 (2010)
+///

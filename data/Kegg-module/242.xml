@@ -1,0 +1,29 @@
+ENTRY       M00242            Complex   Module
+NAME        Zinc transport system
+DEFINITION  K09815+K09816+K09817
+ORTHOLOGY   K09815  znuA; zinc transport system substrate-binding protein
+            K09816  znuB; zinc transport system permease protein
+            K09817  znuC; zinc transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Metallic cation, iron-siderophore and vitamin B12 transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Zinc [CPD:C00038]
+DBLINKS     BSID: 890508
+REFERENCE   PMID:9680209 (zinc)
+  AUTHORS   Patzer SI, Hantke K.
+  TITLE     The ZnuABC high-affinity zinc uptake system and its regulator Zur in Escherichia coli.
+  JOURNAL   Mol Microbiol 28:1199-210 (1998)
+REFERENCE   PMID:9811636 (zinc)
+  AUTHORS   Gaballa A, Helmann JD.
+  TITLE     Identification of a zinc-specific metalloregulatory protein, Zur, controlling zinc transport operons in Bacillus subtilis.
+  JOURNAL   J Bacteriol 180:5815-21 (1998)
+REFERENCE   PMID:9360976 (zinc)
+  AUTHORS   Lu D, Boyd B, Lingwood CA.
+  TITLE     Identification of the key protein for zinc uptake in Hemophilus influenzae.
+  JOURNAL   J Biol Chem 272:29033-8 (1997)
+REFERENCE   PMID:9379902 (zinc)
+  AUTHORS   Dintilhac A, Alloing G, Granadel C, Claverys JP.
+  TITLE     Competence and virulence of Streptococcus pneumoniae: Adc and PsaA mutants exhibit a requirement for Zn and Mn resulting from inactivation of putative ABC metal permeases.
+  JOURNAL   Mol Microbiol 25:727-39 (1997)
+///

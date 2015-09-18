@@ -1,0 +1,24 @@
+ENTRY       M00085            Pathway   Module
+NAME        Fatty acid biosynthesis, elongation, mitochondria
+DEFINITION  (K07508,K07509) (K00022 K07511,K07515) K07512
+ORTHOLOGY   K07508,K07509  acetyl-CoA acyltransferase [EC:2.3.1.16] [RN:R00391]
+            K00022  3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35] [RN:R01778]
+            K07511  enoyl-CoA hydratase [EC:4.2.1.17] [RN:R02685]
+            K07515 enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.211] [RN:R02685 R01778]
+            K07512  trans-2-enoyl-CoA reductase [EC:1.3.1.38] [RN:R07162]
+CLASS       Pathway module; Carbohydrate and lipid metabolism; Fatty acid metabolism
+PATHWAY     map01212  Fatty acid metabolism
+            map00062  Fatty acid elongation
+REACTION    R00391  C00024 -> C00264
+            R01778  C00264 -> C00640
+            R02685  C00640 -> C00658+C00605
+            R07162  C00658 -> C00040
+            R00385  C00605 -> C00040
+COMPOUND    C00024  Acetyl-CoA
+            C00264  3-Oxoacyl-CoA
+            C00640  (3S)-3-Hydroxyacyl-CoA
+            C00658  trans-2,3-Dehydroacyl-CoA
+            C00605  2,3-Dehydroacyl-CoA
+            C00040  Acyl-CoA
+DBLINKS     BSID: 468246
+///

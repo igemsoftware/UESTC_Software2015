@@ -1,0 +1,20 @@
+ENTRY       M00089            Pathway   Module
+NAME        Triacylglycerol biosynthesis
+DEFINITION  (K00629,K13506,K13507,K00630,K13508,K00631,K03621,K08591) (K00655,K13509,K13513,K13517,K13519,K13523,K14674) K01080 (K00635,K11155,K11160)
+ORTHOLOGY   K00629,K13506,K13507,K00630,K13508,K00631,K03621,K08591  glycerol 3-phosphate acyltransferase [EC:2.3.1.15] [RN:R00851]
+            K00655,K13509,K13513,K13517,K13519,K13523,K14674  1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51] [RN:R02241]
+            K01080  phosphatidate phosphatase [EC:3.1.3.4] [RN:R02239]
+            K00635,K11155,K11160,K14456  diacylglycerol O-acyltransferase [EC:2.3.1.20] [RN:R02251]
+CLASS       Pathway module; Carbohydrate and lipid metabolism; Lipid metabolism
+PATHWAY     map00561  Glycerolipid metabolism
+REACTION    R00851  C00093 -> C00681
+            R02241  C00681 -> C00416
+            R02239  C00416 -> C00641
+            R02251  C00641 -> C00422
+COMPOUND    C00093  sn-Glycerol 3-phosphate
+            C00681  1-Acyl-sn-glycerol 3-phosphate
+            C00416  Phosphatidate
+            C00641  1,2-Diacyl-sn-glycerol
+            C00422  Triacylglycerol
+DBLINKS     BSID: 468271
+///

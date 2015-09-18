@@ -1,0 +1,19 @@
+ENTRY       M00585            Complex   Module
+NAME        L-Cystine transport system
+DEFINITION  K16956+K16957+K16958+K16959+K16960
+ORTHOLOGY   K16956  tcyJ; L-cystine transport system substrate-binding protein
+            K16957  tcyK; L-cystine transport system substrate-binding protein
+            K16958  tcyL; L-cystine transport system permease protein
+            K16959  tcyM; L-cystine transport system permease protein
+            K16960  tcyN; L-cystine transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:1:1
+            Substrate: L-Cystine [CPD:C00491]
+DBLINKS     BSID: 890651
+REFERENCE   PMID:15262924
+  AUTHORS   Burguiere P, Auger S, Hullo MF, Danchin A, Martin-Verstraete I
+  TITLE     Three different systems participate in L-cystine uptake in Bacillus subtilis.
+  JOURNAL   J Bacteriol 186:4875-84 (2004)
+///

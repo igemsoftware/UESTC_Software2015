@@ -1,0 +1,29 @@
+ENTRY       M00087            Pathway   Module
+NAME        beta-Oxidation
+DEFINITION  (K00232,K00249,K00255,K06445,K09479) (((K01692,K07511,K13767) (K00022,K07516)),K01825,K01782,K07514,K07515,K10527) (K00632,K07508,K07509,K07513)
+ORTHOLOGY   K00232  acyl-CoA oxidase [EC:1.3.3.6] [RN:R01279]
+            K00249  acyl-CoA dehydrogenase [EC:1.3.8.7] [RN:R01279]
+            K00255  long-chain-acyl-CoA dehydrogenase [EC:1.3.8.8] [RN:R01279]
+            K06445  acyl-CoA dehydrogenase [EC:1.3.99.-] [RN:R01279]
+            K09479  very long chain acyl-CoA dehydrogenase [EC:1.3.8.9] [RN:R01279]
+            K01692,K07511,K13767  enoyl-CoA hydratase [EC:4.2.1.17] [RN:R04738]
+            K00022,K07516  3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35] [RN:R04737]
+            K01825,K01782  3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase [EC:1.1.1.35 4.2.1.17 5.1.2.3 5.3.3.8] [RN:R04738 R04737]
+            K07514  enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:4.2.1.17 1.1.1.35 5.3.3.8] [RN:R04738 R04737]
+            K07515  enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.211] [RN:R04738 R04737]
+            K10527  enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35 1.1.1.211] [RN:R04738 R04737]
+            K00632,K07513,K07508,K07509  acetyl-CoA acyltransferase [EC:2.3.1.16] [RN:R03991]
+CLASS       Pathway module; Carbohydrate and lipid metabolism; Fatty acid metabolism
+PATHWAY     map01212  Fatty acid metabolism
+            map00071  Fatty acid metabolism
+REACTION    R01279  C00154 -> C05272
+            R04738  C05272 -> C05258
+            R04737  C05258 -> C05259
+            R03991  C05259 -> C02593
+COMPOUND    C00154  Palmitoyl-CoA
+            C05272  trans-Hexadec-2-enoyl-CoA
+            C05258  (S)-3-Hydroxyhexadecanoyl-CoA
+            C05259  3-Oxopalmitoyl-CoA
+            C02593  Tetradecanoyl-CoA
+DBLINKS     BSID: 468255
+///

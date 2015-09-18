@@ -1,0 +1,16 @@
+ENTRY       M00414            Complex   Module
+NAME        Bloom's syndrome complex
+DEFINITION  K10901+K03165+K10990+K15365
+ORTHOLOGY   K10901  BLM; bloom syndrome protein [EC:3.6.4.12]
+            K03165  TOP3; DNA topoisomerase III [EC:5.99.1.2]
+            K10990  RMI1; RecQ-mediated genome instability protein 1
+            K15365  RMI2; RecQ-mediated genome instability protein 2
+CLASS       Structural complex; Genetic information processing; Repair system
+PATHWAY     map03460  Fanconi anemia pathway
+BRITE       ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 890629
+REFERENCE   PMID:20064455
+  AUTHORS   Vinciguerra P, D'Andrea AD
+  TITLE     FANCM: A landing pad for the Fanconi Anemia and Bloom's Syndrome complexes.
+  JOURNAL   Mol Cell 36:916-7 (2009)
+///

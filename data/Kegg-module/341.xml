@@ -1,0 +1,32 @@
+ENTRY       M00341            Complex   Module
+NAME        Proteasome, 19S regulatory particle (PA700)
+DEFINITION  K03061+K03062+K03063+K03064+K03065+K03066+K03028+K03032+K03033+K03035+K03036+K03037+K03038+K03039+K03029+K03030+K03031+K06691+K10881
+ORTHOLOGY   K03061  PSMC2; 26S proteasome regulatory subunit T1
+            K03062  PSMC1; 26S proteasome regulatory subunit T2
+            K03063  PSMC4; 26S proteasome regulatory subunit T3
+            K03064  PSMC6; 26S proteasome regulatory subunit T4
+            K03065  PSMC3; 26S proteasome regulatory subunit T5
+            K03066  PSMC5; 26S proteasome regulatory subunit T6
+            K03028  PSMD2; 26S proteasome regulatory subunit N1
+            K03032  PSMD1; 26S proteasome regulatory subunit N2
+            K03033  PSMD3; 26S proteasome regulatory subunit N3
+            K03035  PSMD12; 26S proteasome regulatory subunit N5
+            K03036  PSMD11; 26S proteasome regulatory subunit N6
+            K03037  PSMD6; 26S proteasome regulatory subunit N7
+            K03038  PSMD7; 26S proteasome regulatory subunit N8
+            K03039  PSMD13; 26S proteasome regulatory subunit N9
+            K03029  PSMD4; 26S proteasome regulatory subunit N10
+            K03030  PSMD14; 26S proteasome regulatory subunit N11
+            K03031  PSMD8; 26S proteasome regulatory subunit N12
+            K06691  RPN13; 26S proteasome regulatory subunit N13
+            K10881  SHFM1; 26 proteasome complex subunit DSS1
+CLASS       Structural complex; Genetic information processing; Proteasome
+PATHWAY     map03050  Proteasome
+BRITE       ko03051  Proteasome
+COMMENT     19S proteasome/ PA700 contains approximately 20 subunits, which can be classified into two subgroups: a subgroup of six ATPases (Rpt1 to Rpt6) and a subgroup of more than 15 heterogeneous subunits (Rpn1 to Rpn15).
+DBLINKS     BSID: 890593
+REFERENCE   PMID:16338359
+  AUTHORS   Hirano Y, Murata S, Tanaka K
+  TITLE     Large- and small-scale purification of mammalian 26S proteasomes.
+  JOURNAL   Methods Enzymol 399:227-40 (2005)
+///

@@ -1,0 +1,19 @@
+ENTRY       M00498            FuncSet   Module
+NAME        NtrY-NtrX (nitrogen regulation) two-component regulatory system
+DEFINITION  K13598 K13599
+ORTHOLOGY   K13598  ntrY; NtrC family, nitrogen regulation sensor histidine kinase
+            K13599  ntrX; NtrC family, nitrogen regulation response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Nitrogen limitation [CPD:C00697]
+DBLINKS     BSID: 565951
+REFERENCE   PMID:12045829
+  AUTHORS   Ishida ML, Assumpcao MC, Machado HB, Benelli EM, Souza EM, Pedrosa FO
+  TITLE     Identification and characterization of the two-component NtrY/NtrX regulatory system in Azospirillum brasilense.
+  JOURNAL   Braz J Med Biol Res 35:651-61 (2002)
+REFERENCE   PMID:2556636 (name)
+  AUTHORS   Stock JB, Ninfa AJ, Stock AM
+  TITLE     Protein phosphorylation and regulation of adaptive responses in bacteria.
+  JOURNAL   Microbiol Rev 53:450-90 (1989)
+///

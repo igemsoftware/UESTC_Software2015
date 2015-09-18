@@ -1,0 +1,18 @@
+ENTRY       M00379            Complex   Module
+NAME        SCF-MET30 complex
+DEFINITION  K03868+K03347+K03094+K10259
+ORTHOLOGY   K03868  RBX1; RING-box protein 1
+            K03347  CUL1; cullin 1
+            K03094  SKP1; S-phase kinase-associated protein 1
+            K10259  MET30; F-box and WD-40 domain protein MET30
+CLASS       Structural complex; Genetic information processing; Ubiquitin system
+PATHWAY     map04120  Ubiquitin mediated proteolysis
+            map04111  Cell cycle - yeast
+BRITE       ko04121  Ubiquitin system
+COMMENT     Substrate: Met4, Swe1
+DBLINKS     BSID: 890603
+REFERENCE   PMID:16895602
+  AUTHORS   Kaiser P, Su NY, Yen JL, Ouni I, Flick K
+  TITLE     The yeast ubiquitin ligase SCFMet30: connecting environmental and intracellular conditions to cell division.
+  JOURNAL   Cell Div 1:16 (2006)
+///

@@ -1,0 +1,58 @@
+ENTRY       M00373            Pathway   Module
+NAME        Ethylmalonyl pathway
+DEFINITION  K00626 K00023 K17865 K14446 K05606 K14447 K14448 K14449 K14450 (K01965+K01966) K05606 K01847 
+            K14450 K14451
+ORTHOLOGY   K00626  acetyl-CoA C-acetyltransferase [EC:2.3.1.9] [RN:R00238]
+            K00023  acetoacetyl-CoA reductase [EC:1.1.1.36] [RN:R01977]
+            K17865  3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.55] [RN:R03027]
+            K14446  crotonyl-CoA carboxylase/reductase [EC:1.3.1.85] [RN:R09291]
+            K14447  ethylmalonyl-CoA mutase [RN:R09292]
+            K14448  (2S)-methylsuccinyl-CoA dehydrogenase [RN:R09293]
+            K14449  mesaconyl-CoA hydratase [RN:R05076]
+            K14450  L-malyl-CoA/beta-methylmalyl-CoA lyase [RN:R00934 R00473]
+            K01965+K01966  propionyl-CoA carboxylase [EC:6.4.1.3] [RN:R01859]
+            K05606  methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1] [RN:R09979]
+            K01847  methylmalonyl-CoA mutase [EC:5.4.99.2] [RN:R00833] 
+            K14451  (3S)-malyl-CoA thioesterase [RN:R01256]
+CLASS       Pathway module; Carbohydrate and lipid metabolism; Other carbohydrate metabolism
+PATHWAY     map00630  Glyoxylate and decarboxylate metabolism
+REACTION    R00238  C00024 -> C00332
+            R01977  C00332 -> C03561
+            R03027  C03561 -> C00877
+            R09291  C00877 -> C18026
+            R09979  C18026 -> C20238
+            R09292  C20238 -> C18324
+            R09293  C18324 -> C06028
+            R05076  C06028 -> C06027
+            R00934  C06027 -> C00100 + C00048
+            R01859  C00100 -> C00683
+            R02765  C00683 -> C01213
+            R00833  C01213 -> C00091
+            R00473  C00048 -> C04348
+            R01256  C04348 -> C00149
+COMPOUND    C00024  Acetyl-CoA
+            C00332  Acetoacetyl-CoA
+            C03561  (R)-3-Hydroxybutanoyl-CoA
+            C00877  Crotonoyl-CoA
+            C18026  (2S)-Ethylmalonyl-CoA
+            C20238  (2R)-Ethylmalonyl-CoA
+            C18324  (2S)-Methylsuccinyl-CoA
+            C06028  Mesaconyl-CoA
+            C06027  L-erythro-3-Methylmalyl-CoA
+            C00100  Propanoyl-CoA
+            C00048  Glyoxylate
+            C00683  (S)-Methylmalonyl-CoA
+            C01213  (R)-Methylmalonyl-CoA
+            C00091  Succinyl-CoA
+            C04348  (3S)-3-Carboxy-3-hydroxypropanoyl-CoA
+            C00149  (S)-Malate
+DBLINKS     BSID: 468386
+REFERENCE   PMID:18065535
+  AUTHORS   Zarzycki J, Schlichting A, Strychalsky N, Muller M, Alber BE, Fuchs G
+  TITLE     Mesaconyl-coenzyme A hydratase, a new enzyme of two central carbon metabolic pathways in bacteria.
+  JOURNAL   J Bacteriol 190:1366-74 (2008)
+REFERENCE   PMID:18819910
+  AUTHORS   Erb TJ, Retey J, Fuchs G, Alber BE
+  TITLE     Ethylmalonyl-CoA mutase from Rhodobacter sphaeroides defines a new subclade of coenzyme B12-dependent acyl-CoA mutases.
+  JOURNAL   J Biol Chem 283:32283-93 (2008)
+///

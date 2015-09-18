@@ -1,0 +1,22 @@
+ENTRY       M00219            Complex   Module
+NAME        AI-2 transport system
+DEFINITION  K10555+K10556+K10557+K10558
+ORTHOLOGY   K10555  lsrB; AI-2 transport system substrate-binding protein
+            K10556  lsrC; AI-2 transport system permease protein
+            K10557  lsrD; AI-2 transport system permease protein
+            K10558  lsrA; AI-2 transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: AI-2 [CPD:C16421]
+DBLINKS     BSID: 890486
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:11722742 (AI-2)
+  AUTHORS   Taga ME, Semmelhack JL, Bassler BL.
+  TITLE     The LuxS-dependent autoinducer AI-2 controls the expression of an ABC transporter that functions in AI-2 uptake in Salmonella typhimurium.
+  JOURNAL   Mol Microbiol 42:777-93 (2001)
+///

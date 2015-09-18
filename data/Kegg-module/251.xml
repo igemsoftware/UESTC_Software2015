@@ -1,0 +1,23 @@
+ENTRY       M00251            Complex   Module
+NAME        Teichoic acid transport system
+DEFINITION  K09692+K09693
+ORTHOLOGY   K09692  tagG; teichoic acid transport system permease protein
+            K09693  tagH; teichoic acid transport system ATP-binding protein [EC:3.6.3.40]
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Teichoic acid [CPD:C06707]
+DBLINKS     BSID: 890515
+REFERENCE   PMID:9274022
+  AUTHORS   Paulsen IT, Beness AM, Saier MH Jr.
+  TITLE     Computer-based analyses of the protein constituents of transport systems catalysing export of complex carbohydrates in bacteria.
+  JOURNAL   Microbiology 143 ( Pt 8):2685-99 (1997)
+REFERENCE   PMID:9506471
+  AUTHORS   Saier MH Jr, Paulsen IT, Sliwinski MK, Pao SS, Skurray RA, Nikaido H.
+  TITLE     Evolutionary origins of multidrug and drug-specific efflux pumps in bacteria.
+  JOURNAL   FASEB J 12:265-74 (1998)
+REFERENCE   PMID:7565096
+  AUTHORS   Lazarevic V, Karamata D
+  TITLE     The tagGH operon of Bacillus subtilis 168 encodes a two-component ABC transporter involved in the metabolism of two wall teichoic acids.
+  JOURNAL   Mol Microbiol 16:345-55 (1995)
+///

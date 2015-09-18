@@ -1,0 +1,17 @@
+ENTRY       M00619            Complex   Module
+NAME        Xylobiose transport system
+DEFINITION  K17326+K17327+K17328
+ORTHOLOGY   K17326  bxlE; xylobiose transport system substrate-binding protein
+            K17327  bxlF; xylobiose transport system permease protein
+            K17328  bxlG; xylobiose transport system permease protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1
+            Substrate: Xylobiose [CPD:C01630]
+DBLINKS     BSID: 890671
+REFERENCE   PMID:14761997
+  AUTHORS   Tsujibo H, Kosaka M, Ikenishi S, Sato T, Miyamoto K, Inamori Y
+  TITLE     Molecular characterization of a high-affinity xylobiose transporter of Streptomyces thermoviolaceus OPC-520 and its transcriptional regulation.
+  JOURNAL   J Bacteriol 186:1029-37 (2004)
+///

@@ -1,0 +1,31 @@
+ENTRY       M00372            Pathway   Module
+NAME        Abscisic acid biosynthesis, beta-carotene => abscisic acid
+DEFINITION  (K15746,K15747) K09838 K14594 K09840 K09841 K09842
+ORTHOLOGY   K15746,K15747  beta-carotene hydroxylase [EC:1.14.13.129 1.14.-.-] [RN:R07558 R07559]
+            K09838  zeaxanthin epoxidase [EC:1.14.13.90] [RN:R06946 R07199 R06947 R07200]
+            K14594  NSY; neoxanthin synthase [EC:5.3.99.9] [RN:R06948]
+            K09840  9-cis-epoxycarotenoid dioxygenase [EC:1.13.11.51] [RN:R06952]
+            K09841  xanthoxin dehydrogenase [EC:1.1.1.288] [RN:R06954]
+            K09842  abscisic-aldehyde oxidase [EC:1.2.3.14] [RN:R06957]
+PATHWAY     map00906  Carotenoid biosynthesis
+REACTION    R07558  C02094 -> C08591
+            R07559  C08591 -> C06098
+            R06946,R07199  C06098 -> C08579
+            R06947,R07200  C08579 -> C08614
+            R06948  C08614 -> C08606
+            R06949  C08606 -> C13431
+            R06952  C13431 -> C13453
+            R06954  C13453 -> C13455
+            R06957  C13455 -> C06082
+COMPOUND    C02094  beta-Carotene
+            C08591  beta-Cryptoxanthin
+            C06098  Zeaxanthin
+            C08579  Antheraxanthin
+            C08614  Violaxanthin
+            C08606  Neoxanthin
+            C13431  9'-cis-Neoxanthin
+            C13453  Xanthoxin
+            C13455  Abscisic aldehyde
+            C06082  Abscisate
+DBLINKS     BSID: 468355
+///

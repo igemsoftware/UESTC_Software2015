@@ -1,0 +1,23 @@
+ENTRY       M00412            Complex   Module
+NAME        ESCRT-III complex
+DEFINITION  K12191+K12192+K12193+K12194+K12195+K12196+K12197+K12198+K15053
+ORTHOLOGY   K12191  CHMP2A; charged multivesicular body protein 2A
+            K12192  CHMP2B; charged multivesicular body protein 2B
+            K12193  VPS24; charged multivesicular body protein 3
+            K12194  CHMP4; charged multivesicular body protein 4
+            K12195  CHMP6; charged multivesicular body protein 6
+            K12197  CHMP1; charged multivesicular body protein 1
+            K12198  CHMP5; charged multivesicular body protein 5
+            K15053  CHMP7; charged multivesicular body protein 7
+CLASS       Structural complex; Genetic information processing; Protein processing
+PATHWAY     map04144  Endocytosis
+DBLINKS     BSID: 890627
+REFERENCE   PMID:19143622
+  AUTHORS   Lata S, Schoehn G, Solomons J, Pires R, Gottlinger HG, Weissenhorn W
+  TITLE     Structure and function of ESCRT-III.
+  JOURNAL   Biochem Soc Trans 37:156-60 (2009)
+REFERENCE   PMID:19560911
+  AUTHORS   Hanson PI, Shim S, Merrill SA
+  TITLE     Cell biology of the ESCRT machinery.
+  JOURNAL   Curr Opin Cell Biol 21:568-74 (2009)
+///

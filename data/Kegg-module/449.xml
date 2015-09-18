@@ -1,0 +1,23 @@
+ENTRY       M00449            FuncSet   Module
+NAME        CreC-CreB (phosphate regulation) two-component regulatory system
+DEFINITION  K07641 K07663
+ORTHOLOGY   K07641  creC; OmpR family, sensor histidine kinase
+            K07663  creB; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Carbon source [CPD:C00031]
+DBLINKS     BSID: 565903
+REFERENCE   PMID:15522865
+  AUTHORS   Yamamoto K, Hirao K, Oshima T, Aiba H, Utsumi R, Ishihama A.
+  TITLE     Functional characterization in vitro of all two-component signal transduction systems from Escherichia coli.
+  JOURNAL   J Biol Chem 280:1448-56 (2005)
+REFERENCE   PMID:18375564
+  AUTHORS   Cariss SJ, Tayler AE, Avison MB
+  TITLE     Defining the growth conditions and promoter-proximal DNA sequences required for activation of gene expression by CreBC in Escherichia coli.
+  JOURNAL   J Bacteriol 190:3930-9 (2008)
+REFERENCE   PMID:10500846 (name)
+  AUTHORS   Grebe TW, Stock JB
+  TITLE     The histidine protein kinase superfamily.
+  JOURNAL   Adv Microb Physiol 41:139-227 (1999)
+///

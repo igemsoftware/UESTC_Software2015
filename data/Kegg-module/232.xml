@@ -1,0 +1,30 @@
+ENTRY       M00232            Complex   Module
+NAME        General L-amino acid transport system
+DEFINITION  K09969+K09970+K09971+K09972
+ORTHOLOGY   K09969  aapJ; general L-amino acid transport system substrate-binding protein
+            K09970  aapQ; general L-amino acid transport system permease protein
+            K09971  aapM; general L-amino acid transport system permease protein
+            K09972  aapP; general L-amino acid transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: L-Amino acid [CPD:C00151]
+DBLINKS     BSID: 890498
+REFERENCE   PMID:11421273
+  AUTHORS   Hosie AH, Poole PS.
+  TITLE     Bacterial ABC transporters of amino acids.
+  JOURNAL   Res Microbiol 152:259-70 (2001)
+REFERENCE   PMID:9315727
+  AUTHORS   Walshaw DL, Lowthorpe S, East A, Poole PS.
+  TITLE     Distribution of a sub-class of bacterial ABC polar amino acid transporter and identification of an N-terminal region involved in solute specificity.
+  JOURNAL   FEBS Lett 414:397-401 (1997)
+REFERENCE   PMID:8809753 (L-amino acid)
+  AUTHORS   Zheng S, Haselkorn R.
+  TITLE     A glutamate/glutamine/aspartate/asparagine transport operon in Rhodobacter capsulatus.
+  JOURNAL   Mol Microbiol 20:1001-11 (1996)
+REFERENCE   PMID:8898392 (L-amino acid)
+  AUTHORS   Walshaw DL, Poole PS
+  TITLE     The general L-amino acid permease of Rhizobium leguminosarum is an ABC uptake system that also influences efflux of solutes.
+  JOURNAL   Mol Microbiol 21:1239-52 (1996)
+///

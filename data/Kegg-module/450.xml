@@ -1,0 +1,19 @@
+ENTRY       M00450            FuncSet   Module
+NAME        BaeS-BaeR (envelope stress response) two-component regulatory system
+DEFINITION  K07642 K07664
+ORTHOLOGY   K07642  baeS; OmpR family, sensor histidine kinase
+            K07664  baeR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Cu2+ [CPD:C00070], Zn2+ [CPD:C00038]
+DBLINKS     BSID: 565904
+REFERENCE   PMID:17933888
+  AUTHORS   Nishino K, Nikaido E, Yamaguchi A
+  TITLE     Regulation of multidrug efflux systems involved in multidrug and metal resistance of Salmonella enterica serovar Typhimurium.
+  JOURNAL   J Bacteriol 189:9066-75 (2007)
+REFERENCE   PMID:12354228 (name)
+  AUTHORS   Raffa RG, Raivio TL
+  TITLE     A third envelope stress signal transduction pathway in Escherichia coli.
+  JOURNAL   Mol Microbiol 45:1599-611 (2002)
+///

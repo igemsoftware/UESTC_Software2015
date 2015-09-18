@@ -1,0 +1,12 @@
+ENTRY       M00192            Complex   Module
+NAME        Putative thiamine transport system
+DEFINITION  K05777+K05778+K05779
+ORTHOLOGY   K05777  ABC.VB1X.S; putative thiamine transport system substrate-binding protein
+            K05778  ABC.VB1X.P; putative thiamine transport system permease protein
+            K05779  ABC.VB1X.A; putative thiamine transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Thiamin [CPD:C00378]
+DBLINKS     BSID: 890465
+///

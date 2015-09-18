@@ -1,0 +1,19 @@
+ENTRY       M00293            Complex   Module
+NAME        DNA polymerase zeta  complex
+DEFINITION  K02350+(K03508,K13728)
+ORTHOLOGY   K02350  POLZ1, rev3; DNA polymerase zeta subunit
+            K03508  POLZ2, rev7; DNA polymerase zeta subunit
+            K13728  MAD2L2; mitotic spindle assembly checkpoint protein MAD2B
+CLASS       Structural complex; Genetic information processing; DNA polymerase
+PATHWAY     map03460  Fanconi anemia pathway
+BRITE       ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 468391
+REFERENCE   PMID:15988022
+  AUTHORS   Okada T, Sonoda E, Yoshimura M, Kawano Y, Saya H, Kohzaki M, Takeda S.
+  TITLE     Multiple roles of vertebrate REV genes in DNA repair and recombination.
+  JOURNAL   Mol Cell Biol 25:6103-11 (2005)
+REFERENCE   PMID:20164194
+  AUTHORS   Hara K, Hashimoto H, Murakumo Y, Kobayashi S, Kogame T, Unzai S, Akashi S, Takeda S, Shimizu T, Sato M
+  TITLE     Crystal structure of human REV7 in complex with a human REV3 fragment and structural implication of the interaction between DNA polymerase zeta and REV1.
+  JOURNAL   J Biol Chem 285:12299-307 (2010)
+///

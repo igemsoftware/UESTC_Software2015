@@ -1,0 +1,44 @@
+ENTRY       M00427            Complex   Module
+NAME        Nuclear pore complex
+DEFINITION  K09291+K14295+K14296+K03345+K14297+K14298+K14004+K14299+K14300+K14301+K14302+K14303+K14304+K14305+K14306+K14307+K14308+K14309+K14310+K14311+K14312+K14313+K14314+K14315+K14316+K14317+K14318+K12172+K14319+K10577+K12160+K14320+K14321
+ORTHOLOGY   K09291  TPR; nucleoprotein TPR
+            K14295  NUP50; nuclear pore complex protein Nup50
+            K14296  NUP153; nuclear pore complex protein Nup153
+            K03345  SENP2; sentrin-specific protease 2 (axin associating molecule) [EC:3.4.22.-]
+            K14297  NUP98; nuclear pore complex protein Nup98-Nup96
+            K14298  RAE1; mRNA export factor
+            K14004  SEC13; protein transport protein SEC13
+            K14299  SEH1; nucleoporin SEH1
+            K14300  NUP133; nuclear pore complex protein Nup133
+            K14301  NUP107; nuclear pore complex protein Nup107
+            K14302  NUP37; nuclear pore complex protein Nup37
+            K14303  NUP160; nuclear pore complex protein Nup160
+            K14304  NUP85; nuclear pore complex protein Nup85
+            K14305  NUP43; nuclear pore complex protein Nup43
+            K14306  NUP62; nuclear pore complex protein Nup62
+            K14307  NUPL1; nucleoporin p58/p45
+            K14308  NUP54; nuclear pore complex protein Nup54
+            K14309  NUP93; nuclear pore complex protein Nup93
+            K14310  NUP205; nuclear pore complex protein Nup205
+            K14311  NUP188; nuclear pore complex protein Nup188
+            K14312  NUP155; nuclear pore complex protein Nup155
+            K14313  NUP35; nuclear pore complex protein Nup53
+            K14314  NUP210; nuclear pore complex protein Nup210
+            K14315  NDC1; nucleoporin NDC1
+            K14316  POM121; nuclear pore complex protein Nup121
+            K14317  NUP214; nuclear pore complex protein Nup214
+            K14318  NUP88; nuclear pore complex protein Nup88
+            K12172  RANBP2; E3 SUMO-protein ligase RanBP2
+            K14319  RANGAP1; Ran GTPase-activating protein 1
+            K10577  UBE2I; ubiquitin-conjugating enzyme E2 I [EC:6.3.2.19]
+            K12160  SUMO; small ubiquitin-related modifier
+            K14320  AAAS; aladin
+            K14321  NUPL2; nucleoporin-like protein 2
+CLASS       Structural complex; Genetic information processing; RNA processing
+PATHWAY     map03013  RNA transport
+DBLINKS     BSID: 890636
+REFERENCE   PMID:19524430
+  AUTHORS   Fernandez-Martinez J, Rout MP
+  TITLE     Nuclear pore complex biogenesis.
+  JOURNAL   Curr Opin Cell Biol 21:603-12 (2009)
+///

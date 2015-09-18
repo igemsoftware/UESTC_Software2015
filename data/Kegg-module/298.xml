@@ -1,0 +1,15 @@
+ENTRY       M00298            Complex   Module
+NAME        Multidrug/hemolysin transport system
+DEFINITION  K11051+K11050
+ORTHOLOGY   K11051  ABC-2.CYL.P; multidrug/hemolysin transport system permease protein
+            K11050  ABC-2.CYL.A; multidrug/hemolysin transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Daunorubicin [CPD:C01907], Adriamycin [CPD:C01661], Rhodamine 6G [CPD:C11177]
+DBLINKS     BSID: 890557
+REFERENCE   PMID:16885467 (daunorubicin)
+  AUTHORS   Gottschalk B, Broker G, Kuhn M, Aymanns S, Gleich-Theurer U, Spellerberg B.
+  TITLE     Transport of multidrug resistance substrates by the Streptococcus agalactiae hemolysin transporter.
+  JOURNAL   J Bacteriol 188:5984-92 (2006)
+///

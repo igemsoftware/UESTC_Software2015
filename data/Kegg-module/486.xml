@@ -1,0 +1,23 @@
+ENTRY       M00486            FuncSet   Module
+NAME        CitA-CitB (citrate fermentation) two-component regulatory system
+DEFINITION  K07700 K07702
+ORTHOLOGY   K07700  dpiB, citA; CitB family, sensor histidine kinase
+            K07702  dpiA, citB; CitB family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Citrate [CPD:C00158], Na+ [CPD:C01330], anaerobic condition
+DBLINKS     BSID: 565940
+REFERENCE   PMID:16339740
+  AUTHORS   Sobczak I, Lolkema JS
+  TITLE     The 2-hydroxycarboxylate transporter family: physiology, structure, and mechanism.
+  JOURNAL   Microbiol Mol Biol Rev 69:665-95 (2005)
+REFERENCE   PMID:9701802
+  AUTHORS   Ingmer H, Miller CA, Cohen SN
+  TITLE     Destabilized inheritance of pSC101 and other Escherichia coli plasmids by DpiA, a novel two-component system regulator.
+  JOURNAL   Mol Microbiol 29:49-59 (1998)
+REFERENCE   PMID:10500846 (name)
+  AUTHORS   Grebe TW, Stock JB
+  TITLE     The histidine protein kinase superfamily.
+  JOURNAL   Adv Microb Physiol 41:139-227 (1999)
+///

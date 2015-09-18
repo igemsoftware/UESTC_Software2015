@@ -1,0 +1,20 @@
+ENTRY       M00474            FuncSet   Module
+NAME        RcsC-RcsD-RcsB (capsule synthesis) two-component regulatory system
+DEFINITION  K07677 K07676 K07687
+ORTHOLOGY   K07677  rcsC; NarL family, sensor histidine kinase
+            K07676  rcsD; NarL family, sensor histidine kinase
+            K07687  rcsB; NarL family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Glucose [CPD:C00031]
+DBLINKS     BSID: 565928
+REFERENCE   PMID:16153174
+  AUTHORS   Majdalani N, Gottesman S
+  TITLE     The Rcs phosphorelay: a complex signal transduction system.
+  JOURNAL   Annu Rev Microbiol 59:379-405 (2005)
+REFERENCE   PMID:10500846 (name)
+  AUTHORS   Grebe TW, Stock JB
+  TITLE     The histidine protein kinase superfamily.
+  JOURNAL   Adv Microb Physiol 41:139-227 (1999)
+///

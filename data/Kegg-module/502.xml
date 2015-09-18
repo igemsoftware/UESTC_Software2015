@@ -1,0 +1,18 @@
+ENTRY       M00502            FuncSet   Module
+NAME        GlrK-GlrR (amino sugar metabolism) two-component regulatory system
+DEFINITION  K07711 K07715
+ORTHOLOGY   K07711  glrK, qseE; NtrC family, nitrogen regulation sensor histidine kinase
+            K07715  glrR, qseF; NtrC family, nitrogen regulation response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565955
+REFERENCE   PMID:19843219
+  AUTHORS   Reichenbach B, Gopel Y, Gorke B
+  TITLE     Dual control by perfectly overlapping sigma 54- and sigma 70- promoters adjusts small RNA GlmY expression to different environmental signals.
+  JOURNAL   Mol Microbiol 74:1054-70 (2009)
+REFERENCE   PMID:17220220
+  AUTHORS   Reading NC, Torres AG, Kendall MM, Hughes DT, Yamamoto K, Sperandio V
+  TITLE     A novel two-component signaling system that activates transcription of an enterohemorrhagic Escherichia coli effector involved in remodeling of host actin.
+  JOURNAL   J Bacteriol 189:2468-76 (2007)
+///

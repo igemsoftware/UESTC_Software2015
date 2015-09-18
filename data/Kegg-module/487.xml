@@ -1,0 +1,15 @@
+ENTRY       M00487            FuncSet   Module
+NAME        CitS-CitT (magnesium-citrate transport) two-component regulatory system
+DEFINITION  K11637 K11638
+ORTHOLOGY   K11637  citS; CitB family, sensor histidine kinase
+            K11638  citT; CitB family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal Mg-citrate complex [CPD:C00305 C00158]
+DBLINKS     BSID: 565941
+REFERENCE   PMID:10972810
+  AUTHORS   Yamamoto H, Murata M, Sekiguchi J
+  TITLE     The CitST two-component system regulates the expression of the Mg-citrate transporter in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 37:898-912 (2000)
+///

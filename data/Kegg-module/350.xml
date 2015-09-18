@@ -1,0 +1,37 @@
+ENTRY       M00350            Pathway   Module
+NAME        Capsaicin biosynthesis, L-Phenylalanine => Capsaicin
+DEFINITION  (K10775,K13064) K00487 K01904 K00588
+ORTHOLOGY   K10775,K13064  phenylalanine ammonia-lyase [EC:4.3.1.24 4.3.1.25] [RN:R00697]
+            K00487  trans-cinnamate 4-monooxygenase [EC:1.14.13.11] [RN:R02253]
+            K01904  4-coumarate--CoA ligase [EC:6.2.1.12] [RN:R01616]
+            K00588  caffeoyl-CoA O-methyltransferase [EC:2.1.1.104] [RN:R01942]
+CLASS       Pathway module; Nucleotide and amino acid metabolism; Aromatic amino acid metabolism
+PATHWAY     map00360  Phenylalanine metabolism
+REACTION    R00697  C00079 -> C00423
+            R02253  C00423 -> C00811
+            R01616  C00811 -> C00223
+            R07436  C00223 -> C00323
+            R01942  C00323 -> C00406
+            R05772  C00406 -> C07303
+            R05773  C07303 -> C00755
+            R08461  C00755 -> C16666
+            R09090  C00630 -> C18202
+            R09091  C16666+C18202 -> C06866
+COMPOUND    C00079  L-Phenylalanine
+            C00423  trans-Cinnamate
+            C00811  4-Coumarate
+            C00223  p-Coumaroyl-CoA
+            C00323  Caffeoyl-CoA
+            C00406  Feruloyl-CoA
+            C07303  4-Hydroxy-3-methoxyphenyl-beta-hydroxypropionyl-CoA
+            C00755  4-Hydroxy-3-methoxy-benzaldehyde
+            C16666  Vanillylamine
+            C00630  2-Methylpropanoyl-CoA
+            C18202  8-Methyl-6-nonenoic acid
+            C06866  Capsaicin
+DBLINKS     BSID: 468322
+REFERENCE   PMID:12810854
+  AUTHORS   Aluru MR, Mazourek M, Landry LG, Curry J, Jahn M, O'Connell MA
+  TITLE     Differential expression of fatty acid synthase genes, Acl, Fat and Kas, in Capsicum fruit.
+  JOURNAL   J Exp Bot 54:1655-64 (2003)
+///

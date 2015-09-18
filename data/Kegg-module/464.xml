@@ -1,0 +1,15 @@
+ENTRY       M00464            FuncSet   Module
+NAME        NrsS-NrsR (nickel tolerance) two-component regulatory system
+DEFINITION  K11328 K11330
+ORTHOLOGY   K11328  nrsS, rppB; OmpR family, sensor histidine kinase
+            K11330  nrsR, rppA; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Ni2+ [CPD:C00291]
+DBLINKS     BSID: 565918
+REFERENCE   PMID:11849552
+  AUTHORS   Lopez-Maury L, Garcia-Dominguez M, Florencio FJ, Reyes JC
+  TITLE     A two-component signal transduction system involved in nickel sensing in the cyanobacterium Synechocystis sp. PCC 6803.
+  JOURNAL   Mol Microbiol 43:247-56 (2002)
+///

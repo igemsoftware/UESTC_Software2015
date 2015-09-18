@@ -1,0 +1,21 @@
+ENTRY       M00425            Complex   Module
+NAME        H/ACA ribonucleoprotein complex
+DEFINITION  K11128+K11129+K11130+K11131
+ORTHOLOGY   K11128  GAR1; H/ACA ribonucleoprotein complex subunit 1
+            K11129  NHP2; H/ACA ribonucleoprotein complex subunit 2
+            K11130  NOP10; H/ACA ribonucleoprotein complex subunit 3
+            K11131  DKC1; H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-]
+CLASS       Structural complex; Genetic information processing; RNA processing
+PATHWAY     map03008  Ribosome biogenesis in eukaryotes
+BRITE       ko03032  DNA Replication Proteins
+            ko03009  Ribosome biogenesis
+DBLINKS     BSID: 890634
+REFERENCE   PMID:15044956
+  AUTHORS   Wang C, Meier UT
+  TITLE     Architecture and assembly of mammalian H/ACA small nucleolar and telomerase ribonucleoproteins.
+  JOURNAL   EMBO J 23:1857-67 (2004)
+REFERENCE   PMID:19917616
+  AUTHORS   Hamma T, Ferre-D'Amare AR
+  TITLE     The box H/ACA ribonucleoprotein complex: interplay of RNA and protein structures  in post-transcriptional RNA modification.
+  JOURNAL   J Biol Chem 285:805-9 (2010)
+///

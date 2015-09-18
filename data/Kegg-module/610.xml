@@ -1,0 +1,16 @@
+ENTRY       M00610            Complex   Module
+NAME        PTS system, D-glucosaminate-specific II component
+DEFINITION  K17464+K17465+K17466+K17467
+ORTHOLOGY   K17464  PTS-Dga-EIIA; PTS system, D-glucosaminate-specific IIA component [EC:2.7.1.69]
+            K17465  PTS-Dga-EIIB; PTS system, D-glucosaminate-specific IIB component [EC:2.7.1.69]
+            K17466  PTS-Dga-EIIC; PTS system, D-glucosaminate-specific IIC component
+            K17467  PTS-Dga-EIID; PTS system, D-glucosaminate-specific IID component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890670
+REFERENCE   PMID:23836865
+  AUTHORS   Miller KA, Phillips RS, Mrazek J, Hoover TR
+  TITLE     Salmonella utilizes D-glucosaminate via a mannose family phosphotransferase system permease and associated enzymes.
+  JOURNAL   J Bacteriol 195:4057-66 (2013)
+///

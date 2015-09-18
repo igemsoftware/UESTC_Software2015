@@ -1,0 +1,15 @@
+ENTRY       M00634            Complex   Module
+NAME        Oleandomycin transport system
+DEFINITION  K18233+K18232
+ORTHOLOGY   K18233  oleC5; oleandomycin transport system permease protein
+            K18232  oleC4; oleandomycin transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Oleandomycin [CPD:C01946]
+DBLINKS     BSID: 966886
+REFERENCE   PMID:8326867
+  AUTHORS   Rodriguez AM, Olano C, Vilches C, Mendez C, Salas JA
+  TITLE     Streptomyces antibioticus contains at least three oleandomycin-resistance determinants, one of which shows similarity with proteins of the ABC-transporter  superfamily.
+  JOURNAL   Mol Microbiol 8:571-82 (1993)
+///

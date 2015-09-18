@@ -1,0 +1,19 @@
+ENTRY       M00381            Complex   Module
+NAME        SCF-SKP2 complex
+DEFINITION  K03868+K03347+K03094+K03875
+ORTHOLOGY   K03868  RBX1; RING-box protein 1
+            K03347  CUL1; cullin 1
+            K03094  SKP1; S-phase kinase-associated protein 1
+            K03875  SKP2; F-box and leucine-rich repeat protein 1 (S-phase kinase-associated protein 2)
+CLASS       Structural complex; Genetic information processing; Ubiquitin system
+PATHWAY     map04120  Ubiquitin mediated proteolysis
+            map04110  Cell cycle
+            map05168  Herpes simplex infection
+BRITE       ko04121  Ubiquitin system
+COMMENT     Substrate: CDK9, CDT1, CyclinE, E2A, E2F1, Myc, Kip1/2
+DBLINKS     BSID: 890605
+REFERENCE   PMID:11961546
+  AUTHORS   Zheng N, Schulman BA, Song L, Miller JJ, Jeffrey PD, Wang P, Chu C, Koepp DM, Elledge SJ, Pagano M, Conaway RC, Conaway JW, Harper JW, Pavletich NP
+  TITLE     Structure of the Cul1-Rbx1-Skp1-F boxSkp2 SCF ubiquitin ligase complex.
+  JOURNAL   Nature 416:703-9 (2002)
+///

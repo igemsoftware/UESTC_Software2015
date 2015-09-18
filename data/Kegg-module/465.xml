@@ -1,0 +1,19 @@
+ENTRY       M00465            FuncSet   Module
+NAME        ManS-ManR (manganese homeostasis) two-component regulatory system
+DEFINITION  K11520 K11521
+ORTHOLOGY   K11520  manS; OmpR family, sensor histidine kinase
+            K11521  manR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Mn2+ starvation [CPD:C00034]
+DBLINKS     BSID: 565919
+REFERENCE   PMID:12039966
+  AUTHORS   Ogawa T, Bao DH, Katoh H, Shibata M, Pakrasi HB, Bhattacharyya-Pakrasi M
+  TITLE     A two-component signal transduction pathway regulates manganese homeostasis in Synechocystis 6803, a photosynthetic organism.
+  JOURNAL   J Biol Chem 277:28981-6 (2002)
+REFERENCE   PMID:12417709
+  AUTHORS   Yamaguchi K, Suzuki I, Yamamoto H, Lyukevich A, Bodrova I, Los DA, Piven I, Zinchenko V, Kanehisa M, Murata N
+  TITLE     A two-component Mn2+-sensing system negatively regulates expression of the mntCAB operon in Synechocystis.
+  JOURNAL   Plant Cell 14:2901-13 (2002)
+///

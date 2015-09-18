@@ -1,0 +1,16 @@
+ENTRY       M00591            Complex   Module
+NAME        Putative xylitol transport system
+DEFINITION  K17205+K17206+K17207
+ORTHOLOGY   K17205  xltC; putative xylitol transport system substrate-binding protein
+            K17206  xltB; putative xylitol transport system permease protein
+            K17207  xltA; putative xylitol transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Xylitol [CPD:C00379]
+DBLINKS     BSID: 890656
+REFERENCE   PMID:20836887
+  AUTHORS   Rodionov DA, Yang C, Li X, Rodionova IA, Wang Y, Obraztsova AY, Zagnitko OP, Overbeek R, Romine MF, Reed S, Fredrickson JK, Nealson KH, Osterman AL
+  TITLE     Genomic encyclopedia of sugar utilization pathways in the Shewanella genus.
+  JOURNAL   BMC Genomics 11:494 (2010)
+///

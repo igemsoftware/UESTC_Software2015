@@ -1,0 +1,21 @@
+ENTRY       M00606            Complex   Module
+NAME        N,N'-Diacetylchitobiose transport system
+DEFINITION  K17329+K17330+K17331+K10112
+ORTHOLOGY   K17329  dasA; N,N'-diacetylchitobiose transport system substrate-binding protein
+            K17330  dasB; N,N'-diacetylchitobiose transport system permease protein
+            K17331  dasC; N,N'-diacetylchitobiose transport system permease protein
+            K10112  msmX; multiple sugar transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Chitobiose [CPD:C01674]
+DBLINKS     BSID: 890668
+REFERENCE   PMID:18957589
+  AUTHORS   Saito A, Fujii T, Shinya T, Shibuya N, Ando A, Miyashita K
+  TITLE     The msiK gene, encoding the ATP-hydrolysing component of N,N'-diacetylchitobiose  ABC transporters, is essential for induction of chitinase production in Streptomyces coelicolor A3(2).
+  JOURNAL   Microbiology 154:3358-65 (2008)
+REFERENCE   PMID:17351098
+  AUTHORS   Saito A, Shinya T, Miyamoto K, Yokoyama T, Kaku H, Minami E, Shibuya N, Tsujibo H, Nagata Y, Ando A, Fujii T, Miyashita K
+  TITLE     The dasABC gene cluster, adjacent to dasR, encodes a novel ABC transporter for the uptake of N,N'-diacetylchitobiose in Streptomyces coelicolor A3(2).
+  JOURNAL   Appl Environ Microbiol 73:3000-8 (2007)
+///

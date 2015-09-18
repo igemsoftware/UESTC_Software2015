@@ -1,0 +1,20 @@
+ENTRY       M00509            FuncSet   Module
+NAME        WspE-WspRF (chemosensory) two-component regulatory system
+DEFINITION  K13490 K11444 K13491
+ORTHOLOGY   K13490  wspE; chemotaxis family, sensor histidine kinase/response regulator
+            K11444  wspR; chemotaxis family, response regulator
+            K13491  wspF; chemotaxis family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Cell-to-cell contact or cell-surface interactions
+DBLINKS     BSID: 565962
+REFERENCE   PMID:18028314
+  AUTHORS   Guvener ZT, Harwood CS
+  TITLE     Subcellular location characteristics of the Pseudomonas aeruginosa GGDEF protein, WspR, indicate that it produces cyclic-di-GMP in response to growth on surfaces.
+  JOURNAL   Mol Microbiol 66:1459-73 (2007)
+REFERENCE   PMID:17339222
+  AUTHORS   Bantinaki E, Kassen R, Knight CG, Robinson Z, Spiers AJ, Rainey PB
+  TITLE     Adaptive divergence in experimental populations of Pseudomonas fluorescens. III.  Mutational origins of wrinkly spreader diversity.
+  JOURNAL   Genetics 176:441-53 (2007)
+///

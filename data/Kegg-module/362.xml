@@ -1,0 +1,14 @@
+ENTRY       M00362            FuncSet   Module
+NAME        Nucleotide sugar biosynthesis, prokaryotes
+DEFINITION  K00963 K00965 (K01784,K17716) (K00972,K04042,K11528) K01791 K00012 (K00966,K00971,K16011,K16881)
+ORTHOLOGY   K00963  galU, galF; Glc-1P -> UDP-Glc [EC:2.7.7.9]
+            K00965  galT; Gal-1P -> UDP-Gal [EC:2.7.7.10]
+            K01784,K17716  galE; UDP-Glc -> UDP-Gal [EC:5.1.3.2]
+            K04042,K11528  glmU; GlcNAc-1P -> UDP-GlcNAc [EC:2.7.7.23]
+            K01791  UDP-GlcNAc -> UDP-ManNAc [EC:5.1.3.14]
+            K00012  UDP-Glc -> UDP-GlcA [EC:1.1.1.22]
+            K00966,K00971,K16011,K16881  Man-1P -> GDP-Man [EC:2.7.7.13]
+CLASS       Functional set; Metabolism; Nucleotide sugar
+PATHWAY     map00520  Amino sugar and nucleotide sugar metabolism
+DBLINKS     BSID: 468363
+///

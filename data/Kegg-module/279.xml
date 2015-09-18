@@ -1,0 +1,12 @@
+ENTRY       M00279            Complex   Module
+NAME        PTS system, galactitol-specific II component
+DEFINITION  K02773+K02774+K02775
+ORTHOLOGY   K02773  PTS-Gat-EIIA; PTS system, galactitol-specific IIA component [EC:2.7.1.69]
+            K02774  PTS-Gat-EIIB; PTS system, galactitol-specific IIB component [EC:2.7.1.69]
+            K02775  PTS-Gat-EIIC; PTS system, galactitol-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00052  Galactose metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890541
+///

@@ -1,0 +1,15 @@
+ENTRY       M00393            Complex   Module
+NAME        TRAMP complex
+DEFINITION  (K03514,K12596)+K12597+K12598
+ORTHOLOGY   K03514  POLS; DNA polymerase sigma subunit [EC:2.7.7.7]
+            K12596  TRF5; poly(A) RNA polymerase
+            K12597  AIR1_2; protein AIR1/2
+            K12598  MTR4; ATP-dependent RNA helicase DOB1 [EC:3.6.4.13]
+CLASS       Structural complex; Genetic information processing; RNA processing
+PATHWAY     map03018  RNA degradation
+DBLINKS     BSID: 468399
+REFERENCE   PMID:20696927
+  AUTHORS   Hamill S, Wolin SL, Reinisch KM
+  TITLE     Structure and function of the polymerase core of TRAMP, a RNA surveillance complex.
+  JOURNAL   Proc Natl Acad Sci U S A 107:15045-50 (2010)
+///

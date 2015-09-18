@@ -1,0 +1,20 @@
+ENTRY       M00404            Complex   Module
+NAME        COPII complex
+DEFINITION  K14004+K14005+K14006+K14007+K07953
+ORTHOLOGY   K14004  SEC13; protein transport protein SEC13
+            K14005  SEC31; protein transport protein SEC31
+            K14006  SEC23; protein transport protein SEC23
+            K14007  SEC24; protein transport protein SEC24
+            K07953  SAR1; GTP-binding protein SAR1 [EC:3.6.5.-]
+CLASS       Structural complex; Genetic information processing; Protein processing
+PATHWAY     map04141  Protein processing in endoplasmic reticulum
+DBLINKS     BSID: 890619
+REFERENCE   PMID:17316621
+  AUTHORS   Sato K, Nakano A
+  TITLE     Mechanisms of COPII vesicle formation and protein sorting.
+  JOURNAL   FEBS Lett 581:2076-82 (2007)
+REFERENCE   PMID:17604721
+  AUTHORS   Fath S, Mancias JD, Bi X, Goldberg J
+  TITLE     Structure and organization of coat proteins in the COPII cage.
+  JOURNAL   Cell 129:1325-36 (2007)
+///

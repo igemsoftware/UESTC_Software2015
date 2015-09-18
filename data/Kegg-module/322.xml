@@ -1,0 +1,23 @@
+ENTRY       M00322            Complex   Module
+NAME        Neutral amino acid transport system
+DEFINITION  K11954+K11955+K11956+K11957+K11958
+ORTHOLOGY   K11954  K11954; neutral amino acid transport system substrate-binding protein
+            K11955  natC; neutral amino acid transport system permease protein
+            K11956  natD; neutral amino acid transport system permease protein
+            K11957  K11957; neutral amino acid transport system ATP-binding protein
+            K11958  natE; neutral amino acid transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:1:1
+            Substrate: L-Alanine [CPD:C00041], L-Glutamine [CPD:C00064], Glycine [CPD:C00037], L-Leucine [CPD:C00123], L-Phenylalanine [CPD:C00079], L-Proline [CPD:C00148], L-Serine [CPD:C00065], L-Histidine [CPD:C00135]
+DBLINKS     BSID: 890576
+REFERENCE   PMID:11731493
+  AUTHORS   Quintero MJ, Montesinos ML, Herrero A, Flores E
+  TITLE     Identification of genes encoding amino acid permeases by inactivation of selected ORFs from the Synechocystis genomic sequence.
+  JOURNAL   Genome Res 11:2034-40 (2001)
+REFERENCE   PMID:16135226
+  AUTHORS   Picossi S, Montesinos ML, Pernil R, Lichtle C, Herrero A, Flores E
+  TITLE     ABC-type neutral amino acid permease N-I is required for optimal diazotrophic growth and is repressed in the heterocysts of Anabaena sp. strain PCC 7120.
+  JOURNAL   Mol Microbiol 57:1582-92 (2005)
+///

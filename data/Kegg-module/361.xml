@@ -1,0 +1,14 @@
+ENTRY       M00361            FuncSet   Module
+NAME        Nucleotide sugar biosynthesis, eukaryotes
+DEFINITION  K00963 K01784 K00972 K00012 K08678 (K00966,K00971)
+ORTHOLOGY   K00963  UGP2; Glc-1P -> UDP-Glc [EC:2.7.7.9]
+            K00965  GALT; Gal-1P -> UDP-Gal [EC:2.7.7.12]
+            K01784 GALE; UDP-Glc -> UDP-Gal [EC:5.1.3.2]
+            K00972  UAP1; GlcNAc-1P -> UDP-GlcNAc [EC:2.7.7.23]
+            K00012  UGDH; UDP-Glc -> UDP-GlcA [EC:1.1.1.22]
+            K08678  UXS1; UDP-GlcA -> UDP-Xyl [EC:4.1.1.35]
+            K00966,K00971  GMPP; Man-1P -> GDP-Man [EC:2.7.7.13]
+CLASS       Functional set; Metabolism; Nucleotide sugar
+PATHWAY     map00520  Amino sugar and nucleotide sugar metabolism
+DBLINKS     BSID: 468362
+///

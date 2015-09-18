@@ -1,0 +1,22 @@
+ENTRY       M00329            Complex   Module
+NAME        Multiple protein transport system
+DEFINITION  K12539+K12540
+ORTHOLOGY   K12539  prsD; ATP-binding cassette, subfamily C, bacterial PrsD
+            K12540  prsE; membrane fusion protein PrsE
+CLASS       Structural complex; Environmental information processing; Bacterial secretion system
+BRITE       ko02044  Secretion system
+COMMENT     Substrate: NodO [KO:K12546], PlyA [KO:K12547], RapA/B/C [KO:K12548]
+DBLINKS     BSID: 890583
+REFERENCE   PMID:11902716
+  AUTHORS   Finnie C, Hartley NM, Findlay KC, Downie JA
+  TITLE     The Rhizobium leguminosarum prsDE genes are required for secretion of several proteins, some of which influence nodulation, symbiotic nitrogen fixation and exopolysaccharide modification.
+  JOURNAL   Mol Microbiol 25:135-46 (1997)
+REFERENCE   PMID:9537364
+  AUTHORS   Finnie C, Zorreguieta A, Hartley NM, Downie JA
+  TITLE     Characterization of Rhizobium leguminosarum exopolysaccharide glycanases that are secreted via a type I exporter and have a novel heptapeptide repeat motif.
+  JOURNAL   J Bacteriol 180:1691-9 (1998)
+REFERENCE   PMID:16740954
+  AUTHORS   Russo DM, Williams A, Edwards A, Posadas DM, Finnie C, Dankert M, Downie JA, Zorreguieta A
+  TITLE     Proteins exported via the PrsD-PrsE type I secretion system and the acidic exopolysaccharide are involved in biofilm formation by Rhizobium leguminosarum.
+  JOURNAL   J Bacteriol 188:4474-86 (2006)
+///

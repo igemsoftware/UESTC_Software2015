@@ -1,0 +1,15 @@
+ENTRY       M00499            FuncSet   Module
+NAME        HydH-HydG (metal tolerance) two-component regulatory system
+DEFINITION  K07709 K07713
+ORTHOLOGY   K07709  hydH, zraS; NtrC family, nitrogen regulation sensor histidine kinase
+            K07713  hydG, zraR; NtrC family, nitrogen regulation response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Zn2+ [CPD:C00038], Pb2+ [CPD:C06696]
+DBLINKS     BSID: 565952
+REFERENCE   PMID:11243806
+  AUTHORS   Leonhartsberger S, Huber A, Lottspeich F, Bock A.
+  TITLE     The hydH/G Genes from Escherichia coli code for a zinc and lead responsive two-component regulatory system.
+  JOURNAL   J Mol Biol 307:93-105 (2001)
+///

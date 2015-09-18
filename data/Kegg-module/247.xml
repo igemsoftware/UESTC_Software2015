@@ -1,0 +1,10 @@
+ENTRY       M00247            Complex   Module
+NAME        Putative ABC transport system
+DEFINITION  K01989+K05832+K05833
+ORTHOLOGY   K01989  ABC.X4.S; putative ABC transport system substrate-binding protein
+            K05832  ABC.X4.P; putative ABC transport system permease protein
+            K05833  ABC.X4.A; putative ABC transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Metallic cation, iron-siderophore and vitamin B12 transport system
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890512
+///

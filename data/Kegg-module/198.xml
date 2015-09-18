@@ -1,0 +1,26 @@
+ENTRY       M00198            Complex   Module
+NAME        Putative sn-glycerol-phosphate transport system
+DEFINITION  K05813+K05814+K05815+K05816
+ORTHOLOGY   K05813  ugpB; sn-glycerol 3-phosphate transport system substrate-binding protein
+            K05814  ugpA; sn-glycerol 3-phosphate transport system permease protein
+            K05815  ugpE; sn-glycerol 3-phosphate transport system permease protein
+            K05816  ugpC; sn-glycerol 3-phosphate transport system ATP-binding protein [EC:3.6.3.20]
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: sn-Glycerol 3-phosphate [CPD:C00093]
+DBLINKS     BSID: 890468
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:8407831 (sn-glycerol 3-phosphate)
+  AUTHORS   Hekstra D, Tommassen J.
+  TITLE     Functional exchangeability of the ABC proteins of the periplasmic binding protein-dependent transport systems Ugp and Mal of Escherichia coli.
+  JOURNAL   J Bacteriol 175:6546-52 (1993)
+REFERENCE   PMID:19429609 (glycerol-2-phosphate, glycerol-3-phosphate)
+  AUTHORS   Yang K, Wang M, Metcalf WW
+  TITLE     Uptake of glycerol-2-phosphate via the ugp-encoded transporter in Escherichia coli K-12.
+  JOURNAL   J Bacteriol 191:4667-70 (2009)
+///

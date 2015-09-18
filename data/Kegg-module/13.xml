@@ -1,0 +1,24 @@
+ENTRY       M00013            Pathway   Module
+NAME        Malonate semialdehyde pathway, propanoyl-CoA => Acetyl-CoA
+DEFINITION  K00249 (K07511,K07514,K07515) K05605 -- K00140
+ORTHOLOGY   K00249  acyl-CoA dehydrogenase [EC:1.3.8.7] [RN:R04432]
+            K07511,K07514,K07515  enoyl-CoA hydratase [EC:4.2.1.17] [RN:R03045]
+            K05605  3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4] [RN:R03157 R03158]
+            K00140  malonate-semialdehyde dehydrogenase (acetylating) [EC:1.2.1.18] [RN:R00740]
+CLASS       Pathway module; Carbohydrate and lipid metabolism; Other carbohydrate metabolism
+PATHWAY     map01200  Carbon metabolism
+            map00640  Propanoate metabolism
+REACTION    R04432  C00100 -> C00894
+            R03045  C00894 -> C05668
+            R03158  C05668 -> C01013
+            R01608  C01013 -> C00222
+            R00705,R00706  C00222 -> C00024
+COMPOUND    C00100  Propanoyl-CoA
+            C00894  Propenoyl-CoA
+            C05668  3-Hydroxypropionyl-CoA
+            C01013  3-Hydroxypropanoate
+            C00222  3-Oxopropanoate
+            C00024  Acetyl-CoA
+RMODULE     RM019  Acyl-CoA conversion via hydroxy derivative of 2-oxocarboxylic acid
+DBLINKS     BSID: 468206
+///

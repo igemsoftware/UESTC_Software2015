@@ -1,0 +1,18 @@
+ENTRY       M00643            Signature Module
+NAME        Multidrug resistance, efflux pump MexXY-OprM
+DEFINITION  K18129 K18094+K18095+K18139
+ORTHOLOGY   K18129  mexZ; TetR/AcrR family transcriptional regulator, mexXY operon repressor
+            K18094  mexX; membrane fusion protein
+            K18095  mexY; multidrug efflux pump
+            K18139  oprM; outer membrane protein
+CLASS       Signature module; Gene set; Drug resistance
+BRITE       ko02000  Transporters
+REFERENCE   PMID:15105137
+  AUTHORS   Llanes C, Hocquet D, Vogne C, Benali-Baitich D, Neuwirth C, Plesiat P
+  TITLE     Clinical strains of Pseudomonas aeruginosa overproducing MexAB-OprM and MexXY efflux pumps simultaneously.
+  JOURNAL   Antimicrob Agents Chemother 48:1797-802 (2004)
+REFERENCE   PMID:10952562
+  AUTHORS   Masuda N, Sakagawa E, Ohya S, Gotoh N, Tsujimoto H, Nishino T
+  TITLE     Contribution of the MexX-MexY-oprM efflux system to intrinsic resistance in Pseudomonas aeruginosa.
+  JOURNAL   Antimicrob Agents Chemother 44:2242-6 (2000)
+///

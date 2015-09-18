@@ -1,0 +1,12 @@
+ENTRY       M00281            Complex   Module
+NAME        PTS system, lactose-specific II component
+DEFINITION  K02786+K02787+K02788
+ORTHOLOGY   K02786  PTS-Lac-EIIA; PTS system, lactose-specific IIA component [EC:2.7.1.69]
+            K02787  PTS-Lac-EIIB; PTS system, lactose-specific IIB component [EC:2.7.1.69]
+            K02788  PTS-Lac-EIIC; PTS system, lactose-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00052  Galactose metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890543
+///

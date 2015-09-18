@@ -1,0 +1,17 @@
+ENTRY       M00424            Complex   Module
+NAME        Shelterin complex
+DEFINITION  K11109+K11110+K11111+K11112+K11113-K11114
+ORTHOLOGY   K11109  POT1; protection of telomeres protein 1
+            K11110  TERF1; telomeric repeat-binding factor 1
+            K11111  TERF2; telomeric repeat-binding factor 2
+            K11112  TINF2; TERF1-interacting nuclear factor 2
+            K11113  TERF2IP; telomeric repeat-binding factor 2-interacting protein 1
+            K11114  ACD; adrenocortical dysplasia protein
+CLASS       Structural complex; Genetic information processing; Replication system
+BRITE       ko03032  DNA Replication Proteins
+DBLINKS     BSID: 890633
+REFERENCE   PMID:18828880
+  AUTHORS   Xin H, Liu D, Songyang Z
+  TITLE     The telosome/shelterin complex and its functions.
+  JOURNAL   Genome Biol 9:232 (2008)
+///

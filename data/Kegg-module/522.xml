@@ -1,0 +1,18 @@
+ENTRY       M00522            FuncSet   Module
+NAME        SalK-SalR two-component regulatory system
+DEFINITION  K14988 K14989
+ORTHOLOGY   K14988  salK; NarL family, secretion system sensor histidine kinase
+            K14989  salR; NarL family, secretion system response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565975
+REFERENCE   PMID:18461172
+  AUTHORS   Li M, Wang C, Feng Y, Pan X, Cheng G, Wang J, Ge J, Zheng F, Cao M, Dong Y, Liu D, Wang J, Lin Y, Du H, Gao GF, Wang X, Hu F, Tang J
+  TITLE     SalK/SalR, a two-component signal transduction system, is essential for full virulence of highly invasive Streptococcus suis serotype 2.
+  JOURNAL   PLoS One 3:e2080 (2008)
+REFERENCE   PMID:20071175
+  AUTHORS   Feng Y, Zhang H, Ma Y, Gao GF
+  TITLE     Uncovering newly emerging variants of Streptococcus suis, an important zoonotic agent.
+  JOURNAL   Trends Microbiol 18:124-31 (2010)
+///

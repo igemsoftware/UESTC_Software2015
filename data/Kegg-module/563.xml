@@ -1,0 +1,46 @@
+ENTRY       M00563            Pathway   Module
+NAME        Methanogenesis, methylamine/dimethylamine/trimethylamine => methane
+DEFINITION  K14082 ((K16177-K16176),(K16179-K16178),(K14084-K14083)) (K00399+K00401+K00402) (K03388+K03389+K03390)
+ORTHOLOGY   K14082  mtbA; [methyl-Co(III) methylamine-specific corrinoid protein]:coenzyme M methyltransferase [EC:2.1.1.247] [RN:R09998]
+            K16176  mtmB; methylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.248] [RN:R09998]
+            K16177  mtmC; monomethylamine corrinoid protein [RN:R09998]
+            K16178  mtbB; dimethylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.249] [RN:R09999]
+            K16179  mtbC; dimethylamine corrinoid protein [RN:R09999]
+            K14083  mttB; trimethylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.250] [RN:R09124]
+            K14084  mttC; trimethylamine corrinoid protein [RN:R09124]
+            K00399+K00401+K00402  methyl-coenzyme M reductase [EC:2.8.4.1] [RN:R04541]
+            K03388+K03389+K03390  heterodisulfide reductase [EC:1.8.98.1] [RN:R04540]
+CLASS       Pathway module; Energy metabolism; Methane metabolism
+            Signature module; Gene set; Metabolic capacity; 
+PATHWAY     map01200  Carbon metabolism
+            map00680  Methane metabolism
+REACTION    R09998  C00218 -> C03920
+            R09999  C00543 -> C03920
+            R09124  C00565 -> C03920 
+            R04541  C03920 + C04628 -> C01438 + C04832
+            R04540  C04832 -> C04628
+COMPOUND    C00218  Methylamine
+            C03920  2-(Methylthio)ethanesulfonate
+            C00543  Dimethylamine
+            C00565  Trimethylamine
+            C04628  Coenzyme B
+            C01438  Methane
+            C04832  Coenzyme M 7-mercaptoheptanoylthreonine-phosphate heterodisulfide
+DBLINKS     BSID: 672426
+REFERENCE   PMID:9642198
+  AUTHORS   Burke SA, Lo SL, Krzycki JA
+  TITLE     Clustered genes encoding the methyltransferases of methanogenesis from monomethylamine.
+  JOURNAL   J Bacteriol 180:3432-40 (1998)
+REFERENCE   PMID:20847933
+  AUTHORS   Rother M, Krzycki JA
+  TITLE     Selenocysteine, pyrrolysine, and the unique energy metabolism of methanogenic archaea.
+  JOURNAL   Archaea 2010 (2010)
+REFERENCE   PMID:15882413
+  AUTHORS   Pritchett MA, Metcalf WW
+  TITLE     Genetic, physiological and biochemical characterization of multiple methanol methyltransferase isozymes in Methanosarcina acetivorans C2A.
+  JOURNAL   Mol Microbiol 56:1183-94 (2005)
+REFERENCE   PMID:16096277
+  AUTHORS   Soares JA, Zhang L, Pitsch RL, Kleinholz NM, Jones RB, Wolff JJ, Amster J, Green-Church KB, Krzycki JA
+  TITLE     The residue mass of L-pyrrolysine in three distinct methylamine methyltransferases.
+  JOURNAL   J Biol Chem 280:36962-9 (2005)
+///

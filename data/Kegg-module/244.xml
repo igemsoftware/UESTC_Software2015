@@ -1,0 +1,11 @@
+ENTRY       M00244            Complex   Module
+NAME        Putative zinc/manganese transport system
+DEFINITION  K02077+K02075+K02074
+ORTHOLOGY   K02077  ABC.ZM.S; zinc/manganese transport system substrate-binding protein
+            K02075  ABC.ZM.P; zinc/manganese transport system permease protein
+            K02074  ABC.ZM.A; zinc/manganese transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Metallic cation, iron-siderophore and vitamin B12 transport system
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+DBLINKS     BSID: 890510
+///

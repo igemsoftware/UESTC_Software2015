@@ -1,0 +1,27 @@
+ENTRY       M00201            Complex   Module
+NAME        alpha-Glucoside transport system
+DEFINITION  K10232+K10233+K10234-(K10235,K10112)
+ORTHOLOGY   K10232  aglE; alpha-glucoside transport system substrate-binding protein
+            K10233  aglF; alpha-glucoside transport system permease protein
+            K10234  aglG; alpha-glucoside transport system permease protein
+            K10235  aglK; alpha-glucoside transport system ATP-binding protein
+            K10112  msmX; multiple sugar transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: Sucrose [CPD:C00089], Maltose [CPD:C00208], Trehalose [CPD:C01083]
+DBLINKS     BSID: 890428
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:10400573 (sucrose, maltose, trehalose)
+  AUTHORS   Willis LB, Walker GC.
+  TITLE     A novel Sinorhizobium meliloti operon encodes an alpha-glucosidase and a periplasmic-binding-protein-dependent transport system for alpha-glucosides.
+  JOURNAL   J Bacteriol 181:4176-84 (1999)
+REFERENCE   PMID:11081796
+  AUTHORS   Mikkat S, Hagemann M
+  TITLE     Molecular analysis of the ggtBCD gene cluster of Synechocystis sp. strain PCC6803 encoding subunits of an ABC transporter for osmoprotective compounds.
+  JOURNAL   Arch Microbiol 174:273-82 (2000)
+///

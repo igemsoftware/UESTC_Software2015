@@ -1,0 +1,15 @@
+ENTRY       M00447            FuncSet   Module
+NAME        CpxA-CpxR (envelope stress response) two-component regulatory system
+DEFINITION  K07640 K07662
+ORTHOLOGY   K07640  cpxA; OmpR family, sensor histidine kinase
+            K07662  cpxR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Misfolded proteins
+DBLINKS     BSID: 565901
+REFERENCE   PMID:15882407
+  AUTHORS   Raivio TL
+  TITLE     Envelope stress responses and Gram-negative bacterial pathogenesis.
+  JOURNAL   Mol Microbiol 56:1119-28 (2005)
+///

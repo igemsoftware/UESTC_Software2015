@@ -1,0 +1,19 @@
+ENTRY       M00483            FuncSet   Module
+NAME        NreB-NreC (dissimilatory nitrate/nitrite reduction) two-component regulatory system
+DEFINITION  K07683 K07696
+ORTHOLOGY   K07683  nreB; NarL family, sensor histidine kinase
+            K07696  nreC; NarL family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: O2 [CPD:C00007]
+DBLINKS     BSID: 565937
+REFERENCE   PMID:15101978
+  AUTHORS   Kamps A, Achebach S, Fedtke I, Unden G, Gotz F
+  TITLE     Staphylococcal NreB: an O(2)-sensing histidine protein kinase with an O(2)-labile iron-sulphur cluster of the FNR type.
+  JOURNAL   Mol Microbiol 52:713-23 (2004)
+REFERENCE   PMID:12426351
+  AUTHORS   Fedtke I, Kamps A, Krismer B, Gotz F.
+  TITLE     The nitrate reductase and nitrite reductase operons and the narT gene of Staphylococcus carnosus are positively controlled by the novel two-component system NreBC.
+  JOURNAL   J Bacteriol 184:6624-34 (2002)
+///

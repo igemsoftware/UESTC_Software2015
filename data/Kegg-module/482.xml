@@ -1,0 +1,19 @@
+ENTRY       M00482            FuncSet   Module
+NAME        DevS-DevR (redox response) two-component regulatory system
+DEFINITION  K07682 K07695
+ORTHOLOGY   K07682  devS; NarL family, sensor histidine kinase
+            K07695  devR; NarL family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Hypoxia [CPD:C00007]
+DBLINKS     BSID: 565936
+REFERENCE   PMID:20675480
+  AUTHORS   Kim MJ, Park KJ, Ko IJ, Kim YM, Oh JI
+  TITLE     Different roles of DosS and DosT in the hypoxic adaptation of Mycobacteria.
+  JOURNAL   J Bacteriol 192:4868-75 (2010)
+REFERENCE   PMID:19217827
+  AUTHORS   Malhotra V, Tyagi JS, Clark-Curtiss JE
+  TITLE     DevR-mediated adaptive response in Mycobacterium tuberculosis H37Ra: links to asparagine metabolism.
+  JOURNAL   Tuberculosis (Edinb) 89:169-74 (2009)
+///

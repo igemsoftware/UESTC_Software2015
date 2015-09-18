@@ -1,0 +1,15 @@
+ENTRY       M00497            FuncSet   Module
+NAME        GlnL-GlnG (nitrogen regulation) two-component regulatory system
+DEFINITION  K07708 K07712
+ORTHOLOGY   K07708  glnL, ntrB; NtrC family, nitrogen regulation sensor histidine kinase
+            K07712  glnG, ntrC; NtrC family, nitrogen regulation response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Nitrogen limitation [CPD:C00697]
+DBLINKS     BSID: 565950
+REFERENCE   PMID:12730324
+  AUTHORS   Reitzer L
+  TITLE     Nitrogen assimilation and global regulation in Escherichia coli.
+  JOURNAL   Annu Rev Microbiol 57:155-76 (2003)
+///

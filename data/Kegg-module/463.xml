@@ -1,0 +1,14 @@
+ENTRY       M00463            FuncSet   Module
+NAME        TrcS-TrcR two-component regulatory system
+DEFINITION  K07656 K07672
+ORTHOLOGY   K07656  trcS; OmpR family, sensor histidine kinase
+            K07672  trcR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565917
+REFERENCE   PMID:11914351
+  AUTHORS   Haydel SE, Benjamin WH Jr, Dunlap NE, Clark-Curtiss JE
+  TITLE     Expression, autoregulation, and DNA binding properties of the Mycobacterium tuberculosis TrcR response regulator.
+  JOURNAL   J Bacteriol 184:2192-203 (2002)
+///

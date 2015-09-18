@@ -1,0 +1,14 @@
+ENTRY       M00460            FuncSet   Module
+NAME        MprB-MprA (maintenance of persistent infection) two-component regulatory system
+DEFINITION  K07653 K07669
+ORTHOLOGY   K07653  mprB; OmpR family, sensor histidine kinase
+            K07669  mprA; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565914
+REFERENCE   PMID:15601704
+  AUTHORS   He H, Zahrt TC.
+  TITLE     Identification and characterization of a regulatory sequence recognized by Mycobacterium tuberculosis persistence regulator MprA.
+  JOURNAL   J Bacteriol 187:202-12 (2005)
+///

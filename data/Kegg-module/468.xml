@@ -1,0 +1,31 @@
+ENTRY       M00468            FuncSet   Module
+NAME        SaeS-SaeR (staphylococcal virulence regulation) two-component regulatory system
+DEFINITION  K10681 K10682
+ORTHOLOGY   K10681  saeS; OmpR family, sensor histidine kinase
+            K10682  saeR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: H2O2 [CPD:C00027], alpha-Defensins [CPD:C16054 C16055 C16056 C16057 C16058 C18313], beta-Lactam [CPD:C01866]
+DBLINKS     BSID: 565922
+REFERENCE   PMID:20172998
+  AUTHORS   Sun F, Li C, Jeong D, Sohn C, He C, Bae T
+  TITLE     In the Staphylococcus aureus two-component system sae, the response regulator SaeR binds to a direct repeat sequence and DNA binding requires phosphorylation by the sensor kinase SaeS.
+  JOURNAL   J Bacteriol 192:2111-27 (2010)
+REFERENCE   PMID:18174341
+  AUTHORS   Li D, Cheung A
+  TITLE     Repression of hla by rot is dependent on sae in Staphylococcus aureus.
+  JOURNAL   Infect Immun 76:1068-75 (2008)
+REFERENCE   PMID:14523104
+  AUTHORS   Novick RP, Jiang D
+  TITLE     The staphylococcal saeRS system coordinates environmental signals with agr quorum sensing.
+  JOURNAL   Microbiology 149:2709-17 (2003)
+REFERENCE   PMID:18344360
+  AUTHORS   Geiger T, Goerke C, Mainiero M, Kraus D, Wolz C
+  TITLE     The virulence regulator Sae of Staphylococcus aureus: promoter activities and response to phagocytosis-related signals.
+  JOURNAL   J Bacteriol 190:3419-28 (2008)
+REFERENCE   PMID:17263851
+  AUTHORS   Kuroda H, Kuroda M, Cui L, Hiramatsu K
+  TITLE     Subinhibitory concentrations of beta-lactam induce haemolytic activity in Staphylococcus aureus through the SaeRS two-component system.
+  JOURNAL   FEMS Microbiol Lett 268:98-105 (2007)
+///

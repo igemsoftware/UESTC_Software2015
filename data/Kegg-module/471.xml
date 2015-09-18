@@ -1,0 +1,19 @@
+ENTRY       M00471            FuncSet   Module
+NAME        NarX-NarL (nitrate respiration) two-component regulatory system
+DEFINITION  K07673 K07684
+ORTHOLOGY   K07673  narX; NarL family, sensor histidine kinase
+            K07684  narL; NarL family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Nitrate [CPD:C00244], Nitrite [CPD:C00088]
+DBLINKS     BSID: 565925
+REFERENCE   PMID:19968795 (name)
+  AUTHORS   Noriega CE, Lin HY, Chen LL, Williams SB, Stewart V
+  TITLE     Asymmetric cross-regulation between the nitrate-responsive NarX-NarL and NarQ-NarP two-component regulatory systems from Escherichia coli K-12.
+  JOURNAL   Mol Microbiol 75:394-412 (2010)
+REFERENCE   PMID:8501030
+  AUTHORS   Rabin RS, Stewart V.
+  TITLE     Dual response regulators (NarL and NarP) interact with dual sensors (NarX and NarQ) to control nitrate- and nitrite-regulated gene expression in Escherichia coli K-12.
+  JOURNAL   J Bacteriol 175:3259-68 (1993)
+///

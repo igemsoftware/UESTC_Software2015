@@ -1,0 +1,41 @@
+ENTRY       M00352            Complex   Module
+NAME        Spliceosome, U2-snRNP
+DEFINITION  K11086+K11087+K11096+K11088+K11097+K11098+K11099+K11092+K11094+K12825+K12826+K12827+K12828+K12829+K12830+K12831+K12832+K12833+K12835+K12834
+ORTHOLOGY   K11086  SNRPB; small nuclear ribonucleoprotein B and B'
+            K11087  SNRPD1; small nuclear ribonucleoprotein D1
+            K11096  SNRPD2; small nuclear ribonucleoprotein D2
+            K11088  SNRPD3; small nuclear ribonucleoprotein D3
+            K11097  SNRPE; small nuclear ribonucleoprotein E
+            K11098  SNRPF; small nuclear ribonucleoprotein F
+            K11099  SNRPG; small nuclear ribonucleoprotein G
+            K11092  SNRPA1; U2 small nuclear ribonucleoprotein A'
+            K11094  SNRPB2; U2 small nuclear ribonucleoprotein B''
+            K12825  SF3A1; splicing factor 3A subunit 1
+            K12826  SF3A2; splicing factor 3A subunit 2
+            K12827  SF3A3; splicing factor 3A subunit 3
+            K12828  SF3B1; splicing factor 3B subunit 1
+            K12829  SF3B2; splicing factor 3B subunit 2
+            K12830  SF3B3; splicing factor 3B subunit 3
+            K12831  SF3B4; splicing factor 3B subunit 4
+            K12832  SF3B5; splicing factor 3B subunit 5
+            K12833  SF3B14; pre-mRNA branch site protein p14
+            K12835  DDX42; ATP-dependent RNA helicase DDX42 [EC:3.6.4.13]
+            K12834  PHF5A; PHD finger-like domain-containing protein 5A
+CLASS       Structural complex; Genetic information processing; Spliceosome
+PATHWAY     map03040  Spliceosome
+BRITE       ko03041  Spliceosome
+COMMENT     containing  Sm core complex [MD:M00736]
+DBLINKS     BSID: 890599
+REFERENCE   PMID:19239890
+  AUTHORS   Wahl MC, Will CL, Luhrmann R
+  TITLE     The spliceosome: design principles of a dynamic RNP machine.
+  JOURNAL   Cell 136:701-18 (2009)
+REFERENCE   PMID:16537922
+  AUTHORS   Dybkov O, Will CL, Deckert J, Behzadnia N, Hartmuth K, Luhrmann R
+  TITLE     U2 snRNA-protein contacts in purified human 17S U2 snRNPs and in spliceosomal A and B complexes.
+  JOURNAL   Mol Cell Biol 26:2803-16 (2006)
+REFERENCE   PMID:17996698
+  AUTHORS   Marzluff WF
+  TITLE     U2 snRNP: not just for poly(A) mRNAs.
+  JOURNAL   Mol Cell 28:353-4 (2007)
+///

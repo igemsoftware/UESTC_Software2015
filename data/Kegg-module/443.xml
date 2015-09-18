@@ -1,0 +1,15 @@
+ENTRY       M00443            FuncSet   Module
+NAME        SenX3-RegX3 (phosphate starvation response) two-component regulatory system
+DEFINITION  K07768 K07776
+ORTHOLOGY   K07768  senX3; OmpR family, sensor histidine kinase
+            K07776  regX3; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Phosphate limitation [CPD:C00059]
+DBLINKS     BSID: 565897
+REFERENCE   PMID:17526710
+  AUTHORS   Glover RT, Kriakov J, Garforth SJ, Baughn AD, Jacobs WR Jr
+  TITLE     The two-component regulatory system senX3-regX3 regulates phosphate-dependent gene expression in Mycobacterium smegmatis.
+  JOURNAL   J Bacteriol 189:5495-503 (2007)
+///

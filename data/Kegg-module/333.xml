@@ -1,0 +1,45 @@
+ENTRY       M00333            Complex   Module
+NAME        Type IV secretion system
+DEFINITION  -K03194-K03197-K03198-K03200-K03202+K03204-K03201-K03203+K03195+K03199+K03196+K03205
+ORTHOLOGY   K03194  virB1; type IV secretion system protein VirB1
+            K03197  virB2; type IV secretion system protein VirB2
+            K03198  virB3; type IV secretion system protein VirB3
+            K03200  virB5; type IV secretion system protein VirB5
+            K03202  virB7; type IV secretion system protein VirB7
+            K03204  virB9; type IV secretion system protein VirB9
+            K03201  virB6; type IV secretion system protein VirB6
+            K03203  virB8; type IV secretion system protein VirB8
+            K03195  virB10; type IV secretion system protein VirB10
+            K03199  virB4; type IV secretion system protein VirB4
+            K03196  virB11; type IV secretion system protein VirB11
+            K03205  virD4; type IV secretion system protein VirD4
+CLASS       Structural complex; Environmental information processing; Bacterial secretion system
+PATHWAY     map03070  Bacterial secretion system
+BRITE       ko02044  Secretion system
+COMMENT     Substrate: Effector proteins, DNA, DNA-protein complexes
+DBLINKS     BSID: 890587
+REFERENCE   PMID:17215876
+  AUTHORS   Baron C
+  TITLE     VirB8: a conserved type IV secretion system assembly factor and drug target.
+  JOURNAL   Biochem Cell Biol 84:890-9 (2006)
+REFERENCE   PMID:17943123
+  AUTHORS   Kwok T, Zabler D, Urman S, Rohde M, Hartig R, Wessler S, Misselwitz R, Berger J, Sewald N, Konig W, Backert S
+  TITLE     Helicobacter exploits integrin for type IV secretion and kinase activation.
+  JOURNAL   Nature 449:862-6 (2007)
+REFERENCE   PMID:16092524
+  AUTHORS   Christie PJ, Cascales E
+  TITLE     Structural and dynamic properties of bacterial type IV secretion systems (review).
+  JOURNAL   Mol Membr Biol 22:51-61 (2005)
+REFERENCE   PMID:16153176
+  AUTHORS   Christie PJ, Atmakuri K, Krishnamoorthy V, Jakubowski S, Cascales E
+  TITLE     Biogenesis, architecture, and function of bacterial type IV secretion systems.
+  JOURNAL   Annu Rev Microbiol 59:451-85 (2005)
+REFERENCE   PMID:15035043
+  AUTHORS   Cascales E, Christie PJ
+  TITLE     The versatile bacterial type IV secretion systems.
+  JOURNAL   Nat Rev Microbiol 1:137-49 (2003)
+REFERENCE   PMID:22411979 (definition)
+  AUTHORS   Zechner EL, Lang S, Schildbach JF
+  TITLE     Assembly and mechanisms of bacterial type IV secretion machines.
+  JOURNAL   Philos Trans R Soc Lond B Biol Sci 367:1073-87 (2012)
+///

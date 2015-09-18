@@ -1,0 +1,33 @@
+ENTRY       M00337            Complex   Module
+NAME        Immunoproteasome
+DEFINITION  K02725+K02726+K02727+K02728+K02729+K02730+K02731+K02732+K02734+K02735+K02736+K02741+K02733+K02740+K06696+K06697
+ORTHOLOGY   K02725  PSMA1; 20S proteasome subunit alpha 6 [EC:3.4.25.1]
+            K02726  PSMA2; 20S proteasome subunit alpha 2 [EC:3.4.25.1]
+            K02727  PSMA3; 20S proteasome subunit alpha 7 [EC:3.4.25.1]
+            K02728  PSMA4; 20S proteasome subunit alpha 3 [EC:3.4.25.1]
+            K02729  PSMA5; 20S proteasome subunit alpha 5 [EC:3.4.25.1]
+            K02730  PSMA6; 20S proteasome subunit alpha 1 [EC:3.4.25.1]
+            K02731  PSMA7; 20S proteasome subunit alpha 4 [EC:3.4.25.1]
+            K02732  PSMB1; 20S proteasome subunit beta 6 [EC:3.4.25.1]
+            K02734  PSMB2; 20S proteasome subunit beta 4 [EC:3.4.25.1]
+            K02735  PSMB3; 20S proteasome subunit beta 3 [EC:3.4.25.1]
+            K02736  PSMB4; 20S proteasome subunit beta 7 [EC:3.4.25.1]
+            K02741  PSMB9; 20S proteasome subunit beta 9 [EC:3.4.25.1]
+            K02733  PSMB10; 20S proteasome subunit beta 10 [EC:3.4.25.1]
+            K02740  PSMB8; 20S proteasome subunit beta 8 [EC:3.4.25.1]
+            K06696  PSME1; proteasome activator subunit 1 (PA28 alpha)
+            K06697  PSME2; proteasome activator subunit 2 (PA28 beta)
+CLASS       Structural complex; Genetic information processing; Proteasome
+PATHWAY     map03050  Proteasome
+BRITE       ko03051  Proteasome
+COMMENT     PA28 and PA28beta combine to form PA28/beta hetero-hexameric or hetero-heptameric rings.
+DBLINKS     BSID: 890590
+REFERENCE   PMID:15967978
+  AUTHORS   Yewdell JW
+  TITLE     Immunoproteasomes: regulating the regulator.
+  JOURNAL   Proc Natl Acad Sci U S A 102:9089-90 (2005)
+REFERENCE   PMID:10220354
+  AUTHORS   Zhang Z, Krutchinsky A, Endicott S, Realini C, Rechsteiner M, Standing KG
+  TITLE     Proteasome activator 11S REG or PA28: recombinant REG alpha/REG beta hetero-oligomers are heptamers.
+  JOURNAL   Biochemistry 38:5651-8 (1999)
+///

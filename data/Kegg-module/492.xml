@@ -1,0 +1,19 @@
+ENTRY       M00492            FuncSet   Module
+NAME        LytS-LytR two-component regulatory system
+DEFINITION  K07704 K07705
+ORTHOLOGY   K07704  lytS; LytT family, sensor histidine kinase
+            K07705  lytR; LytT family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Have a role in autolysis and cell wall metabolism
+DBLINKS     BSID: 565945
+REFERENCE   PMID:21478346
+  AUTHORS   Liu Y, Burne RA
+  TITLE     The major autolysin of Streptococcus gordonii is subject to complex regulation and modulates stress tolerance, biofilm formation, and extracellular-DNA release.
+  JOURNAL   J Bacteriol 193:2826-37 (2011)
+REFERENCE   PMID:8550490
+  AUTHORS   Brunskill EW, Bayles KW.
+  TITLE     Identification and molecular characterization of a putative regulatory locus that affects autolysis in Staphylococcus aureus.
+  JOURNAL   J Bacteriol 178:611-8 (1996)
+///

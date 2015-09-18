@@ -1,0 +1,21 @@
+ENTRY       M00415            Pathway   Module
+NAME        Fatty acid biosynthesis, elongation, endoplasmic reticulum
+DEFINITION  (K10247,K10205,K10248,K10249,K10244,K10203,K10250,K15397,K10245,K10246) K10251 K10703 K10258
+ORTHOLOGY   K10247,K10205,K10248,K10249,K10244,K10203,K10250,K15397,K10245,K10246  elongation of very long chain fatty acids protein [EC:2.3.1.199] [RN:R09419]
+            K10251  beta-keto reductase [EC:1.1.1.330] [RN:R01778]
+            K10703  3-hydroxy acyl-CoA dehydratase [EC:4.2.1.134] [RN:R02685]
+            K10258  enoyl reductase [EC:1.3.1.93] [RN:R09449]
+CLASS       Pathway module; Carbohydrate and lipid metabolism; Fatty acid metabolism
+PATHWAY     map01212  Fatty acid metabolism
+            map00062  Fatty acid elongation
+REACTION    R09419  C00083 -> C00264
+            R01779  C00264 -> C00640
+            R02685  C00640 -> C00658
+            R09449  C00658 -> C02843
+COMPOUND    C00083  Malonyl-CoA
+            C00264  3-Oxoacyl-CoA
+            C00640  (3S)-3-Hydroxyacyl-CoA
+            C00658  trans-2,3-Dehydroacyl-CoA
+            C02843  Long-chain acyl-CoA
+DBLINKS     BSID: 468402
+///

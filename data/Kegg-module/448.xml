@@ -1,0 +1,15 @@
+ENTRY       M00448            FuncSet   Module
+NAME        CssS-CssR (secretion stress response) two-component regulatory system
+DEFINITION  K07650 K07770
+ORTHOLOGY   K07650  cssS; OmpR family, sensor histidine kinase
+            K07770  cssR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Misfolded proteins, secretion stress
+DBLINKS     BSID: 565902
+REFERENCE   PMID:11555295
+  AUTHORS   Hyyrylainen HL, Bolhuis A, Darmon E, Muukkonen L, Koski P, Vitikainen M, Sarvas M, Pragai Z, Bron S, van Dijl JM, Kontinen VP.
+  TITLE     A novel two-component regulatory system in Bacillus subtilis for the survival of severe secretion stress.
+  JOURNAL   Mol Microbiol 41:1159-72 (2001)
+///

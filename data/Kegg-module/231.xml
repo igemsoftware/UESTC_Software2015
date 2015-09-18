@@ -1,0 +1,30 @@
+ENTRY       M00231            Complex   Module
+NAME        Octopine/nopaline transport system
+DEFINITION  K10018+K10019+K10020+K10021
+ORTHOLOGY   K10018  occT; octopine/nopaline transport system substrate-binding protein
+            K10019  occM; octopine/nopaline transport system permease protein
+            K10020  occQ; octopine/nopaline transport system permease protein
+            K10021  occP; octopine/nopaline transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: D-Nopaline [CPD:C01682], D-Octopine [CPD:C04137]
+DBLINKS     BSID: 890497
+REFERENCE   PMID:11421273
+  AUTHORS   Hosie AH, Poole PS.
+  TITLE     Bacterial ABC transporters of amino acids.
+  JOURNAL   Res Microbiol 152:259-70 (2001)
+REFERENCE   PMID:9315727
+  AUTHORS   Walshaw DL, Lowthorpe S, East A, Poole PS.
+  TITLE     Distribution of a sub-class of bacterial ABC polar amino acid transporter and identification of an N-terminal region involved in solute specificity.
+  JOURNAL   FEBS Lett 414:397-401 (1997)
+REFERENCE   PMID:1732218 (D-nopaline, D-octopine)
+  AUTHORS   Zanker H, von Lintig J, Schroder J
+  TITLE     Opine transport genes in the octopine (occ) and nopaline (noc) catabolic regions  in Ti plasmids of Agrobacterium tumefaciens.
+  JOURNAL   J Bacteriol 174:841-9 (1992)
+REFERENCE   PMID:1655707 (D-octopine)
+  AUTHORS   Valdivia RH, Wang L, Winans SC.
+  TITLE     Characterization of a putative periplasmic transport system for octopine accumulation encoded by Agrobacterium tumefaciens Ti plasmid pTiA6.
+  JOURNAL   J Bacteriol 173:6398-405 (1991)
+///

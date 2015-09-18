@@ -1,0 +1,15 @@
+ENTRY       M00221            Complex   Module
+NAME        Putative simple sugar transport system
+DEFINITION  K02058+K02057+K02056
+ORTHOLOGY   K02058  ABC.SS.S; simple sugar transport system substrate-binding protein
+            K02057  ABC.SS.P; simple sugar transport system permease protein
+            K02056  ABC.SS.A; simple sugar transport system ATP-binding protein [EC:3.6.3.17]
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:1
+DBLINKS     BSID: 890488
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+///

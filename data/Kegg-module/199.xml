@@ -1,0 +1,31 @@
+ENTRY       M00199            Complex   Module
+NAME        L-Arabinose/lactose transport system
+DEFINITION  K10188+K10189+K10190-K10191
+ORTHOLOGY   K10188  lacE; lactose/L-arabinose transport system substrate-binding protein
+            K10189  lacF; lactose/L-arabinose transport system permease protein
+            K10190  lacG; lactose/L-arabinose transport system permease protein
+            K10191  lacK; lactose/L-arabinose transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: Lactose [CPD:C00243], L-Arabinose [CPD:C00259]
+            ATP-binding protein is assigned when it is part of an operon structure.
+DBLINKS     BSID: 890469
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:2318800 (lactose)
+  AUTHORS   Greenwood JA, Cornish A, Jones CW.
+  TITLE     Binding-protein-dependent lactose transport in Agrobacterium radiobacter.
+  JOURNAL   J Bacteriol 172:1703-10 (1990)
+REFERENCE   PMID:9084180 (L-arabinose)
+  AUTHORS   Sa-Nogueira I, Nogueira TV, Soares S, de Lencastre H.
+  TITLE     The Bacillus subtilis L-arabinose (ara) operon: nucleotide sequence, genetic organization and expression.
+  JOURNAL   Microbiology 143 ( Pt 3):957-69 (1997)
+REFERENCE   PMID:9401028 (L-arabinose)
+  AUTHORS   Sa-Nogueira I, Ramos SS.
+  TITLE     Cloning, functional analysis, and transcriptional regulation of the Bacillus subtilis araE gene involved in L-arabinose utilization.
+  JOURNAL   J Bacteriol 179:7705-11 (1997)
+///

@@ -1,0 +1,25 @@
+ENTRY       M00301            Complex   Module
+NAME        Mannopine transport system
+DEFINITION  K11077+K11078+K11079+K11080
+ORTHOLOGY   K11077  attC; mannopine transport system substrate-binding protein
+            K11078  attB; mannopine transport system permease protein
+            K11079  attA2; mannopine transport system permease protein
+            K11080  attA1; mannopine transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Mannopine [CPD:C16692]
+DBLINKS     BSID: 890559
+REFERENCE   PMID:8206835
+  AUTHORS   Hong SB, Farrand SK
+  TITLE     Functional role of the Ti plasmid-encoded catabolic mannopine cyclase in mannityl opine catabolism by Agrobacterium spp.
+  JOURNAL   J Bacteriol 176:3576-83 (1994)
+REFERENCE   PMID:9484884
+  AUTHORS   Oger P, Kim KS, Sackett RL, Piper KR, Farrand SK
+  TITLE     Octopine-type Ti plasmids code for a mannopine-inducible dominant-negative allele of traR, the quorum-sensing activator that regulates Ti plasmid conjugal transfer.
+  JOURNAL   Mol Microbiol 27:277-88 (1998)
+REFERENCE   PMID:11386375
+  AUTHORS   Kim KS, Baek CH, Lee JK, Yang JM, Farrand SK.
+  TITLE     Intracellular accumulation of mannopine, an opine produced by crown gall tumors, transiently inhibits growth of Agrobacterium tumefaciens.
+  JOURNAL   Mol Plant Microbe Interact 14:793-803 (2001)
+///

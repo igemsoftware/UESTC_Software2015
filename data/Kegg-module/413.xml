@@ -1,0 +1,22 @@
+ENTRY       M00413            Complex   Module
+NAME        FA core complex
+DEFINITION  K10888+K10889+K10890+K10892+K10893+K10894+K10606+K10896+K10898+K10993
+ORTHOLOGY   K10888  FANCA; fanconi anemia group A protein
+            K10889  FANCB; fanconi anemia group B protein
+            K10890  FANCC; fanconi anemia group C protein
+            K10892  FANCE; fanconi anemia group E protein
+            K10893  FANCF; fanconi anemia group F protein
+            K10894  FANCG; fanconi anemia group G protein
+            K10606  FANCL; E3 ubiquitin-protein ligase FANCL [EC:6.3.2.19]
+            K10896  FANCM; fanconi anemia group M protein
+            K10898  FAAP24; fanconi anemia-associated protein
+            K10993  FAAP100; fanconi anemia core complex 100 kDa subunit
+CLASS       Structural complex; Genetic information processing; Repair system
+PATHWAY     map03460  Fanconi anemia pathway
+BRITE       ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 890628
+REFERENCE   PMID:18985065
+  AUTHORS   Wang W
+  TITLE     A major switch for the Fanconi anemia DNA damage-response pathway.
+  JOURNAL   Nat Struct Mol Biol 15:1128-30 (2008)
+///

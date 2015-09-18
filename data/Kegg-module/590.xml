@@ -1,0 +1,20 @@
+ENTRY       M00590            Complex   Module
+NAME        Erythritol transport system
+DEFINITION  K17202+K17203+K17204
+ORTHOLOGY   K17202  K17202; erythritol transport system substrate-binding protein
+            K17203  K17203; erythritol transport system permease protein
+            K17204  eryE; erythritol transport system ATP-binding protein [COGCOG1129]
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Erythritol [CPD:C00503]
+DBLINKS     BSID: 890655
+REFERENCE   PMID:16804181
+  AUTHORS   Yost CK, Rath AM, Noel TC, Hynes MF
+  TITLE     Characterization of genes involved in erythritol catabolism in Rhizobium leguminosarum bv. viciae.
+  JOURNAL   Microbiology 152:2061-74 (2006)
+REFERENCE   PMID:20671019
+  AUTHORS   Geddes BA, Pickering BS, Poysti NJ, Collins H, Yudistira H, Oresnik IJ
+  TITLE     A locus necessary for the transport and catabolism of erythritol in Sinorhizobium meliloti.
+  JOURNAL   Microbiology 156:2970-81 (2010)
+///

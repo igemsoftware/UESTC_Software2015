@@ -1,0 +1,37 @@
+ENTRY       M00430            Complex   Module
+NAME        Exon junction complex (EJC)
+DEFINITION  K12876+K12877+K14323+K13025+K14324+K13114+K12875+K14325+K12881+K12812+K13171+K14285+K14326+K14327+K14328
+ORTHOLOGY   K12876  RBM8A; RNA-binding protein 8A
+            K12877  MAGOH; protein mago nashi
+            K14323  CASC3; protein CASC3
+            K13025  EIF4A3; ATP-dependent RNA helicase [EC:3.6.4.13]
+            K14324  SAP18; histone deacetylase complex subunit SAP18
+            K13114  PNN; pinin
+            K12875  ACIN1; apoptotic chromatin condensation inducer in the nucleus
+            K14325  RNPS1; RNA-binding protein with serine-rich domain 1
+            K12881  THOC4; THO complex subunit 4
+            K12812  UAP56; ATP-dependent RNA helicase UAP56/SUB2 [EC:3.6.4.13]
+            K13171  SRRM1; serine/arginine repetitive matrix protein 1
+            K14285  NXT1_2; NTF2-related export protein 1/2
+            K14326  UPF1; regulator of nonsense transcripts 1 [EC:3.6.4.-]
+            K14327  UPF2; regulator of nonsense transcripts 2
+            K14328  UPF3; regulator of nonsense transcripts 3
+CLASS       Structural complex; Genetic information processing; RNA processing
+PATHWAY     map03013  RNA transport
+            map03015  mRNA surveillance pathway
+            map03040  Spliceosome
+BRITE       ko03041 Spliceosome
+DBLINKS     BSID: 890638
+REFERENCE   PMID:16314458
+  AUTHORS   Tange TO, Shibuya T, Jurica MS, Moore MJ
+  TITLE     Biochemical analysis of the EJC reveals two new factors and a stable tetrameric protein core.
+  JOURNAL   RNA 11:1869-83 (2005)
+REFERENCE   PMID:16170325
+  AUTHORS   Ballut L, Marchadier B, Baguet A, Tomasetto C, Seraphin B, Le Hir H
+  TITLE     The exon junction core complex is locked onto RNA by inhibition of eIF4AIII ATPase activity.
+  JOURNAL   Nat Struct Mol Biol 12:861-9 (2005)
+REFERENCE   PMID:15145352
+  AUTHORS   Tange TO, Nott A, Moore MJ
+  TITLE     The ever-increasing complexities of the exon junction complex.
+  JOURNAL   Curr Opin Cell Biol 16:279-84 (2004)
+///

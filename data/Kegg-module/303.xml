@@ -1,0 +1,19 @@
+ENTRY       M00303            Complex   Module
+NAME        PTS system, N-acetylmuramic acid-specific II component
+DEFINITION  K02777+K11191+K11192
+ORTHOLOGY   K02777  PTS-Glc-EIIA; PTS system, glucose-specific IIA component [EC:2.7.1.69]
+            K11191  PTS-Mur-EIIB; PTS system, N-acetylmuramic acid-specific IIB component [EC:2.7.1.69]
+            K11192  PTS-Mur-EIIC; PTS system, N-acetylmuramic acid-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890561
+REFERENCE   PMID:15060041
+  AUTHORS   Dahl U, Jaeger T, Nguyen BT, Sattler JM, Mayer C.
+  TITLE     Identification of a phosphotransferase system of Escherichia coli required for growth on N-acetylmuramic acid.
+  JOURNAL   J Bacteriol 186:2385-92 (2004)
+REFERENCE   PMID:11361063
+  AUTHORS   Tchieu JH, Norris V, Edwards JS, Saier MH Jr.
+  TITLE     The complete phosphotranferase system in Escherichia coli.
+  JOURNAL   J Mol Microbiol Biotechnol 3:329-46 (2001)
+///

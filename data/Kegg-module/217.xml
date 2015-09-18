@@ -1,0 +1,21 @@
+ENTRY       M00217            Complex   Module
+NAME        D-Allose transport system
+DEFINITION  K10549+K10550+K10551
+ORTHOLOGY   K10549  alsB; D-allose transport system substrate-binding protein
+            K10550  alsC; D-allose transport system permease protein
+            K10551  alsA; D-allose transport system ATP-binding protein [EC:3.6.3.17]
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:1
+            Substrate: D-Allose [CPD:C01487], D-Ribose [CPD:C00121]
+DBLINKS     BSID: 890484
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:9401019 (D-allose, D-ribose)
+  AUTHORS   Kim C, Song S, Park C.
+  TITLE     The D-allose operon of Escherichia coli K-12.
+  JOURNAL   J Bacteriol 179:7631-7 (1997)
+///

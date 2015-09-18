@@ -1,0 +1,25 @@
+ENTRY       M00112            Pathway   Module
+NAME        Tocopherol biosynthesis
+DEFINITION  K09833 K12502 K09834 K05928
+ORTHOLOGY   K09833  homogenitisate phytyltransferase [RN:R07500]
+            K12502  MPBQ/MSBQ methyltransferase [RN:R07501]
+            K09834  tocopherol cyclase [RN:R07502 R07503]
+            K05928  tocopherol O-methyltransferase [EC:2.1.1.95] [RN:R07236 R07504]
+CLASS       Pathway module; Nucleotide and amino acid metabolism; Cofactor and vitamin biosynthesis
+PATHWAY     map00130  Ubiquinone and other terpenoid-quinone biosynthesis
+REACTION    R07500  C05427 -> C15882
+            R07501  C15882 -> C15883
+            R07502  C15883 -> C02483
+            R07236  C02483 -> C02477
+            R07503  C15882 -> C14151
+            R07504  C14151 -> C14152
+            R07508  C14152 -> C02477
+COMPOUND    C05427  Phytyl diphosphate
+            C15882  2-Methyl-6-phytylquinol
+            C15883  2,3-Dimethyl-5-phytylquinol
+            C02483  gamma-Tocopherol
+            C02477  alpha-Tocopherol
+            C14151  delta-Tocopherol
+            C14152  beta-Tocopherol
+DBLINKS     BSID: 468280
+///

@@ -1,0 +1,19 @@
+ENTRY       M00652            Signature Module
+NAME        Vancomycin resistance, VanE type
+DEFINITION  K18350 K18349 K18348 K07260 K15739
+ORTHOLOGY   K18350  vanSE; two-component system, OmpR family, sensor histidine kinase VanS [EC:2.7.13.3]
+            K18349  vanRE; two-component system, OmpR family, response regulator VanR
+            K18348  vanT; serine/alanine racemase [EC:5.1.1.18 5.1.1.1]
+            K07260  vanY; D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]
+            K15739  E6.1.2.1; D-alanine---(R)-lactate ligase [EC:6.1.2.1]
+CLASS       Signature module; Gene set; Drug resistance
+PATHWAY     map02020  Two-component system
+REFERENCE   PMID:10878136
+  AUTHORS   Arias CA, Weisner J, Blackburn JM, Reynolds PE
+  TITLE     Serine and alanine racemase activities of VanT: a protein necessary for vancomycin resistance in Enterococcus gallinarum BM4174.
+  JOURNAL   Microbiology 146 ( Pt 7):1727-34 (2000)
+REFERENCE   PMID:22913355
+  AUTHORS   Chancey ST, Zahner D, Stephens DS
+  TITLE     Acquired inducible antimicrobial resistance in Gram-positive bacteria.
+  JOURNAL   Future Microbiol 7:959-78 (2012)
+///

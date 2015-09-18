@@ -1,0 +1,30 @@
+ENTRY       M00226            Complex   Module
+NAME        Histidine transport system
+DEFINITION  K10014+K10015+K10016+K10017
+ORTHOLOGY   K10014  hisJ; histidine transport system substrate-binding protein
+            K10015  hisM; histidine transport system permease protein
+            K10016  hisQ; histidine transport system permease protein
+            K10017  hisP; histidine transport system ATP-binding protein [EC:3.6.3.21]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: L-Histidine [CPD:C00135]
+DBLINKS     BSID: 890493
+REFERENCE   PMID:11421273
+  AUTHORS   Hosie AH, Poole PS.
+  TITLE     Bacterial ABC transporters of amino acids.
+  JOURNAL   Res Microbiol 152:259-70 (2001)
+REFERENCE   PMID:9315727
+  AUTHORS   Walshaw DL, Lowthorpe S, East A, Poole PS.
+  TITLE     Distribution of a sub-class of bacterial ABC polar amino acid transporter and identification of an N-terminal region involved in solute specificity.
+  JOURNAL   FEBS Lett 414:397-401 (1997)
+REFERENCE   PMID:8995374 (L-histidine)
+  AUTHORS   Liu CE, Ames GF
+  TITLE     Characterization of transport through the periplasmic histidine permease using proteoliposomes reconstituted by dialysis.
+  JOURNAL   J Biol Chem 272:859-66 (1997)
+REFERENCE   PMID:10373434 (L-histidine)
+  AUTHORS   Liu PQ, Liu CE, Ames GF.
+  TITLE     Modulation of ATPase activity by physical disengagement of the ATP-binding domains of an ABC transporter, the histidine permease.
+  JOURNAL   J Biol Chem 274:18310-8 (1999)
+///

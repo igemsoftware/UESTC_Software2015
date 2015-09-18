@@ -1,0 +1,34 @@
+ENTRY       M00222            Complex   Module
+NAME        Phosphate transport system
+DEFINITION  K02040+K02037+K02038+K02036
+ORTHOLOGY   K02040  pstS; phosphate transport system substrate-binding protein
+            K02037  pstC; phosphate transport system permease protein
+            K02038  pstA; phosphate transport system permease protein
+            K02036  pstB; phosphate transport system ATP-binding protein [EC:3.6.3.27]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: Orthophosphate [CPD:C00009]
+DBLINKS     BSID: 890489
+REFERENCE   PMID:8843165 (phosphate)
+  AUTHORS   Braibant M, Lefevre P, de Wit L, Ooms J, Peirs P, Huygen K, Wattiez R, Content J.
+  TITLE     Identification of a second Mycobacterium tuberculosis gene cluster encoding proteins of an ABC phosphate transporter.
+  JOURNAL   FEBS Lett 394:206-12 (1996)
+REFERENCE   PMID:8628229 (phosphate)
+  AUTHORS   Nikata T, Sakai Y, Shibat K, Kato J, Kuroda A, Ohtake H.
+  TITLE     Molecular analysis of the phosphate-specific transport (pst) operon of Pseudomonas aeruginosa.
+  JOURNAL   Mol Gen Genet 250:692-8 (1996)
+REFERENCE   PMID:9139906 (phosphate)
+  AUTHORS   Lefevre P, Braibant M, de Wit L, Kalai M, Roeper D, Grotzinger J, Delville JP, Peirs P, Ooms J, Huygen K, Content J.
+  TITLE     Three different putative phosphate transport receptors are encoded by the Mycobacterium tuberculosis genome and are present at the surface of Mycobacterium bovis BCG.
+  JOURNAL   J Bacteriol 179:2900-6 (1997)
+REFERENCE   PMID:8918249 (phosphate)
+  AUTHORS   Braibant M, Lefevre P, de Wit L, Peirs P, Ooms J, Huygen K, Andersen AB, Content J
+  TITLE     A Mycobacterium tuberculosis gene cluster encoding proteins of a phosphate transporter homologous to the Escherichia coli Pst system.
+  JOURNAL   Gene 176:171-6 (1996)
+REFERENCE   PMID:1447208 (phosphate)
+  AUTHORS   Webb DC, Rosenberg H, Cox GB.
+  TITLE     Mutational analysis of the Escherichia coli phosphate-specific transport system, a member of the traffic ATPase (or ABC) family of membrane transporters. A role for proline residues in transmembrane helices.
+  JOURNAL   J Biol Chem 267:24661-8 (1992)
+///

@@ -1,0 +1,16 @@
+ENTRY       M00586            Complex   Module
+NAME        Putative amino-acid transport system
+DEFINITION  K16961+K16962+K16963
+ORTHOLOGY   K16961  yxeM; putative amino-acid transport system substrate-binding protein
+            K16962  yxeN; putative amino-acid transport system permease protein
+            K16963  yxeO; putative amino-acid transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+DBLINKS     BSID: 890652
+REFERENCE   PMID:15262924
+  AUTHORS   Burguiere P, Auger S, Hullo MF, Danchin A, Martin-Verstraete I
+  TITLE     Three different systems participate in L-cystine uptake in Bacillus subtilis.
+  JOURNAL   J Bacteriol 186:4875-84 (2004)
+///

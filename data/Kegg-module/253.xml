@@ -1,0 +1,15 @@
+ENTRY       M00253            Complex   Module
+NAME        Sodium transport system
+DEFINITION  K09696+K09697
+ORTHOLOGY   K09696  natB; sodium transport system permease protein
+            K09697  natA; sodium transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Sodium [CPD:C01330]
+DBLINKS     BSID: 890517
+REFERENCE   PMID:10092453
+  AUTHORS   Quentin Y, Fichant G, Denizot F.
+  TITLE     Inventory, assembly and analysis of Bacillus subtilis ABC transport systems.
+  JOURNAL   J Mol Biol 287:467-84 (1999)
+///

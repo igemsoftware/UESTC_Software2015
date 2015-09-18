@@ -1,0 +1,17 @@
+ENTRY       M00648            Signature Module
+NAME        Multidrug resistance, efflux pump MdtABC
+DEFINITION  K07664 K07642 K07799+K07788+K07789
+ORTHOLOGY   K07664  baeR; two-component system, OmpR family, response regulator BaeR
+            K07642  baeS; two-component system, OmpR family, sensor histidine kinase BaeS [EC:2.7.13.3]
+            K07799  mdtA; putative multidrug efflux transporter MdtA
+            K07788  mdtB; RND superfamily, multidrug transport protein MdtB
+            K07789  mdtC; RND superfamily, multidrug transport protein MdtC
+CLASS       Signature module; Gene set; Drug resistance
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+            ko02000  Transporters
+REFERENCE   PMID:12107134
+  AUTHORS   Baranova N, Nikaido H
+  TITLE     The baeSR two-component regulatory system activates transcription of the yegMNOB  (mdtABCD) transporter gene cluster in Escherichia coli and increases its resistance to novobiocin and deoxycholate.
+  JOURNAL   J Bacteriol 184:4168-76 (2002)
+///

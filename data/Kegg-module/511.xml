@@ -1,0 +1,26 @@
+ENTRY       M00511            FuncSet   Module
+NAME        PleC-PleD (cell fate control) two-component regulatory system
+DEFINITION  K07716 K11357 K02488 K11443 -K13591
+ORTHOLOGY   K07716  pleC; cell cycle sensor histidine kinase
+            K11357  divJ; cell cycle sensor histidine kinase
+            K02488  pleD; cell cycle response regulator
+            K11443  divK; cell cycle response regulator
+            K13591  popA; cell cycle response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+            map04112  Cell cycle - Caulobacter
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565964
+REFERENCE   PMID:18455986
+  AUTHORS   Paul R, Jaeger T, Abel S, Wiederkehr I, Folcher M, Biondi EG, Laub MT, Jenal U
+  TITLE     Allosteric regulation of histidine kinases by their cognate response regulator determines cell fate.
+  JOURNAL   Cell 133:452-61 (2008)
+REFERENCE   PMID:19781638
+  AUTHORS   Jenal U
+  TITLE     The role of proteolysis in the Caulobacter crescentus cell cycle and development.
+  JOURNAL   Res Microbiol 160:687-95 (2009)
+REFERENCE   PMID:19287449
+  AUTHORS   Hengge R
+  TITLE     Principles of c-di-GMP signalling in bacteria.
+  JOURNAL   Nat Rev Microbiol 7:263-73 (2009)
+///

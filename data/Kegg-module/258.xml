@@ -1,0 +1,9 @@
+ENTRY       M00258            Complex   Module
+NAME        Putative ABC transport system
+DEFINITION  K02004+K02003
+ORTHOLOGY   K02004  ABC.CD.P; 
+            K02003  ABC.CD.A;
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890522
+///

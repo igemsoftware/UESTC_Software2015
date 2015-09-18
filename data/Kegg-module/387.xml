@@ -1,0 +1,25 @@
+ENTRY       M00387            Complex   Module
+NAME        SCF-FBW7 complex
+DEFINITION  K03868+K03347+K03094+K10260
+ORTHOLOGY   K03868  RBX1; RING-box protein 1
+            K03347  CUL1; cullin 1
+            K03094  SKP1; S-phase kinase-associated protein 1
+            K10260  FBXW7; F-box and WD-40 domain protein 7
+CLASS       Structural complex; Genetic information processing; Ubiquitin system
+PATHWAY     map04120  Ubiquitin mediated proteolysis
+BRITE       ko04121  Ubiquitin system
+COMMENT     Substrate: MYC, cyclin E, Notch and JUN.
+DBLINKS     BSID: 890610
+REFERENCE   PMID:20543859
+  AUTHORS   Crusio KM, King B, Reavie LB, Aifantis I
+  TITLE     The ubiquitous nature of cancer: the role of the SCF(Fbw7) complex in development and transformation.
+  JOURNAL   Oncogene 29:4865-73 (2010)
+REFERENCE   PMID:18094723
+  AUTHORS   Welcker M, Clurman BE
+  TITLE     FBW7 ubiquitin ligase: a tumour suppressor at the crossroads of cell division, growth and differentiation.
+  JOURNAL   Nat Rev Cancer 8:83-93 (2008)
+REFERENCE   PMID:17434132
+  AUTHORS   Hao B, Oehlmann S, Sowa ME, Harper JW, Pavletich NP
+  TITLE     Structure of a Fbw7-Skp1-cyclin E complex: multisite-phosphorylated substrate recognition by SCF ubiquitin ligases.
+  JOURNAL   Mol Cell 26:131-43 (2007)
+///

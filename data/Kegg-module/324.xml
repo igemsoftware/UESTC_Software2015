@@ -1,0 +1,31 @@
+ENTRY       M00324            Complex   Module
+NAME        Dipeptide transport system
+DEFINITION  K12368+K12369+K12370+K12371+K12372
+ORTHOLOGY   K12368  dppA; dipeptide transport system substrate-binding protein
+            K12369  dppB; dipeptide transport system permease protein
+            K12370  dppC; dipeptide transport system permease protein
+            K12371  dppD; dipeptide transport system ATP-binding protein
+            K12372  dppF; dipeptide transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Peptide and nickel transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:1:1
+            Substrate: Dipeptide [CPD:C00107], Heme [CPD:C00032], 5-Aminolevulinate [CPD:C00430]
+DBLINKS     BSID: 890578
+REFERENCE   PMID:16905647 (heme)
+  AUTHORS   Letoffe S, Delepelaire P, Wandersman C
+  TITLE     The housekeeping dipeptide permease is the Escherichia coli heme transporter and functions with two optional peptide binding proteins.
+  JOURNAL   Proc Natl Acad Sci U S A 103:12891-6 (2006)
+REFERENCE   PMID:14618258
+  AUTHORS   Monnet V
+  TITLE     Bacterial oligopeptide-binding proteins.
+  JOURNAL   Cell Mol Life Sci 60:2100-14 (2003)
+REFERENCE   PMID:11147841 (dipeptide)
+  AUTHORS   Payne JW, Grail BM, Gupta S, Ladbury JE, Marshall NJ, O'Brien R, Payne GM
+  TITLE     Structural basis for recognition of dipeptides by peptide transporters.
+  JOURNAL   Arch Biochem Biophys 384:9-23 (2000)
+REFERENCE   PMID:8444807 (5-aminolevulinic acid)
+  AUTHORS   Verkamp E, Backman VM, Bjornsson JM, Soll D, Eggertsson G
+  TITLE     The periplasmic dipeptide permease system transports 5-aminolevulinic acid in Escherichia coli.
+  JOURNAL   J Bacteriol 175:1452-6 (1993)
+///

@@ -1,0 +1,28 @@
+ENTRY       M00243            Complex   Module
+NAME        Manganese/iron transport system
+DEFINITION  K09818+K09819+K09820
+ORTHOLOGY   K09818  ABC.MN.S; manganese/iron transport system substrate-binding protein
+            K09819  ABC.MN.P; manganese/iron transport system permease protein
+            K09820  ABC.MN.A; manganese/iron transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Metallic cation, iron-siderophore and vitamin B12 transport system
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Manganese [CPD:C00034], Fe2+ [CPD:C14818], Fe3+ [CPD:C14819]
+DBLINKS     BSID: 890509
+REFERENCE   PMID:9379902 (manganese)
+  AUTHORS   Dintilhac A, Alloing G, Granadel C, Claverys JP.
+  TITLE     Competence and virulence of Streptococcus pneumoniae: Adc and PsaA mutants exhibit a requirement for Zn and Mn resulting from inactivation of putative ABC metal permeases.
+  JOURNAL   Mol Microbiol 25:727-39 (1997)
+REFERENCE   PMID:9727086 (ferrous iron)
+  AUTHORS   Smoot LM, Bell EC, Paz RL, Corbin KA, Hall DD, Steenbergen JN, Harner AC, Actis LA.
+  TITLE     Molecular and genetic analysis of iron uptake proteins in the brazilian purpuric fever clone of Haemophilus influenzae biogroup aegyptius.
+  JOURNAL   Front Biosci 3:D989-96 (1998)
+REFERENCE   PMID:7743991 (manganese)
+  AUTHORS   Bartsevich VV, Pakrasi HB.
+  TITLE     Molecular identification of an ABC transporter complex for manganese: analysis of a cyanobacterial mutant strain impaired in the photosynthetic oxygen evolution process.
+  JOURNAL   EMBO J 14:1845-53 (1995)
+REFERENCE   PMID:16926405 (manganese, ferrous iron)
+  AUTHORS   Hanks TS, Liu M, McClure MJ, Fukumura M, Duffy A, Lei B.
+  TITLE     Differential regulation of iron- and manganese-specific MtsABC and heme-specific HtsABC transporters by the metalloregulator MtsR of group A Streptococcus.
+  JOURNAL   Infect Immun 74:5132-9 (2006)
+///

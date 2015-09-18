@@ -1,0 +1,19 @@
+ENTRY       M00385            Complex   Module
+NAME        Cul4-DDB1-DDB2 complex
+DEFINITION  K03868+K10609+K10610+K10140
+ORTHOLOGY   K03868  RBX1; RING-box protein 1
+            K10609  CUL4; cullin 4
+            K10610  DDB1; DNA damage-binding protein 1
+            K10140  DDB2; DNA damage-binding protein 2
+CLASS       Structural complex; Genetic information processing; Ubiquitin system
+PATHWAY     map04120  Ubiquitin mediated proteolysis
+            map03420  Nucleotide excision repair
+BRITE       ko04121  Ubiquitin system
+            ko03400  DNA repair
+COMMENT     Substrate: XPC, H2A, H3, H4
+DBLINKS     BSID: 890608
+REFERENCE   PMID:19109893
+  AUTHORS   Scrima A, Konickova R, Czyzewski BK, Kawasaki Y, Jeffrey PD, Groisman R, Nakatani Y, Iwai S, Pavletich NP, Thoma NH
+  TITLE     Structural basis of UV DNA-damage recognition by the DDB1-DDB2 complex.
+  JOURNAL   Cell 135:1213-23 (2008)
+///

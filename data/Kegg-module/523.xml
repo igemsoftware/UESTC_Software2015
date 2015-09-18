@@ -1,0 +1,23 @@
+ENTRY       M00523            FuncSet   Module
+NAME        RegB-RegA (redox response) two-component regulatory system
+DEFINITION  K15011 K15012
+ORTHOLOGY   K15011  regB; sensor histidine kinase
+            K15012  regA; response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Redox signal
+DBLINKS     BSID: 565976
+REFERENCE   PMID:17616588
+  AUTHORS   Willett J, Smart JL, Bauer CE
+  TITLE     RegA control of bacteriochlorophyll and carotenoid synthesis in Rhodobacter capsulatus.
+  JOURNAL   J Bacteriol 189:7765-73 (2007)
+REFERENCE   PMID:15187184
+  AUTHORS   Elsen S, Swem LR, Swem DL, Bauer CE
+  TITLE     RegB/RegA, a highly conserved redox-responding global two-component regulatory system.
+  JOURNAL   Microbiol Mol Biol Rev 68:263-79 (2004)
+REFERENCE   PMID:17951393
+  AUTHORS   Lindemann A, Moser A, Pessi G, Hauser F, Friberg M, Hennecke H, Fischer HM
+  TITLE     New target genes controlled by the Bradyrhizobium japonicum two-component regulatory system RegSR.
+  JOURNAL   J Bacteriol 189:8928-43 (2007)
+///

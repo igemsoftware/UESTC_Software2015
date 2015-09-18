@@ -1,0 +1,13 @@
+ENTRY       M00264            Complex   Module
+NAME        DNA polymerase II complex, archaea
+DEFINITION  K02322+K02323
+ORTHOLOGY   K02322  DPB1; DNA polymerase II large subunit [EC:2.7.7.7]
+            K02323  DPB2; DNA polymerase II small subunit [EC:2.7.7.7]
+CLASS       Structural complex; Genetic information processing; DNA polymerase
+BRITE       ko03032  DNA replication proteins
+DBLINKS     BSID: 890527
+REFERENCE   PMID:10545321
+  AUTHORS   Zhao Y, Jeruzalmi D, Moarefi I, Leighton L, Lasken R, Kuriyan J
+  TITLE     Crystal structure of an archaebacterial DNA polymerase.
+  JOURNAL   Structure 7:1189-99 (1999)
+///

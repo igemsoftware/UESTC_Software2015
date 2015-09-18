@@ -1,0 +1,20 @@
+ENTRY       M00288            Complex   Module
+NAME        RPA complex
+DEFINITION  K07466+(K10739,K10741)+K10740
+ORTHOLOGY   K07466  RFA1; replication factor A1
+            K10739  RFA2; replication factor A2
+            K10740  RPA3; replication factor A3
+            K10741  RPA4; replication factor A4
+CLASS       Structural complex; Genetic information processing; Replication system
+PATHWAY     map03030  DNA replication
+            map03420  Nucleotide excision repair
+            map03430  Mismatch repair
+            map03440  Homologous recombination
+BRITE       ko03032  DNA replication proteins
+            ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 468376
+REFERENCE   PMID:10449415
+  AUTHORS   Bochkarev A, Bochkareva E, Frappier L, Edwards AM
+  TITLE     The crystal structure of the complex of replication protein A subunits RPA32 and  RPA14 reveals a mechanism for single-stranded DNA binding.
+  JOURNAL   EMBO J 18:4498-504 (1999)
+///

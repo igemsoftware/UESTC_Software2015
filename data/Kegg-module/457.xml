@@ -1,0 +1,15 @@
+ENTRY       M00457            FuncSet   Module
+NAME        TctE-TctD (tricarboxylic acid transport) two-component regulatory system
+DEFINITION  K07649 K07774
+ORTHOLOGY   K07649  tctE; OmpR family, sensor histidine kinase
+            K07774  tctD; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Catabolite repression
+DBLINKS     BSID: 565911
+REFERENCE   PMID:2666399
+  AUTHORS   Widenhorn KA, Somers JM, Kay WW.
+  TITLE     Genetic regulation of the tricarboxylate transport operon (tctI) of Salmonella typhimurium.
+  JOURNAL   J Bacteriol 171:4436-41 (1989)
+///

@@ -1,0 +1,24 @@
+ENTRY       M00422            Pathway   Module
+NAME        Acetyl-CoA pathway, CO2 => acetyl-CoA
+DEFINITION  (K00192+K00195) (K00193+K00197+K00194)
+ORTHOLOGY   K00192  acetyl-CoA decarbonylase/synthase complex [EC:1.2.7.4] [RN:R07157]
+            K00195  acetyl-CoA decarbonylase/synthase complex [RN:R07157]
+            K00193+K00197+K00194  acetyl-CoA decarbonylase/synthase complex [EC:2.3.1.-] [RN:R09096 R10219]
+CLASS       Pathway module; Energy metabolism; Methane metabolism
+PATHWAY     map00680  Methane metabolism
+REACTION    R07157  C00011 -> C00237
+            R09096,R10219  C00237 -> C00024
+COMPOUND    C00011  CO2
+            C00237  CO
+            C00024  Acetyl-CoA
+COMMENT     Acetyl-CoA decarbonylase / synthase (ACDS)
+DBLINKS     BSID: 777630
+REFERENCE   PMID:21402216
+  AUTHORS   Grahame DA
+  TITLE     Methods for analysis of acetyl-CoA synthase applications to bacterial and archaeal systems.
+  JOURNAL   Methods Enzymol 494:189-217 (2011)
+REFERENCE   PMID:18575848
+  AUTHORS   Oelgeschlager E, Rother M
+  TITLE     Carbon monoxide-dependent energy metabolism in anaerobic bacteria and archaea.
+  JOURNAL   Arch Microbiol 190:257-69 (2008)
+///

@@ -1,0 +1,16 @@
+ENTRY       M00273            Complex   Module
+NAME        PTS system, fructose-specific II component
+DEFINITION  K02768+K02769+K02770
+ORTHOLOGY   K02768  PTS-Fru-EIIA; PTS system, fructose-specific IIA component [EC:2.7.1.69]
+            K02769  PTS-Fru-EIIB; PTS system, fructose-specific IIB component [EC:2.7.1.69]
+            K02770  PTS-Fru-EIIC; PTS system, fructose-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00051  Fructose and mannose metabolism
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890535
+REFERENCE   PMID:11361063
+  AUTHORS   Tchieu JH, Norris V, Edwards JS, Saier MH Jr.
+  TITLE     The complete phosphotranferase system in Escherichia coli.
+  JOURNAL   J Mol Microbiol Biotechnol 3:329-46 (2001)
+///

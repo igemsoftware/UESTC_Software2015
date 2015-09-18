@@ -1,0 +1,12 @@
+ENTRY       M00268            Complex   Module
+NAME        PTS system, arbutin-like II component
+DEFINITION  K02777+K02749+K02750
+ORTHOLOGY   K02777  PTS-Glc-EIIA; PTS system, glucose-specific IIA component [EC:2.7.1.69]
+            K02749  PTS-Arb-EIIB; PTS system, arbutin-like IIB component [EC:2.7.1.69]
+            K02750  PTS-Arb-EIIC; PTS system, arbutin-like IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map00010  Glycolysis / Gluconeogenesis
+            map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890531
+///

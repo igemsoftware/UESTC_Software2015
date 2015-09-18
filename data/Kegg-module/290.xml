@@ -1,0 +1,23 @@
+ENTRY       M00290            Complex   Module
+NAME        Holo-TFIIH complex
+DEFINITION  K03141+K03142+K03143+K03144+K10843+K10844+K10845+K02202+K06634+K10842
+ORTHOLOGY   K03141  TFIIH1; transcription initiation factor TFIIH subunit H1
+            K03142  TFIIH2; transcription initiation factor TFIIH subunit H2
+            K03143  TFIIH3; transcription initiation factor TFIIH subunit H3
+            K03144  TFIIH4; transcription initiation factor TFIIH subunit H4
+            K10843  ERCC3, XPB; DNA excision repair protein ERCC-3
+            K10844  ERCC2, XPD; DNA excision repair protein ERCC-2
+            K10845  TTDA; TFIIH basal transcription factor complex TTD-A subunit
+            K02202  CDK7; cyclin-dependent kinase 7
+            K06634  CCNH; cyclin H
+            K10842 MNAT1; CDK-activating kinase assembly factor MAT1
+CLASS       Structural complex; Genetic information processing; Repair system
+PATHWAY     map03420  Nucleotide excision repair
+BRITE       ko03021  Transcription machinery
+            ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 890551
+REFERENCE   PMID:18018633
+  AUTHORS   Ito S, Ando D, Tanaka K.
+  TITLE     [Cross-talk between DNA repair and transcription: molecular mechanism and disorders] Japanese
+  JOURNAL   Tanpakushitsu Kakusan Koso 52:1823-31 (2007)
+///

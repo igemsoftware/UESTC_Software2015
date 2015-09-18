@@ -1,0 +1,28 @@
+ENTRY       M00184            Complex   Module
+NAME        RNA polymerase, archaea
+DEFINITION  K03042+K03041+(K03044+K03045,K13798)+K03053+K03055+K03058+K03047+K03049+K03050+K03056+K03059+K03051-K03052-K03054
+ORTHOLOGY   K03042  DNA-directed RNA polymerase subunit A" [EC:2.7.7.6]
+            K03041  DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]
+            K03044  DNA-directed RNA polymerase subunit B' [EC:2.7.7.6]
+            K03045  DNA-directed RNA polymerase subunit B" [EC:2.7.7.6]
+            K13798  DNA-directed RNA polymerase subunit B [EC:2.7.7.6]
+            K03053  DNA-directed RNA polymerase subunit H [EC:2.7.7.6]
+            K03055  DNA-directed RNA polymerase subunit K [EC:2.7.7.6]
+            K03058  DNA-directed RNA polymerase subunit N [EC:2.7.7.6]
+            K03047  DNA-directed RNA polymerase subunit D [EC:2.7.7.6]
+            K03049  DNA-directed RNA polymerase subunit E' [EC:2.7.7.6]
+            K03050  DNA-directed RNA polymerase subunit E" [EC:2.7.7.6]
+            K03056  DNA-directed RNA polymerase subunit L [EC:2.7.7.6]
+            K03059  DNA-directed RNA polymerase subunit P [EC:2.7.7.6]
+            K03051  DNA-directed RNA polymerase subunit F [EC:2.7.7.6]
+            K03052  DNA-directed RNA polymerase subunit G [EC:2.7.7.6]
+            K03054  DNA-directed RNA polymerase subunit I [EC:2.7.7.6]
+CLASS       Structural complex; Genetic information processing; RNA polymerase
+PATHWAY     map03020  RNA polymerase
+BRITE       ko03021  Transcription machinery
+DBLINKS     BSID: 468352
+REFERENCE   PMID:19880312
+  AUTHORS   Hirata A, Murakami KS
+  TITLE     Archaeal RNA polymerase.
+  JOURNAL   Curr Opin Struct Biol 19:724-31 (2009)
+///

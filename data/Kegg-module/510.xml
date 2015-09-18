@@ -1,0 +1,23 @@
+ENTRY       M00510            FuncSet   Module
+NAME        Cph1-Rcp1 (light response) two-component regulatory system
+DEFINITION  K11354 K11355
+ORTHOLOGY   K11354  cph1; chemotaxis family, sensor kinase
+            K11355  rcp1; chemotaxis family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Red/far-red light
+DBLINKS     BSID: 565963
+REFERENCE   PMID:21634374
+  AUTHORS   Psakis G, Mailliet J, Lang C, Teufel L, Essen LO, Hughes J
+  TITLE     Signaling kinetics of cyanobacterial phytochrome Cph1, a light regulated histidine kinase.
+  JOURNAL   Biochemistry 50:6178-88 (2011)
+REFERENCE   PMID:9278513
+  AUTHORS   Yeh KC, Wu SH, Murphy JT, Lagarias JC
+  TITLE     A cyanobacterial phytochrome two-component light sensory system.
+  JOURNAL   Science 277:1505-8 (1997)
+REFERENCE   PMID:10500846 (name)
+  AUTHORS   Grebe TW, Stock JB
+  TITLE     The histidine protein kinase superfamily.
+  JOURNAL   Adv Microb Physiol 41:139-227 (1999)
+///

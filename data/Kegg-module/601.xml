@@ -1,0 +1,16 @@
+ENTRY       M00601            Complex   Module
+NAME        Putative chitobiose transport system
+DEFINITION  K17244+K17245+K17246
+ORTHOLOGY   K17244  chiE; putative chitobiose transport system substrate-binding protein
+            K17245  chiF; putative chitobiose transport system permease protein
+            K17246  chiG; putative chitobiose transport system permease protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Chitobiose [CPD:C01674]
+DBLINKS     BSID: 890663
+REFERENCE   PMID:23209028
+  AUTHORS   Kazanov MD, Li X, Gelfand MS, Osterman AL, Rodionov DA
+  TITLE     Functional diversification of ROK-family transcriptional regulators of sugar catabolism in the Thermotogae phylum.
+  JOURNAL   Nucleic Acids Res 41:790-803 (2013)
+///

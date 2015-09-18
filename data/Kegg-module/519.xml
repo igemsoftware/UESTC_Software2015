@@ -1,0 +1,14 @@
+ENTRY       M00519            FuncSet   Module
+NAME        YesM-YesN two-component regulatory system
+DEFINITION  K07718 K07720
+ORTHOLOGY   K07718  yesM; sensor histidine kinase
+            K07720  yesN; response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565972
+REFERENCE   PMID:11717295
+  AUTHORS   Kobayashi K, Ogura M, Yamaguchi H, Yoshida K, Ogasawara N, Tanaka T, Fujita Y
+  TITLE     Comprehensive DNA microarray analysis of Bacillus subtilis two-component regulatory systems.
+  JOURNAL   J Bacteriol 183:7365-70 (2001)
+///

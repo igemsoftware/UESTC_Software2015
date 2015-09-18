@@ -1,0 +1,19 @@
+ENTRY       M00515            FuncSet   Module
+NAME        FlrB-FlrC (polar flagellar synthesis) two-component regulatory system
+DEFINITION  K10942 K10943
+ORTHOLOGY   K10942  flrB, fleS; sensor histidine kinase
+            K10943  flrC, fleR; response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+            map05111  Vibrio cholerae pathogenic cycle
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565968
+REFERENCE   PMID:21784933
+  AUTHORS   Wilhelms M, Molero R, Shaw JG, Tomas JM, Merino S
+  TITLE     Transcriptional hierarchy of Aeromonas hydrophila polar-flagellum genes.
+  JOURNAL   J Bacteriol 193:5179-90 (2011)
+REFERENCE   PMID:10692152
+  AUTHORS   Correa NE, Lauriano CM, McGee R, Klose KE
+  TITLE     Phosphorylation of the flagellar regulatory protein FlrC is necessary for Vibrio  cholerae motility and enhanced colonization.
+  JOURNAL   Mol Microbiol 35:743-55 (2000)
+///

@@ -1,0 +1,22 @@
+ENTRY       M00203            Complex   Module
+NAME        Glucose/arabinose transport system
+DEFINITION  K10196+K10197+K10198-K10199
+ORTHOLOGY   K10196  ABC.GLC.S; glucose/arabinose transport system substrate-binding protein
+            K10197  ABC.GLC.P; glucose/arabinose transport system permease protein
+            K10198  ABC.GLC.P1; glucose/arabinose transport system permease protein
+            K10199  ABC.GLC.A; glucose/arabinose transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: D-Glucose [CPD:C00031], D-Galactose [CPD:C00124], D-Mannose [CPD:C00159]
+DBLINKS     BSID: 890471
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:11260467 (glucose, galactose, mannose)
+  AUTHORS   Elferink MG, Albers SV, Konings WN, Driessen AJ.
+  TITLE     Sugar transport in Sulfolobus solfataricus is mediated by two families of binding protein-dependent ABC transporters.
+  JOURNAL   Mol Microbiol 39:1494-503 (2001)
+///

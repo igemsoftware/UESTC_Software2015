@@ -1,0 +1,11 @@
+ENTRY       M00271            Complex   Module
+NAME        PTS system, beta-glucosides-specific II component
+DEFINITION  K02755+K02756+K02757
+ORTHOLOGY   K02755  PTS-Bgl-EIIA; PTS system, beta-glucosides-specific IIA component [EC:2.7.1.69]
+            K02756  PTS-Bgl-EIIB; PTS system, beta-glucosides-specific IIB component [EC:2.7.1.69]
+            K02757  PTS-Bgl-EIIC; PTS system, beta-glucosides-specific IIC component
+CLASS       Structural complex; Environmental information processing; Phosphotransferase system (PTS)
+PATHWAY     map02060  Phosphotransferase system (PTS)
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890533
+///

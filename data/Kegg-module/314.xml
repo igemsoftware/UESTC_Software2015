@@ -1,0 +1,17 @@
+ENTRY       M00314            Complex   Module
+NAME        Bacitracin transport system
+DEFINITION  K11632+K11631
+ORTHOLOGY   K11632  bceB; bacitracin transport system permease protein
+            K11631  bceA; bacitracin transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+            map02020  Two-component system
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 2:2
+            Substrate: Bacitracin [CPD:C01667]
+DBLINKS     BSID: 890568
+REFERENCE   PMID:12890034 (Bacillus)
+  AUTHORS   Ohki R, Giyanto, Tateno K, Masuyama W, Moriya S, Kobayashi K, Ogasawara N
+  TITLE     The BceRS two-component regulatory system induces expression of the bacitracin transporter, BceAB, in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 49:1135-44 (2003)
+///

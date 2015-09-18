@@ -1,0 +1,23 @@
+ENTRY       M00654            FuncSet   Module
+NAME        ParS-ParR (polymyxin-adaptive resistance) two-component regulatory system
+DEFINITION  K18072 K18073
+ORTHOLOGY   K18072  parS; two-component system, OmpR family, sensor kinase ParS [EC:2.7.13.3]
+            K18073  parR; two-component system, OmpR family, response regulator ParR
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map00312  beta-Lactam resistance
+            map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Cationic antimicrobial peptide
+REFERENCE   PMID:21149619
+  AUTHORS   Muller C, Plesiat P, Jeannot K
+  TITLE     A two-component regulatory system interconnects resistance to polymyxins, aminoglycosides, fluoroquinolones, and beta-lactams in Pseudomonas aeruginosa.
+  JOURNAL   Antimicrob Agents Chemother 55:1211-21 (2011)
+REFERENCE   PMID:23034325
+  AUTHORS   Fernandez L, Hancock RE
+  TITLE     Adaptive and mutational resistance: role of porins and efflux pumps in drug resistance.
+  JOURNAL   Clin Microbiol Rev 25:661-81 (2012)
+REFERENCE   PMID:19258280
+  AUTHORS   Vettoretti L, Plesiat P, Muller C, El Garch F, Phan G, Attree I, Ducruix A, Llanes C
+  TITLE     Efflux unbalance in Pseudomonas aeruginosa isolates from cystic fibrosis patients.
+  JOURNAL   Antimicrob Agents Chemother 53:1987-97 (2009)
+///

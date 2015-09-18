@@ -1,0 +1,21 @@
+ENTRY       M00175            Pathway   Module
+NAME        Nitrogen fixation, nitrogen => ammonia
+DEFINITION  K02588+K02586+K02591-K00531
+ORTHOLOGY   K02588  nitrogenase iron protein [EC:1.18.6.1] [RN:R05185]
+            K02586+K02591  nitrogenase molybdenum-iron protein [EC:1.18.6.1] [RN:R05185]
+            K00531  nitrogenase delta subunit [EC:1.18.6.1] [RN:R05185]
+CLASS       Pathway module; Energy metabolism; Nitrogen metabolism
+PATHWAY     map00910  Nitrogen metabolism
+REACTION    R05185  C00697 -> C00014
+COMPOUND    C00697  Nitrogen
+            C00014  NH3
+DBLINKS     BSID: 468341
+REFERENCE   PMID:14702404
+  AUTHORS   Scott JD, Ludwig RA
+  TITLE     Azorhizobium caulinodans electron-transferring flavoprotein N electrochemically couples pyruvate dehydrogenase complex activity to N2 fixation.
+  JOURNAL   Microbiology 150:117-26 (2004)
+REFERENCE   PMID:17408485
+  AUTHORS   Kneip C, Lockhart P, Voss C, Maier UG
+  TITLE     Nitrogen fixation in eukaryotes--new models for symbiosis.
+  JOURNAL   BMC Evol Biol 7:55 (2007)
+///

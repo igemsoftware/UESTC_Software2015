@@ -1,0 +1,17 @@
+ENTRY       M00325            Complex   Module
+NAME        alpha-Hemolysin/cyclolysin transport system
+DEFINITION  K11004+K11003+K12340
+ORTHOLOGY   K11004  hlyB; ATP-binding cassette, subfamily B, bacterial HlyB/CyaB
+            K11003  hlyD; hemolysin D
+            K12340  tolC; outer membrane channel protein TolC
+CLASS       Structural complex; Environmental information processing; Bacterial secretion system
+PATHWAY     map02010  ABC transporters
+            map03070  Bacterial secretion system
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Hemolysin A [KO:K11005]
+DBLINKS     BSID: 890579
+REFERENCE   PMID:15546664
+  AUTHORS   Delepelaire P
+  TITLE     Type I secretion in gram-negative bacteria.
+  JOURNAL   Biochim Biophys Acta 1694:149-61 (2004)
+///

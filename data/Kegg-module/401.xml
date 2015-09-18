@@ -1,0 +1,22 @@
+ENTRY       M00401            Complex   Module
+NAME        Sec61 complex
+DEFINITION  K10956+K09481+K07342
+ORTHOLOGY   K10956  SEC61A; protein transport protein SEC61 subunit alpha
+            K09481  SEC61B; protein transport protein SEC61 subunit beta
+            K07342  SEC61G; protein transport protein SEC61 subunit gamma and related proteins
+CLASS       Structural complex; Genetic information processing; Protein processing
+PATHWAY     map03060  Protein export
+            map04141  Protein processing in endoplasmic reticulum
+            map04145  Phagosome
+            map05110  Vibrio cholerae infection
+BRITE       ko02044  Secretion system
+DBLINKS     BSID: 890617
+REFERENCE   PMID:18778738
+  AUTHORS   Kalies KU, Stokes V, Hartmann E
+  TITLE     A single Sec61-complex functions as a protein-conducting channel.
+  JOURNAL   Biochim Biophys Acta 1783:2375-83 (2008)
+REFERENCE   PMID:18611385
+  AUTHORS   Menetret JF, Hegde RS, Aguiar M, Gygi SP, Park E, Rapoport TA, Akey CW
+  TITLE     Single copies of Sec61 and TRAP associate with a nontranslating mammalian ribosome.
+  JOURNAL   Structure 16:1126-37 (2008)
+///

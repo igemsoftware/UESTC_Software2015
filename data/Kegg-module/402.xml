@@ -1,0 +1,19 @@
+ENTRY       M00402            Complex   Module
+NAME        Translocon-associated protein (TRAP) complex
+DEFINITION  K13249+K13250+K13251+K04571
+ORTHOLOGY   K13249  SSR1; translocon-associated protein subunit alpha
+            K13250  SSR2; translocon-associated protein subunit beta
+            K13251  SSR3; translocon-associated protein subunit gamma
+            K04571  SSR4; translocon-associated protein subunit delta
+CLASS       Structural complex; Genetic information processing; Protein processing
+PATHWAY     map04141  Protein processing in endoplasmic reticulum
+DBLINKS     BSID: 890618
+REFERENCE   PMID:17380188
+  AUTHORS   Nagasawa K, Higashi T, Hosokawa N, Kaufman RJ, Nagata K
+  TITLE     Simultaneous induction of the four subunits of the TRAP complex by ER stress accelerates ER degradation.
+  JOURNAL   EMBO Rep 8:483-9 (2007)
+REFERENCE   PMID:18611385
+  AUTHORS   Menetret JF, Hegde RS, Aguiar M, Gygi SP, Park E, Rapoport TA, Akey CW
+  TITLE     Single copies of Sec61 and TRAP associate with a nontranslating mammalian ribosome.
+  JOURNAL   Structure 16:1126-37 (2008)
+///

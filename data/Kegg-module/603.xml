@@ -1,0 +1,20 @@
+ENTRY       M00603            Complex   Module
+NAME        Putative aldouronate transport system
+DEFINITION  K17318+K17319+K17320
+ORTHOLOGY   K17318  lplA; putative aldouronate transport system substrate-binding protein
+            K17319  lplB; putative aldouronate transport system permease protein
+            K17320  lplC; putative aldouronate transport system permease protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Aldotetraouronic acid [CPD:C20573]
+DBLINKS     BSID: 890665
+REFERENCE   PMID:10368143
+  AUTHORS   Shulami S, Gat O, Sonenshein AL, Shoham Y
+  TITLE     The glucuronic acid utilization gene cluster from Bacillus stearothermophilus T-6.
+  JOURNAL   J Bacteriol 181:3695-704 (1999)
+REFERENCE   PMID:17921311
+  AUTHORS   Chow V, Nong G, Preston JF
+  TITLE     Structure, function, and regulation of the aldouronate utilization gene cluster from Paenibacillus sp. strain JDR-2.
+  JOURNAL   J Bacteriol 189:8863-70 (2007)
+///

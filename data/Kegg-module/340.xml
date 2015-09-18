@@ -1,0 +1,27 @@
+ENTRY       M00340            Complex   Module
+NAME        Proteasome, 20S core particle
+DEFINITION  K02725+K02726+K02727+K02728+K02729+K02730+K02731+K02732+K02734+K02735+K02736+K02737+K02738+K02739
+ORTHOLOGY   K02725  PSMA1; 20S proteasome subunit alpha 6 [EC:3.4.25.1]
+            K02726  PSMA2; 20S proteasome subunit alpha 2 [EC:3.4.25.1]
+            K02727  PSMA3; 20S proteasome subunit alpha 7 [EC:3.4.25.1]
+            K02728  PSMA4; 20S proteasome subunit alpha 3 [EC:3.4.25.1]
+            K02729  PSMA5; 20S proteasome subunit alpha 5 [EC:3.4.25.1]
+            K02730  PSMA6; 20S proteasome subunit alpha 1 [EC:3.4.25.1]
+            K02731  PSMA7; 20S proteasome subunit alpha 4 [EC:3.4.25.1]
+            K02732  PSMB1; 20S proteasome subunit beta 6 [EC:3.4.25.1]
+            K02734  PSMB2; 20S proteasome subunit beta 4 [EC:3.4.25.1]
+            K02735  PSMB3; 20S proteasome subunit beta 3 [EC:3.4.25.1]
+            K02736  PSMB4; 20S proteasome subunit beta 7 [EC:3.4.25.1]
+            K02737  PSMB5; 20S proteasome subunit beta 5 [EC:3.4.25.1]
+            K02738  PSMB6; 20S proteasome subunit beta 1 [EC:3.4.25.1]
+            K02739  PSMB7; 20S proteasome subunit beta 2 [EC:3.4.25.1]
+CLASS       Structural complex; Genetic information processing; Proteasome
+PATHWAY     map03050  Proteasome
+BRITE       ko03051  Proteasome
+COMMENT     two outer alpha-rings and two inner beta-rings
+DBLINKS     BSID: 890592
+REFERENCE   PMID:16338359
+  AUTHORS   Hirano Y, Murata S, Tanaka K
+  TITLE     Large- and small-scale purification of mammalian 26S proteasomes.
+  JOURNAL   Methods Enzymol 399:227-40 (2005)
+///

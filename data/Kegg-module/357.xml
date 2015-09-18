@@ -1,0 +1,39 @@
+ENTRY       M00357            Pathway   Module
+NAME        Methanogenesis, acetate => methane
+DEFINITION  (K00925 (K00625,K13788),K01895) (K00193+K00197+K00194) (K00577+K00578+K00579+K00580+K00581-K00582-K00583+K00584) (K00399+K00401+K00402) (K03388+K03389+K03390)
+ORTHOLOGY   K00925  acetate kinase [EC:2.7.2.1] [RN:R00315]
+            K00625,K13788  phosphate acetyltransferase [EC:2.3.1.8] [RN:R00230]
+            K01895  acetyl-CoA synthetase [EC:6.2.1.1] [RN:R00235]
+            K00193+K00197+K00194  acetyl-CoA decarbonylase/synthase complex [EC:2.3.1.-] [RN:R09096]
+            K00577+K00578+K00579+K00580+K00581-K00582-K00583+K00584  tetrahydromethanopterin S-methyltransferase [EC:2.1.1.86] [RN:R04347]
+            K00399+K00401+K00402  methyl-coenzyme M reductase [EC:2.8.4.1] [RN:R04541]
+            K03388+K03389+K03390  heterodisulfide reductase [EC:1.8.98.1] [RN:R04540]
+CLASS       Pathway module; Energy metabolism; Methane metabolism
+            Signature module; Gene set; Metabolic capacity; 
+PATHWAY     map01200  Carbon metabolism
+            map00680  Methane metabolism
+REACTION    R00315  C00033 -> C00227
+            R00230  C00227 -> C00024
+            R00235  C00033 -> C00024
+            R09096  C00024 -> C04488
+            R04347  C04488 + C03576 -> C03920
+            R04541  C03920 + C04628 -> C01438 + C04832
+            R04540  C04832 -> C04628 + C03576
+COMPOUND    C00033  Acetate
+            C00227  Acetyl phosphate
+            C00024  Acetyl-CoA
+            C04488  5-Methyl-5,6,7,8-tetrahydromethanopterin
+            C03920  2-(Methylthio)ethanesulfonate
+            C04628  N-(7-Mercaptoheptanoyl)threonine 3-O-phosphate
+            C01438  Methane
+            C04832  Coenzyme M 7-mercaptoheptanoylthreonine-phosphate heterodisulfide
+DBLINKS     BSID: 468304
+REFERENCE   PMID:18378594
+  AUTHORS   Liu Y, Whitman WB
+  TITLE     Metabolic, phylogenetic, and ecological diversity of the methanogenic archaea.
+  JOURNAL   Ann N Y Acad Sci 1125:171-89 (2008)
+REFERENCE   PMID:16024727
+  AUTHORS   Welander PV, Metcalf WW
+  TITLE     Loss of the mtr operon in Methanosarcina blocks growth on methanol, but not methanogenesis, and reveals an unknown methanogenic pathway.
+  JOURNAL   Proc Natl Acad Sci U S A 102:10664-9 (2005)
+///

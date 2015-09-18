@@ -1,0 +1,15 @@
+ENTRY       M00392            Complex   Module
+NAME        Ski complex
+DEFINITION  K12599+K12600+(K12601,K12602)
+ORTHOLOGY   K12599  SKI2; antiviral helicase SKI2 [EC:3.6.4.-]
+            K12600  SKI3; superkiller protein 3
+            K12601  SKI8; superkiller protein 8
+            K12602  WDR61; WD repeat-containing protein 61
+CLASS       Structural complex; Genetic information processing; RNA processing
+PATHWAY     map03018  RNA degradation
+DBLINKS     BSID: 468398
+REFERENCE   PMID:18042677
+  AUTHORS   Synowsky SA, Heck AJ
+  TITLE     The yeast Ski complex is a hetero-tetramer.
+  JOURNAL   Protein Sci 17:119-25 (2008)
+///

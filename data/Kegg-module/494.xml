@@ -1,0 +1,14 @@
+ENTRY       M00494            FuncSet   Module
+NAME        NatK-NatR (sodium extrusion) two-component regulatory system
+DEFINITION  K11640 K11641
+ORTHOLOGY   K11640  natK; LytT family, sensor histidine kinase
+            K11641  natR; LytT family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565947
+REFERENCE   PMID:17322186
+  AUTHORS   Ogura M, Tsukahara K, Hayashi K, Tanaka T
+  TITLE     The Bacillus subtilis NatK-NatR two-component system regulates expression of the natAB operon encoding an ABC transporter for sodium ion extrusion.
+  JOURNAL   Microbiology 153:667-75 (2007)
+///

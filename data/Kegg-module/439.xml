@@ -1,0 +1,31 @@
+ENTRY       M00439            Complex   Module
+NAME        Oligopeptide transport system
+DEFINITION  K15580+K15581+K15582+K15583+K10823
+ORTHOLOGY   K15580  oppA; oligopeptide transport system substrate-binding protein
+            K15581  oppB; oligopeptide transport system permease protein
+            K15582  oppC; oligopeptide transport system permease protein
+            K15583  oppD; oligopeptide transport system ATP-binding protein
+            K10823  oppF; oligopeptide transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Peptide and nickel transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:1:1
+            Substrate: Oligopeptide [CPD:C00098]
+DBLINKS     BSID: 890643
+REFERENCE   PMID:18212011
+  AUTHORS   Doeven MK, van den Bogaart G, Krasnikov V, Poolman B
+  TITLE     Probing receptor-translocator interactions in the oligopeptide ABC transporter by fluorescence correlation spectroscopy.
+  JOURNAL   Biophys J 94:3956-65 (2008)
+REFERENCE   PMID:17237172
+  AUTHORS   Medrano MS, Ding Y, Wang XG, Lu P, Coburn J, Hu LT
+  TITLE     Regulators of expression of the oligopeptide permease A proteins of Borrelia burgdorferi.
+  JOURNAL   J Bacteriol 189:2653-9 (2007)
+REFERENCE   PMID:17496096
+  AUTHORS   Hiron A, Borezee-Durant E, Piard JC, Juillard V
+  TITLE     Only one of four oligopeptide transport systems mediates nitrogen nutrition in Staphylococcus aureus.
+  JOURNAL   J Bacteriol 189:5119-29 (2007)
+REFERENCE   PMID:15169767
+  AUTHORS   Doeven MK, Abele R, Tampe R, Poolman B
+  TITLE     The binding specificity of OppA determines the selectivity of the oligopeptide ATP-binding cassette transporter.
+  JOURNAL   J Biol Chem 279:32301-7 (2004)
+///

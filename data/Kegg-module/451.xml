@@ -1,0 +1,23 @@
+ENTRY       M00451            FuncSet   Module
+NAME        BasS-BasR (antimicrobial peptide resistance) two-component regulatory system
+DEFINITION  K07643 K07771
+ORTHOLOGY   K07643  basS; OmpR family, sensor histidine kinase
+            K07771  basR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Fe3+ [CPD:C14819]
+DBLINKS     BSID: 565905
+REFERENCE   PMID:15322361
+  AUTHORS   Hagiwara D, Yamashino T, Mizuno T.
+  TITLE     A Genome-wide view of the Escherichia coli BasS-BasR two-component system implicated in iron-responses.
+  JOURNAL   Biosci Biotechnol Biochem 68:1758-67 (2004)
+REFERENCE   PMID:16428424
+  AUTHORS   Froelich JM, Tran K, Wall D
+  TITLE     A pmrA constitutive mutant sensitizes Escherichia coli to deoxycholic acid.
+  JOURNAL   J Bacteriol 188:1180-3 (2006)
+REFERENCE   PMID:21725004 (name)
+  AUTHORS   Kus JV, Gebremedhin A, Dang V, Tran SL, Serbanescu A, Foster DB
+  TITLE     Bile salts induce resistance to polymyxin in enterohemorrhagic Escherichia coli O157:H7.
+  JOURNAL   J Bacteriol 193:4509-15 (2011)
+///

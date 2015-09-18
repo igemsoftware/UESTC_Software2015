@@ -1,0 +1,22 @@
+ENTRY       M00080            Pathway   Module
+NAME        Lipopolysaccharide biosynthesis, inner core => outer core => O-antigen
+DEFINITION  K02527 K02841 K02843 K02850 K02848 K02849 K02844 K02840 K03278 K03279 K03280 K02847
+ORTHOLOGY   K02849  heptosyltransferase III [EC:2.4.-.-]
+            K02850  heptose (II) phosphotransferase [EC:2.7.1.-]
+            K02527  3-deoxy-D-manno-octulosonic-acid transferase [EC:2.-.-.-]
+            K02843  heptosyltransferase II [EC:2.4.-.-]
+            K02848  heptose (I) phosphotransferase [EC:2.7.1.-]
+            K02841  heptosyltransferase I [EC:2.4.-.-]
+            K02840  UDP-D-galactose:(glucosyl)LPS alpha-1,6-D-galactosyltransferase [EC:2.4.1.-]
+            K03280  UDP-N-acetylglucosamine:(glucosyl)LPS alpha-1,2-N-acetylglucosaminyltransferase [EC:2.4.1.56] [RN:R01996]
+            K02847  O-antigen ligase [EC:6.-.-.-]
+            K03279  UDP-glucose:(galactosyl)LPS alpha-1,2-glucosyltransferase [EC:2.4.1.58] [RN:R01994]
+            K03278  UDP-D-galactose:(glucosyl)LPS alpha-1,3-D-galactosyltransferase [EC:2.4.1.44] [RN:R01997]
+            K02844  UDP-glucose:(heptosyl)LPS alpha-1,3-glucosyltransferase [EC:2.4.1.-]
+CLASS       Pathway module; Carbohydrate and lipid metabolism; Lipopolysaccharide metabolism
+PATHWAY     map00540  Lipopolysaccharide biosynthesis
+COMPOUND    C06026  Di[3-deoxy-D-manno-octulosonyl]-lipid A
+            C06398  ADP-L-glycero-D-manno-heptose
+            C00338  Lipopolysaccharide
+DBLINKS     BSID: 468273
+///

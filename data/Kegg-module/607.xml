@@ -1,0 +1,18 @@
+ENTRY       M00607            Complex   Module
+NAME        Glycerol transport system
+DEFINITION  K17321+K17322+K17323+K17324+K17325
+ORTHOLOGY   K17321  glpV; glycerol transport system substrate-binding protein
+            K17322  glpP; glycerol transport system permease protein
+            K17323  glpQ; glycerol transport system permease protein
+            K17324  glpS; glycerol transport system ATP-binding protein
+            K17325  glpT; glycerol transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Glycerol [CPD:C00116]
+DBLINKS     BSID: 890669
+REFERENCE   PMID:22343359
+  AUTHORS   Ding H, Yip CB, Geddes BA, Oresnik IJ, Hynes MF
+  TITLE     Glycerol utilization by Rhizobium leguminosarum requires an ABC transporter and affects competition for nodulation.
+  JOURNAL   Microbiology 158:1369-78 (2012)
+///

@@ -1,0 +1,19 @@
+ENTRY       M00470            FuncSet   Module
+NAME        YxdK-YxdJ (antimicrobial peptide response) two-component regulatory system
+DEFINITION  K11633 K11634
+ORTHOLOGY   K11633  yxdK; OmpR family, sensor histidine kinase
+            K11634  yxdJ; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: LL37 [CPD:C18313]
+DBLINKS     BSID: 565924
+REFERENCE   PMID:15870467
+  AUTHORS   Pietiainen M, Gardemeister M, Mecklin M, Leskela S, Sarvas M, Kontinen VP
+  TITLE     Cationic antimicrobial peptides elicit a complex stress response in Bacillus subtilis that involves ECF-type sigma factors and two-component signal transduction systems.
+  JOURNAL   Microbiology 151:1577-92 (2005)
+REFERENCE   PMID:15289557
+  AUTHORS   Joseph P, Guiseppi A, Sorokin A, Denizot F
+  TITLE     Characterization of the Bacillus subtilis YxdJ response regulator as the inducer  of expression for the cognate ABC transporter YxdLM.
+  JOURNAL   Microbiology 150:2609-17 (2004)
+///

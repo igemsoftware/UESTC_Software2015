@@ -1,0 +1,18 @@
+ENTRY       M00297            Complex   Module
+NAME        DNA-PK complex
+DEFINITION  K10884+K10885+K06642
+ORTHOLOGY   K10884  XRCC6, KU70, G22P1; ATP-dependent DNA helicase 2 subunit 1
+            K10885  XRCC5, KU80, G22P2; ATP-dependent DNA helicase 2 subunit 2
+            K06642  PRKDC; protein kinase, DNA-activated, catalytic polypeptide
+CLASS       Structural complex; Genetic information processing; Repair system
+PATHWAY     map03450  Non-homologous end-joining
+            map04110  Cell cycle
+BRITE       ko03032  DNA replication proteins
+            ko03400  DNA repair and recombination proteins
+COMMENT     containing  Ku70-Ku80 complex [MD:M00662]
+DBLINKS     BSID: 890556
+REFERENCE   PMID:21030321
+  AUTHORS   Dobbs TA, Tainer JA, Lees-Miller SP
+  TITLE     A structural model for regulation of NHEJ by DNA-PKcs autophosphorylation.
+  JOURNAL   DNA Repair (Amst) (2010)
+///

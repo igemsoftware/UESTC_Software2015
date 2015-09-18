@@ -1,0 +1,9 @@
+ENTRY       M00211            Complex   Module
+NAME        Putative ABC transport system
+DEFINITION  K02069+K02068
+ORTHOLOGY   K02069  ABC.X2.P; putative ABC transport system permease protein
+            K02068  ABC.X2.A; putative ABC transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+BRITE       ko02000  Transporters
+DBLINKS     BSID: 890478
+///

@@ -1,0 +1,16 @@
+ENTRY       M00500            FuncSet   Module
+NAME        AtoS-AtoC (cPHB biosynthesis) two-component regulatory system
+DEFINITION  K07710 K07714
+ORTHOLOGY   K07710  atoS; NtrC family, nitrogen regulation sensor histidine kinase
+            K07714  atoC; NtrC family, nitrogen regulation response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Acetoacetate [CPD:C00164]
+            Modulate the levels of poly-(R)-3-hydroxybutyrate (cPHB) biosynthesis
+DBLINKS     BSID: 565953
+REFERENCE   PMID:19198978
+  AUTHORS   Kyriakidis DA, Tiligada E
+  TITLE     Signal transduction and adaptive regulation through bacterial two-component systems: the Escherichia coli AtoSC paradigm.
+  JOURNAL   Amino Acids 37:443-58 (2009)
+///

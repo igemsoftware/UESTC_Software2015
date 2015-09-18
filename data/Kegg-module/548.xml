@@ -1,0 +1,20 @@
+ENTRY       M00548            Pathway   Module
+NAME        Benzene degradation, benzene => catechol
+DEFINITION  K16249+K16243+K16244+K16242+K16245+K16246
+ORTHOLOGY   K16249  dmpK; phenol hydroxylase P0 protein [RN:R10042 R10043]
+            K16243  dmpL; Phenol hydroxylase P1 protein [RN:R10042 R10043]
+            K16244  dmpM; phenol hydroxylase P2 protein [RN:R10042 R10043]
+            K16242  dmpN; phenol hydroxylase P3 protein [EC:1.14.13.-] [RN:R10042 R10043]
+            K16245  dmpO; phenol hydroxylase P4 protein [RN:R10042 R10043]
+            K16246  dmpP; phenol hydroxylase P5 protein [RN:R10042 R10043]
+CLASS       Pathway module; Secondary metabolism; Aromatics degradation
+PATHWAY     map01220  Degradation of aromatic compounds
+            map00362  Benzoate degradation
+REACTION    R10042  C01407 -> C00146
+            R10043  C00146 -> C00090
+COMPOUND    C01407  Benzene
+            C00146  Phenol
+            C00090  Catechol
+RMODULE     RM006  Dihydroxylation of aromatic ring, type 2 (two monooxygenase reactions)
+DBLINKS     BSID: 672430
+///

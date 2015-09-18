@@ -1,0 +1,24 @@
+ENTRY       M00188            Complex   Module
+NAME        NitT/TauT family transport system
+DEFINITION  K02051+K02050+K02049
+ORTHOLOGY   K02051  ABC.SN.S; sulfonate/nitrate/taurine transport system substrate-binding protein
+            K02050  ABC.SN.P; sulfonate/nitrate/taurine transport system permease protein
+            K02049  ABC.SN.A; sulfonate/nitrate/taurine transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:2
+            Substrate: Nitrate [CPD:C00244], Taurine [CPD:C00245], HCO3- [CPD:C00288]
+DBLINKS     BSID: 890461
+REFERENCE   PMID:8437564 (nitrate, nitrite)
+  AUTHORS   Omata T, Andriesse X, Hirano A.
+  TITLE     Identification and characterization of a gene cluster involved in nitrate transport in the cyanobacterium Synechococcus sp. PCC7942.
+  JOURNAL   Mol Gen Genet 236:193-202 (1993)
+REFERENCE   PMID:8990301 (nitrate)
+  AUTHORS   Frias JE, Flores E, Herrero A.
+  TITLE     Nitrate assimilation gene cluster from the heterocyst-forming cyanobacterium Anabaena sp. strain PCC 7120.
+  JOURNAL   J Bacteriol 179:477-86 (1997)
+REFERENCE   PMID:9782504 (aliphatic sulfonates)
+  AUTHORS   van der Ploeg JR, Cummings NJ, Leisinger T, Connerton IF.
+  TITLE     Bacillus subtilis genes for the utilization of sulfur from aliphatic sulfonates.
+  JOURNAL   Microbiology 144 ( Pt 9):2555-61 (1998)
+///

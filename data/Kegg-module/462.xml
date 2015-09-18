@@ -1,0 +1,18 @@
+ENTRY       M00462            FuncSet   Module
+NAME        PrrB-PrrA (intracellular multiplication) two-component regulatory system
+DEFINITION  K07655 K07671
+ORTHOLOGY   K07655  prrB; OmpR family, sensor histidine kinase
+            K07671  prrA; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565916
+REFERENCE   PMID:11953357
+  AUTHORS   Ewann F, Jackson M, Pethe K, Cooper A, Mielcarek N, Ensergueix D, Gicquel B, Locht C, Supply P
+  TITLE     Transient requirement of the PrrA-PrrB two-component system for early intracellular multiplication of Mycobacterium tuberculosis.
+  JOURNAL   Infect Immun 70:2256-63 (2002)
+REFERENCE   PMID:22081401
+  AUTHORS   Haydel SE, Malhotra V, Cornelison GL, Clark-Curtiss JE
+  TITLE     The prrAB two-component system is essential for Mycobacterium tuberculosis viability and is induced under nitrogen-limiting conditions.
+  JOURNAL   J Bacteriol 194:354-61 (2012)
+///

@@ -1,0 +1,18 @@
+ENTRY       M00349            Complex   Module
+NAME        Microcin C transport system
+DEFINITION  K13893+K13894+K13895+K13896
+ORTHOLOGY   K13893  yejA; microcin C transport system substrate-binding protein
+            K13894  yejB; microcin C transport system permease protein
+            K13895  yejE; microcin C transport system permease protein
+            K13896  yejF; microcin C transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Peptide and nickel transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: Microcin C
+DBLINKS     BSID: 890597
+REFERENCE   PMID:17873039
+  AUTHORS   Novikova M, Metlitskaya A, Datsenko K, Kazakov T, Kazakov A, Wanner B, Severinov K
+  TITLE     The Escherichia coli Yej transporter is required for the uptake of translation inhibitor microcin C.
+  JOURNAL   J Bacteriol 189:8361-5 (2007)
+///

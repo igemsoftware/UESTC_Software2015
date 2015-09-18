@@ -1,0 +1,21 @@
+ENTRY       M00218            Complex   Module
+NAME        Fructose transport system
+DEFINITION  K10552+K10553+K10554
+ORTHOLOGY   K10552  frcB; fructose transport system substrate-binding protein
+            K10553  frcC; fructose transport system permease protein
+            K10554  frcA; fructose transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:1
+            Substrate: D-Fructose [CPD:C00095], D-Ribose [CPD:C00121], D-Mannose [CPD:C00159]
+DBLINKS     BSID: 890485
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:11466273 (D-fructose, D-ribose, D-mannose)
+  AUTHORS   Lambert A, Osteras M, Mandon K, Poggi MC, Le Rudulier D.
+  TITLE     Fructose uptake in Sinorhizobium meliloti is mediated by a high-affinity ATP-binding cassette transport system.
+  JOURNAL   J Bacteriol 183:4709-17 (2001)
+///

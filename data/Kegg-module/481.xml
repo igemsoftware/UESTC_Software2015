@@ -1,0 +1,23 @@
+ENTRY       M00481            FuncSet   Module
+NAME        LiaS-LiaR (cell wall stress response) two-component regulatory system
+DEFINITION  K11617 K11618
+ORTHOLOGY   K11617  liaS; NarL family, sensor histidine kinase
+            K11618  liaR; NarL family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Cell wall-active antibiotics [CPD:C01667 C12008 C06689]
+DBLINKS     BSID: 565935
+REFERENCE   PMID:15273097
+  AUTHORS   Mascher T, Zimmer SL, Smith TA, Helmann JD
+  TITLE     Antibiotic-inducible promoter regulated by the cell envelope stress-sensing two-component system LiaRS of Bacillus subtilis.
+  JOURNAL   Antimicrob Agents Chemother 48:2888-96 (2004)
+REFERENCE   PMID:15856219
+  AUTHORS   Hyyrylainen HL, Sarvas M, Kontinen VP
+  TITLE     Transcriptome analysis of the secretion stress response of Bacillus subtilis.
+  JOURNAL   Appl Microbiol Biotechnol 67:389-96 (2005)
+REFERENCE   PMID:15870467
+  AUTHORS   Pietiainen M, Gardemeister M, Mecklin M, Leskela S, Sarvas M, Kontinen VP
+  TITLE     Cationic antimicrobial peptides elicit a complex stress response in Bacillus subtilis that involves ECF-type sigma factors and two-component signal transduction systems.
+  JOURNAL   Microbiology 151:1577-92 (2005)
+///

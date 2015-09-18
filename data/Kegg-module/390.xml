@@ -1,0 +1,16 @@
+ENTRY       M00390            Complex   Module
+NAME        Exosome, archaea
+DEFINITION  (K07573,K03679)+K11600+K12589
+ORTHOLOGY   K07573  CSL4; exosome complex component CSL4
+            K03679  RRP4; exosome complex component RRP4
+            K11600  RRP41; exosome complex component RRP41
+            K12589  RRP42; exosome complex component RRP42
+CLASS       Structural complex; Genetic information processing; RNA processing
+PATHWAY     map03018  RNA degradation
+COMMENT     Rrp4:Rrp41:Rrp42=3:3:3
+DBLINKS     BSID: 468396
+REFERENCE   PMID:17471261
+  AUTHORS   Hartung S, Hopfner KP
+  TITLE     The exosome, plugged.
+  JOURNAL   EMBO Rep 8:456-7 (2007)
+///

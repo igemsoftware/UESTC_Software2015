@@ -1,0 +1,15 @@
+ENTRY       M00469            FuncSet   Module
+NAME        BceS-BceR (bacitracin transport) two-component regulatory system
+DEFINITION  K11629 K11630
+ORTHOLOGY   K11629  bceS; OmpR family, sensor histidine kinase
+            K11630  bceR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Bacitracin [CPD:C01667]
+DBLINKS     BSID: 565923
+REFERENCE   PMID:12890034
+  AUTHORS   Ohki R, Giyanto, Tateno K, Masuyama W, Moriya S, Kobayashi K, Ogasawara N
+  TITLE     The BceRS two-component regulatory system induces expression of the bacitracin transporter, BceAB, in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 49:1135-44 (2003)
+///

@@ -1,0 +1,14 @@
+ENTRY       M00446            FuncSet   Module
+NAME        RstB-RstA two-component regulatory system
+DEFINITION  K07639 K07661
+ORTHOLOGY   K07639  rstB; OmpR family, sensor histidine kinase
+            K07661  rstA; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+DBLINKS     BSID: 565900
+REFERENCE   PMID:15522865
+  AUTHORS   Yamamoto K, Hirao K, Oshima T, Aiba H, Utsumi R, Ishihama A.
+  TITLE     Functional characterization in vitro of all two-component signal transduction systems from Escherichia coli.
+  JOURNAL   J Biol Chem 280:1448-56 (2005)
+///

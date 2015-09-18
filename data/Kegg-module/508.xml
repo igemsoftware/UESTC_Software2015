@@ -1,0 +1,17 @@
+ENTRY       M00508            FuncSet   Module
+NAME        PixL-PixGH (positive phototaxis) two-component regulatory system
+DEFINITION  K11526 K11522 K11523
+ORTHOLOGY   K11526  pixL; chemotaxis family, sensor histidine kinase/response regulator
+            K11522  pixG; chemotaxis family, response regulator
+            K11523  pixH; chemotaxis family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+            ko02035  Bacterial motility proteins
+COMMENT     Signal: Blue light
+DBLINKS     BSID: 565961
+REFERENCE   PMID:15170479
+  AUTHORS   Yoshihara S, Ikeuchi M.
+  TITLE     Phototactic motility in the unicellular cyanobacterium Synechocystis sp. PCC 6803.
+  JOURNAL   Photochem Photobiol Sci 3:512-8 (2004)
+///

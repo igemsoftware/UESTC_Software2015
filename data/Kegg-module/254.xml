@@ -1,0 +1,30 @@
+ENTRY       M00254            Complex   Module
+NAME        ABC-2 type transport system
+DEFINITION  K01992+K01990
+ORTHOLOGY   K01992  ABC-2.P; ABC-2 type transport system permease protein
+            K01990  ABC-2.A; ABC-2 type transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 2:2
+DBLINKS     BSID: 890518
+REFERENCE   PMID:10809709 (subtilosin)
+  AUTHORS   Zheng G, Hehn R, Zuber P.
+  TITLE     Mutational analysis of the sbo-alb locus of Bacillus subtilis: identification of genes required for subtilosin production and immunity.
+  JOURNAL   J Bacteriol 182:3266-73 (2000)
+REFERENCE   PMID:10978546
+  AUTHORS   Braibant M, Gilot P, Content J.
+  TITLE     The ATP binding cassette (ABC) transport systems of Mycobacterium tuberculosis.
+  JOURNAL   FEMS Microbiol Rev 24:449-67 (2000)
+REFERENCE   PMID:11421281
+  AUTHORS   Mendez C, Salas JA.
+  TITLE     The role of ABC transporters in antibiotic-producing organisms: drug secretion and resistance mechanisms.
+  JOURNAL   Res Microbiol 152:341-50 (2001)
+REFERENCE   PMID:9506471
+  AUTHORS   Saier MH Jr, Paulsen IT, Sliwinski MK, Pao SS, Skurray RA, Nikaido H.
+  TITLE     Evolutionary origins of multidrug and drug-specific efflux pumps in bacteria.
+  JOURNAL   FASEB J 12:265-74 (1998)
+REFERENCE   PMID:10092453
+  AUTHORS   Quentin Y, Fichant G, Denizot F.
+  TITLE     Inventory, assembly and analysis of Bacillus subtilis ABC transport systems.
+  JOURNAL   J Mol Biol 287:467-84 (1999)
+///

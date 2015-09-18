@@ -1,0 +1,21 @@
+ENTRY       M00259            Complex   Module
+NAME        Heme transport system
+DEFINITION  K02195+K02194+K02193
+ORTHOLOGY   K02196  ccmD; cytochrome c-type biogenesis protein CcmD
+            K02195  ccmC; heme exporter membrane protein CcmC
+            K02194  ccmB; heme exporter membrane protein CcmB
+            K02193  ccmA; heme exporter ATP-binding protein CcmA [EC:3.6.3.41]
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Heme [CPD:C00032]
+DBLINKS     BSID: 890523
+REFERENCE   PMID:19721088
+  AUTHORS   Kranz RG, Richard-Fogal C, Taylor JS, Frawley ER
+  TITLE     Cytochrome c biogenesis: mechanisms for covalent modifications and trafficking of heme and for heme-iron redox control.
+  JOURNAL   Microbiol Mol Biol Rev 73:510-28, Table of Contents (2009)
+REFERENCE   PMID:18326572
+  AUTHORS   Richard-Fogal CL, Frawley ER, Kranz RG
+  TITLE     Topology and function of CcmD in cytochrome c maturation.
+  JOURNAL   J Bacteriol 190:3489-93 (2008)
+///

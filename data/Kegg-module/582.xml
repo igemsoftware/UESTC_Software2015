@@ -1,0 +1,26 @@
+ENTRY       M00582            Complex   Module
+NAME        Energy-coupling factor transport system
+DEFINITION  (K03523,K16923,K16924,K16925,K16926,K16927,K16928,K16929)+K16785+K16786+K16787
+ORTHOLOGY   K03523  bioY; biotin transport system substrate-specific component
+            K16923  qrtT; energy-coupling factor transport system substrate-specific component
+            K16924  mtsT; energy-coupling factor transport system substrate-specific component
+            K16925  ykoE; energy-coupling factor transport system substrate-specific component
+            K16926  htsT; energy-coupling factor transport system substrate-specific component
+            K16927  cbrT; energy-coupling factor transport system substrate-specific component
+            K16928  mtaT; energy-coupling factor transport system substrate-specific component
+            K16929  K16929; energy-coupling factor transport system substrate-specific component
+            K16785  ecfT; energy-coupling factor transport system permease protein
+            K16786  ecfA1; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]
+            K16787  ecfA2; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Metallic cation, iron-siderophore and vitamin B12 transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 2:2:1:1
+            Substrates are specific for substrate-specific component. (PMID:18931129)
+            Substrate: Biotin [CPD:C00120] for K03523 (BioY), Queuosine precursor [CPD:C16675] for K16923 (QrtT), Methionine precursor for K16924 (MtsT), Thiamine precursor [CPD:C01279] for K16925 (YkoE), Cobalamin precursor for K16927 (CbrT), Methylthioadenosine [CPD:C00170] for K16928 (MtaT)
+DBLINKS     BSID: 799176
+REFERENCE   PMID:18931129
+  AUTHORS   Rodionov DA, Hebbeln P, Eudes A, ter Beek J, Rodionova IA, Erkens GB, Slotboom DJ, Gelfand MS, Osterman AL, Hanson AD, Eitinger T
+  TITLE     A novel class of modular transporters for vitamins in prokaryotes.
+  JOURNAL   J Bacteriol 191:42-51 (2009)
+///

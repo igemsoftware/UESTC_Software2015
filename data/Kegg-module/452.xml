@@ -1,0 +1,19 @@
+ENTRY       M00452            FuncSet   Module
+NAME        CusS-CusR (copper tolerance) two-component regulatory system
+DEFINITION  K07644 K07665
+ORTHOLOGY   K07644  cusS; OmpR family, sensor histidine kinase
+            K07665  cusR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Copper ions [CPD:C00070]
+DBLINKS     BSID: 565906
+REFERENCE   PMID:11222619
+  AUTHORS   Grass G, Rensing C
+  TITLE     Genes involved in copper homeostasis in Escherichia coli.
+  JOURNAL   J Bacteriol 183:2145-7 (2001)
+REFERENCE   PMID:11004187
+  AUTHORS   Munson GP, Lam DL, Outten FW, O'Halloran TV.
+  TITLE     Identification of a copper-responsive two-component system on the chromosome of Escherichia coli K-12.
+  JOURNAL   J Bacteriol 182:5864-71 (2000)
+///

@@ -1,0 +1,33 @@
+ENTRY       M00181            Complex   Module
+NAME        RNA polymerase III, eukaryotes
+DEFINITION  K03018+K03021+K03027+K03020+K03023+K03026+K14721+K03025+K03024+K03022+K03019+K03013+K03014+K03016+K03009+K03007
+ORTHOLOGY   K03018  RPC1; DNA-directed RNA polymerase III subunit RPC1 [EC:2.7.7.6]
+            K03021  RPC2; DNA-directed RNA polymerase III subunit RPC2 [EC:2.7.7.6]
+            K03027  RPC40; DNA-directed RNA polymerases I and III subunit RPAC1
+            K03020  RPC19; DNA-directed RNA polymerases I and III subunit RPAC2
+            K03023  RPC82; DNA-directed RNA polymerase III subunit RPC3
+            K03026  RPC53; DNA-directed RNA polymerase III subunit RPC4
+            K14721  RPC37; DNA-directed RNA polymerase III subunit RPC5
+            K03025  RPC34; DNA-directed RNA polymerase III subunit RPC6
+            K03024  RPC31; DNA-directed RNA polymerase III subunit RPC7
+            K03022  RPC25; DNA-directed RNA polymerase III subunit RPC8
+            K03019  RPC11; DNA-directed RNA polymerase III subunit RPC10
+            K03013  RPB5; DNA-directed RNA polymerases I, II, and III subunit RPABC1
+            K03014  RPB6; DNA-directed RNA polymerases I, II, and III subunit RPABC2
+            K03016  RPB8; DNA-directed RNA polymerases I, II, and III subunit RPABC3
+            K03009  RPB12; DNA-directed RNA polymerases I, II, and III subunit RPABC4
+            K03007  RPB10; DNA-directed RNA polymerases I, II, and III subunit RPABC5
+CLASS       Structural complex; Genetic information processing; RNA polymerase
+PATHWAY     map03020  RNA polymerase
+            map04623  Cytosolic DNA-sensing pathway
+BRITE       ko03021  Transcription machinery
+DBLINKS     BSID: 890457
+REFERENCE   PMID:19896367
+  AUTHORS   Werner M, Thuriaux P, Soutourina J
+  TITLE     Structure-function analysis of RNA polymerases I and III.
+  JOURNAL   Curr Opin Struct Biol 19:740-5 (2009)
+REFERENCE   PMID:20154270
+  AUTHORS   Haurie V, Durrieu-Gaillard S, Dumay-Odelot H, Da Silva D, Rey C, Prochazkova M, Roeder RG, Besser D, Teichmann M
+  TITLE     Two isoforms of human RNA polymerase III with specific functions in cell growth and transformation.
+  JOURNAL   Proc Natl Acad Sci U S A 107:4176-81 (2010)
+///

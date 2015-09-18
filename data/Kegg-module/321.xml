@@ -1,0 +1,22 @@
+ENTRY       M00321            Complex   Module
+NAME        Bicarbonate transport system
+DEFINITION  K11950+K11951+K11952+K11953
+ORTHOLOGY   K11950  cmpA; bicarbonate transport system substrate-binding protein
+            K11951  cmpB; bicarbonate transport system permease protein
+            K11952  cmpC; bicarbonate transport system ATP-binding protein [EC:3.6.3.-]
+            K11953  cmpD; bicarbonate transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:1:1
+            Substrate:  Bicarbonate [CPD:C00288]
+DBLINKS     BSID: 890575
+REFERENCE   PMID:10779519 (Bicarbonate)
+  AUTHORS   Maeda S, Price GD, Badger MR, Enomoto C, Omata T.
+  TITLE     Bicarbonate binding activity of the CmpA protein of the cyanobacterium Synechococcus sp. strain PCC 7942 involved in active transport of bicarbonate.
+  JOURNAL   J Biol Chem 275:20551-5 (2000)
+REFERENCE   PMID:10557362
+  AUTHORS   Omata T, Price GD, Badger MR, Okamura M, Gohta S, Ogawa T
+  TITLE     Identification of an ATP-binding cassette transporter involved in bicarbonate uptake in the cyanobacterium Synechococcus sp. strain PCC 7942.
+  JOURNAL   Proc Natl Acad Sci U S A 96:13571-6 (1999)
+///

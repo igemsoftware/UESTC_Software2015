@@ -1,0 +1,14 @@
+ENTRY       M00067            Pathway   Module
+NAME        Cerebroside and sulfatide biosynthesis
+DEFINITION  K04628 K01019
+ORTHOLOGY   K04628  UDP-galactose ceramide galactosyltransferase [EC:2.4.1.47] [RN:R01500]
+            K01019  galactosylceramide sulfotransferase [EC:2.8.2.11] [RN:R04017]
+CLASS       Pathway module; Carbohydrate and lipid metabolism; Lipid metabolism
+PATHWAY     map00600  Sphingolipid metabolism
+REACTION    R01500  C00195 -> C02686
+            R04017  C02686 -> C06125
+COMPOUND    C00195  N-Acylsphingosine
+            C02686  Galactosylceramide
+            C06125  Sulfatide
+DBLINKS     BSID: 468260
+///

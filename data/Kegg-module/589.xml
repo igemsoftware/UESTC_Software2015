@@ -1,0 +1,16 @@
+ENTRY       M00589            Complex   Module
+NAME        Putative lysine transport system
+DEFINITION  K17073+K17074+K17076
+ORTHOLOGY   K17073  lysX1; putative lysine transport system substrate-binding protein
+            K17074  lysX2; putative lysine transport system permease protein
+            K17076  K17076; putative lysine transport system ATP-binding protein [EC:3.6.3.-]
+CLASS       Structural complex; Environmental information processing; Phosphate and amino acid transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Lysine [CPD:C00047]
+DBLINKS     BSID: 890654
+REFERENCE   PMID:14627808
+  AUTHORS   Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS.
+  TITLE     Regulation of lysine biosynthesis and transport genes in bacteria: yet another RNA riboswitch?
+  JOURNAL   Nucleic Acids Res 31:6748-57 (2003)
+///

@@ -1,0 +1,17 @@
+ENTRY       M00263            Complex   Module
+NAME        DNA polymerase epsilon complex
+DEFINITION  K02324+K02325+K02326+K03506
+ORTHOLOGY   K02324  POLE1; DNA polymerase epsilon, subunit A [EC:2.7.7.7]
+            K02325  POLE2; DNA Polymerase epsilon, subunit B [EC:2.7.7.7]
+            K02326  POLE3; DNA Polymerase epsilon, subunit C [EC:2.7.7.7]
+            K03506  POLE4; DNA polymerase epsilon, subunit D [EC:2.7.7.7]
+CLASS       Structural complex; Genetic information processing; DNA polymerase
+PATHWAY     map03030  DNA replication
+BRITE       ko03032  DNA replication proteins
+            ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 890526
+REFERENCE   PMID:9759502
+  AUTHORS   Waga S, Stillman B.
+  TITLE     The DNA replication fork in eukaryotic cells.
+  JOURNAL   Annu Rev Biochem 67:721-51 (1998)
+///

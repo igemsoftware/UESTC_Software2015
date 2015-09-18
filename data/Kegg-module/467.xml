@@ -1,0 +1,20 @@
+ENTRY       M00467            FuncSet   Module
+NAME        SasA-RpaAB (circadian timing mediating) two-component regulatory system
+DEFINITION  K08479 K10697 K11329
+ORTHOLOGY   K08479  sasA; OmpR family, histidine kinase
+            K10697  rpaA; OmpR family, response regulator
+            K11329  rpaB; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Circadian timing signal
+DBLINKS     BSID: 565921
+REFERENCE   PMID:16882723
+  AUTHORS   Takai N, Nakajima M, Oyama T, Kito R, Sugita C, Sugita M, Kondo T, Iwasaki H
+  TITLE     A KaiC-associating SasA-RpaA two-component regulatory system as a major circadian timing mediator in cyanobacteria.
+  JOURNAL   Proc Natl Acad Sci U S A 103:12109-14 (2006)
+REFERENCE   PMID:10585546
+  AUTHORS   Ashby MK, Mullineaux CW
+  TITLE     Cyanobacterial ycf27 gene products regulate energy transfer from phycobilisomes to photosystems I and II.
+  JOURNAL   FEMS Microbiol Lett 181:253-60 (1999)
+///

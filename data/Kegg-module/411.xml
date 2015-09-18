@@ -1,0 +1,22 @@
+ENTRY       M00411            Complex   Module
+NAME        SCF-GRR1 complex
+DEFINITION  K03868+K03347+K03094+K03360
+ORTHOLOGY   K03868  RBX1; RING-box protein 1
+            K03347  CUL1; cullin 1
+            K03094  SKP1; S-phase kinase-associated protein 1
+            K03360  GRR1; F-box and leucine-rich repeat protein GRR1
+CLASS       Structural complex; Genetic information processing; Ubiquitin system
+PATHWAY     map04120  Ubiquitin mediated proteolysis
+            map04111  Cell cycle - yeast
+BRITE       ko04121  Ubiquitin system
+COMMENT     Substrate: Cln1/2, Gic2, Hof1, Pfk27, Tye7
+DBLINKS     BSID: 890626
+REFERENCE   PMID:17366522
+  AUTHORS   Fey JP, Lanker S
+  TITLE     Delayed accumulation of the yeast G1 cyclins Cln1 and Cln2 and the F-box protein  Grr1 in response to glucose.
+  JOURNAL   Yeast 24:419-29 (2007)
+REFERENCE   PMID:17828247
+  AUTHORS   Benanti JA, Cheung SK, Brady MC, Toczyski DP
+  TITLE     A proteomic screen reveals SCFGrr1 targets that regulate the glycolytic-gluconeogenic switch.
+  JOURNAL   Nat Cell Biol 9:1184-91 (2007)
+///

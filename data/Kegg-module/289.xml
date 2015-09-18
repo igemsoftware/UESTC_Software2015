@@ -1,0 +1,18 @@
+ENTRY       M00289            Complex   Module
+NAME        RF-C complex
+DEFINITION  K10754+K10755+K10756
+ORTHOLOGY   K10754  RFC1; replication factor C subunit 1
+            K10755  RFC2_4; replication factor C subunit 2/4 
+            K10756  RFC3_5; replication factor C subunit 3/5
+CLASS       Structural complex; Genetic information processing; Replication system
+PATHWAY     map03030  DNA replication
+            map03420  Nucleotide excision repair
+            map03430  Mismatch repair
+BRITE       ko03032  DNA replication proteins
+            ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 890550
+REFERENCE   PMID:16980295
+  AUTHORS   Johnson A, Yao NY, Bowman GD, Kuriyan J, O'Donnell M
+  TITLE     The replication factor C clamp loader requires arginine finger sensors to drive DNA binding and proliferating cell nuclear antigen loading.
+  JOURNAL   J Biol Chem 281:35531-43 (2006)
+///

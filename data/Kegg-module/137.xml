@@ -1,0 +1,16 @@
+ENTRY       M00137            Pathway   Module
+NAME        Flavonoid biosynthesis, 4-coumaroyl-CoA => naringenin => apigenin
+DEFINITION  K00660 K01859 K13077
+ORTHOLOGY   K00660  chalcone synthase [EC:2.3.1.74] [RN:R01613]
+            K01859  chalcone isomerase [EC:5.5.1.6] [RN:R02446]
+            K13077  flavone synthase [EC:1.14.11.22] [RN:R02445]
+PATHWAY     map00941  Flavonoid biosynthesis
+REACTION    R01613  C00223 -> C06561
+            R02446  C06561 -> C00509
+            R02445  C00509 -> C01477
+COMPOUND    C00223  p-Coumaroyl-CoA
+            C06561  Isosalipurpol
+            C00509  Naringenin
+            C01477  Apigenin
+DBLINKS     BSID: 468330
+///

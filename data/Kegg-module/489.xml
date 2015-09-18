@@ -1,0 +1,15 @@
+ENTRY       M00489            FuncSet   Module
+NAME        DctS-DctR (C4-dicarboxylate transport) two-component regulatory system
+DEFINITION  K11691 K11692
+ORTHOLOGY   K11691  dctS; CitB family, sensor histidine kinase
+            K11692  dctR; CitB family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: C4-dicarboxylates [CPD:C00122 C00042]
+DBLINKS     BSID: 565943
+REFERENCE   PMID:10708364
+  AUTHORS   Asai K, Baik SH, Kasahara Y, Moriya S, Ogasawara N
+  TITLE     Regulation of the transport system for C4-dicarboxylic acids in Bacillus subtilis.
+  JOURNAL   Microbiology 146 ( Pt 2):263-71 (2000)
+///

@@ -1,0 +1,15 @@
+ENTRY       M00327            Complex   Module
+NAME        S-Layer protein transport system
+DEFINITION  K12533+K12534+K12535
+ORTHOLOGY   K12533  rsaD; ATP-binding cassette, subfamily C, bacterial RsaD
+            K12534  rsaE; membrane fusion protein RsaE
+            K12535  rsaF; outer membrane protein RsaF
+CLASS       Structural complex; Environmental information processing; Bacterial secretion system
+BRITE       ko02044  Secretion system
+COMMENT     Substrate: RsaA [KO:K12544]
+DBLINKS     BSID: 890581
+REFERENCE   PMID:9620954
+  AUTHORS   Awram P, Smit J
+  TITLE     The Caulobacter crescentus paracrystalline S-layer protein is secreted by an ABC transporter (type I) secretion apparatus.
+  JOURNAL   J Bacteriol 180:3062-9 (1998)
+///

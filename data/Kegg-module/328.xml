@@ -1,0 +1,15 @@
+ENTRY       M00328            Complex   Module
+NAME        Hemophore/metalloprotease transport system
+DEFINITION  K12536+K12537+K12538
+ORTHOLOGY   K12536  hasD; ATP-binding cassette, subfamily C, bacterial HasD
+            K12537  hasE; protease secretion protein HasE
+            K12538  hasF; outer membrane protein HasF
+CLASS       Structural complex; Environmental information processing; Bacterial secretion system
+BRITE       ko02044  Secretion system
+COMMENT     Substrate: HasA [KO:K12545], LipA [KO:K03644]
+DBLINKS     BSID: 890582
+REFERENCE   PMID:9244262
+  AUTHORS   Akatsuka H, Binet R, Kawai E, Wandersman C, Omori K
+  TITLE     Lipase secretion by bacterial hybrid ATP-binding cassette exporters: molecular recognition of the LipBCD, PrtDEF, and HasDEF exporters.
+  JOURNAL   J Bacteriol 179:4754-60 (1997)
+///

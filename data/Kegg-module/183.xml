@@ -1,0 +1,19 @@
+ENTRY       M00183            Complex   Module
+NAME        RNA polymerase, bacteria
+DEFINITION  K03040+(K03043+K03046,K13797)+K03060-K03048
+ORTHOLOGY   K03040  DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+            K03043  DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+            K03046  DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+            K13797  DNA-directed RNA polymerase subunit beta-beta' [EC:2.7.7.6]
+            K03060  DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]
+            K03048  DNA-directed RNA polymerase subunit delta [EC:2.7.7.6]
+CLASS       Structural complex; Genetic information processing; RNA polymerase
+PATHWAY     map03020  RNA polymerase
+BRITE       ko03021  Transcription machinery
+            ko03400  DNA repair and recombination proteins
+DBLINKS     BSID: 468326
+REFERENCE   PMID:12016306
+  AUTHORS   Murakami KS, Masuda S, Darst SA
+  TITLE     Structural basis of transcription initiation: RNA polymerase holoenzyme at 4 A resolution.
+  JOURNAL   Science 296:1280-4 (2002)
+///

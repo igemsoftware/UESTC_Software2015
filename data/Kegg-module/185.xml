@@ -1,0 +1,27 @@
+ENTRY       M00185            Complex   Module
+NAME        Sulfate transport system
+DEFINITION  K02048+K02046+K02047+K02045
+ORTHOLOGY   K02048  cysP; sulfate transport system substrate-binding protein
+            K02046  cysU; sulfate transport system permease protein
+            K02047  cysW; sulfate transport system permease protein
+            K02045  cysA; sulfate transport system ATP-binding protein [EC:3.6.3.25]
+CLASS       Structural complex; Environmental information processing; Mineral and organic ion transport system
+            Signature module; Gene set; Metabolic capacity; 
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: Sulfate [CPD:C00059], Thiosulfate [CPD:C00320]
+DBLINKS     BSID: 890459
+REFERENCE   PMID:2188958 (sulfate, thiosulfate)
+  AUTHORS   Sirko A, Hryniewicz M, Hulanicka D, Bock A.
+  TITLE     Sulfate and thiosulfate transport in Escherichia coli K-12: nucleotide sequence and expression of the cysTWAM gene cluster.
+  JOURNAL   J Bacteriol 172:3351-7 (1990)
+REFERENCE   PMID:1909324 (sulfate, thiosulfate)
+  AUTHORS   Hryniewicz MM, Kredich NM.
+  TITLE     The cysP promoter of Salmonella typhimurium: characterization of two binding sites for CysB protein, studies of in vivo transcription initiation, and demonstration of the anti-inducer effects of thiosulfate.
+  JOURNAL   J Bacteriol 173:5876-86 (1991)
+REFERENCE   PMID:2538823 (sulfate)
+  AUTHORS   Green LS, Laudenbach DE, Grossman AR.
+  TITLE     A region of a cyanobacterial genome required for sulfate transport.
+  JOURNAL   Proc Natl Acad Sci U S A 86:1949-53 (1989)
+///

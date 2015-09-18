@@ -1,0 +1,31 @@
+ENTRY       M00194            Complex   Module
+NAME        Maltose/maltodextrin transport system
+DEFINITION  K10108+K10109+K10110+(K10111,K10112)
+ORTHOLOGY   K10108  malE; maltose/maltodextrin transport system substrate-binding protein
+            K10109  malF; maltose/maltodextrin transport system permease protein
+            K10110  malG; maltose/maltodextrin transport system permease protein
+            K10111  malK; maltose/maltodextrin transport system ATP-binding protein [EC:3.6.3.19]
+            K10112  msmX; maltose/maltodextrin transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:1:1:2
+            Substrate: Maltose [CPD:C00208], Maltotriose [CPD:C01835], Maltodextrin [CPD:C01935]
+DBLINKS     BSID: 468371
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:6997044 (malto-oligosaccharides)
+  AUTHORS   Ferenci T
+  TITLE     The recognition of maltodextrins by Escherichia coli.
+  JOURNAL   Eur J Biochem 108:631-6 (1980)
+REFERENCE   PMID:20659291 (crystal structure)
+  AUTHORS   Bordignon E, Grote M, Schneider E
+  TITLE     The maltose ATP-binding cassette transporter in the 21st century--towards a structural dynamic perspective on its mode of action.
+  JOURNAL   Mol Microbiol 77:1354-66 (2010)
+REFERENCE   PMID:15743948 (malto-oligosaccharides)
+  AUTHORS   Nanavati DM, Nguyen TN, Noll KM
+  TITLE     Substrate specificities and expression patterns reflect the evolutionary divergence of maltose ABC transporters in Thermotoga maritima.
+  JOURNAL   J Bacteriol 187:2002-9 (2005)
+///

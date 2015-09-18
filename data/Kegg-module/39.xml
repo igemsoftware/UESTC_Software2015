@@ -1,0 +1,24 @@
+ENTRY       M00039            Pathway   Module
+NAME        Lignin biosynthesis, cinnamate => lignin
+DEFINITION  K00487 K01904 K09753 K00083 (K00430,K11188,K03782)
+ORTHOLOGY   K00487  trans-cinnamate-4-hydroxylase [EC:1.14.13.11] [RN:R02253]
+            K01904  4-coumarate--CoA ligase [EC:6.2.1.12] [RN:R01616]
+            K09753  cinnamoyl-CoA reductase [EC:1.2.1.44] [RN:R01615]
+            K00083  cinnamyl-alcohol dehydrogenase [EC:1.1.1.195] [RN:R07437]
+            K00430,K11188  peroxidase [EC:1.11.1.7] [RN:R04007]
+            K03782  catalase-peroxidase [EC:1.11.1.21] [RN:R04007]
+CLASS       Pathway module; Secondary metabolism; Biosynthesis of secondary metabolites
+PATHWAY     map00940  Phenylpropanoid biosynthesis
+REACTION    R02253  C00423 -> C00811
+            R01616  C00811 -> C00223
+            R01615  C00223 -> C05608
+            R07437  C05608 -> C02646
+            R04007  C02646 -> C15804
+COMPOUND    C00423  trans-Cinnamate
+            C00811  4-Coumarate
+            C00223  p-Coumaroyl-CoA
+            C05608  4-Hydroxycinnamyl aldehyde
+            C02646  4-Coumaryl alcohol
+            C15804  p-Hydroxyphenyl lignin
+DBLINKS     BSID: 468232
+///

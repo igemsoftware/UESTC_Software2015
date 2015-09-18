@@ -1,0 +1,33 @@
+ENTRY       M00335            Complex   Module
+NAME        Sec (secretion) system
+DEFINITION  (K03072+K03074,K12257)+K03073+K03075-K13301+K03076+K03210+K03217+K03070+K03110-K03071-K03106
+ORTHOLOGY   K03072  secD; preprotein translocase subunit SecD
+            K12257  secDF; SecD/SecF fusion protein
+            K03074  secF; preprotein translocase subunit SecF
+            K03073  secE; preprotein translocase subunit SecE
+            K03075  secG; preprotein translocase subunit SecG
+            K13301  secM; secretion monitor
+            K03076  secY; preprotein translocase subunit SecY
+            K03210  yajC; preprotein translocase subunit YajC
+            K03217  yidC; preprotein translocase subunit YidC
+            K03070  secA; preprotein translocase subunit SecA
+            K03110  SRPR; signal recognition particle receptor
+            K03071  secB; preprotein translocase subunit SecB
+            K03106  SRP54; signal recognition particle subunit SRP54
+CLASS       Structural complex; Environmental information processing; Bacterial secretion system
+PATHWAY     map03070  Bacterial secretion system
+BRITE       ko02044  Secretion system
+DBLINKS     BSID: 626823
+REFERENCE   PMID:18078384
+  AUTHORS   Driessen AJ, Nouwen N
+  TITLE     Protein translocation across the bacterial cytoplasmic membrane.
+  JOURNAL   Annu Rev Biochem 77:643-67 (2008)
+REFERENCE   PMID:14641032
+  AUTHORS   Pool MR
+  TITLE     Getting to the membrane: how is co-translational protein targeting to the endoplasmic reticulum regulated?
+  JOURNAL   Biochem Soc Trans 31:1232-7 (2003)
+REFERENCE   PMID:15063851
+  AUTHORS   Nakatogawa H, Murakami A, Ito K
+  TITLE     Control of SecA and SecM translation by protein secretion.
+  JOURNAL   Curr Opin Microbiol 7:145-50 (2004)
+///

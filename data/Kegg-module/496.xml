@@ -1,0 +1,19 @@
+ENTRY       M00496            FuncSet   Module
+NAME        ComD-ComE (competence) two-component regulatory system
+DEFINITION  K12294 K12295
+ORTHOLOGY   K12294  comD; AgrA family, sensor histidine kinase
+            K12295  comE; AgrA family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Competence stimulating peptide (CSP) [KO:K12415]
+DBLINKS     BSID: 565949
+REFERENCE   PMID:16820295
+  AUTHORS   Martin B, Quentin Y, Fichant G, Claverys JP
+  TITLE     Independent evolution of competence regulatory cascades in streptococci?
+  JOURNAL   Trends Microbiol 14:339-45 (2006)
+REFERENCE   PMID:10500846 (name)
+  AUTHORS   Grebe TW, Stock JB
+  TITLE     The histidine protein kinase superfamily.
+  JOURNAL   Adv Microb Physiol 41:139-227 (1999)
+///

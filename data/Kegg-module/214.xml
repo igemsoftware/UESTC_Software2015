@@ -1,0 +1,29 @@
+ENTRY       M00214            Complex   Module
+NAME        Methyl-galactoside transport system
+DEFINITION  K10540+K10541+K10542
+ORTHOLOGY   K10540  mglB; methyl-galactoside transport system substrate-binding protein
+            K10541  mglC; methyl-galactoside transport system permease protein
+            K10542  mglA; methyl-galactoside transport system ATP-binding protein [EC:3.6.3.17]
+CLASS       Structural complex; Environmental information processing; Saccharide and polyol transport system
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 1:2:1
+            Substrate: Methyl beta-D-galactoside [CPD:C03619], 3-beta-D-Galactosyl-sn-glycerol [CPD:C05401], D-Galactose [CPD:C00124], D-Glucose [CPD:C00031]
+DBLINKS     BSID: 890481
+REFERENCE   PMID:11421277
+  AUTHORS   Schneider E.
+  TITLE     ABC transporters catalyzing carbohydrate uptake.
+  JOURNAL   Res Microbiol 152:303-10 (2001)
+REFERENCE   PMID:1719366 (D-glucose)
+  AUTHORS   Hogg RW, Voelker C, Von Carlowitz I.
+  TITLE     Nucleotide sequence and analysis of the mgl operon of Escherichia coli K12.
+  JOURNAL   Mol Gen Genet 229:453-9 (1991)
+REFERENCE   PMID:780342 (methyl beta-D-galactoside, 3-beta-D-galactosyl-sn-glycerol, D-galactose)
+  AUTHORS   Wilson DB.
+  TITLE     Properties of the entry and exit reactions of the beta-methyl galactoside transport system in Escherichia coli.
+  JOURNAL   J Bacteriol 126:1156-65 (1976)
+REFERENCE   PMID:6294056 (D-galactose, D-glucose)
+  AUTHORS   Harayama S, Bollinger J, Iino T, Hazelbauer GL.
+  TITLE     Characterization of the mgl operon of Escherichia coli by transposon mutagenesis and molecular cloning.
+  JOURNAL   J Bacteriol 153:408-15 (1983)
+///

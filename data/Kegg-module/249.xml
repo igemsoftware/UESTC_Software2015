@@ -1,0 +1,28 @@
+ENTRY       M00249            Complex   Module
+NAME        Capsular polysaccharide transport system
+DEFINITION  K09688+K10107+K09689
+ORTHOLOGY   K09688  ABC-2.CPSE.P; capsular polysaccharide transport system permease protein
+            K10107  ABC-2.CPSE.P1; capsular polysaccharide transport system permease protein
+            K09689  ABC-2.CPSE.A; capsular polysaccharide transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02010  ABC transporters
+BRITE       ko02000  Transporters
+COMMENT     Substrate: Capsular polysaccharide [CPD:C06705]
+DBLINKS     BSID: 890513
+REFERENCE   PMID:11421283
+  AUTHORS   Silver RP, Prior K, Nsahlai C, Wright LF.
+  TITLE     ABC transporters and the export of capsular polysaccharides from gram-negative bacteria.
+  JOURNAL   Res Microbiol 152:357-64 (2001)
+REFERENCE   PMID:9274022
+  AUTHORS   Paulsen IT, Beness AM, Saier MH Jr.
+  TITLE     Computer-based analyses of the protein constituents of transport systems catalysing export of complex carbohydrates in bacteria.
+  JOURNAL   Microbiology 143 ( Pt 8):2685-99 (1997)
+REFERENCE   PMID:9506471
+  AUTHORS   Saier MH Jr, Paulsen IT, Sliwinski MK, Pao SS, Skurray RA, Nikaido H.
+  TITLE     Evolutionary origins of multidrug and drug-specific efflux pumps in bacteria.
+  JOURNAL   FASEB J 12:265-74 (1998)
+REFERENCE   PMID:1659649
+  AUTHORS   Frosch M, Edwards U, Bousset K, Krausse B, Weisgerber C.
+  TITLE     Evidence for a common molecular origin of the capsule gene loci in gram-negative bacteria expressing group II capsular polysaccharides.
+  JOURNAL   Mol Microbiol 5:1251-63 (1991)
+///

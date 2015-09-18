@@ -1,0 +1,23 @@
+ENTRY       M00521            FuncSet   Module
+NAME        CiaH-CiaR two-component regulatory system
+DEFINITION  K14982 K14983
+ORTHOLOGY   K14982  ciaH; OmpR family, sensor histidine kinase
+            K14983  ciaR; OmpR family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Have a role in stress resistance and pathogenesis
+DBLINKS     BSID: 565974
+REFERENCE   PMID:20639331
+  AUTHORS   Wu C, Ayala EA, Downey JS, Merritt J, Goodman SD, Qi F
+  TITLE     Regulation of ciaXRH operon expression and identification of the CiaR regulon in  Streptococcus mutans.
+  JOURNAL   J Bacteriol 192:4669-79 (2010)
+REFERENCE   PMID:17725562
+  AUTHORS   Halfmann A, Kovacs M, Hakenbeck R, Bruckner R
+  TITLE     Identification of the genes directly controlled by the response regulator CiaR in Streptococcus pneumoniae: five out of 15 promoters drive expression of small non-coding RNAs.
+  JOURNAL   Mol Microbiol 66:110-26 (2007)
+REFERENCE   PMID:18681938
+  AUTHORS   He X, Wu C, Yarbrough D, Sim L, Niu G, Merritt J, Shi W, Qi F
+  TITLE     The cia operon of Streptococcus mutans encodes a unique component required for calcium-mediated autoregulation.
+  JOURNAL   Mol Microbiol 70:112-26 (2008)
+///

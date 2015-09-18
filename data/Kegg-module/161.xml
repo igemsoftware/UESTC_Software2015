@@ -1,0 +1,15 @@
+ENTRY       M00161            Complex   Module
+NAME        Photosystem II
+DEFINITION  K02703+K02706+K02705+K02704+K02707+K02708
+ORTHOLOGY   K02703  psbA; photosystem II reaction center D1 protein
+            K02706  psbD; photosystem II reaction center D2 protein
+            K02705  psbC; photosystem II CP43 chlorophyll apoprotein
+            K02704  psbB; photosystem II CP47 chlorophyll apoprotein
+            K02707  psbE; photosystem II cytochrome b559 subunit alpha
+            K02708  psbF; photosystem II cytochrome b559 subunit beta
+CLASS       Structural complex; Energy metabolism; Photosynthesis
+            Signature module; Gene set; Metabolic capacity; 
+PATHWAY     map00195  Photosynthesis
+BRITE       ko00194  Photosynthesis proteins
+DBLINKS     BSID: 468354
+///

@@ -1,0 +1,15 @@
+ENTRY       M00315            Complex   Module
+NAME        Uncharacterized ABC transport system
+DEFINITION  K11636+K11635
+ORTHOLOGY   K11636  yxdM; putative ABC transport system permease protein
+            K11635  yxdL; putative ABC transport system ATP-binding protein
+CLASS       Structural complex; Environmental information processing; ABC-2 type and other transport systems
+PATHWAY     map02020  Two-component system
+BRITE       ko02000  Transporters
+COMMENT     Stoichiometry: 2:2
+DBLINKS     BSID: 890569
+REFERENCE   PMID:15870467 (Bacillus)
+  AUTHORS   Pietiainen M, Gardemeister M, Mecklin M, Leskela S, Sarvas M, Kontinen VP
+  TITLE     Cationic antimicrobial peptides elicit a complex stress response in Bacillus subtilis that involves ECF-type sigma factors and two-component signal transduction systems.
+  JOURNAL   Microbiology 151:1577-92 (2005)
+///

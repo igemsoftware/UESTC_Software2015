@@ -1,0 +1,15 @@
+ENTRY       M00479            FuncSet   Module
+NAME        DesK-DesR (membrane lipid fluidity regulation) two-component regulatory system
+DEFINITION  K07778 K07693
+ORTHOLOGY   K07778  desK; NarL family, sensor histidine kinase
+            K07693  desR; NarL family, response regulator
+CLASS       Functional set; Environmental information processing; Two-component regulatory system
+PATHWAY     map02020  Two-component system
+BRITE       ko02022  Two-component system
+COMMENT     Signal: Low temperature
+DBLINKS     BSID: 565933
+REFERENCE   PMID:15711796
+  AUTHORS   Mansilla MC, de Mendoza D
+  TITLE     The Bacillus subtilis desaturase: a model to understand phospholipid modification and temperature sensing.
+  JOURNAL   Arch Microbiol 183:229-35 (2005)
+///

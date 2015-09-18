@@ -1,0 +1,21 @@
+ENTRY       M00285            Complex   Module
+NAME        MCM complex
+DEFINITION  K02540+K02541+K02212+K02209+K02542+K02210
+ORTHOLOGY   K02540  MCM2; minichromosome maintenance protein 2
+            K02541  MCM3; minichromosome maintenance protein 3
+            K02212  MCM4, CDC54; minichromosome maintenance protein 4 (cell division control protein 54)
+            K02209  MCM5, CDC46; minichromosome maintenance protein 5 (cell division control protein 46)
+            K02542  MCM6; minichromosome maintenance protein 6
+            K02210  MCM7, CDC47; minichromosome maintenance protein 7 (cell division control protein 47)
+CLASS       Structural complex; Genetic information processing; Replication system
+PATHWAY     map03030  DNA replication
+            map04110  Cell cycle
+            map04111  Cell cycle - yeast
+            map04113  Meiosis - yeast
+BRITE       ko03032  DNA replication proteins
+DBLINKS     BSID: 890547
+REFERENCE   PMID:19946136
+  AUTHORS   Bochman ML, Schwacha A
+  TITLE     The Mcm complex: unwinding the mechanism of a replicative helicase.
+  JOURNAL   Microbiol Mol Biol Rev 73:652-83 (2009)
+///
